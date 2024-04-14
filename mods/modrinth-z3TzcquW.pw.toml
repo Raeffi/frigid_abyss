@@ -1,0 +1,11 @@
+name = "1.20-1.2.5"
+filename = "fastpaintings-1.20-1.2.5.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/QGmXstXn/fastpaintings-1.20-1.2.5.jar"
+hash-format = "sha512"
+hash = "833bc9be49822d9aaf6f54c105749586dbc14b0b7d70ee5debab05ab6a1f919690308b72b15145c0cc4f17c2ab26bbc1209c320106b998bbac5096d20ff80e3d"
+
+[update.modrinth]
+mod-id = "z3TzcquW"
+version = "QGmXstXn"

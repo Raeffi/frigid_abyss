@@ -1,0 +1,11 @@
+name = "1.0"
+filename = "ctov-pneumaticcraft-compat-1.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/9OYJnLnl/versions/2wV6ynSb/ctov-pneumaticcraft-compat-1.0.jar"
+hash-format = "sha512"
+hash = "e58e8d61db131bfa4aa32b58111f0426529d630b8111544444edb53f97d6955d4fe775ce5bc05991cc05970a1b21e92df858f9f95b92fc11a7df82770ad08665"
+
+[update.modrinth]
+mod-id = "9OYJnLnl"
+version = "2wV6ynSb"

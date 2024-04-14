@@ -1,0 +1,11 @@
+name = "Create: Easy Structures 0.1.1"
+filename = "create_easy_structures-0.1.1-1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/z69Pxatv/versions/K05ejxM8/create_easy_structures-0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "0d3dc2470f763e89147944a3aeb9a823dc6e33fe4d1d2ccdbb5aad08ff8f21e12b110b1c1cc4d2b43b2ce55464cd23731dc0e10ef39cc563f55f920dcef062a3"
+
+[update.modrinth]
+mod-id = "z69Pxatv"
+version = "K05ejxM8"

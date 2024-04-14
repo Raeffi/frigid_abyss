@@ -1,0 +1,11 @@
+name = "v1.3.0 Mod for 1.20-1.20.4"
+filename = "explorify-v1.3.0-mc1.20.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar"
+hash-format = "sha512"
+hash = "31b31542f4f1386e27b846adafcec673083db3927a34a033bc73924257481a210dfa67a294430b2a16b7e3a3687eeb79e0c8931840fa6f7c2b6323842784bd6d"
+
+[update.modrinth]
+mod-id = "HSfsxuTo"
+version = "DFkIejTe"

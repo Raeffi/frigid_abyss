@@ -1,0 +1,11 @@
+name = "chisels-and-bits-forge-1.4.148.jar"
+filename = "chisels-and-bits-forge-1.4.148.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "bff153dc16b26a0d4f0e8ccc27b2e0fc2dc89355"
+
+[update.curseforge]
+file-id = 5_203_366
+project-id = 231_095

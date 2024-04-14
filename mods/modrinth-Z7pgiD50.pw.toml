@@ -1,0 +1,11 @@
+name = "Create Döner 0.1.2.1"
+filename = "createdoener-0.1.2.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z7pgiD50/versions/xxtd2TvK/createdoener-0.1.2.1.jar"
+hash-format = "sha512"
+hash = "79fc67970c06cf36152f36a824e890c955d58828d08294d6ee53fe9d1a5141148ce195d5b6ba19d3879fbf0ba77f669596b6008a55f385a1079850495acd1070"
+
+[update.modrinth]
+mod-id = "Z7pgiD50"
+version = "xxtd2TvK"

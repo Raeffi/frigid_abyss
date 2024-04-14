@@ -1,0 +1,11 @@
+name = "[FORGE] [1.20.1] TradingPost-v8.0.2"
+filename = "TradingPost-v8.0.2-1.20.1-Forge.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "b5cfd0afd134d118124fb12f5e605574938ddffd"
+
+[update.curseforge]
+file-id = 5_057_539
+project-id = 539_057

@@ -1,0 +1,11 @@
+name = "Forge-1.20.1-12.0.0.3"
+filename = "Clumps-forge-1.20.1-12.0.0.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/yQVnODwU/Clumps-forge-1.20.1-12.0.0.3.jar"
+hash-format = "sha512"
+hash = "56ea4baeb20b9810586bc2969e2243e11b5a9520ffef718cb1e13b1e032dd1f4489baa78afdb4ce51b8d97a9de021957840f83dc5cf523ce9354098dd2dd6537"
+
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "yQVnODwU"

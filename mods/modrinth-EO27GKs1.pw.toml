@@ -1,0 +1,11 @@
+name = "1.20-2.1.12"
+filename = "jeed-1.20-2.1.12.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/rONG0iY3/jeed-1.20-2.1.12.jar"
+hash-format = "sha512"
+hash = "513a7f8f20797d326f1300433c06e966a138ca3fff8e2c9620f89c9fa5c4248f9eb0c239c64e6feaf35853c6740c9eb78d95717788d9bebca77f66fc79f9bff4"
+
+[update.modrinth]
+mod-id = "EO27GKs1"
+version = "rONG0iY3"

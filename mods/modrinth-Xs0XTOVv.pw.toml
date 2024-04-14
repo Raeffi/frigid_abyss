@@ -1,0 +1,11 @@
+name = "1.0.0"
+filename = "DistantHorizonsApi-1.0.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xs0XTOVv/versions/NuP68u9E/DistantHorizonsApi-1.0.0.jar"
+hash-format = "sha512"
+hash = "da0444ef13472b6995d58c3beca7ac0b899486ecb05c74a9d8abf76fd019b3c92494c86606cb6cfee17d5ce566cee485ca0f7c0ac5f1bf08dad4133b3b818850"
+
+[update.modrinth]
+mod-id = "Xs0XTOVv"
+version = "NuP68u9E"

@@ -1,0 +1,11 @@
+name = "Create Railways Navigator 0.4.1-beta-1.20.1"
+filename = "createrailwaysnavigator-0.4.1-beta-1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dq3STxps/versions/aLFHc6EA/createrailwaysnavigator-0.4.1-beta-1.20.1.jar"
+hash-format = "sha512"
+hash = "6abce78629ee228b3f7251c43baa1a4dbda1109252235c4a71c6afc2a0f35ecd0d975779f13ff036d37159621ecefbf75d4bc43539e95c9ddec47e9d3e1fa59b"
+
+[update.modrinth]
+mod-id = "Dq3STxps"
+version = "aLFHc6EA"

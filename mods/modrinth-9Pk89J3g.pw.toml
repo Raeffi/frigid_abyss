@@ -1,0 +1,11 @@
+name = "justenoughbreeding-forge-1.20.x-1.2.1"
+filename = "justenoughbreeding-forge-1.20.x-1.2.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/96ywZ7No/justenoughbreeding-forge-1.20.x-1.2.1.jar"
+hash-format = "sha512"
+hash = "e092cacf3e0fde0ddfabc0c8532ccfcf0644e327bc1d6c9015e4888f8ed134d4a2e04796c758f9e6a9fed38722c69790305513c390f63f806fd69f0dfaf61642"
+
+[update.modrinth]
+mod-id = "9Pk89J3g"
+version = "96ywZ7No"

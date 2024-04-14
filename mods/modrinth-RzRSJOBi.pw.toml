@@ -1,0 +1,11 @@
+name = "Create Needed Recipes 1.0.0"
+filename = "create_needed_recipes-1.0.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/RzRSJOBi/versions/KkPhBigg/create_needed_recipes-1.0.0.jar"
+hash-format = "sha512"
+hash = "c3cd0be199bc416e2cb82cc5ef36557465e64c2b95096192956236e6f6742e210de09bf36b006c07b978110f14126505017274cc4c24d16978c6ee6047dd1f45"
+
+[update.modrinth]
+mod-id = "RzRSJOBi"
+version = "KkPhBigg"

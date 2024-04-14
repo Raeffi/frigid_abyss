@@ -1,0 +1,11 @@
+name = "Recipes For Create V0.7.0 (1.20.1)"
+filename = "Recipes For Create-0.7.0-(1.20.1).jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/dFK7YEzQ/versions/qa5V7vnx/Recipes%20For%20Create-0.7.0-%281.20.1%29.jar"
+hash-format = "sha512"
+hash = "9e0ad927e53d4b3ab6c8ec95132b0487154f18737a373a7e6abc9f3dc541ce7d3068a3ff63ff992fbb0c77a1845dfcd4db7b0b14844bc60089111c3609176c8c"
+
+[update.modrinth]
+mod-id = "dFK7YEzQ"
+version = "qa5V7vnx"

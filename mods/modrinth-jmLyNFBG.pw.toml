@@ -1,0 +1,11 @@
+name = "[Fabric/Forge/Neo] 1.20.1-3.3"
+filename = "fixedanvilrepaircost-1.20.1-3.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmLyNFBG/versions/nsRDsA9n/fixedanvilrepaircost-1.20.1-3.3.jar"
+hash-format = "sha512"
+hash = "e1cd3ea347c1615fbec9c4084fefcdedf9515c48fa2c92d659142598c731dec726b761551b0871752a1fb23bad9746e051922052a5b0920cc0b148da9a5105b1"
+
+[update.modrinth]
+mod-id = "jmLyNFBG"
+version = "nsRDsA9n"

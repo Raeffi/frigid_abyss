@@ -1,0 +1,11 @@
+name = "Charms 2.0.1-1.20.1"
+filename = "charms-2.0.2-1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/JgwUmQSH/versions/puliOyFM/charms-2.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "ed799c3827645c4e1db39ab8220fef4efa690e6f7afec79d901fe856d5013222b739e235f488af37f18c4c85dbb4a488748d266dfe454af2aea8cc7f39dc5fa2"
+
+[update.modrinth]
+mod-id = "JgwUmQSH"
+version = "puliOyFM"

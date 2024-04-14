@@ -1,0 +1,11 @@
+name = "[FORGE][1.20.1] Gravestone Mod 1.20.1-1.0.15"
+filename = "gravestone-forge-1.20.1-1.0.15.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/OmP48Fw1/gravestone-forge-1.20.1-1.0.15.jar"
+hash-format = "sha512"
+hash = "64200fe2dab1e9eed376e30192ce0e2d26aafc62b590733b350e99542e2eb905e00391eeaa5914c6b8ec8270bcd6a8f8701c287cde7e3e47028ac7012ebb48f1"
+
+[update.modrinth]
+mod-id = "RYtXKJPr"
+version = "OmP48Fw1"

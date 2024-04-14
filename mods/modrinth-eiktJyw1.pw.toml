@@ -1,0 +1,11 @@
+name = "1.20-2.6.50"
+filename = "everycomp-1.20-2.6.50.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/1DR19zdq/everycomp-1.20-2.6.50.jar"
+hash-format = "sha512"
+hash = "e90c760e65954833007e3e50371109bf5eae8b18fdb7ca2e8cf259bc69b47f6fa0b2561f140b69dd8ab831e5932f29fed03bcde88e681a7b3dd329bd82ae329b"
+
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "1DR19zdq"

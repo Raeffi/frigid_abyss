@@ -1,0 +1,11 @@
+name = "5.16.0+mc1.20.1"
+filename = "modernfix-forge-5.16.0+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/nQTU8UXe/modernfix-forge-5.16.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "34ba9d0e3b44c512ff5dad151d11d40e5a0ab1b4dc6becd0e867b26406a52cb392f122c4b7b74f04f61bed14578436791bd68b2afb358d2bc73d3f09397d72ed"
+
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "nQTU8UXe"

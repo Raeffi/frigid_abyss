@@ -1,0 +1,11 @@
+name = "Storage Delight (Forge) 1.0.2 - 1.20.1"
+filename = "storagedelight-1.0.2-1.20.1-forge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/Cu02gih5/storagedelight-1.0.2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "d7afa6999925bbc5d4a266ecf6a3d9dd2a6b66ce4ab4ca8492688b5d8cf3f5f55e5a6739a8892701031ff488364a43edbf13d8a11886528412487a021de06d5d"
+
+[update.modrinth]
+mod-id = "LTTvOp5L"
+version = "Cu02gih5"

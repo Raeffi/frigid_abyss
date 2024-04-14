@@ -1,0 +1,11 @@
+name = "Steam 'n' Rails 1.6.1 Forge 1.20.1"
+filename = "Steam_Rails-1.6.1+forge-mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "491b2aa7a28be56a470e159276bdaa78871932e26e49a0c6633514fae1e73c31c6ad88054416b5cce8a0e106791d141c018ff3bb0f30b31deeb4ecd340c1de1e"
+
+[update.modrinth]
+mod-id = "ZzjhlDgM"
+version = "WYhvuPqr"

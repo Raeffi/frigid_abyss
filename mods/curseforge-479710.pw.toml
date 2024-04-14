@@ -1,0 +1,11 @@
+name = "THEUNDEADREVAMPED_1.1_1.20.1[Item textures revamp]"
+filename = "THEUNDEADREVAMPED_1.1_1.20.1[Item textures revamp].jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "3b88879f6e0099d06945fbdcd5957c0b30b83d04"
+
+[update.curseforge]
+file-id = 5_248_358
+project-id = 479_710

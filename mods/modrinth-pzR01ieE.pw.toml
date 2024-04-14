@@ -1,0 +1,11 @@
+name = "Endless Biomes 1.5.0 (1.20.1)"
+filename = "EndlessBiomes 1.5 - 1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzR01ieE/versions/yE15OL5R/EndlessBiomes%201.5%20-%201.20.1.jar"
+hash-format = "sha512"
+hash = "066cad4c3adfbdd2337a659ce698ab150a1cb3a7637079bb09d9ffa96321e987d424e5f3f1fdbac090e2ffd81a569083472376f998d5bb94fe9045ad49dbded7"
+
+[update.modrinth]
+mod-id = "pzR01ieE"
+version = "yE15OL5R"

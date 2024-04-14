@@ -1,0 +1,11 @@
+name = "[Fabric/Forge/Neo] 1.20.1-1.2"
+filename = "globalnarrationtoggle-1.20.1-1.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/UxJVewrJ/versions/Cmr09kQx/globalnarrationtoggle-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "e0687214949c48135a926a2f783633f011e5aeb6ace8989be975488a8b9d678fe6a52e979b2ef6bb51eac3222a976831a88e8e093f034921921db547ad3e7ae9"
+
+[update.modrinth]
+mod-id = "UxJVewrJ"
+version = "Cmr09kQx"

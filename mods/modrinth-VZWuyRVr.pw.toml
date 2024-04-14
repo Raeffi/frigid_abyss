@@ -1,0 +1,11 @@
+name = "NEBs 1.8 for Minecraft 1.20"
+filename = "NekosEnchantedBooks-1.20.1-1.8.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZWuyRVr/versions/LEXIMrpP/NekosEnchantedBooks-1.20.1-1.8.0.jar"
+hash-format = "sha512"
+hash = "fcd1486b75ba08901f2e69b37356192e7ebb161113b40aa34a3b3a6cd4cf0372ca864df0ed6482367bc83ed5cda2324ef889960c4485a840b815c0d644b21307"
+
+[update.modrinth]
+mod-id = "VZWuyRVr"
+version = "LEXIMrpP"

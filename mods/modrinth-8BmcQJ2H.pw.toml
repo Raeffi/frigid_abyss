@@ -1,0 +1,11 @@
+name = "Forge 1.20.1"
+filename = "geckolib-forge-1.20.1-4.4.4.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/vv4Q0406/geckolib-forge-1.20.1-4.4.4.jar"
+hash-format = "sha512"
+hash = "ead186a2d5a516c7aba8c9dbbc9ec4cf04d41add1ee6036accd98fb328ac77acf16918bcdce691e7cd3d286d7b67965a26aaa8d14ab72e017a29d41bac789e50"
+
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "vv4Q0406"

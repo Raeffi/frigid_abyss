@@ -1,0 +1,11 @@
+name = "[Forge 1.20.1] v8.0.1"
+filename = "transparent-forge-8.0.1+1.20.1.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "8a8e2f2206459828f986a5e353424ed10f25081a"
+
+[update.curseforge]
+file-id = 4_652_776
+project-id = 377_582

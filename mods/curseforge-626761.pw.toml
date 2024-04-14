@@ -1,0 +1,11 @@
+name = "(1.19.3/4+1.20.x) Towns and Towers v1.12 (Fabric/Forge)"
+filename = "Towns-and-Towers-1.12-Fabric+Forge.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "5a28ec56457cf1bf154e993cf73dba0428a7921b"
+
+[update.curseforge]
+file-id = 4_923_828
+project-id = 626_761
