@@ -6,11 +6,6 @@ hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "88d9fc74715041812383f20c82542656650773a85ec2381678ac5b1d472fba0d"
-hash-format = "sha256"
-
-[[files]]
 file = "exported_index.toml"
 hash = "3d6f683e98c3c893bfd5d7826c0b0f4632a21afb40c7c99cce44af6a1df7da98"
 hash-format = "sha256"
@@ -19,6 +14,12 @@ hash-format = "sha256"
 file = "extract_mods.ps1"
 hash = "d16f5b19ab305e92a844c6af42f62b7218c151c7dbbdc955c654075511e8eb29"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/cataclysm-weaponery.pw.toml"
+hash = "410ede91cc3892bf89e17da5100cb4c86df2a67ab452dfbc8986f59164e84dfc"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/crayfish-gun-mod.pw.toml"
@@ -117,6 +118,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 hash-format = "sha256"
@@ -125,6 +138,12 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "0b9d7490538f016b25e7b2aac6b54cec24ae79e8d2d6783a9e8c3e6505bcd239"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm(cataclysm).pw.toml"
+hash = "20490ab5073101ff3e9cac575442d71da26dc519358c896ae34f8819a305cfce"
 hash-format = "sha256"
 metafile = true
 
@@ -1301,5 +1320,35 @@ metafile = true
 [[files]]
 file = "mods/modrinth-z9Ve58Ih.pw.toml"
 hash = "f57d68803e17719a5f3c42601d27490b4e29da0610e554c39e2dda7a0c25b30d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructuresreforged.pw.toml"
+hash = "ec6404fb9911de7e67397daa1cc3273d514937a10bfa08ef32ab03b3150d0276"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "003225dfa6da66f98a403b21dce5c0bdb5f4bf965fec8b6c13ea47451ee9c1be"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
 hash-format = "sha256"
 metafile = true
