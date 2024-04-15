@@ -1352,3 +1352,33 @@ file = "mods/villager-names-serilum.pw.toml"
 hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
+hash = "a5978639cd1d71165728c75e601e3e3a2c8acf3eb232bb2d78469bd98c0373bb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-guns.pw.toml"
+hash = "aa0573c393e25ac1824da641e33edc82207022685760811545517ab0dda3f57a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-simple-storage-recipes-datapack.pw.toml"
+hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-simple-storage.pw.toml"
+hash = "eb411cbbf0d840e98c869742194b74925183674db8e4d0a01151400e7b6252ab"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-better-create-storage.pw.toml"
+hash = "a09e074e2803493d66cbe2b9a1eaee7cb000b3c4bf5a47279be0d2f717f6c233"
+hash-format = "sha256"
+metafile = true

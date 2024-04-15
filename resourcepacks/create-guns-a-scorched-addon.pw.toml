@@ -1,0 +1,13 @@
+name = "Create Guns: Scorched "
+filename = "Create_Guns_Scorched_1.19.2-1.19.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef9a9b8d93d61586dbd41783a33d54ed28393d78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4399706
+project-id = 826365

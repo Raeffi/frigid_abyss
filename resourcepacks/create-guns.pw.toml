@@ -1,0 +1,13 @@
+name = "Create Guns"
+filename = "Create Guns 1.2.1 - 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "686e55015299468e43ca6f2f5cb7083ed0fe68d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5211839
+project-id = 573072
