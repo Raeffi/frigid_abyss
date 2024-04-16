@@ -5,3 +5,4 @@
 *.mrpack
 extract_mods.ps1
 exported_index.toml
+rename_mods.ps1
