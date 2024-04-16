@@ -1,0 +1,7 @@
+name = "sintra_connector"
+filename = "Connector-1.0.0-beta.42+1.20.1.jar"
+
+[download]
+url = "https://github.com/Sinytra/Connector/releases/download/1.0.0-beta.42%2B1.20.1/Connector-1.0.0-beta.42+1.20.1.jar"
+hash-format = "sha256"
+hash = "a30c6de2d0da269b9f33d44b0d6e8a1f9e25b8ee69bf5e94848aa7940a36f9cb"

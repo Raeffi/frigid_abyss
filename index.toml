@@ -16,8 +16,20 @@ hash = "d16f5b19ab305e92a844c6af42f62b7218c151c7dbbdc955c654075511e8eb29"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/atlas.pw.toml"
+hash = "01d06c25ff9d131c9875a1c7767aec2b5aada78d76fa0307726758aa9db4e05c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-weaponery.pw.toml"
 hash = "410ede91cc3892bf89e17da5100cb4c86df2a67ab452dfbc8986f59164e84dfc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
 hash-format = "sha256"
 metafile = true
 
@@ -126,6 +138,12 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "0c71e0d641771e81a687005b3928aecac9763a2e82b6e494d99276ea986f40be"
 hash-format = "sha256"
 metafile = true
 
@@ -1326,6 +1344,12 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sintra-connector.pw.toml"
+hash = "9863029851a42578fe6703cfd199404e23eeaf0093d48d7457216c43f6221152"
 hash-format = "sha256"
 metafile = true
 
