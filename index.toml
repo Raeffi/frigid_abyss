@@ -16,14 +16,602 @@ hash = "d16f5b19ab305e92a844c6af42f62b7218c151c7dbbdc955c654075511e8eb29"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/1_irradium-begone!-1.1.0.pw.toml"
+hash = "11eb2fd15214e6da6c34d73793f3c0d9e410de581ecadf3a2760838375a062d3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/AnvilNeverTooExpensive-1.20.1-1.1.pw.toml"
+hash = "e20ee846d445fb835ea171a17ae31b5b4b8ed6e22db0009a4e114e79a1c03962"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/AnvilRepairing-Forge-1.20.1-4.0.3.pw.toml"
+hash = "d32de39cf746845c6ce8fa060ff157a44847b28ad747121f6b87af4507396076"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Architects-Palette-1.20.1-1.3.6.1.pw.toml"
+hash = "eb1d217106a7e4481a4ebe0a0375be31396d30f280dd7ee777972c036f0c9252"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/AttributeFix-Forge-1.20.1-21.0.4.pw.toml"
+hash = "61adccfbbc62cf29138f6188ef12274d0b089c838ff15ce184b1979519005a64"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/BarteringStation-v8.0.0-1.20.1-Forge.pw.toml"
+hash = "afb296ad3dce500e3c9bfd53e3a35b861be0f7942b0d196fdb5b2b6d6674bcd9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/BetterBeacons-Forge-1.20.1-2.0.0.pw.toml"
+hash = "d9191a4f8ebc8f6bac4e08b21b3ffe3bc5a0e7e3c30acfd488a2103565e5429a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/BiomesOPlenty-1.20.1-18.0.0.592.pw.toml"
+hash = "66d7accfbf733f7125c824b02b40644a104cfe9d4b0a7c27dfeaeacaca1f0588"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/BoatBreakFix-Universal-1.0.11.pw.toml"
+hash = "092f959c91ce57ca1f7763124bd86b42a25f0e99d9363f6a749e54da5bbe0a3d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Bookshelf-Forge-1.20.1-20.1.10.pw.toml"
+hash = "e519279e1efdd4d114a011285c83244874dca102120720f8847dd6340d89eec0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/CerbonsAPI-Forge-1.20.1-1.1.0.pw.toml"
+hash = "8672f674d1edc6dc1cf8f7978910a5f74ded0691b734f056df6bb44d17aa6785"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Chipped-forge-1.20.1-3.0.4.pw.toml"
+hash = "9103681ec0acfb503d04c43611acc7140a1497e0873b748c544b904bf4824db9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Chunky-1.3.136.pw.toml"
+hash = "eaa77ca2f6fdce7d5bf29b675000fb393a3da9702c535dbe73b67161554a3e4b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Clumps-forge-1.20.1-12.0.0.3.pw.toml"
+hash = "c50c5e041acf6db632642bb7e76ff12e6e0d4748466c02d5eb1c8433110903bd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ColdSweat-2.2.5.1.pw.toml"
+hash = "d0b377c42e91d00a1e97c49c9b31ce5e609ead0e0517ffdc85b95c909c74ed7d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/CreateCasing-1.20.1-1.6.0.pw.toml"
+hash = "4873af303b737db41d2bf9d78a2dd12cb2dc6fde5ee30cbbee9ad4ad0dec9d35"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.pw.toml"
+hash = "82f5e35c4a378d4c09d830ce32fed708712fcd1e26466398a09d4700a955ee6b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.pw.toml"
+hash = "4a6674eb0d5d22e64a4941368ec53e2b6e51559d2d749ebee6a8c5c524bd5fd5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/CutThrough-v8.0.2-1.20.1-Forge.pw.toml"
+hash = "43fcd67c0837d9087a0df69ac70a1b0430e986291a91ae89114124a4f89b59e7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Delightful-1.20.1-3.5.2.pw.toml"
+hash = "c5b4dd8ad28ee9462b214b88477c299b0f312be7f9d5c6a9668ede9a8a2edd81"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/DistantHorizons-2.0.1-a-1.20.1.pw.toml"
+hash = "7a1de9a4fcf94de669245ca903debf42eea5cc1c1b1977c82272b0e9f629b6f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/DistantHorizonsApi-1.0.0.pw.toml"
+hash = "d5b38531f7376421cea023b472e7d6192f369b1c792a3e806d553dd2dedbb3e7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/EasyAnvils-v8.0.2-1.20.1-Forge.pw.toml"
+hash = "e3f79e4da9a826b1c6e7f4eb75c53e43e3d6a22f42fcb43113006d1d335be9b1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/EasyMagic-v8.0.1-1.20.1-Forge.pw.toml"
+hash = "6e46f97327f1a991c1418cf79f4ea919ac2275c94d212f49a9afeeb8a150e131"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.14.pw.toml"
+hash = "e0000d57087ccb117e1c3b78c9c096bafc9e5c2fe396202e34bb3f6341c522ad"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/EndlessBiomes 1.5 - 1.20.1.pw.toml"
+hash = "34059d9b27b5e7d01cf063aef3a1f202bd5700fa60763003f96646d4450fcd61"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/EnigmaticLegacy-2.29.0.pw.toml"
+hash = "d34209b3879ec615fafbd5d33ff4c5d070eb02adf38067f90018362a82eb6c38"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Fallingleaves-1.20.1-2.1.0.pw.toml"
+hash = "b2bafef44b0189ccdc4cb7ae171b8a53593de2d37f1616062da63ef793d28e3f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/FarmersDelight-1.20.1-1.2.4.pw.toml"
+hash = "dfb62c80e7f33dca9b49a9aa6c52f499bed9c84375d70ec038d2dec3a0028ee9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Fastload-Reforged-mc1.20.1-3.4.0.pw.toml"
+hash = "97a8b7a3344653e1e994475a1d2f7e68cbd904229568ec03378b99cadb3cdc09"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/GeophilicReforged-v1.2.0.pw.toml"
+hash = "48f1da48ae13e46b352bc6e95f3c7addc67051323ebb6e1a7358a5a1d1cfdfb1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/GoodEnding-1.20.1-1.0.1-Forge.pw.toml"
+hash = "5b98db03d1a8d88b8b94a666905894ded01a6c77e0b04d56f0480bc025ee1219"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Highlighter-1.20.1-forge-1.1.9.pw.toml"
+hash = "6fe8ad2806410b18c50c4cda43063b537a43f0a68e03a8dd1ce6b823340e3926"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Iceberg-1.20.1-forge-1.1.21.pw.toml"
+hash = "9fe1b302b55bb573fa83821300efe19e894f2379c62d8a2be132ea5f943d1634"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ImmediatelyFast-Forge-1.2.11_1.20.4.pw.toml"
+hash = "dc4ef3ab3516f159f995a6b221f78b66f29bc4477262364c1c099dd10bbbd01a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Jade-1.20.1-forge-11.7.1.pw.toml"
+hash = "d543e19867e1fe3faa67ca31f6953c550220c705e0a37a803444527547249522"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/JadeAddons-1.20.1-forge-5.2.2.pw.toml"
+hash = "770ae749cc56201513aba92ddf453742cd5f149f8cf71f68b957d8ece3dab67e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/JustEnoughBeacons-Forge-1.20.4-1.2.0.pw.toml"
+hash = "8164e7fab933f80699714b715bdc502e5e7957c167f033257b2521295eabeec6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.pw.toml"
+hash = "ad46bd43699bd8240188d57d2687a81f84535be7d34504a9cd5e6347abc2886e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/JustEnoughResources-1.20.1-1.4.0.247.pw.toml"
+hash = "610e6d7c3ac2546d3e786730ac19c1ba183609bad0c5b89af6aa1387a508e426"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/LeavesBeGone-v8.0.0-1.20.1-Forge.pw.toml"
+hash = "08b432de735d33b0897ce28c4ad149b9de93319c330bef2c0196ec03439d1a8c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/LittleFrames_FORGE_v1.3.7_mc1.20.1.pw.toml"
+hash = "345e85fe3da2e4af97c9c3029bee1c64b638aa8401d339e1a91ae6d78160b7cf"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/MorePeripherals_1.20.1-1.12.2.pw.toml"
+hash = "e44e130950b6a5d993f7f206ea7babdac68eb33d94f08bc97793408087df2ed6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/NaturesCompass-1.20.1-1.11.2-forge.pw.toml"
+hash = "4ab7415b6ba2242d9a990e7953b113d597c9a1936b0dba63cf04a73fefb3af9e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Neat-1.20-35-FORGE.pw.toml"
+hash = "83c855b1b1155da4873eeed3ea1be816a78d6517bd82ef470db37ac295052678"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/NekosEnchantedBooks-1.20.1-1.8.0.pw.toml"
+hash = "8fad22d2d43f5291d98ac54996790aa43d4f5bc2839a5dc1a3586c74cadae8db"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.pw.toml"
+hash = "bce65ab0b2c1216b7e599eaaddc0417adf17beec64df4e7dc64d72be7e976650"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/OverflowingBars-v8.0.0-1.20.1-Forge.pw.toml"
+hash = "a0718effb492a702d8fff91ee55fb0b5e1c33ff80f63b33091696d907a7da4ea"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/PacketFixer-forge-1.20.1-1.2.8.pw.toml"
+hash = "a8d0514136feee1aff859004a7fa03af4470ab574c529e0ac248582cd722ac91"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Patchouli-1.20.1-84-FORGE.pw.toml"
+hash = "99abe4dfe8bbef498b29d39aea1da3b061bafa5dbd961e36d5c3828aa062001b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/PuzzlesLib-v8.1.18-1.20.1-Forge.pw.toml"
+hash = "2045538544b971ced302ae0ffd8c9b2e81ebf89b63d9e9482287e92826227484"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Quark-4.0-440.pw.toml"
+hash = "1f4f757208691369908f8b551e0fcf3064e694c5ff3b5ff702f2c41168be7ce7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/QuarkOddities-1.20.1.pw.toml"
+hash = "ceb3754b339c98e4eb83cf824400a71fe735f68fa3cfa925e1fdebbbd58a384a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Recipes For Create-0.7.0-(1.20.1).pw.toml"
+hash = "672d2707c2686b2758095a76e8324fc52fc44f219ea0b2bec0e916fe245f85cd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Rrls-3.2.0-1.20.1-forge.pw.toml"
+hash = "aacb090de24c66356c3b1d6d2d8c03346a4b7f48291fbdb2d7f053af843ef412"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/SereneSeasons-1.20.1-9.0.0.46.pw.toml"
+hash = "87431138a8bfe0b0a21e62cee75fae188d0b285f75216b4b48819cf0b7d5fc96"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Steam_Rails-1.6.1_forge-mc1.20.1.pw.toml"
+hash = "e4ca1790f21f3e209731b1667dec50021f2da1ce2fdc552f7748ba78694792a6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/THEUNDEADREVAMPED_1.1_1.20.1[Item textures revamp].pw.toml"
+hash = "9477cc749888a6b00f0e5836dc397ce2dcfa27924a09c01715552e67126f2ebf"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Towns-and-Towers-1.12-Fabric_Forge.pw.toml"
+hash = "575d66253e0aa12976db34fcbce3e35cbb3208cb7c06d25f9193467a8fa6633b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/TradingPost-v8.0.2-1.20.1-Forge.pw.toml"
+hash = "1a30c6ba7af3d86a5a394b69ee6da25d329c821f7b2b7c57c431c6cbac4ff36e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Twigs-1.20.1-3.1.0.pw.toml"
+hash = "ec510ef8ba409efec3d0513c7eb4e9916f23a1503f3e3371788c5a6d27608bd8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/VisualWorkbench-v8.0.0-1.20.1-Forge.pw.toml"
+hash = "7fe2c6c4c96ab945fc1bf72e09b17816eb79281c8bab9d90544b524e2d77fdc6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/XaerosWorldMap_1.38.4_Forge_1.20.pw.toml"
+hash = "6bac327b03628a51c4df0aba2d83ac702975b152f9be0d45b8813c8889d355e4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Xaeros_Minimap_24.1.1_Forge_1.20.pw.toml"
+hash = "eb1bfcacf1a26bdb043cf5684fec569a78e5cdf7124a4aa8bf988c94182efdf4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YeetusExperimentus-Forge-2.3.0-build.4_mc1.20.1.pw.toml"
+hash = "442bf1c523538bff44936dcf434e1158a4a312d2a48df08a88b1fa8f42a0c0ca"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsApi-1.20-Forge-4.0.4.pw.toml"
+hash = "c86f70e17df58c394816e88558211325ba0e0c358563144a9b0b7a834dae9c1c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.pw.toml"
+hash = "1d259fd31c0d3b3e1188e3b16acf99b3070613418867fc9583031a12241eb9a0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterDungeons-1.20-Forge-4.0.3.pw.toml"
+hash = "a996c566a82892cd6cc39087da7d21a27f411345a42d2b95526ee7e889fbccfc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.pw.toml"
+hash = "f57d68803e17719a5f3c42601d27490b4e29da0610e554c39e2dda7a0c25b30d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.pw.toml"
+hash = "b34f1c5869537519624f71e3acde348ac2002b3126169ed58b0685449e1b5f8e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.pw.toml"
+hash = "a3ac2afe7ce588ae01f6d23a1250f1f38b7fe120146c1f314a1c4155cbc58849"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.pw.toml"
+hash = "dd91df622ebfdf0f985279063eb2fc068386f7c711550f69cc148c5f68dbea90"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/YungsBridges-1.20-Forge-4.0.3.pw.toml"
+hash = "f17b363e104c7bccb2dc5ffbf2a64ac67b9866895d8c987ed6ad68f380d1cab2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/Zeta-1.0-16.pw.toml"
+hash = "c96ba9eb5901a88aeeb9c05857733df2bfdabed97c5103500ca97a81570c55b9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/alexsmobs-1.22.8.pw.toml"
+hash = "933c7c157c516d9dc7166378d83ff0ce289f5ac31db977864f10be7bc2dd37f3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/amendments-1.20-1.1.18.pw.toml"
+hash = "031fff65b5cad40843e82356ef7efdc018310b7645fa07092942556f08f709f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.pw.toml"
+hash = "2f9a38b74141117e679bf6386340eeaf9ec4b0be7c816d65b6d7e777fe44bb93"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ash_api-forge-3.0.2_1.20.1.pw.toml"
+hash = "5746905cfafd452a8f4934d90cf8aaf1e0d69ffb7ea99d11b23cbc60a9f44215"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/athena-forge-1.20.1-3.1.2.pw.toml"
+hash = "4916053a6f43a621dd57da049c37c3ca7eb1b8a6d3bbf69b1a463e33b5628c2c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/atlas.pw.toml"
 hash = "01d06c25ff9d131c9875a1c7767aec2b5aada78d76fa0307726758aa9db4e05c"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/balm-forge-1.20.1-7.2.2.pw.toml"
+hash = "ac17e47cb659d0b94989ece3a6988246a91dbad31f66ce4b10561102cd715d75"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles-0.4.3-1.20.x.pw.toml"
+hash = "f478df18c827bbe10cfcce54a9c7defbe40bc8f8371b5429f1257ec72d45397f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/bigcontraptions-1.0.pw.toml"
+hash = "a36c2e4c85ad37c74ad25626c3196f0d8c40361df1495e36a0ba1718ad62a363"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/bocchium-1.20.1-0.0.3.pw.toml"
+hash = "f8d59912d1f29fcdacc27060c636e4d4f9a3abb9717c035c2aaf9f7df930e101"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/botarium-forge-1.20.1-2.3.3.pw.toml"
+hash = "1637713ce109afb04550f6f0ba4c67802ab8344ccdaf02cf2108972862e5d202"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/bygonenether-1.3.2-1.20.x.pw.toml"
+hash = "aa85fcc8dc3b2f2adfcb8da561854c6b13903769c53219614570a32e53796916"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/caelus-forge-3.1.0_1.20.pw.toml"
+hash = "1552672681e93faed1941d2e259a3793c2e3dbaf27135d81e6fd20514c391cb7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/carryon-forge-1.20.1-2.1.2.7.pw.toml"
+hash = "44eb0505c062eac77426723c7adeca16cb4e3c7722368dc7a4a108544ff39e15"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-weaponery.pw.toml"
 hash = "410ede91cc3892bf89e17da5100cb4c86df2a67ab452dfbc8986f59164e84dfc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked-1.20.1-forge-1.110.2.pw.toml"
+hash = "0676ee4fa925aae97350043d307ad104fc4c4f2e9c9c8c74f6d540e77bc907ad"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge-mc1.20.1-forge-1.6.3.pw.toml"
+hash = "e68d074b90629c2e54a2a57fc22356bc3746ef321b55523fbcae88ed17d620d9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/charmofundying-forge-6.5.0_1.20.1.pw.toml"
+hash = "eb73c21f134675a99b2e3d0f1f07f122a0775bc136b56ee59f0f90a7084ec0f5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/charms-2.0.2-1.20.1.pw.toml"
+hash = "f6640963f1aac06613f3c6193a42d6f1df7a85c67661c83d6d4002cbc5d1651d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-1.0.3-forge-1.20.1.pw.toml"
+hash = "646b567117d16ebfc731d6a62a79b2fedea5a29bf36f3f7c6eca001be6c20db4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/chisels-and-bits-forge-1.4.148.pw.toml"
+hash = "8b70de305933765b22769060a5828ea375782e54499985628ed0b383d90d102b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/citadel-2.5.4-1.20.1.pw.toml"
+hash = "81ddad60970f7c52009a063a3928d84237a184b577e630d2afffc266f0ea6c43"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-11.1.118-forge.pw.toml"
+hash = "c6b5044074216d6cf7bbcaeacf810508963ab0d8b41346d6655011c7ed6dfb65"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/collective-1.20.1-7.40.pw.toml"
+hash = "2cec3c1442674d68ac2c537fd12d9ab62d7d0bfb388b97d81c9a70f6ef9b6f0a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/compressedcreativity-1.20.1-0.1.8.b.pw.toml"
+hash = "e9cbde82669337a3f1ab743cb7a3303764bb9c8e9dfadf4abf70bcc618abac10"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/computer_cartographer-1.20.1-1.0-forge.pw.toml"
+hash = "2abd448e929d795304f519ac9cd076532174b8437ea5340c141eec550b69a6eb"
 hash-format = "sha256"
 metafile = true
 
@@ -40,92 +628,176 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-231095.pw.toml"
-hash = "8b70de305933765b22769060a5828ea375782e54499985628ed0b383d90d102b"
+file = "mods/create-1.20.1-0.5.1.f.pw.toml"
+hash = "c56638722ed51c09c5720883902107e93c145875b73ed73813cdaf0086a9b045"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-336184.pw.toml"
-hash = "d34209b3879ec615fafbd5d33ff4c5d070eb02adf38067f90018362a82eb6c38"
+file = "mods/create-new-age-forge-1.20.1-1.1.2.pw.toml"
+hash = "a72a28e1c96baf6c5ed04711c6cf277fe6c2299798eaeea42715b0ebad08a396"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-377582.pw.toml"
-hash = "151ad7cb3fb5cac053d9a88c86ad4a87c58e3a1afb3c31ebd6b5b1f219a46e2c"
+file = "mods/create-structures-0.1.1-1.20.1-FORGE.pw.toml"
+hash = "63dcb23891bd303b481d9f2bdb839ffc88529541039225e666743066858f81b7"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-422301.pw.toml"
-hash = "60f7f05449c3093ae4013dd00f6c258593316469bd96439f748f87806159be6d"
+file = "mods/create-track-map-1.4_mc1.20.1-neoforge.pw.toml"
+hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-445385.pw.toml"
-hash = "029f8217f0a6fba2fbcb894d1187be98fffb41438e68c0c6f7cff4485d77e721"
+file = "mods/create_aquatic_ambitions-1.20.1-1.0.0.pw.toml"
+hash = "58fed043df4154885b1a35292f5e8d74c4aa050f58273aee09ba2b86047327dc"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-479710.pw.toml"
-hash = "9477cc749888a6b00f0e5836dc397ce2dcfa27924a09c01715552e67126f2ebf"
+file = "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.pw.toml"
+hash = "a45318cb07f345021ab1702a6303563476c53f01e87a6d9e68a3b2d906eea7ab"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-495476.pw.toml"
-hash = "b62bf914d8299947c750624a3d1db4e9ebbff4f259f7f85f9ae1e8b41038554c"
+file = "mods/create_connected-0.7.4-mc1.20.1-all.pw.toml"
+hash = "6e035c9cf9980dab3bc001a1373f9bfb28f5098279521fdbee8b0932016f7c78"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-496913.pw.toml"
-hash = "ec510ef8ba409efec3d0513c7eb4e9916f23a1503f3e3371788c5a6d27608bd8"
+file = "mods/create_easy_structures-0.1.1-1.20.1.pw.toml"
+hash = "ffd65acf1466c9055afddaccccc3e7f995c5c2691a95b7b3e35f396e22a8282a"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-539057.pw.toml"
-hash = "1a30c6ba7af3d86a5a394b69ee6da25d329c821f7b2b7c57c431c6cbac4ff36e"
+file = "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.pw.toml"
+hash = "33f4a47bbf08864a62841a676ccc09c90eb8d54b79b1244bc9f16a2b8431b540"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-550678.pw.toml"
-hash = "e1bcafcaf13d69b49ccf5d48de71a61aae210f36d7e66f1f96b960ca2bc3e2e0"
+file = "mods/create_misc_and_things_ 1.20.1_4.0A.pw.toml"
+hash = "98a281b93c46bf2cf4913a8d65365a73058a112d465c6de149cabf2a350e12de"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-618298.pw.toml"
-hash = "583c34484eac5730d88bf4b0b7a22e60ada6c1493a93eb7087575eb253c26bff"
+file = "mods/create_needed_recipes-1.0.0.pw.toml"
+hash = "1a64c5da8a774e1e8da8b7dc116e7210be6c0875d61844b9385305c6ff2b1dc6"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-619320.pw.toml"
-hash = "284778cd72dbfe41fe3513a89a7432f775c3d4106cdf2edb73b08fba3c761f62"
+file = "mods/create_wizardry-1.20.1-0.2.0.pw.toml"
+hash = "93c7bee730ce73e4a02c3ab254aae30be8fabbdccb8db3071dd2090dbd91985e"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-626761.pw.toml"
-hash = "575d66253e0aa12976db34fcbce3e35cbb3208cb7c06d25f9193467a8fa6633b"
+file = "mods/createaddition-1.20.1-1.2.2.pw.toml"
+hash = "20926576de61fd821db1940360ff9ba64b47355b28a95f17ae6fe1517bf48deb"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-857533.pw.toml"
-hash = "40eeb339e5ab6824a47ae23f8dd03fa506a5d0ee24980db30443362292ab04c7"
+file = "mods/createbicbit-1.20.1-0.0.70.pw.toml"
+hash = "22f5306130a4a8bafdea0b9ce53a7687dcb7e113e9fd6bc9f57b519ac98bd394"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-905450.pw.toml"
-hash = "f8d59912d1f29fcdacc27060c636e4d4f9a3abb9717c035c2aaf9f7df930e101"
+file = "mods/createbigcannons-forge-1.20.1-0.5.3.b.pw.toml"
+hash = "37e4e593e32098694a32c621da2490108c111c563d4b0763826caf98398120fd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-2.0.1-1.20.1-forge.pw.toml"
+hash = "07a119f74a64a646de7d9cd41b7517cfa1eb33eb8bf83c555d9586a36cb814a3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/createdoener-0.1.2.1.pw.toml"
+hash = "4b29d7602bdffcaae32b8de4a865060a6ab62d0bd987a9b972df85faeaa35d87"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/creategoggles-1.20.1-0.5.5.g-[FORGE].pw.toml"
+hash = "94380b968c79c687487c8e75b4bec903bd8079740bc58107a9322e950f46fe86"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/createrailwaysnavigator-0.4.1-beta-1.20.1.pw.toml"
+hash = "c4f6f02919af24c8eb6bd48a67e4048e6a92d6fc799db48a58acb54df3199054"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cristellib-1.1.5-forge.pw.toml"
+hash = "cedb1e84d58e2dd2231128654959548225a5835e31c94cb5feacb705597f7c37"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat-2.0.pw.toml"
+hash = "19fb9ca1325992027c348c956b63a5f1c3fc837e2799dde826012f7c4e0036ee"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures-1.0.pw.toml"
+hash = "77497dd4ba03128587b2d1780a4b5bdd73e4eed8c11cd6ba988409222727077c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat-2.1.pw.toml"
+hash = "7fd406c9d6910f94f24fc3531373fa8dec0c043359da62428413bf024da35590"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-immersive-engineering-compat-2.0.pw.toml"
+hash = "8e1d6af6415ba3835910d4e1c9254d81ec2b1003807c80cea38d896675595a17"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-irons-spells-n-spellbooks-compat-1.2.pw.toml"
+hash = "4b9cb70d58be991f6e940c3aedb9190def60f9e8d6f8b06860d9583caa0237fd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ctov-pneumaticcraft-compat-1.0.pw.toml"
+hash = "76eeb3d3c01142a83ba5602b005058bbc169be882f8d6e754c5486142389781c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/curios-forge-5.7.2_1.20.1.pw.toml"
+hash = "d384f7af2427c8b6e6452e30238c09a57800332ce6b05ac1f70c74101fcf9c1f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/decorative_blocks-forge-1.20.1-4.1.3.pw.toml"
+hash = "97da81059641c591fc7ca85f19d2f401fdf6726b93a44d9cfc80668c16619e16"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/design_decor-0.2a-1.20.1.pw.toml"
+hash = "d24b94bf363d39bb9967e4d1417fdf67662648adb883a44a00879d5925d28fb8"
 hash-format = "sha256"
 metafile = true
 
@@ -142,6 +814,84 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dungeons_enhanced-1.20.1-5.2.2.pw.toml"
+hash = "41fec2b6ec0a4410f178f58330c066ef5073595021f91db57df7bedf4aafdf20"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps-3.4.2_minecraft-1.20.4-forge.pw.toml"
+hash = "2c05c29c43d40e0cec099ebd55f47606318a6cf80784b5b1c44d63bff9859856"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ears-forge-1.19.4-1.4.6.pw.toml"
+hash = "f5c85969007830279139e6cf040d8c515157997e6f85d299a639c13290518648"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/elytraslot-forge-6.3.0_1.20.1.pw.toml"
+hash = "4551c1b021ca401c41920c28a335b91bd84e5d9ea0dea13ddf5a5755443e4345"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/enchantedcharms-forge-1.20.1-0.1.1.0.pw.toml"
+hash = "581075b96a68769737e1b16587a53d6f7acbdca1c5905ab6ad01e0bc8949055e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/endrem_forge-5.2.3-R-1.20.X.pw.toml"
+hash = "425d70f7ded9b9abd5102430fc388f92ccd567bfdd36e061f725bae160716060"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ends_delight-1.20.1-1.0.1.pw.toml"
+hash = "f50edef0ed4b44a7faa1219dc14f8e06d2cec376ec496134a580b29dd4065d73"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/enlightend-5.0.14-1.20.1.pw.toml"
+hash = "fa2724d6587ce55226f731d5e56bff32b9f673f95a9fe34f3486215a31f11a43"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/everycomp-1.20-2.6.50.pw.toml"
+hash = "fb74a39d5f9b548258a0afb3f82d8e3ebf8cb84834e79079a1a8087f5568f349"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/explorify-v1.3.0-mc1.20.pw.toml"
+hash = "60e28460cd7f8cd0ef61997bbb4f6fe2b2c2825a26289a2647704078d1a6a1d1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fastpaintings-1.20-1.2.5.pw.toml"
+hash = "70b61dc7c4b8462608bc7f07f00231165e4880502a0121e13e8cadcf9dc5930f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.pw.toml"
+hash = "404517707006a1de8885562b6d32a1750a1c14e848b3033c793a1db84dc48bda"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fixedanvilrepaircost-1.20.1-3.3.pw.toml"
+hash = "7b95e7a196b8ba6687dbdfe4a52a56519ff31d3051e469a36208ed3107fd25a8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "0c71e0d641771e81a687005b3928aecac9763a2e82b6e494d99276ea986f40be"
 hash-format = "sha256"
@@ -154,8 +904,146 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/fusion-1.1.1-forge-mc1.20.1.pw.toml"
+hash = "06dfa6a8a2cb9b77f174d02056359f8105d784546466933d3669e35ae33205e3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/gardens-of-the-dead-forge-4.0.1.pw.toml"
+hash = "4b2d40927f9c5bfaa547e351fd4ca203b840f3fe860f3569440daf6eb221598d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.4.4.pw.toml"
+hash = "b7d8cb2a99c7d50f0f7ead673867fea5c6f9ecc316ebec56304a203bf94873ef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/geophilic-v2.2.0-mc1.20u1.20.2.pw.toml"
+hash = "f2234408993557adbfe246b9957d893ec7cd1594968237e1dd4d28aa4fb49369"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/global_packs-forge-1.19.4-1.16.2_forge.pw.toml"
+hash = "cfa740faeab71854394ef35a2053e87223e31d0f757452e4e935586e0348f1ac"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/globalnarrationtoggle-1.20.1-1.2.pw.toml"
+hash = "a4a4ccdcba420e9c48fb4eed484cf5c2ec708c974aaf9b3b05ca654b423a2f2a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-forge-1.20.1-1.0.15.pw.toml"
+hash = "913471c5ecf9e19335a01027e3bbe9f5cb56e06258558350c2a975e0969e25f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-forge-1.20.1-3.0.6.pw.toml"
+hash = "d3f1bacc4e17827b46f7b14a944147ba392d15c16c8d8c8e9a065970ba0aaefe"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "0b9d7490538f016b25e7b2aac6b54cec24ae79e8d2d6783a9e8c3e6505bcd239"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/harvestwithease-1.20.1-8.0.1.0-forge.pw.toml"
+hash = "c9bed07146e03a2663ba7c63d26ff53cf96d487234feb66df396dc684164c32c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/hearth_and_home-forge-1.20.1-2.0.1.pw.toml"
+hash = "d2c28904c12088a3fa0e1c075cd164dedc49d6c4aaade1153a64db617569d0f4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/hearths-v1.0.0-mc1.20u1.20.1.pw.toml"
+hash = "28bd27e6bbb6ce8f67df3777ba2be166f8bb47b4c416615f2773d831fc4bae49"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/idas_forge-1.9.3_1.20.1.pw.toml"
+hash = "fc8030171421507d24fda7af2f0f1463e3ec19f3e3d1bd63853d133bde5c28f8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/immersive_paintings-0.6.7_1.20.1-forge.pw.toml"
+hash = "40c5f9815cc60c2b2da49ab80048a0b2ee1f2dbdca6b9fc5787e845174d3abf5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/integrated_api-1.5.1_1.20.1-forge.pw.toml"
+hash = "14ca2bd31e46cbd4b2a0b36864f53594a83d5177bf0da41c9c37ab85292a56f4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/integrated_stronghold-1.1.1_1.20.1-forge.pw.toml"
+hash = "2e185c5d77ae27e5f61d336a1b299e270253f5bbb40240fc6d9274a938ba6179"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/interiors-0.5.3_forge-mc1.20.1.pw.toml"
+hash = "1b89669ffdab5d8ea1ffd367a224d9ab98be43161882f1e9831781988865f13b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/irons_spellbooks-1.20.1-3.1.3.pw.toml"
+hash = "0a0fad0d8df03300313d98ca6fb0f537c00180bd8f681b293de07382b919d8f8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/jearchaeology-1.20.1-1.0.3.pw.toml"
+hash = "751a879a5ec8993ae9bfbec5a9f767bc31bd3adaca4fcdd469f3453a99266004"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/jeed-1.20-2.1.12.pw.toml"
+hash = "0e2cb0668701fd5cabe8e691de4cb57fcfc99819b3d24c111e4be2d134885f4d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.3.0.4.pw.toml"
+hash = "fea2dba897774455223d382c4237b2ba7f7c3a7f47069e530caf363acba56b12"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding-forge-1.20.x-1.2.1.pw.toml"
+hash = "6929acd83ab3d1847faf0ee355e37b2da813ee399f8f7fc4e25ef608b82e3b97"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs-forge-1.20-15.0.0.pw.toml"
+hash = "4d845c011e2d1d47f558a89e1316cde79830ae8e6ae6b1df004f189e317c523d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-4.10.0-all.pw.toml"
+hash = "978619dab9ceb2d945f45c57f75582989f31d262056254c689a95e52f998b9a1"
 hash-format = "sha256"
 metafile = true
 
@@ -166,1178 +1054,92 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-16DuAG4k.pw.toml"
-hash = "22f5306130a4a8bafdea0b9ce53a7687dcb7e113e9fd6bc9f57b519ac98bd394"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-1bokaNcj.pw.toml"
-hash = "eb1bfcacf1a26bdb043cf5684fec569a78e5cdf7124a4aa8bf988c94182efdf4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-2JAUNCL4.pw.toml"
-hash = "b2bafef44b0189ccdc4cb7ae171b8a53593de2d37f1616062da63ef793d28e3f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-2cMuAZAp.pw.toml"
-hash = "933c7c157c516d9dc7166378d83ff0ce289f5ac31db977864f10be7bc2dd37f3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-2u6LRnMa.pw.toml"
-hash = "1637713ce109afb04550f6f0ba4c67802ab8344ccdaf02cf2108972862e5d202"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-3IAJcJXa.pw.toml"
-hash = "41fec2b6ec0a4410f178f58330c066ef5073595021f91db57df7bedf4aafdf20"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-3dT9sgt4.pw.toml"
-hash = "dd91df622ebfdf0f985279063eb2fc068386f7c711550f69cc148c5f68dbea90"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-40FYwb4z.pw.toml"
-hash = "1552672681e93faed1941d2e259a3793c2e3dbaf27135d81e6fd20514c391cb7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-5ZwdcRci.pw.toml"
-hash = "dc4ef3ab3516f159f995a6b221f78b66f29bc4477262364c1c099dd10bbbd01a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-5faXoLqX.pw.toml"
-hash = "9fe1b302b55bb573fa83821300efe19e894f2379c62d8a2be132ea5f943d1634"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-67kVxsaO.pw.toml"
+file = "mods/lmft-1.0.4_1.20.1-forge.pw.toml"
 hash = "14c3ff19b2e2176839f4c1c5215799b4a1135fc3c47d5f5a4b237762e386447f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-6PJbKvJH.pw.toml"
-hash = "19fb9ca1325992027c348c956b63a5f1c3fc837e2799dde826012f7c4e0036ee"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-6iTJugQR.pw.toml"
-hash = "031fff65b5cad40843e82356ef7efdc018310b7645fa07092942556f08f709f6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-6txNkua3.pw.toml"
-hash = "40c5f9815cc60c2b2da49ab80048a0b2ee1f2dbdca6b9fc5787e845174d3abf5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-7ACsQCnG.pw.toml"
-hash = "e44e130950b6a5d993f7f206ea7babdac68eb33d94f08bc97793408087df2ed6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-7uh75ruZ.pw.toml"
-hash = "4d845c011e2d1d47f558a89e1316cde79830ae8e6ae6b1df004f189e317c523d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-8BmcQJ2H.pw.toml"
-hash = "b7d8cb2a99c7d50f0f7ead673867fea5c6f9ecc316ebec56304a203bf94873ef"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-8ejKIORQ.pw.toml"
-hash = "581075b96a68769737e1b16587a53d6f7acbdca1c5905ab6ad01e0bc8949055e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9OYJnLnl.pw.toml"
-hash = "76eeb3d3c01142a83ba5602b005058bbc169be882f8d6e754c5486142389781c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9Pk89J3g.pw.toml"
-hash = "6929acd83ab3d1847faf0ee355e37b2da813ee399f8f7fc4e25ef608b82e3b97"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9SyaPzp7.pw.toml"
-hash = "58fed043df4154885b1a35292f5e8d74c4aa050f58273aee09ba2b86047327dc"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9Tk5Ttel.pw.toml"
-hash = "50b783ec4f1abd4bb5837e1441c783c50a0625ddead37b6e574d4de34606ff56"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9hx3AbJM.pw.toml"
-hash = "6e46f97327f1a991c1418cf79f4ea919ac2275c94d212f49a9afeeb8a150e131"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-9s6osm5g.pw.toml"
-hash = "c6b5044074216d6cf7bbcaeacf810508963ab0d8b41346d6655011c7ed6dfb65"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-AVq17PqV.pw.toml"
-hash = "08b432de735d33b0897ce28c4ad149b9de93319c330bef2c0196ec03439d1a8c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-B8XiXauo.pw.toml"
-hash = "4b9cb70d58be991f6e940c3aedb9190def60f9e8d6f8b06860d9583caa0237fd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-BAscRYKm.pw.toml"
-hash = "9103681ec0acfb503d04c43611acc7140a1497e0873b748c544b904bf4824db9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-CdRC4fyI.pw.toml"
-hash = "7fd406c9d6910f94f24fc3531373fa8dec0c043359da62428413bf024da35590"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Dk6su9JN.pw.toml"
-hash = "43fcd67c0837d9087a0df69ac70a1b0430e986291a91ae89114124a4f89b59e7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Dq3STxps.pw.toml"
-hash = "c4f6f02919af24c8eb6bd48a67e4048e6a92d6fc799db48a58acb54df3199054"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-DuUMFIfX.pw.toml"
-hash = "3624ed33601ffb44b38d178e1ed8dd295a60563a6ac4e9af63b23c22463f2f02"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-EO27GKs1.pw.toml"
-hash = "0e2cb0668701fd5cabe8e691de4cb57fcfc99819b3d24c111e4be2d134885f4d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-EOig9U0j.pw.toml"
-hash = "afb296ad3dce500e3c9bfd53e3a35b861be0f7942b0d196fdb5b2b6d6674bcd9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-EltpO5cN.pw.toml"
+file = "mods/lootr-1.20-0.7.31.78.pw.toml"
 hash = "1ccda44f6513a25da825be0f95d357ade35963e342334a7a119901a2e87ba5f1"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-FTeXqI9v.pw.toml"
-hash = "a72a28e1c96baf6c5ed04711c6cf277fe6c2299798eaeea42715b0ebad08a396"
+file = "mods/mastercutter-1.1.pw.toml"
+hash = "3624ed33601ffb44b38d178e1ed8dd295a60563a6ac4e9af63b23c22463f2f02"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-G1hIVOrD.pw.toml"
-hash = "f7b9a37e8a99b15e8f16bc381a2c94df85a6832bfab1805e2b82e9fa8341cee3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-G922NeHS.pw.toml"
-hash = "9f065be3753b027257e9f103a057f6940d88b5cf1cd51d3da8af5b9b65a6bd6e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-GWp4jCJj.pw.toml"
-hash = "37e4e593e32098694a32c621da2490108c111c563d4b0763826caf98398120fd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-GkIc6rRo.pw.toml"
-hash = "8672f674d1edc6dc1cf8f7978910a5f74ded0691b734f056df6bb44d17aa6785"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-GmjmRQ0A.pw.toml"
-hash = "7ef5514faeff0b2d98712e0fe10d9de2c810f3e2d5bbcb89ae2f524ee5c01248"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HSfsxuTo.pw.toml"
-hash = "60e28460cd7f8cd0ef61997bbb4f6fe2b2c2825a26289a2647704078d1a6a1d1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HWHl8Evb.pw.toml"
-hash = "4573b111ff6d68bec346341dfe1c42edbf2162cc401b1f97aaa0efc1fc077166"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HXF82T3G.pw.toml"
-hash = "66d7accfbf733f7125c824b02b40644a104cfe9d4b0a7c27dfeaeacaca1f0588"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HaaH232J.pw.toml"
-hash = "442bf1c523538bff44936dcf434e1158a4a312d2a48df08a88b1fa8f42a0c0ca"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HjmxVlSr.pw.toml"
-hash = "b34f1c5869537519624f71e3acde348ac2002b3126169ed58b0685449e1b5f8e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HmH1GVFY.pw.toml"
-hash = "f4deccb7dbd300ac095c572cc8fc1570ecaec412b33a71aa8c0c3aed0bc16349"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-HsdNFinx.pw.toml"
-hash = "f53021b9e0793d45f4b72dfa86560fe9072a450479e2699a7f4dc9f195cfa662"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Ht4BfYp6.pw.toml"
-hash = "f17b363e104c7bccb2dc5ffbf2a64ac67b9866895d8c987ed6ad68f380d1cab2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-IAnP4np7.pw.toml"
-hash = "63dcb23891bd303b481d9f2bdb839ffc88529541039225e666743066858f81b7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Ins7SzzR.pw.toml"
-hash = "83c855b1b1155da4873eeed3ea1be816a78d6517bd82ef470db37ac295052678"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-JWGBpFUP.pw.toml"
-hash = "33f4a47bbf08864a62841a676ccc09c90eb8d54b79b1244bc9f16a2b8431b540"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-JgwUmQSH.pw.toml"
-hash = "f6640963f1aac06613f3c6193a42d6f1df7a85c67661c83d6d4002cbc5d1651d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-JiEhJ3WG.pw.toml"
-hash = "437ff18dd77c0bc29f7bd6f3fbf3997e02250d563eb3a0935a85b25ee12304f4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-JtSnhtNJ.pw.toml"
-hash = "c5b4dd8ad28ee9462b214b88477c299b0f312be7f9d5c6a9668ede9a8a2edd81"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-K0LQpdmm.pw.toml"
-hash = "751a879a5ec8993ae9bfbec5a9f767bc31bd3adaca4fcdd469f3453a99266004"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-KUJdfPQz.pw.toml"
-hash = "2e185c5d77ae27e5f61d336a1b299e270253f5bbb40240fc6d9274a938ba6179"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-L1RT5SJc.pw.toml"
-hash = "94380b968c79c687487c8e75b4bec903bd8079740bc58107a9322e950f46fe86"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-LNytGWDc.pw.toml"
-hash = "c56638722ed51c09c5720883902107e93c145875b73ed73813cdaf0086a9b045"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-LQ3K71Q1.pw.toml"
-hash = "2c05c29c43d40e0cec099ebd55f47606318a6cf80784b5b1c44d63bff9859856"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-LTTvOp5L.pw.toml"
-hash = "26677cc646c60482555bfcd0883b19ffec69e6691a9dc8d81a0f0406f438b8c2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-MBAkmtvl.pw.toml"
-hash = "ac17e47cb659d0b94989ece3a6988246a91dbad31f66ce4b10561102cd715d75"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-MPCX6s5C.pw.toml"
-hash = "9f3536110042e3d5f21a0c35b7e9c2664526f13cb77c365aeead378c25e441cd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-MVARlG2f.pw.toml"
-hash = "c96ba9eb5901a88aeeb9c05857733df2bfdabed97c5103500ca97a81570c55b9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Mt3rcQKj.pw.toml"
-hash = "e9cbde82669337a3f1ab743cb7a3303764bb9c8e9dfadf4abf70bcc618abac10"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-NRLPy2mk.pw.toml"
-hash = "cfa740faeab71854394ef35a2053e87223e31d0f757452e4e935586e0348f1ac"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-NRjRiSSD.pw.toml"
+file = "mods/memoryleakfix-forge-1.17_-1.1.5.pw.toml"
 hash = "5cd6280c80d9733f706881fc7c252b0369d98f4bbd7d76a18f12bf88c611cf60"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-Na8nA0jA.pw.toml"
-hash = "328a46c1585b56552d06aa29bd683786f600e3e9c722c8e2d4681150c3a22491"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-NcUtCpym.pw.toml"
-hash = "6bac327b03628a51c4df0aba2d83ac702975b152f9be0d45b8813c8889d355e4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-O7B5FVvG.pw.toml"
-hash = "5b98db03d1a8d88b8b94a666905894ded01a6c77e0b04d56f0480bc025ee1219"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-OVb8ZE5p.pw.toml"
-hash = "092f959c91ce57ca1f7763124bd86b42a25f0e99d9363f6a749e54da5bbe0a3d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-OZBR5JT5.pw.toml"
-hash = "e3f79e4da9a826b1c6e7f4eb75c53e43e3d6a22f42fcb43113006d1d335be9b1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-OeGdeWEj.pw.toml"
-hash = "93c7bee730ce73e4a02c3ab254aae30be8fabbdccb8db3071dd2090dbd91985e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-OsZiaDHq.pw.toml"
-hash = "82f5e35c4a378d4c09d830ce32fed708712fcd1e26466398a09d4700a955ee6b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Pqlv7VM3.pw.toml"
-hash = "08b742830e9da1bbe28a492994d9b383f23c7019d8f04b959f96aba6d954b4f8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Q8xUICr6.pw.toml"
-hash = "5746905cfafd452a8f4934d90cf8aaf1e0d69ffb7ea99d11b23cbc60a9f44215"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-QAGBst4M.pw.toml"
-hash = "2045538544b971ced302ae0ffd8c9b2e81ebf89b63d9e9482287e92826227484"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-QQ4KrMAG.pw.toml"
-hash = "11eb2fd15214e6da6c34d73793f3c0d9e410de581ecadf3a2760838375a062d3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-QdG47OkI.pw.toml"
+file = "mods/modelfix-1.15.pw.toml"
 hash = "efd702038f1d1fee0e28106301d751eed038840a2cc2a817a5350be7436152ee"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-R2OftAxM.pw.toml"
-hash = "dfb62c80e7f33dca9b49a9aa6c52f499bed9c84375d70ec038d2dec3a0028ee9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-RYtXKJPr.pw.toml"
-hash = "913471c5ecf9e19335a01027e3bbe9f5cb56e06258558350c2a975e0969e25f6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-RzRSJOBi.pw.toml"
-hash = "1a64c5da8a774e1e8da8b7dc116e7210be6c0875d61844b9385305c6ff2b1dc6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-SwolYSb8.pw.toml"
-hash = "fa2724d6587ce55226f731d5e56bff32b9f673f95a9fe34f3486215a31f11a43"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-T21szC0a.pw.toml"
-hash = "56ac5c54a7cb253f6a4811cac59d7c9cf41d23f3fbb169e18779468be1d5f71f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-T8TGycIQ.pw.toml"
-hash = "09fd8b6e0e909951f6c198d788bd3d6afd945ddb4497f4ea62c10fd6ab9062ff"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-TEOa2X8B.pw.toml"
-hash = "e20ee846d445fb835ea171a17ae31b5b4b8ed6e22db0009a4e114e79a1c03962"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-TVhC6ZPD.pw.toml"
-hash = "5959692d453cf5f232689c1cac5c1943820176ce61820018103ff57a2ebd5b72"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-USgVjXsk.pw.toml"
-hash = "5bc11df1638145b2b8167cd4e5dd66051bf1b1601f29e78aacca3b5050ae5d26"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-UVtY3ZAC.pw.toml"
-hash = "e0000d57087ccb117e1c3b78c9c096bafc9e5c2fe396202e34bb3f6341c522ad"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Ua7DFN59.pw.toml"
-hash = "c86f70e17df58c394816e88558211325ba0e0c358563144a9b0b7a834dae9c1c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-UxJVewrJ.pw.toml"
-hash = "a4a4ccdcba420e9c48fb4eed484cf5c2ec708c974aaf9b3b05ca654b423a2f2a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-V6fKbpBN.pw.toml"
-hash = "14ca2bd31e46cbd4b2a0b36864f53594a83d5177bf0da41c9c37ab85292a56f4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-V7pmsAKw.pw.toml"
-hash = "345e85fe3da2e4af97c9c3029bee1c64b638aa8401d339e1a91ae6d78160b7cf"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-VZWuyRVr.pw.toml"
-hash = "8fad22d2d43f5291d98ac54996790aa43d4f5bc2839a5dc1a3586c74cadae8db"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Vg5TIO6d.pw.toml"
-hash = "6e035c9cf9980dab3bc001a1373f9bfb28f5098279521fdbee8b0932016f7c78"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Vv0RM7WN.pw.toml"
-hash = "b2e1ac97a53d3b05da0fe9069795900e0328a847d803d992ea5a19fa61dab35a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-W4Ajthd2.pw.toml"
-hash = "c9bed07146e03a2663ba7c63d26ff53cf96d487234feb66df396dc684164c32c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Wnxd13zP.pw.toml"
-hash = "c50c5e041acf6db632642bb7e76ff12e6e0d4748466c02d5eb1c8433110903bd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-XCIMrYn0.pw.toml"
-hash = "28bd27e6bbb6ce8f67df3777ba2be166f8bb47b4c416615f2773d831fc4bae49"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-XD7XOrAF.pw.toml"
-hash = "a0718effb492a702d8fff91ee55fb0b5e1c33ff80f63b33091696d907a7da4ea"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-XNlO7sBv.pw.toml"
-hash = "1d259fd31c0d3b3e1188e3b16acf99b3070613418867fc9583031a12241eb9a0"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-XZNI4Cpy.pw.toml"
-hash = "78b70558c35a9d16c085c1e9858865509af532feb246b04386718451c149e373"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Xm1BSBfU.pw.toml"
-hash = "5a9d59b9b65fcf546796144300133a1af809aa14796eabe674222c215fe0609d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Xs0XTOVv.pw.toml"
-hash = "d5b38531f7376421cea023b472e7d6192f369b1c792a3e806d553dd2dedbb3e7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-YP9DjOvN.pw.toml"
-hash = "7bee4b9ffec92421c6d0a8ed021fb00d829767e4db3d97e95cca5cecedb59629"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Z2mXHnxP.pw.toml"
-hash = "a3ac2afe7ce588ae01f6d23a1250f1f38b7fe120146c1f314a1c4155cbc58849"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Z7pgiD50.pw.toml"
-hash = "4b29d7602bdffcaae32b8de4a865060a6ab62d0bd987a9b972df85faeaa35d87"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Z8OZShAU.pw.toml"
-hash = "fc8030171421507d24fda7af2f0f1463e3ec19f3e3d1bd63853d133bde5c28f8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ZJTGwAND.pw.toml"
-hash = "425d70f7ded9b9abd5102430fc388f92ccd567bfdd36e061f725bae160716060"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ZP7xHXtw.pw.toml"
-hash = "aacb090de24c66356c3b1d6d2d8c03346a4b7f48291fbdb2d7f053af843ef412"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-Zi15pXgt.pw.toml"
-hash = "8e1d6af6415ba3835910d4e1c9254d81ec2b1003807c80cea38d896675595a17"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ZzjhlDgM.pw.toml"
-hash = "e4ca1790f21f3e209731b1667dec50021f2da1ce2fdc552f7748ba78694792a6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-b1ZV3DIJ.pw.toml"
-hash = "4916053a6f43a621dd57da049c37c3ca7eb1b8a6d3bbf69b1a463e33b5628c2c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-b5GyyYkp.pw.toml"
-hash = "eb73c21f134675a99b2e3d0f1f07f122a0775bc136b56ee59f0f90a7084ec0f5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-btq68HMO.pw.toml"
-hash = "a45318cb07f345021ab1702a6303563476c53f01e87a6d9e68a3b2d906eea7ab"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-c7m1mi73.pw.toml"
-hash = "a8d0514136feee1aff859004a7fa03af4470ab574c529e0ac248582cd722ac91"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-cVNW5lr6.pw.toml"
-hash = "6fe8ad2806410b18c50c4cda43063b537a43f0a68e03a8dd1ce6b823340e3926"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-cl223EMc.pw.toml"
-hash = "cedb1e84d58e2dd2231128654959548225a5835e31c94cb5feacb705597f7c37"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-d47NdDkH.pw.toml"
-hash = "48f1da48ae13e46b352bc6e95f3c7addc67051323ebb6e1a7358a5a1d1cfdfb1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-dCCkNFwE.pw.toml"
-hash = "d4535d964047a8cce1c1ab0d5105650141b7a758dee15b1b269d5f530b599acb"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-dFK7YEzQ.pw.toml"
-hash = "672d2707c2686b2758095a76e8324fc52fc44f219ea0b2bec0e916fe245f85cd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-e0M1UDsY.pw.toml"
-hash = "2cec3c1442674d68ac2c537fd12d9ab62d7d0bfb388b97d81c9a70f6ef9b6f0a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-e0bNACJD.pw.toml"
-hash = "87431138a8bfe0b0a21e62cee75fae188d0b285f75216b4b48819cf0b7d5fc96"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ePCzRQkj.pw.toml"
-hash = "d2c28904c12088a3fa0e1c075cd164dedc49d6c4aaade1153a64db617569d0f4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-eiktJyw1.pw.toml"
-hash = "fb74a39d5f9b548258a0afb3f82d8e3ebf8cb84834e79079a1a8087f5568f349"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-eu7WswDc.pw.toml"
-hash = "2abd448e929d795304f519ac9cd076532174b8437ea5340c141eec550b69a6eb"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-f7J3NZvt.pw.toml"
-hash = "98141d11f470134a6908b4bd3d5b8ab9322e5f22d927e55f976ee1104a2b921f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-fALzjamp.pw.toml"
-hash = "eaa77ca2f6fdce7d5bf29b675000fb393a3da9702c535dbe73b67161554a3e4b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-fFEIiSDQ.pw.toml"
-hash = "95b91bf53ccccac6dabf04437eedfc4d6c40a9455ab125f8c7c018bf18b3ca32"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-fPetb5Kh.pw.toml"
-hash = "4ab7415b6ba2242d9a990e7953b113d597c9a1936b0dba63cf04a73fefb3af9e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-fXt291FO.pw.toml"
-hash = "e68d074b90629c2e54a2a57fc22356bc3746ef321b55523fbcae88ed17d620d9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-fgqpjvEk.pw.toml"
-hash = "8164e7fab933f80699714b715bdc502e5e7957c167f033257b2521295eabeec6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gF3BGWvG.pw.toml"
-hash = "6b13d19f8d5503d549c8f5af8d7682ad0e1342c23e5ae7c226aa8ac436ccc55d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gJ5afkVv.pw.toml"
-hash = "f478df18c827bbe10cfcce54a9c7defbe40bc8f8371b5429f1257ec72d45397f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gSeQTNSE.pw.toml"
-hash = "d9191a4f8ebc8f6bac4e08b21b3ffe3bc5a0e7e3c30acfd488a2103565e5429a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gY0sChT6.pw.toml"
-hash = "d32de39cf746845c6ce8fa060ff157a44847b28ad747121f6b87af4507396076"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gedNE4y2.pw.toml"
-hash = "267c5f1e919b253ae0b68b0b1463e6540ff46db98d4d7d03e972c435dd5425da"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gu7yAYhd.pw.toml"
-hash = "0676ee4fa925aae97350043d307ad104fc4c4f2e9c9c8c74f6d540e77bc907ad"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-gxoNIjg6.pw.toml"
-hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-hSSqdyU1.pw.toml"
-hash = "4873af303b737db41d2bf9d78a2dd12cb2dc6fde5ee30cbbee9ad4ad0dec9d35"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-hg77g4Pw.pw.toml"
-hash = "68a8b8863cc28b635072e74f854b85452cce6e648217e1007cc90718483ed0f2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-hl5OLM95.pw.toml"
-hash = "f2234408993557adbfe246b9957d893ec7cd1594968237e1dd4d28aa4fb49369"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-iRfIGC1s.pw.toml"
-hash = "a585d094da889075d088f472e8e4751044966ce3e3a07a991dda46b525c723ef"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-jJfV67b1.pw.toml"
-hash = "81ddad60970f7c52009a063a3928d84237a184b577e630d2afffc266f0ea6c43"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-jmLyNFBG.pw.toml"
-hash = "7b95e7a196b8ba6687dbdfe4a52a56519ff31d3051e469a36208ed3107fd25a8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-joEfVgkn.pw.toml"
-hash = "44eb0505c062eac77426723c7adeca16cb4e3c7722368dc7a4a108544ff39e15"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-jv0UKGOX.pw.toml"
-hash = "a36c2e4c85ad37c74ad25626c3196f0d8c40361df1495e36a0ba1718ad62a363"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-kB56GtWA.pw.toml"
-hash = "ad46bd43699bd8240188d57d2687a81f84535be7d34504a9cd5e6347abc2886e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-kCpssoSb.pw.toml"
-hash = "97a8b7a3344653e1e994475a1d2f7e68cbd904229568ec03378b99cadb3cdc09"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-kU1G12Nn.pw.toml"
-hash = "20926576de61fd821db1940360ff9ba64b47355b28a95f17ae6fe1517bf48deb"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-kfqD1JRw.pw.toml"
-hash = "7fe2c6c4c96ab945fc1bf72e09b17816eb79281c8bab9d90544b524e2d77fdc6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-kt3BLgXB.pw.toml"
-hash = "aa85fcc8dc3b2f2adfcb8da561854c6b13903769c53219614570a32e53796916"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-l9fldtN4.pw.toml"
-hash = "77497dd4ba03128587b2d1780a4b5bdd73e4eed8c11cd6ba988409222727077c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-lOOpEntO.pw.toml"
-hash = "61adccfbbc62cf29138f6188ef12274d0b089c838ff15ce184b1979519005a64"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-lg1TPRFm.pw.toml"
-hash = "4b2d40927f9c5bfaa547e351fd4ca203b840f3fe860f3569440daf6eb221598d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-lhGA9TYQ.pw.toml"
-hash = "2f9a38b74141117e679bf6386340eeaf9ec4b0be7c816d65b6d7e777fe44bb93"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-mSQF1NpT.pw.toml"
-hash = "4551c1b021ca401c41920c28a335b91bd84e5d9ea0dea13ddf5a5755443e4345"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-mfzaZK3Z.pw.toml"
-hash = "f5c85969007830279139e6cf040d8c515157997e6f85d299a639c13290518648"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-nU0bVIaL.pw.toml"
-hash = "99abe4dfe8bbef498b29d39aea1da3b061bafa5dbd961e36d5c3828aa062001b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ncAcdgk7.pw.toml"
-hash = "4e8634bb80b60573e801d5cbfb95542755c30d02ba1a94fbe8ae2dd76b7667fb"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-nmDcB62a.pw.toml"
+file = "mods/modernfix-forge-5.16.0_mc1.20.1.pw.toml"
 hash = "925fb3f02001092bdec6d4b3d465e12977443d5a99a6da2b5fe90b93129f9172"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-nvQzSEkH.pw.toml"
-hash = "d543e19867e1fe3faa67ca31f6953c550220c705e0a37a803444527547249522"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-o1C1Dkj5.pw.toml"
-hash = "a996c566a82892cd6cc39087da7d21a27f411345a42d2b95526ee7e889fbccfc"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-ordsPcFz.pw.toml"
-hash = "978619dab9ceb2d945f45c57f75582989f31d262056254c689a95e52f998b9a1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-p19vrgc2.pw.toml"
-hash = "06dfa6a8a2cb9b77f174d02056359f8105d784546466933d3669e35ae33205e3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-pJmCFF0p.pw.toml"
-hash = "d3f1bacc4e17827b46f7b14a944147ba392d15c16c8d8c8e9a065970ba0aaefe"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-pvcsfne4.pw.toml"
-hash = "646b567117d16ebfc731d6a62a79b2fedea5a29bf36f3f7c6eca001be6c20db4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-pzR01ieE.pw.toml"
-hash = "34059d9b27b5e7d01cf063aef3a1f202bd5700fa60763003f96646d4450fcd61"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qQyHxfxd.pw.toml"
-hash = "bce65ab0b2c1216b7e599eaaddc0417adf17beec64df4e7dc64d72be7e976650"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qeEEslrN.pw.toml"
-hash = "ceb3754b339c98e4eb83cf824400a71fe735f68fa3cfa925e1fdebbbd58a384a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qmCh2PxS.pw.toml"
-hash = "32cbe6de6abf4d739264a3989dea070c1756d99dc93568901587fa5be5f0e7ba"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qnQsVE2z.pw.toml"
-hash = "1f4f757208691369908f8b551e0fcf3064e694c5ff3b5ff702f2c41168be7ce7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qthuEuVy.pw.toml"
-hash = "4a6674eb0d5d22e64a4941368ec53e2b6e51559d2d749ebee6a8c5c524bd5fd5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-qyVF9oeo.pw.toml"
-hash = "c029000ee3476e1b342e02c9011a353690cd2f432a0ce25f33fbcc6c10fa6c0d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-r4Knci2k.pw.toml"
-hash = "1b89669ffdab5d8ea1ffd367a224d9ab98be43161882f1e9831781988865f13b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-rTvWs5Jz.pw.toml"
-hash = "56ec1e0cd70979e434e2beb35e7105be376300171c66f0d8ad20ab0cd349f103"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-s4OWxYQQ.pw.toml"
-hash = "0a0fad0d8df03300313d98ca6fb0f537c00180bd8f681b293de07382b919d8f8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-sMvUb4Rb.pw.toml"
-hash = "07a119f74a64a646de7d9cd41b7517cfa1eb33eb8bf83c555d9586a36cb814a3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-t6BIRVZn.pw.toml"
-hash = "97da81059641c591fc7ca85f19d2f401fdf6726b93a44d9cfc80668c16619e16"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-twkfQtEc.pw.toml"
+file = "mods/moonlight-1.20-2.11.12-forge.pw.toml"
 hash = "5d1bdf91dffbcbce167a16c16329961bb67cc83ed06b5c6a5a4d809eb2043bf1"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-u6dRKJwZ.pw.toml"
-hash = "fea2dba897774455223d382c4237b2ba7f7c3a7f47069e530caf363acba56b12"
+file = "mods/moremobvariants-forge_1.20-1.2.2.pw.toml"
+hash = "437ff18dd77c0bc29f7bd6f3fbf3997e02250d563eb3a0935a85b25ee12304f4"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uCdwusMi.pw.toml"
-hash = "7a1de9a4fcf94de669245ca903debf42eea5cc1c1b1977c82272b0e9f629b6f6"
+file = "mods/mutil-1.20.1-6.1.1.pw.toml"
+hash = "4573b111ff6d68bec346341dfe1c42edbf2162cc401b1f97aaa0efc1fc077166"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uEfK2CXF.pw.toml"
-hash = "610e6d7c3ac2546d3e786730ac19c1ba183609bad0c5b89af6aa1387a508e426"
+file = "mods/nethersdelight-1.20.1-4.0.pw.toml"
+hash = "b2e1ac97a53d3b05da0fe9069795900e0328a847d803d992ea5a19fa61dab35a"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uWrs8XlB.pw.toml"
-hash = "98a281b93c46bf2cf4913a8d65365a73058a112d465c6de149cabf2a350e12de"
+file = "mods/no-telemetry-1.8.0.pw.toml"
+hash = "68a8b8863cc28b635072e74f854b85452cce6e648217e1007cc90718483ed0f2"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uXXizFIs.pw.toml"
-hash = "404517707006a1de8885562b6d32a1750a1c14e848b3033c793a1db84dc48bda"
+file = "mods/notenoughanimations-forge-1.7.1-mc1.20.1.pw.toml"
+hash = "9f3536110042e3d5f21a0c35b7e9c2664526f13cb77c365aeead378c25e441cd"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uXhSmPjd.pw.toml"
-hash = "d0b377c42e91d00a1e97c49c9b31ce5e609ead0e0517ffdc85b95c909c74ed7d"
+file = "mods/open-parties-and-claims-forge-1.20.1-0.22.0.pw.toml"
+hash = "6b13d19f8d5503d549c8f5af8d7682ad0e1342c23e5ae7c226aa8ac436ccc55d"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-uy4Cnpcm.pw.toml"
-hash = "e519279e1efdd4d114a011285c83244874dca102120720f8847dd6340d89eec0"
+file = "mods/player-animation-lib-forge-1.0.2-rc1_1.20.pw.toml"
+hash = "267c5f1e919b253ae0b68b0b1463e6540ff46db98d4d7d03e972c435dd5425da"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-vt0VyseM.pw.toml"
-hash = "eb1d217106a7e4481a4ebe0a0375be31396d30f280dd7ee777972c036f0c9252"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-vvuO3ImH.pw.toml"
-hash = "d384f7af2427c8b6e6452e30238c09a57800332ce6b05ac1f70c74101fcf9c1f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-wDvpvvcU.pw.toml"
-hash = "c40deab8d1562a712ce1e14690716217702402211e64b97ef8b2471b11b072d2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-x49wilh8.pw.toml"
-hash = "d24b94bf363d39bb9967e4d1417fdf67662648adb883a44a00879d5925d28fb8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-x5iQ3NM5.pw.toml"
-hash = "2f06ef327da253d079d94b3468b6dbbb2a38e86929b9bb4b2162be1631e8825b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-xuDOzCLy.pw.toml"
-hash = "770ae749cc56201513aba92ddf453742cd5f149f8cf71f68b957d8ece3dab67e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-yHN0njMr.pw.toml"
-hash = "f50edef0ed4b44a7faa1219dc14f8e06d2cec376ec496134a580b29dd4065d73"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-z3TzcquW.pw.toml"
-hash = "70b61dc7c4b8462608bc7f07f00231165e4880502a0121e13e8cadcf9dc5930f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-z69Pxatv.pw.toml"
-hash = "ffd65acf1466c9055afddaccccc3e7f995c5c2691a95b7b3e35f396e22a8282a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-z9Ve58Ih.pw.toml"
-hash = "f57d68803e17719a5f3c42601d27490b4e29da0610e554c39e2dda7a0c25b30d"
+file = "mods/pneumaticcraft-repressurized-6.0.14_mc1.20.1.pw.toml"
+hash = "4e8634bb80b60573e801d5cbfb95542755c30d02ba1a94fbe8ae2dd76b7667fb"
 hash-format = "sha256"
 metafile = true
 
@@ -1348,8 +1150,44 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/resourcefullib-forge-1.20.1-2.1.24.pw.toml"
+hash = "f7b9a37e8a99b15e8f16bc381a2c94df85a6832bfab1805e2b82e9fa8341cee3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/sintra-connector.pw.toml"
 hash = "9863029851a42578fe6703cfd199404e23eeaf0093d48d7457216c43f6221152"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sliceanddice-forge-3.2.0.pw.toml"
+hash = "7ef5514faeff0b2d98712e0fe10d9de2c810f3e2d5bbcb89ae2f524ee5c01248"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.20.5.1039.pw.toml"
+hash = "60f7f05449c3093ae4013dd00f6c258593316469bd96439f748f87806159be6d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-0.6.18.597.pw.toml"
+hash = "583c34484eac5730d88bf4b0b7a22e60ada6c1493a93eb7087575eb253c26bff"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1.20.1-0.10.20.778.pw.toml"
+hash = "284778cd72dbfe41fe3513a89a7432f775c3d4106cdf2edb73b08fba3c761f62"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/soundphysics-forge-1.20.1-1.1.2.pw.toml"
+hash = "c029000ee3476e1b342e02c9011a353690cd2f432a0ce25f33fbcc6c10fa6c0d"
 hash-format = "sha256"
 metafile = true
 
@@ -1360,8 +1198,146 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/spyglass_of_curios-forge-1.20.1-1.7.2.pw.toml"
+hash = "f4deccb7dbd300ac095c572cc8fc1570ecaec412b33a71aa8c0c3aed0bc16349"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/starlight-1.1.2_forge.1cda73c.pw.toml"
+hash = "a585d094da889075d088f472e8e4751044966ce3e3a07a991dda46b525c723ef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/storagedelight-1.0.2-1.20.1-forge.pw.toml"
+hash = "26677cc646c60482555bfcd0883b19ffec69e6691a9dc8d81a0f0406f438b8c2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/structure_gel-1.20.1-2.16.1.pw.toml"
+hash = "09fd8b6e0e909951f6c198d788bd3d6afd945ddb4497f4ea62c10fd6ab9062ff"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-1.20-2.8.10.pw.toml"
+hash = "95b91bf53ccccac6dabf04437eedfc4d6c40a9455ab125f8c7c018bf18b3ca32"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/suppsquared-1.20-1.1.14.pw.toml"
+hash = "d4535d964047a8cce1c1ab0d5105650141b7a758dee15b1b269d5f530b599acb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetra-1.20.1-6.3.0.pw.toml"
+hash = "7bee4b9ffec92421c6d0a8ed021fb00d829767e4db3d97e95cca5cecedb59629"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetra_tables--mc1.20--1.1.pw.toml"
+hash = "50b783ec4f1abd4bb5837e1441c783c50a0625ddead37b6e574d4de34606ff56"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium-1.20.1-1.2.0.pw.toml"
+hash = "56ec1e0cd70979e434e2beb35e7105be376300171c66f0d8ad20ab0cd349f103"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetraextras-0.1.4-1.20.1.pw.toml"
+hash = "c40deab8d1562a712ce1e14690716217702402211e64b97ef8b2471b11b072d2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon-1.5.3-1.20.1.pw.toml"
+hash = "029f8217f0a6fba2fbcb894d1187be98fffb41438e68c0c6f7cff4485d77e721"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetrasdelight-1.20.1-1.pw.toml"
+hash = "5959692d453cf5f232689c1cac5c1943820176ce61820018103ff57a2ebd5b72"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-0.8.0b-1.20.1.pw.toml"
+hash = "5bc11df1638145b2b8167cd4e5dd66051bf1b1601f29e78aacca3b5050ae5d26"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/toms_storage-1.20-1.6.6.pw.toml"
+hash = "78b70558c35a9d16c085c1e9858865509af532feb246b04386718451c149e373"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/toms_trading_network-1.20-0.2.3.pw.toml"
+hash = "2f06ef327da253d079d94b3468b6dbbb2a38e86929b9bb4b2162be1631e8825b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/toofast-1.20-0.4.3.5.pw.toml"
+hash = "e1bcafcaf13d69b49ccf5d48de71a61aae210f36d7e66f1f96b960ca2bc3e2e0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/trainperspectivefix-1.0.0-universal.pw.toml"
+hash = "5a9d59b9b65fcf546796144300133a1af809aa14796eabe674222c215fe0609d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/transparent-forge-8.0.1_1.20.1.pw.toml"
+hash = "151ad7cb3fb5cac053d9a88c86ad4a87c58e3a1afb3c31ebd6b5b1f219a46e2c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/turtlechargingstation-1.4.2-1.20.pw.toml"
+hash = "98141d11f470134a6908b4bd3d5b8ab9322e5f22d927e55f976ee1104a2b921f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia_core-forge-1.20.1-1.1.2.pw.toml"
+hash = "f53021b9e0793d45f4b72dfa86560fe9072a450479e2699a7f4dc9f195cfa662"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia_furniture-forge-1.20.1-1.1.3.pw.toml"
+hash = "32cbe6de6abf4d739264a3989dea070c1756d99dc93568901587fa5be5f0e7ba"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia_structures-forge-1.20.1-1.1.2.pw.toml"
+hash = "56ac5c54a7cb253f6a4811cac59d7c9cf41d23f3fbb169e18779468be1d5f71f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vegandelight-1.1.pw.toml"
+hash = "328a46c1585b56552d06aa29bd683786f600e3e9c722c8e2d4681150c3a22491"
 hash-format = "sha256"
 metafile = true
 
@@ -1376,6 +1352,29 @@ file = "mods/villager-names-serilum.pw.toml"
 hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/watermedia-2.0.25.pw.toml"
+hash = "9f065be3753b027257e9f103a057f6940d88b5cf1cd51d3da8af5b9b65a6bd6e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/witheringboon-1.8.1.pw.toml"
+hash = "40eeb339e5ab6824a47ae23f8dd03fa506a5d0ee24980db30443362292ab04c7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/workers-1.20.1-1.7.7.pw.toml"
+hash = "08b742830e9da1bbe28a492994d9b383f23c7019d8f04b959f96aba6d954b4f8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "rename_mods.ps1"
+hash = "6064334109d9f69f2b6d95dd08b207549f93999dc6590ad65dfe6cd9e3f58e14"
+hash-format = "sha256"
 
 [[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
