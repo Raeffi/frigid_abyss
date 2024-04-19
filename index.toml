@@ -898,6 +898,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "d40e08f687272753df7c2651b088d4962855cd0082df5bfe5cb20b6f8ca71f25"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 hash-format = "sha256"
@@ -978,6 +984,12 @@ metafile = true
 [[files]]
 file = "mods/idas_forge-1.9.3_1.20.1.pw.toml"
 hash = "fc8030171421507d24fda7af2f0f1463e3ec19f3e3d1bd63853d133bde5c28f8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "eef29e49c6a18f0361586eb2ff2c966bd8a869d2c5a10bae8a0519d65495d79e"
 hash-format = "sha256"
 metafile = true
 
@@ -1132,6 +1144,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/philips-biome-features.pw.toml"
+hash = "2729a97c96fbc592c1792c3fcfac523f5f218733898e1fe7fbd3d84fd2807774"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1_1.20.pw.toml"
 hash = "267c5f1e919b253ae0b68b0b1463e6540ff46db98d4d7d03e972c435dd5425da"
 hash-format = "sha256"
@@ -1152,6 +1170,12 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.24.pw.toml"
 hash = "f7b9a37e8a99b15e8f16bc381a2c94df85a6832bfab1805e2b82e9fa8341cee3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/scorched.pw.toml"
+hash = "001a2013141654cc69bdfca0e45f72e0c08b673cc0d8036f37fd9cf9fe2fcbd6"
 hash-format = "sha256"
 metafile = true
 
@@ -1212,6 +1236,12 @@ metafile = true
 [[files]]
 file = "mods/starlight-1.1.2_forge.1cda73c.pw.toml"
 hash = "a585d094da889075d088f472e8e4751044966ce3e3a07a991dda46b525c723ef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "e9f07e556c36f4fc11f7018b64216b321126279215424f0b4ea7f87674a5ba23"
 hash-format = "sha256"
 metafile = true
 

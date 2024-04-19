@@ -1,0 +1,13 @@
+name = "Philip's Biome Features"
+filename = "Philips-Biome-Features1.20x-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SgJ1fPnh/versions/7hS9jQlo/Philips-Biome-Features1.20x-1.1.jar"
+hash-format = "sha1"
+hash = "22cff542e5cca435d25622c193a7e1073f541b74"
+
+[update]
+[update.modrinth]
+mod-id = "SgJ1fPnh"
+version = "7hS9jQlo"
