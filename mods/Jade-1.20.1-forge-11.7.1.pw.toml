@@ -1,11 +1,12 @@
 name = "11.7.1"
-filename = "Jade-1.20.1-forge-11.7.1.jar"
+filename = "Jade-1.20.1-forge-11.8.0.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/cqz4BTbh/Jade-1.20.1-forge-11.7.1.jar"
-hash-format = "sha512"
-hash = "e16165804735f1348746362c0ab65ab3f5f15807c6cd6effb0c755c089967c9df6bf65db1e04c014a2506bd598e8ba855b8c2a1e17cbdacb7b88ec5f5c0aedd0"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/akD4smps/Jade-1.20.1-forge-11.8.0.jar"
+hash-format = "sha1"
+hash = "bc7eca506af9e754b6283af15ba5a35532a96683"
 
+[update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
-version = "cqz4BTbh"
+version = "akD4smps"

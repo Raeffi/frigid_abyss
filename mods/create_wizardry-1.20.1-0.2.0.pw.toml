@@ -1,11 +1,12 @@
 name = "Create: Wizardry 1.20.1-0.2.0"
-filename = "create_wizardry-1.20.1-0.2.0.jar"
+filename = "create_wizardry-1.20.1-hahafunny-2024.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/mOgWkw6t/create_wizardry-1.20.1-0.2.0.jar"
-hash-format = "sha512"
-hash = "df73c7a289fd439f1b6abf8a1c39d14076f674582fe08d40af1d72375ad0174bf7e1035a027f05e9dcc16d6b417be8878edfbde4638007f6c376234f1e127d36"
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/p1v3RwSC/create_wizardry-1.20.1-hahafunny-2024.jar"
+hash-format = "sha1"
+hash = "f8a6ac3f46447a3f3a1690c0ec891b04d79eced7"
 
+[update]
 [update.modrinth]
 mod-id = "OeGdeWEj"
-version = "mOgWkw6t"
+version = "p1v3RwSC"

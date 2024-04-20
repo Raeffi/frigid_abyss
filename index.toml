@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/BiomesOPlenty-1.20.1-18.0.0.592.pw.toml"
-hash = "66d7accfbf733f7125c824b02b40644a104cfe9d4b0a7c27dfeaeacaca1f0588"
+hash = "1201e27ae87795f18e376fe3ea0ff61a7c0cd0132ff0b26b0893974489c2b408"
 hash-format = "sha256"
 metafile = true
 
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/Chipped-forge-1.20.1-3.0.4.pw.toml"
-hash = "9103681ec0acfb503d04c43611acc7140a1497e0873b748c544b904bf4824db9"
+hash = "c934f525b9c7cc3d7440f5a0275af09220ee8b43ddea8e2790cc9e663051c697"
 hash-format = "sha256"
 metafile = true
 
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.pw.toml"
-hash = "82f5e35c4a378d4c09d830ce32fed708712fcd1e26466398a09d4700a955ee6b"
+hash = "fa6f02120076c8f110dc259c15bfca346110e6ded8413b38b650029d358f8d89"
 hash-format = "sha256"
 metafile = true
 
@@ -221,13 +221,13 @@ metafile = true
 
 [[files]]
 file = "mods/ImmediatelyFast-Forge-1.2.11_1.20.4.pw.toml"
-hash = "dc4ef3ab3516f159f995a6b221f78b66f29bc4477262364c1c099dd10bbbd01a"
+hash = "39abf777aaf9f4b4ad6a396b4d63064b957b97aeac349e1ba0c31d5c426a31f7"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/Jade-1.20.1-forge-11.7.1.pw.toml"
-hash = "d543e19867e1fe3faa67ca31f6953c550220c705e0a37a803444527547249522"
+hash = "0b6d31d10c786db5ccb50a77def855e81e931b704d66acb1902a9a1bd827ae43"
 hash-format = "sha256"
 metafile = true
 
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/MorePeripherals_1.20.1-1.12.2.pw.toml"
-hash = "e44e130950b6a5d993f7f206ea7babdac68eb33d94f08bc97793408087df2ed6"
+hash = "18ec8b41181f61883b1d947ad6f84cf5b78ecfc2ea9e972224a679846084f7b5"
 hash-format = "sha256"
 metafile = true
 
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/Quark-4.0-440.pw.toml"
-hash = "1f4f757208691369908f8b551e0fcf3064e694c5ff3b5ff702f2c41168be7ce7"
+hash = "7e00d4cfcea36b2523917b3f4b0b1cfdea38b8f8f87c67febbf92f282924b282"
 hash-format = "sha256"
 metafile = true
 
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/YungsBetterDungeons-1.20-Forge-4.0.3.pw.toml"
-hash = "a996c566a82892cd6cc39087da7d21a27f411345a42d2b95526ee7e889fbccfc"
+hash = "ed81f943fd9bf54ca99c481e2958d8ca9a17709832d56591bd1194c2140b200d"
 hash-format = "sha256"
 metafile = true
 
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments-1.20-1.1.18.pw.toml"
-hash = "031fff65b5cad40843e82356ef7efdc018310b7645fa07092942556f08f709f6"
+hash = "099736c898c23f69cb2e57966c13efe953b1ee1add78ca4cb8a2762288622523"
 hash-format = "sha256"
 metafile = true
 
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_aquatic_ambitions-1.20.1-1.0.0.pw.toml"
-hash = "58fed043df4154885b1a35292f5e8d74c4aa050f58273aee09ba2b86047327dc"
+hash = "aa4f01c54ba2d99a3b897cd8598d8515e577ea53349f14295ff1959b3547cab3"
 hash-format = "sha256"
 metafile = true
 
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_wizardry-1.20.1-0.2.0.pw.toml"
-hash = "93c7bee730ce73e4a02c3ab254aae30be8fabbdccb8db3071dd2090dbd91985e"
+hash = "00e203572f5cdf372beb78cc3a7a39cf3735aab3894b8a3f2daca7db40daa005"
 hash-format = "sha256"
 metafile = true
 
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-forge-5.7.2_1.20.1.pw.toml"
-hash = "d384f7af2427c8b6e6452e30238c09a57800332ce6b05ac1f70c74101fcf9c1f"
+hash = "e71e140dfa1b6a1d14a7258a3afd7d3d078141bb327497790534a40e59577b30"
 hash-format = "sha256"
 metafile = true
 
@@ -863,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/everycomp-1.20-2.6.50.pw.toml"
-hash = "fb74a39d5f9b548258a0afb3f82d8e3ebf8cb84834e79079a1a8087f5568f349"
+hash = "65dd19e2dcee7828d0422c0a9d270b000377906c64d2e81cd0e7007a2cfcf215"
 hash-format = "sha256"
 metafile = true
 
@@ -893,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "0c71e0d641771e81a687005b3928aecac9763a2e82b6e494d99276ea986f40be"
+hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
 hash-format = "sha256"
 metafile = true
 
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-forge-5.16.0_mc1.20.1.pw.toml"
-hash = "925fb3f02001092bdec6d4b3d465e12977443d5a99a6da2b5fe90b93129f9172"
+hash = "83a89979af0c80a69ae4c41f34915e217036f9b9cd225085214268e23fd5b646"
 hash-format = "sha256"
 metafile = true
 
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundphysics-forge-1.20.1-1.1.2.pw.toml"
-hash = "c029000ee3476e1b342e02c9011a353690cd2f432a0ce25f33fbcc6c10fa6c0d"
+hash = "dbf76e5a04451396a4ab866c84b35be1368d55a8a50f909453fda8ae7e3dbd56"
 hash-format = "sha256"
 metafile = true
 
@@ -1266,6 +1266,12 @@ metafile = true
 [[files]]
 file = "mods/suppsquared-1.20-1.1.14.pw.toml"
 hash = "d4535d964047a8cce1c1ab0d5105650141b7a758dee15b1b269d5f530b599acb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
 hash-format = "sha256"
 metafile = true
 
@@ -1385,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-2.0.25.pw.toml"
-hash = "9f065be3753b027257e9f103a057f6940d88b5cf1cd51d3da8af5b9b65a6bd6e"
+hash = "3d97ed4e52ce2ab992b0e005e94bb4f0bcdc57e7920b28dd81f6d6f75ed2acf9"
 hash-format = "sha256"
 metafile = true
 
@@ -1426,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
-hash = "eb411cbbf0d840e98c869742194b74925183674db8e4d0a01151400e7b6252ab"
+hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
 hash-format = "sha256"
 metafile = true
 
