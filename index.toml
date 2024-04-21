@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlas.pw.toml"
-hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
+hash = "e372b6fc18f39219c28afe526c9bb481fa37eb65e37ccf4508b775edf80fbbbc"
 hash-format = "sha256"
 metafile = true
 
@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
+hash = "2be81801842984b7f1568bb900d3f3ee9fe9a4eeaa3404d7ded5a1086eadb34d"
 hash-format = "sha256"
 metafile = true
 
