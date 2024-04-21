@@ -1,21 +1,6 @@
 hash-format = "sha512"
 
 [[files]]
-file = "LICENSE"
-hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
-hash-format = "sha256"
-
-[[files]]
-file = "exported_index.toml"
-hash = "3d6f683e98c3c893bfd5d7826c0b0f4632a21afb40c7c99cce44af6a1df7da98"
-hash-format = "sha256"
-
-[[files]]
-file = "extract_mods.ps1"
-hash = "d16f5b19ab305e92a844c6af42f62b7218c151c7dbbdc955c654075511e8eb29"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/1_irradium-begone!-1.1.0.pw.toml"
 hash = "11eb2fd15214e6da6c34d73793f3c0d9e410de581ecadf3a2760838375a062d3"
 hash-format = "sha256"
@@ -545,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-weaponery.pw.toml"
-hash = "410ede91cc3892bf89e17da5100cb4c86df2a67ab452dfbc8986f59164e84dfc"
+hash = "2f8faef29b66edc8fa717aa146391357e1ea1c2b6a98497edfc90e4d9c43f729"
 hash-format = "sha256"
 metafile = true
 
@@ -1412,11 +1397,6 @@ file = "mods/workers-1.20.1-1.7.7.pw.toml"
 hash = "08b742830e9da1bbe28a492994d9b383f23c7019d8f04b959f96aba6d954b4f8"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "rename_mods.ps1"
-hash = "6064334109d9f69f2b6d95dd08b207549f93999dc6590ad65dfe6cd9e3f58e14"
-hash-format = "sha256"
 
 [[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
