@@ -1,5 +1,6 @@
 name = "1.20.1-84-forge"
 filename = "Patchouli-1.20.1-84-FORGE.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/JMtc0mTS/Patchouli-1.20.1-84-FORGE.jar"

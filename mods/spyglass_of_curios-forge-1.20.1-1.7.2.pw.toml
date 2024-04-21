@@ -1,5 +1,6 @@
 name = "Spyglass of Curios 1.7.2"
 filename = "spyglass_of_curios-forge-1.20.1-1.7.2.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HmH1GVFY/versions/RZufy53V/spyglass_of_curios-forge-1.20.1-1.7.2.jar"

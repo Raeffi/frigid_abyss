@@ -1,5 +1,6 @@
 name = "[FORGE] [1.20.1] TradingPost-v8.0.2"
 filename = "TradingPost-v8.0.2-1.20.1-Forge.jar"
+side = "both"
 
 [download]
 mode = "metadata:curseforge"

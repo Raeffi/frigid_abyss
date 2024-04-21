@@ -1,5 +1,6 @@
 name = "Recipes For Create V0.7.0 (1.20.1)"
 filename = "Recipes For Create-0.7.0-(1.20.1).jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dFK7YEzQ/versions/qa5V7vnx/Recipes%20For%20Create-0.7.0-%281.20.1%29.jar"

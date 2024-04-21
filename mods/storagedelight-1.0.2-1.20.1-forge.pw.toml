@@ -1,5 +1,6 @@
 name = "Storage Delight (Forge) 1.0.2 - 1.20.1"
 filename = "storagedelight-1.0.2-1.20.1-forge.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/Cu02gih5/storagedelight-1.0.2-1.20.1-forge.jar"

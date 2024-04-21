@@ -1,5 +1,6 @@
 name = "tetracelium 1.2.0"
 filename = "tetracelium-1.20.1-1.2.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rTvWs5Jz/versions/jFtEdFmI/tetracelium-1.20.1-1.2.0.jar"

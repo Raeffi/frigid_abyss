@@ -1,5 +1,6 @@
 name = "Vegan Delight 1.1"
 filename = "vegandelight-1.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/1AyN13ps/vegandelight-1.1.jar"

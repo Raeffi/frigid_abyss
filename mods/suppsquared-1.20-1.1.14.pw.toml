@@ -1,5 +1,6 @@
 name = "1.20-1.1.14"
 filename = "suppsquared-1.20-1.1.14.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/8PXoizc7/suppsquared-1.20-1.1.14.jar"

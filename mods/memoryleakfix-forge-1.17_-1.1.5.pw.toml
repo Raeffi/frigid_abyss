@@ -1,5 +1,6 @@
 name = "MemoryLeakFix 1.1.5 [forge,1.17+]"
 filename = "memoryleakfix-forge-1.17+-1.1.5.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar"

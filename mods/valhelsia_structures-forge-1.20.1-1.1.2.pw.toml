@@ -1,5 +1,6 @@
 name = "Valhelsia Structures"
 filename = "valhelsia_structures-forge-1.20.1-1.1.2.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar"

@@ -1,5 +1,6 @@
 name = "Tetra tables (1.20.1) 1.1"
 filename = "tetra_tables--mc1.20--1.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9Tk5Ttel/versions/unicTgBh/tetra_tables--mc1.20--1.1.jar"

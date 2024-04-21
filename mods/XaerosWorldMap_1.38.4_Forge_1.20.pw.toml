@@ -1,5 +1,6 @@
 name = "1.38.4"
 filename = "XaerosWorldMap_1.38.4_Forge_1.20.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar"

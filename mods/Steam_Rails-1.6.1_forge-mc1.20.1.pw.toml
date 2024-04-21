@@ -1,5 +1,6 @@
 name = "Steam 'n' Rails 1.6.1 Forge 1.20.1"
 filename = "Steam_Rails-1.6.1+forge-mc1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar"

@@ -1,5 +1,6 @@
 name = "[1.20.1] More Peripherals 1.12.2"
 filename = "MorePeripherals_1.20.1-1.13.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7ACsQCnG/versions/1zQ5RuO1/MorePeripherals_1.20.1-1.13.0.jar"

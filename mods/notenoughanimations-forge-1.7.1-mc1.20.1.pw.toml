@@ -1,5 +1,6 @@
 name = "1.7.1-1.20.1 - Forge"
 filename = "notenoughanimations-forge-1.7.1-mc1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/Lp5VGSwZ/notenoughanimations-forge-1.7.1-mc1.20.1.jar"

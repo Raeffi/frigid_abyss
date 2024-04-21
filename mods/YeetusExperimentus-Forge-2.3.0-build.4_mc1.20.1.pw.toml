@@ -1,5 +1,6 @@
 name = "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar"
 filename = "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/HaaH232J/versions/LgPc1FbC/YeetusExperimentus-Forge-2.3.0-build.4%2Bmc1.20.1.jar"

@@ -1,5 +1,6 @@
 name = "1.20.1"
 filename = "QuarkOddities-1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qeEEslrN/versions/NrzERFzz/QuarkOddities-1.20.1.jar"

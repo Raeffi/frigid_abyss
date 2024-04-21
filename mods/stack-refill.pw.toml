@@ -1,6 +1,6 @@
 name = "Stack Refill"
 filename = "stackrefill-1.20.1-4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/PsJVmVzf/stackrefill-1.20.1-4.2.jar"

@@ -1,5 +1,6 @@
 name = "mutil 6.1.1"
 filename = "mutil-1.20.1-6.1.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HWHl8Evb/versions/PI1cIWsh/mutil-1.20.1-6.1.1.jar"

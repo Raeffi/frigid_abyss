@@ -1,5 +1,6 @@
 name = "Forge 3.2.0"
 filename = "sliceanddice-forge-3.2.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/giM4WleV/sliceanddice-forge-3.2.0.jar"

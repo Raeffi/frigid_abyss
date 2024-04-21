@@ -1,5 +1,6 @@
 name = "1.2.2 - Forge 1.20"
 filename = "moremobvariants-forge+1.20-1.2.2.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JiEhJ3WG/versions/VxRA0Nwd/moremobvariants-forge%2B1.20-1.2.2.jar"

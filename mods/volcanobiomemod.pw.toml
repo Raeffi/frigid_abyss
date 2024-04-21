@@ -1,5 +1,6 @@
 name = "VolcanoBiomeMod"
 filename = "volcano_biome-1.0.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/0n4et3yyfgrnitmlmc4yo/volcano_biome-1.0.0-forge-1.20.1.jar?rlkey=kz4vn54wirlt6xqjskycknlds&dl=1"

@@ -1,5 +1,6 @@
 name = "pneumaticcraft-repressurized-6.0.14+mc1.20.1.jar"
 filename = "pneumaticcraft-repressurized-6.0.14+mc1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/iSaY43NM/pneumaticcraft-repressurized-6.0.14%2Bmc1.20.1.jar"

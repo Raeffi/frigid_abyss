@@ -1,5 +1,6 @@
 name = "THEUNDEADREVAMPED_1.1_1.20.1[Item textures revamp]"
 filename = "THEUNDEADREVAMPED_1.1_1.20.1[Item textures revamp].jar"
+side = "both"
 
 [download]
 mode = "metadata:curseforge"

@@ -1,5 +1,6 @@
 name = "Villager Workers 1.7.7 [Forge - 1.20.1]"
 filename = "workers-1.20.1-1.7.7.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Pqlv7VM3/versions/tewF6b10/workers-1.20.1-1.7.7.jar"

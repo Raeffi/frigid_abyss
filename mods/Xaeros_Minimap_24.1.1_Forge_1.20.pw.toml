@@ -1,5 +1,6 @@
 name = "24.1.1"
 filename = "Xaeros_Minimap_24.1.1_Forge_1.20.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/dxsBIRkW/Xaeros_Minimap_24.1.1_Forge_1.20.jar"

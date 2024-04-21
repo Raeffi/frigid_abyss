@@ -1,5 +1,6 @@
 name = "[Forge] Resourceful Lib 2.1.24"
 filename = "resourcefullib-forge-1.20.1-2.1.24.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/l4YYn2wS/resourcefullib-forge-1.20.1-2.1.24.jar"

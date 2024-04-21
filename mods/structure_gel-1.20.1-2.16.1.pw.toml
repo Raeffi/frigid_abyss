@@ -1,5 +1,6 @@
 name = "Structure Gel API v2.16.1"
 filename = "structure_gel-1.20.1-2.16.1.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/FQtCiGpd/structure_gel-1.20.1-2.16.1.jar"

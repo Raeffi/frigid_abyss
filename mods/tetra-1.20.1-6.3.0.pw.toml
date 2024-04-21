@@ -1,5 +1,6 @@
 name = "tetra 6.3.0"
 filename = "tetra-1.20.1-6.3.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YP9DjOvN/versions/lm4Qz4KQ/tetra-1.20.1-6.3.0.jar"

@@ -1,5 +1,6 @@
 name = "sophisticatedcore-1.20.1-0.6.18.597.jar"
 filename = "sophisticatedcore-1.20.1-0.6.18.597.jar"
+side = "both"
 
 [download]
 mode = "metadata:curseforge"

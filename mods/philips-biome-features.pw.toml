@@ -1,6 +1,6 @@
 name = "Philip's Biome Features"
 filename = "Philips-Biome-Features1.20x-1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SgJ1fPnh/versions/7hS9jQlo/Philips-Biome-Features1.20x-1.1.jar"

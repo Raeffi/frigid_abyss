@@ -1,5 +1,6 @@
 name = "toofast-1.20-0.4.3.5.jar"
 filename = "toofast-1.20-0.4.3.5.jar"
+side = "server"
 
 [download]
 mode = "metadata:curseforge"

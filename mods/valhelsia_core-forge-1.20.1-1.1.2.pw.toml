@@ -1,5 +1,6 @@
 name = "Valhelsia Core"
 filename = "valhelsia_core-forge-1.20.1-1.1.2.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HsdNFinx/versions/eP3L8E7C/valhelsia_core-forge-1.20.1-1.1.2.jar"

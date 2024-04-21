@@ -1,5 +1,6 @@
 name = "b0.22.0"
 filename = "open-parties-and-claims-forge-1.20.1-0.22.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/qazws2P9/open-parties-and-claims-forge-1.20.1-0.22.0.jar"
