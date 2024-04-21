@@ -131,13 +131,13 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.0.1-a-1.20.1.pw.toml"
-hash = "7a1de9a4fcf94de669245ca903debf42eea5cc1c1b1977c82272b0e9f629b6f6"
+hash = "9e69c70dddf673a4d141d4e2bc7c874b91d8b7b9f05664250c52cd9a7f95b16f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/DistantHorizonsApi-1.0.0.pw.toml"
-hash = "d5b38531f7376421cea023b472e7d6192f369b1c792a3e806d553dd2dedbb3e7"
+hash = "d052fb2687c99ab63dc2cf86b8f7b6339cb78e977946d9f9d9a18c2082798660"
 hash-format = "sha256"
 metafile = true
 
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/NekosEnchantedBooks-1.20.1-1.8.0.pw.toml"
-hash = "8fad22d2d43f5291d98ac54996790aa43d4f5bc2839a5dc1a3586c74cadae8db"
+hash = "1a014e919c7ca472f102ff9592962d396e44cc71f3805d926d47420bebf6609f"
 hash-format = "sha256"
 metafile = true
 
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/Rrls-3.2.0-1.20.1-forge.pw.toml"
-hash = "aacb090de24c66356c3b1d6d2d8c03346a4b7f48291fbdb2d7f053af843ef412"
+hash = "c83690721e0f9b9d8858dd08bb08c40b2be2cfadfbb134c98bca11a51f6ad89f"
 hash-format = "sha256"
 metafile = true
 
