@@ -1,6 +1,6 @@
 name = "Cataclysm Weaponery"
 filename = "CataclysmWeaponery2.0-1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/S5OkaSK0/versions/wQGRipgG/CataclysmWeaponery2.0-1.20.1.jar"
