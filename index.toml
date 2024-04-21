@@ -1,6 +1,11 @@
 hash-format = "sha512"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "ebe3e7cd10e1b301b7def86cd9929e3ddf1abd323db335c526532c1d2e2477aa"
+hash-format = "sha256"
+
+[[files]]
 file = "mods/1_irradium-begone!-1.1.0.pw.toml"
 hash = "11eb2fd15214e6da6c34d73793f3c0d9e410de581ecadf3a2760838375a062d3"
 hash-format = "sha256"
@@ -1329,6 +1334,12 @@ metafile = true
 [[files]]
 file = "mods/turtlechargingstation-1.4.2-1.20.pw.toml"
 hash = "a776f994e94906d10dd5be39afdfeb746452d4d8a10dcee9c22b25356c0da026"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "39a245571d0bf349aec62d6d39720e9ecfb3a90db9d1b2abe82785633680778c"
 hash-format = "sha256"
 metafile = true
 
