@@ -58,12 +58,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/BiomesOPlenty-1.20.1-18.0.0.592.pw.toml"
-hash = "1201e27ae87795f18e376fe3ea0ff61a7c0cd0132ff0b26b0893974489c2b408"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/BoatBreakFix-Universal-1.0.11.pw.toml"
 hash = "092f959c91ce57ca1f7763124bd86b42a25f0e99d9363f6a749e54da5bbe0a3d"
 hash-format = "sha256"
@@ -510,6 +504,12 @@ metafile = true
 [[files]]
 file = "mods/bigcontraptions-1.0.pw.toml"
 hash = "a36c2e4c85ad37c74ad25626c3196f0d8c40361df1495e36a0ba1718ad62a363"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
 hash-format = "sha256"
 metafile = true
 
@@ -1386,6 +1386,12 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/volcanobiomemod.pw.toml"
+hash = "72a3e20679b339960d28ff326914212d442355cb9f2db5ebe674fa1894a2d1df"
 hash-format = "sha256"
 metafile = true
 
