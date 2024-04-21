@@ -1051,12 +1051,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lmft-1.0.4_1.20.1-forge.pw.toml"
-hash = "14c3ff19b2e2176839f4c1c5215799b4a1135fc3c47d5f5a4b237762e386447f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/lootr-1.20-0.7.31.78.pw.toml"
 hash = "1ccda44f6513a25da825be0f95d357ade35963e342334a7a119901a2e87ba5f1"
 hash-format = "sha256"
