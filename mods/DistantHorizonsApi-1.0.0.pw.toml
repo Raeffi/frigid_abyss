@@ -1,5 +1,6 @@
 name = "1.0.0"
 filename = "DistantHorizonsApi-1.0.0.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xs0XTOVv/versions/NuP68u9E/DistantHorizonsApi-1.0.0.jar"

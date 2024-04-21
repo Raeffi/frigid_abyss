@@ -1,5 +1,6 @@
 name = "NEBs 1.8 for Minecraft 1.20"
 filename = "NekosEnchantedBooks-1.20.1-1.8.0.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VZWuyRVr/versions/LEXIMrpP/NekosEnchantedBooks-1.20.1-1.8.0.jar"
