@@ -1345,12 +1345,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia_structures-forge-1.20.1-1.1.2.pw.toml"
-hash = "a75a51e912174ffdc0d86a4c6bc4a91a3a5b11618c8ee88d9a6a431e973050b4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/vegandelight-1.1.pw.toml"
 hash = "84353137d41d384f3ef1b5eca7a0718092c87a3896eb335504bcd8f96aa7bfc3"
 hash-format = "sha256"
