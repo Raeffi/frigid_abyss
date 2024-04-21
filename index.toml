@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "ebe3e7cd10e1b301b7def86cd9929e3ddf1abd323db335c526532c1d2e2477aa"
+hash = "ed4a11ce4888cba118da7149cbb956b715e24708882c4f3c958e8d3a5820e0b7"
 hash-format = "sha256"
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/global_packs-forge-1.19.4-1.16.2_forge.pw.toml"
-hash = "cfa740faeab71854394ef35a2053e87223e31d0f757452e4e935586e0348f1ac"
+hash = "da48731a438b0976ce365630e9000f13343f383f74194ab9eaae9773aadddfec"
 hash-format = "sha256"
 metafile = true
 

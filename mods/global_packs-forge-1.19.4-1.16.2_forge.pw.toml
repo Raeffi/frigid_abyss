@@ -1,5 +1,6 @@
 name = "Global Packs - v1.16.2"
 filename = "global_packs-forge-1.19.4-1.16.2_forge.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/u8mx7daJ/global_packs-forge-1.19.4-1.16.2_forge.jar"
