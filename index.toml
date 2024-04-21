@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
+hash = "0cd978427c8f1e45791df03b4c92ae32c7f2a163e738462d06f6eb95a530f773"
 hash-format = "sha256"
 metafile = true
 
