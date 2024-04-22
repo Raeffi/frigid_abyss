@@ -978,12 +978,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "eef29e49c6a18f0361586eb2ff2c966bd8a869d2c5a10bae8a0519d65495d79e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/immersive_paintings-0.6.7_1.20.1-forge.pw.toml"
 hash = "40c5f9815cc60c2b2da49ab80048a0b2ee1f2dbdca6b9fc5787e845174d3abf5"
 hash-format = "sha256"
@@ -1172,6 +1166,12 @@ metafile = true
 [[files]]
 file = "mods/sliceanddice-forge-3.2.0.pw.toml"
 hash = "e8f9451710b7124bfa1ebb40103ed936233695a0498fe7e3ec5ada6809a663c9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "65d57814ec779568e45fdf79fd1056df5046cb909ff5165fb5c36c4e9182d88a"
 hash-format = "sha256"
 metafile = true
 
