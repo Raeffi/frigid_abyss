@@ -630,6 +630,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FORGE.pw.toml"
 hash = "63dcb23891bd303b481d9f2bdb839ffc88529541039225e666743066858f81b7"
 hash-format = "sha256"
@@ -846,6 +852,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/engineered-compatibility.pw.toml"
+hash = "2d3c0a2dfe5284b334718b49ea63b8419aa899e95b70c8e795797234ba92011a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/enlightend-5.0.14-1.20.1.pw.toml"
 hash = "fa2724d6587ce55226f731d5e56bff32b9f673f95a9fe34f3486215a31f11a43"
 hash-format = "sha256"
@@ -980,6 +992,12 @@ metafile = true
 [[files]]
 file = "mods/immersive_paintings-0.6.7_1.20.1-forge.pw.toml"
 hash = "40c5f9815cc60c2b2da49ab80048a0b2ee1f2dbdca6b9fc5787e845174d3abf5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
 hash-format = "sha256"
 metafile = true
 
@@ -1398,6 +1416,11 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "dce0b88192e13fd4d539f732a949faf084d3b4d49e37ceae9506767110df4c2c"
+hash-format = "sha256"
+
+[[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
 hash = "a5978639cd1d71165728c75e601e3e3a2c8acf3eb232bb2d78469bd98c0373bb"
 hash-format = "sha256"
@@ -1416,13 +1439,13 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-simple-storage.pw.toml"
-hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
+file = "resourcepacks/toms-better-create-storage.pw.toml"
+hash = "a09e074e2803493d66cbe2b9a1eaee7cb000b3c4bf5a47279be0d2f717f6c233"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "resourcepacks/toms-better-create-storage.pw.toml"
-hash = "a09e074e2803493d66cbe2b9a1eaee7cb000b3c4bf5a47279be0d2f717f6c233"
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
 hash-format = "sha256"
 metafile = true
