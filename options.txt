@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/Create Guns 1.2.1 - 1.20.1.zip","file/Create_Guns_Scorched_1.19.2-1.19.3.zip","file/Create Simple Storage Recipes 1.1.zip","file/Better tom\u0027s create storage 1.1.zip","file/Create+Simple+Storage+2.1.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/Create Guns 1.2.1 - 1.20.1.zip","file/Create_Guns_Scorched_1.19.2-1.19.3.zip","file/Create Simple Storage Recipes 1.1.zip","file/Create+Simple+Storage+2.1.zip","file/Better tom\u0027s create storage 1.1.zip"]
 incompatibleResourcePacks:["file/Create_Guns_Scorched_1.19.2-1.19.3.zip","file/Create Simple Storage Recipes 1.1.zip","file/Create+Simple+Storage+2.1.zip"]
 lastServer:
 lang:en_us
