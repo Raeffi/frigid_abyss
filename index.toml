@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/volcanobiomemod.pw.toml"
-hash = "5ff79daa320c1ab62f877aaae5ad6ed3fd91d503966a4b5dba7b8a9d4a8c623f"
+hash = "755359e5898aac923902ed368680d8af9c43f53e7f701f5055145aa4eaf8ab84"
 hash-format = "sha256"
 metafile = true
 
