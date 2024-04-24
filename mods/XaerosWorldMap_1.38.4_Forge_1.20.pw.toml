@@ -2,6 +2,11 @@ name = "1.38.4"
 filename = "XaerosWorldMap_1.38.4_Forge_1.20.jar"
 side = "both"
 
+[option] 
+optional = true
+default = true
+description = "worldmap screen"
+
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar"
 hash-format = "sha512"

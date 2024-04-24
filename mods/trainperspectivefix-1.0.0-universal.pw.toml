@@ -2,6 +2,11 @@ name = "Train Perspective Fix 1.0.0"
 filename = "trainperspectivefix-1.0.0-universal.jar"
 side = "client"
 
+[option] 
+optional = true
+default = true
+description = "moves camera angle with train when riding one"
+
 [download]
 url = "https://cdn.modrinth.com/data/Xm1BSBfU/versions/dgw8quWQ/trainperspectivefix-1.0.0-universal.jar"
 hash-format = "sha512"

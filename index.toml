@@ -373,13 +373,13 @@ metafile = true
 
 [[files]]
 file = "mods/XaerosWorldMap_1.38.4_Forge_1.20.pw.toml"
-hash = "c5ddc079c793425003be2920497d6746bf01d7e40530fe5f2ba646bc16ad4f4d"
+hash = "a3c2b90a96130fcc8aa40a91eea4b5fbfe8331d3a9ede13793d540cfe05aa117"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/Xaeros_Minimap_24.1.1_Forge_1.20.pw.toml"
-hash = "9f422023fa87b917f2d61336010ea2f2a1341376295b4193a583ff46df84c8d2"
+hash = "45175d5ae7116684d394c65dc4ae95910a7df7758b379c1d5355fcce1aaca305"
 hash-format = "sha256"
 metafile = true
 
@@ -1213,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundphysics-forge-1.20.1-1.1.2.pw.toml"
-hash = "93bc20454d5e90480742f6401bb522c4529a08bac773eb40db4fc0a1fdd2eef4"
+hash = "f0dedc13d573d4ab6489c3ce4d2d524afaad6aead90e0868b61573d3179b31a2"
 hash-format = "sha256"
 metafile = true
 
@@ -1339,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/trainperspectivefix-1.0.0-universal.pw.toml"
-hash = "62aa4d6ae5427f199a3f5960f1321bb714d81879954f045be0d496c9b5eaf27a"
+hash = "99fd750ffeedc6e5eae0830a2d4358a193c7d9090108cf363ba12909902e4c55"
 hash-format = "sha256"
 metafile = true
 
