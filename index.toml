@@ -121,13 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.0.1-a-1.20.1.pw.toml"
-hash = "9e69c70dddf673a4d141d4e2bc7c874b91d8b7b9f05664250c52cd9a7f95b16f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/DistantHorizonsApi-1.0.0.pw.toml"
-hash = "d052fb2687c99ab63dc2cf86b8f7b6339cb78e977946d9f9d9a18c2082798660"
+hash = "7b094ce4b2ccdb195ab7fbc6b459966c5cfbf441babc4c76f43b06e8431571ce"
 hash-format = "sha256"
 metafile = true
 
