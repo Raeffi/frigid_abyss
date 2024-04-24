@@ -1419,6 +1419,7 @@ metafile = true
 file = "options.txt"
 hash = "c975a71d0e133968daa0ce296ca87c657c484db2a9b9b0680962accbb70eac2f"
 hash-format = "sha256"
+preserve = true
 
 [[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
