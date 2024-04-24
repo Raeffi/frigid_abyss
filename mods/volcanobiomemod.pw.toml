@@ -1,8 +1,7 @@
 name = "VolcanoBiomeMod"
 filename = "volcano_biome-1.0.0-forge-1.20.1.jar"
-side = "both"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/0n4et3yyfgrnitmlmc4yo/volcano_biome-1.0.0-forge-1.20.1.jar?rlkey=kz4vn54wirlt6xqjskycknlds&dl=1"
 hash-format = "sha256"
-hash = "4d756c75af63294dae828b81e86f3733ed9b3590a97d26f6e56d3ba06aec5ee0"
+hash = "290c36a5d7154c72d583d9a77a3ac4a9ca378f424eaa326375d05a80ac2e224c"
