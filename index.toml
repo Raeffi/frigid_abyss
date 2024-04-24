@@ -373,13 +373,13 @@ metafile = true
 
 [[files]]
 file = "mods/XaerosWorldMap_1.38.4_Forge_1.20.pw.toml"
-hash = "a3c2b90a96130fcc8aa40a91eea4b5fbfe8331d3a9ede13793d540cfe05aa117"
+hash = "f472676e4037905eb61bd890139e3fdb1f6531d8870876e65b6e063e12efbff6"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/Xaeros_Minimap_24.1.1_Forge_1.20.pw.toml"
-hash = "45175d5ae7116684d394c65dc4ae95910a7df7758b379c1d5355fcce1aaca305"
+hash = "0e98b7e2d2e378ba5331f465388e0600fa10e1df1445fc8ed5c8c4e24aa75e40"
 hash-format = "sha256"
 metafile = true
 
