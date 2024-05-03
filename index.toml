@@ -1,6 +1,31 @@
 hash-format = "sha512"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "0b529f6468821baa29dd4f71ef013881f6b5c5d080464d3cc78422c7fc03bcab"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/entity_settings.toml"
+hash = "ed8ab50386988ceb8657bd67cb98c2c968b632f7e20469a682d59b6e6397a256"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/item_settings.toml"
+hash = "a9389f394674ac37865d73197f53af376b914fbb2c02ed812b5f0ed2c6aa0215"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "229a998336df7436dd457b1214327beb9ec971c305906bda4b25b839813aa576"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/world_settings.toml"
+hash = "fde985c526f150c0ea75ac48a65ceee1e1d9857cc1df2cfd84e3b43b5d5fa5f7"
+hash-format = "sha256"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "ed4a11ce4888cba118da7149cbb956b715e24708882c4f3c958e8d3a5820e0b7"
 hash-format = "sha256"
