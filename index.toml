@@ -4,6 +4,7 @@ hash-format = "sha512"
 file = "config/coldsweat/client.toml"
 hash = "0b529f6468821baa29dd4f71ef013881f6b5c5d080464d3cc78422c7fc03bcab"
 hash-format = "sha256"
+preserve = true
 
 [[files]]
 file = "config/coldsweat/entity_settings.toml"
