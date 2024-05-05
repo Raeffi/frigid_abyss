@@ -1,6 +1,11 @@
 hash-format = "sha512"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "6a7f363a670985269b5c5b72b0ba92663641b741dbed3c898743ba355265ae25"
+hash-format = "sha256"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 hash = "0b529f6468821baa29dd4f71ef013881f6b5c5d080464d3cc78422c7fc03bcab"
 hash-format = "sha256"
@@ -482,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
+hash = "415be18f0e7dd644d4a1d6f14988949020011fede7391d8eb1b667956a3e134e"
 hash-format = "sha256"
 metafile = true
 
