@@ -470,6 +470,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "4cd6809fbe7df73d6527e5d27f7a2658f21d32041bbb668d5243816990736945"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/amendments-1.20-1.1.18.pw.toml"
 hash = "099736c898c23f69cb2e57966c13efe953b1ee1add78ca4cb8a2762288622523"
 hash-format = "sha256"
@@ -608,6 +620,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/collective-1.20.1-7.40.pw.toml"
 hash = "2cec3c1442674d68ac2c537fd12d9ab62d7d0bfb388b97d81c9a70f6ef9b6f0a"
 hash-format = "sha256"
@@ -626,6 +644,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/crayfish-gun-mod.pw.toml"
 hash = "ab7a77bba9d5bf70ff5074c3bcf0d43014dd8ac55f2c78fb1a2e0b4493c5ff5a"
 hash-format = "sha256"
@@ -634,12 +664,6 @@ metafile = true
 [[files]]
 file = "mods/create-1.20.1-0.5.1.f.pw.toml"
 hash = "c56638722ed51c09c5720883902107e93c145875b73ed73813cdaf0086a9b045"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "94714097a323468448daf3ad97cbec4a8e145ddc6e58081b9fcb0ca53be71df1"
 hash-format = "sha256"
 metafile = true
 
@@ -742,6 +766,12 @@ metafile = true
 [[files]]
 file = "mods/createdoener-0.1.2.1.pw.toml"
 hash = "4b29d7602bdffcaae32b8de4a865060a6ab62d0bd987a9b972df85faeaa35d87"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/createeureka.pw.toml"
+hash = "a7443469e5b482897ea380f8172b4609196a8bc39b851dd1a6f80ad41a692bac"
 hash-format = "sha256"
 metafile = true
 
@@ -880,6 +910,12 @@ metafile = true
 [[files]]
 file = "mods/enlightend-5.0.14-1.20.1.pw.toml"
 hash = "fa2724d6587ce55226f731d5e56bff32b9f673f95a9fe34f3486215a31f11a43"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "63bd75a0d6d02c461c83800520e20dea4e0c193a961d840353b54e443315d479"
 hash-format = "sha256"
 metafile = true
 
@@ -1030,6 +1066,12 @@ metafile = true
 [[files]]
 file = "mods/integrated_stronghold-1.1.1_1.20.1-forge.pw.toml"
 hash = "2e185c5d77ae27e5f61d336a1b299e270253f5bbb40240fc6d9274a938ba6179"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
 hash-format = "sha256"
 metafile = true
 
@@ -1192,6 +1234,12 @@ metafile = true
 [[files]]
 file = "mods/scorched.pw.toml"
 hash = "001a2013141654cc69bdfca0e45f72e0c08b673cc0d8036f37fd9cf9fe2fcbd6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 hash-format = "sha256"
 metafile = true
 
@@ -1462,6 +1510,12 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-simple-storage-recipes-datapack.pw.toml"
 hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eureka!-create-airships!.pw.toml"
+hash = "a61d1ba2a695d5ff4752089e34ee44cd50fcf593db323677521f50c69dab08e4"
 hash-format = "sha256"
 metafile = true
 
