@@ -2,6 +2,11 @@ name = "sintra_connector"
 filename = "Connector-1.0.0-beta.42+1.20.1.jar"
 side = "server"
 
+[option] 
+optional = true
+default = true
+description = "DO NOT ENABLE, only for testing"
+
 [download]
 url = "https://github.com/Sinytra/Connector/releases/download/1.0.0-beta.42%2B1.20.1/Connector-1.0.0-beta.42+1.20.1.jar"
 hash-format = "sha256"
