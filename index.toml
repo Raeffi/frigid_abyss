@@ -32,6 +32,11 @@ hash = "ed4a11ce4888cba118da7149cbb956b715e24708882c4f3c958e8d3a5820e0b7"
 hash-format = "sha256"
 
 [[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "284df4fc6517bc4706c61b45b8941079838f45b428610ced54c791dd54282a48"
+hash-format = "sha256"
+
+[[files]]
 file = "mods/1_irradium-begone!-1.1.0.pw.toml"
 hash = "11eb2fd15214e6da6c34d73793f3c0d9e410de581ecadf3a2760838375a062d3"
 hash-format = "sha256"
@@ -1491,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c975a71d0e133968daa0ce296ca87c657c484db2a9b9b0680962accbb70eac2f"
+hash = "7dac93e469ad9032fd34efca82221b33121b7daf2ce927f8fa7cf9dc15112774"
 hash-format = "sha256"
 preserve = true
 
