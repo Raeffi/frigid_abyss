@@ -1,0 +1,13 @@
+name = "TrafficCraft"
+filename = "trafficcraft-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/DKfS1GCM/trafficcraft-1.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "829029bae6fbfb2d925cd5920e520a68de4393fd"
+
+[update]
+[update.modrinth]
+mod-id = "Y1PXWvWn"
+version = "DKfS1GCM"

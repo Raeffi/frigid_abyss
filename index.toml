@@ -1411,6 +1411,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "6f4216a43e8a14bf3ddceda4f578f0c115cee3bfe720c7ba05b10eceae1008de"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/trainperspectivefix-1.0.0-universal.pw.toml"
 hash = "99fd750ffeedc6e5eae0830a2d4358a193c7d9090108cf363ba12909902e4c55"
 hash-format = "sha256"
