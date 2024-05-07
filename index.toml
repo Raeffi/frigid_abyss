@@ -1170,8 +1170,32 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "5601a2d2616a2f02b99f44316e262c1cc3e496e1c4b02e3a4373312f74395a9f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "6b7deeb35ea6d8ae986a7a7ef7ee8c7b47bc4279be0b53fc873a335dbe658a6d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "c0f7fea697c69a37393253ce83df26639b6e84c64874d470502869a6b5eaccde"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/l_enders-cataclysm(cataclysm).pw.toml"
 hash = "20490ab5073101ff3e9cac575442d71da26dc519358c896ae34f8819a305cfce"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "67da636765b37f5ff941af776c9e50bfb7441529c2eb07dceef5643af175f281"
 hash-format = "sha256"
 metafile = true
 
@@ -1292,6 +1316,12 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.24.pw.toml"
 hash = "b86ccc02dea982786583a453081903ea84d81c2ed770dbd7bf7cc19c9dfc888d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 hash-format = "sha256"
 metafile = true
 
