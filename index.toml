@@ -38,7 +38,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_server.json"
-hash = "284df4fc6517bc4706c61b45b8941079838f45b428610ced54c791dd54282a48"
+hash = "92faaec3444c8942f2d081d7a8bb03931c9cde78bbfd110aabdc0ae0fe7e6659"
 hash-format = "sha256"
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/createeureka.pw.toml"
-hash = "a7443469e5b482897ea380f8172b4609196a8bc39b851dd1a6f80ad41a692bac"
+hash = "c583bf5bfdbb053b3c06e87509dd7ca253f86b155c27afa0b7244e45aa68089e"
 hash-format = "sha256"
 metafile = true
 

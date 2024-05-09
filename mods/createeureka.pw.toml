@@ -1,8 +1,8 @@
 name = "CreateEureka"
-filename = "create_eureka-1.0.0+forge-1.20.1.jar"
+filename = "create_eureka-1.1.0.r+forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/5274/307/create_eureka-1.0.0%2Bforge-1.20.1.jar"
+url = "https://www.dropbox.com/scl/fi/ahue054lt400pp9v54vmt/create_eureka-1.1.0.r-forge-1.20.1.jar?rlkey=7ezgp1gldkt08ywkdijirbach&dl=1"
 hash-format = "sha256"
 hash = "84cfb6ba3028290509992beed4e6b6ede51fa1d2066496ce6f3b31680a954548"

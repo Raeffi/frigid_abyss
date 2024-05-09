@@ -1,5 +1,5 @@
 {
-  "enginePowerLinear" : 1000000.0,
+  "enginePowerLinear" : 5000000.0,
   "enginePowerLinearMin" : 10000.0,
   "enginePowerAngular" : 1.0,
   "enginePowerAngularMin" : 0.0,
