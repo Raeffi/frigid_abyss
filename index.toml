@@ -672,12 +672,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/crayfish-gun-mod.pw.toml"
-hash = "ab7a77bba9d5bf70ff5074c3bcf0d43014dd8ac55f2c78fb1a2e0b4493c5ff5a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/crayfishgunmodunofficialport.pw.toml"
 hash = "280958cc9380862213c987ef6f9625656890723967499341eb5c58e1564df217"
 hash-format = "sha256"
@@ -1580,12 +1574,6 @@ metafile = true
 [[files]]
 file = "mods/vegandelight-1.1.pw.toml"
 hash = "84353137d41d384f3ef1b5eca7a0718092c87a3896eb335504bcd8f96aa7bfc3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "003225dfa6da66f98a403b21dce5c0bdb5f4bf965fec8b6c13ea47451ee9c1be"
 hash-format = "sha256"
 metafile = true
 
