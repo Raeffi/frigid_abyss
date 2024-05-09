@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/createeureka.pw.toml"
-hash = "c583bf5bfdbb053b3c06e87509dd7ca253f86b155c27afa0b7244e45aa68089e"
+hash = "0ad1e9478215126f175a8a9dda7cbfdd380254a3a940490df913fcf459b45d47"
 hash-format = "sha256"
 metafile = true
 
