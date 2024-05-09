@@ -16,7 +16,7 @@
 ["Soulspring Lamp"]
 	#Defines items that the Soulspring Lamp can use as fuel
 	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
-	"Fuel Items" = [["cold_sweat:soul_sprout", 4]]
+	"Fuel Items" = [["cold_sweat:soul_sprout", 4],["minecraft:blue_ice", 1]]
 	#Defines the dimensions that the Soulspring Lamp can be used in
 	#Format: ["dimension-id-1", "dimension-id-2", ...etc]
 	"Valid Dimensions" = ["minecraft:the_nether"]

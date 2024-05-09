@@ -18,7 +18,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "a9389f394674ac37865d73197f53af376b914fbb2c02ed812b5f0ed2c6aa0215"
+hash = "ec56e846896516974d3a7ed98dd18085e3bd700ef707a388cd07c6f1fae056ab"
 hash-format = "sha256"
 
 [[files]]
@@ -39,6 +39,606 @@ hash-format = "sha256"
 [[files]]
 file = "config/valkyrienskies/vs_eureka_server.json"
 hash = "92faaec3444c8942f2d081d7a8bb03931c9cde78bbfd110aabdc0ae0fe7e6659"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_advanced_bullet.png"
+hash = "59de446b992fed21fd8d6b54f0fc26b055292fad4fd3ca9db0953d9aade12bca"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_basic_bullet.png"
+hash = "a41305fff25c8b5bae2c2d20381593f8c880e1d2a23d94e48682051ecfe28cf5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_shell.png"
+hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "bad29d491f9bc07464601a2539151e1a8049356ad0b2c45236667b4ca564268e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "cffdfaa5a6768b6ed9c28789f3edddc2cfb51056e0a7ca88bd46200f88b935a2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "1e6819e9b57593d877c9b376da1f9f2114a65eafcfc062966f1ffcd8a673157b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "43585e795d12f4a186c5ce150814c2c6825e2c832c434240f990e425905df44a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/cachedForgeEvents.json"
+hash = "d822e239d57b764329a30f692709a0bfaaec0507ab5d4d15f4086317c4c60c3a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/cachedJava.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/dynamicjs.json"
+hash = "71f12ab6d05a72e8c58748b232ed57ab955f5f337070cff27002ad26a3f58b3a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/events.json"
+hash = "578aee5d392e6da1a4b12d91bd075d1b824d9fba6ee98f07b49e28f00d8c0dfd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs.json"
+hash = "3db4ef01ff3999f14b21c7ff42346884f5de71a2569001c52ef4773b2ea593ab"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs_recipes.json"
+hash = "0ab68fcd509638e3735063b6490c32261c40289eed123cc8a6e977f951e38151"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/morejs.json"
+hash = "3b6076d8ff5ab4dcc2086e27691d7e3b8abfccdf7be23f890cdb28b23d50e779"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/probe.json"
+hash = "eabf3964c5cf77d0f31b58cd091776631bf5800ffcca1be6c4c4cd8d14cfbf83"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/registry.json"
+hash = "c76e8fdae5ab850f764c8d069258a5b2a0611f4b691ac563829dd1af7157f2d8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/docs/types.json"
+hash = "01421362d4ee8c607708669ffb084303e9b9921a15fbe35090b277da7a8e587d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/cache/modHash.txt"
+hash = "8ce7afecffb6992ad5d6c92c9ecab0bdfdc95c0c99d95388fc4d325f739e8df3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/constants.d.ts"
+hash = "a7feab4481c3f21a9481983b6c7944ee24de3bdfa85a44784f6d0ee65796eedd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/events.d.ts"
+hash = "5c4f3626a36e00b4e087af7bf0cb16383dd7d191d189734733a952938473e7d4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/globals.d.ts"
+hash = "017778a1e71116404c78bfed42c3ad3a34f083506a6c8ee5104965b611f98242"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/index.d.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_0.d.ts"
+hash = "fbedec915505eda740611b33a18cc6bdd84023ee27d0d634cc32544c6f783507"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_1.d.ts"
+hash = "b2eb5d0b0deed5191ad7666c4bf0f5c6460cec0208f17f3f8db7a7737e3bcb15"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_10.d.ts"
+hash = "d4f7e7dfd920de8d1f817d12b899fd7f4a1ac1aaad1064eb179232ebc43a4b09"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_11.d.ts"
+hash = "9d34e0dd54a2a9382e1da87fbbb6bba29efebc084fdf07b7337cb844ab142356"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_12.d.ts"
+hash = "27ee0a65078fd80f4419fb07a729508dcf7a676022445dd0d6773bc6ba22c3a6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_13.d.ts"
+hash = "1478479ce151cbd243de93e82bf61864db75b493d8e5583603d6aaf034334ae1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_14.d.ts"
+hash = "8400992e542659f654fa998f61e4b2cc1b37c1fb986266a2753b76ca9e2c22de"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_15.d.ts"
+hash = "5a784b825b63d6780ac93e996fcb18b9d8f43927a4b31b513770d42f64c6a4cd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_16.d.ts"
+hash = "7e054c8004b94660a5c36a3a5c5e261dd62b4e7cd7f96a19a8ca123eb6f52ec1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_17.d.ts"
+hash = "41164b1ede05917cf700e293c0925867bdb92e059346f2d0ba8342679fa48b4a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_18.d.ts"
+hash = "52bea2c0b04435f9bd4f01a8689cd570169414a69bdd5b3e848bc56f95aff627"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_19.d.ts"
+hash = "7f9fa9536bae299cf12ca4e70dfacca5fce5a33fcee84bf727b44d2d0bc08be9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_2.d.ts"
+hash = "72d5b4764b39f02c35ba0f25fabc371089fd08008dd765d97c2e80585e05d5b0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_20.d.ts"
+hash = "c6aa0557597462f4b99d24be4f80cdc09405ca7329fcd0097721532c1d4843b2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_21.d.ts"
+hash = "803135eb8818738eef6da0007c3f95cf6ba1cf4d79bdf8bb1dfb2d63e1e4d913"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_22.d.ts"
+hash = "a4451c79168c310ee27335faac608b4ebcc4b56dcbbed195988cf62872142156"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_23.d.ts"
+hash = "52a299b0876def18afbc92f0c0259d91ca0baa658bc87908cba4569783c57631"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_24.d.ts"
+hash = "6989eaa9a2f5745f503029a88ba07917379259739f033c7797bf9c89764ddcfb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_25.d.ts"
+hash = "fc546ff0c8a25481707e732e54aa6f3b5af86495ddf28050e61c9cea89e46ce9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_26.d.ts"
+hash = "2db079a51d31e7dc9cf5c2e0e1bc8219a7c55b5b66c8f8079e28a776cee8fff1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_27.d.ts"
+hash = "58e649f96957350f5fc53bed5f887d34b0976dbab399edd1f74f8aedf6a01d31"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_28.d.ts"
+hash = "02606ff0a118f31c4ea10cb7ea9fd362d22b1810b91afbf01f1833e9b246f902"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_29.d.ts"
+hash = "7ee338442b9997642a844ade85349741b25584845a01cf5842b8c4f211df989c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_3.d.ts"
+hash = "f94fd673db316862a95eec123526ff1690ceb5addfd41a41134008d533e9fc87"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_30.d.ts"
+hash = "4910d81ac2022c41e57dc02fd70aaabbfea66d314074b7ae229895f273ed913f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_31.d.ts"
+hash = "27c933dcbf7ff58ff8aea9a663645d9a425d6dae5aceaed68bba2c13029387e3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_32.d.ts"
+hash = "94c7e5119e1e44ef8a57f49d5025651b1467244d9ed2bcff27bc0bcc2beb1c9e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_33.d.ts"
+hash = "05c2d89b7e55e6f8033019de9b3c4a7cb8040a814d0ecb0ba2654a221b877d7b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_34.d.ts"
+hash = "ff2baf7d16ff5f36d75bf7575785c7d8625fad24c80effdf6eda6d1d43e06a9e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_35.d.ts"
+hash = "2dacc234933913f0a895ae236cabe749718e612d9073ae9a32727be8c4d66365"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_36.d.ts"
+hash = "67e60ed21b268e5eaaa2a3bda385b8a76e6f9a520fde7120cd16f7cdd0277454"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_37.d.ts"
+hash = "65d86b6c49dc85c299c1e9dd038a999ac78934ddd4b78ca1dcaf4a06a4510204"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_38.d.ts"
+hash = "aa38968b86d2bb116f9ab6b7e7061263ed68fb7011f715a285af055c7eaf2bed"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_39.d.ts"
+hash = "ee99fe0c04c2f2e1cb29a36b3fe4563469cf6c428849a4979243cfec39e95d79"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_4.d.ts"
+hash = "e3c5dfe22f9ebac39b60ec695654d111d676b4a0c3df547d108091cf2395c8d2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_40.d.ts"
+hash = "55861e7c31379ee384f89b58194b3805d1d0bc91e3c83f08a0cbe8421af102f5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_41.d.ts"
+hash = "1ea087ea1b14f994e4b5071c13d2578f770b07f37aa3584c6125bba1eb43793e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_42.d.ts"
+hash = "d0a4018bf3a5e72c62806aaaab6b7f97e97b6e873c3504328e7c99d5de7d687a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_43.d.ts"
+hash = "430a897a1919697758fe81c56d377db2600941a5836486ab365a3d9c0aa24fb8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_44.d.ts"
+hash = "087b7a77aa0e2a6bb5bc06d1799c2d33f1b363c8a31d470a4ce51517247c071f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_45.d.ts"
+hash = "7e083402af9b90c48cf8aef217e5dee2537ae9f9086846c67c3f8dc193a621d0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_46.d.ts"
+hash = "044f2dba11e4a3483a51ec5e25f3cdacbc8a73524f451527f6b3c34aac277b02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_47.d.ts"
+hash = "c5310ca378343fb26a7ad1261709e455c5cd6f35268e71861101abc95521ff66"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_48.d.ts"
+hash = "4655ef7467dc3c5965b19875d22ffa05d2bd5acae347ff4ba4a2a80a4fcf9b09"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_49.d.ts"
+hash = "343e58df5d9c85c468514a6ef68f3e7795574a26abdf6f3c80d1edb2d308b40c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_5.d.ts"
+hash = "f3d7204f790273c34521d444e0f93a72b49c3fcb92dc8c01a364623f4228fb29"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_50.d.ts"
+hash = "9508dd6f4d495c88310bdf18ca618bb865a055bbcc49a2b3db073731f0aa5deb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_51.d.ts"
+hash = "14b9e381594163817768a479a10836429bb20ed957995069d2edeafa91141846"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_52.d.ts"
+hash = "0f79fb7c38c6a000526a473ebfca484d78b5c1e66ae4f3b23b24ebee0a1007cb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_53.d.ts"
+hash = "913c2dceba2361b2eee572e4ca39aae9c759a8270a717f80cd67895d021390e8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_54.d.ts"
+hash = "dde2bb95ee3c1419c97a713b764fed54d0ff1c596d1bd86037c476448986e99a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_55.d.ts"
+hash = "83bb4e82774761439032508c982f03527dc8bf5219555454c659d0347887e0fc"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_56.d.ts"
+hash = "a099451da350519267766033d7b1352e8687c1851fdb1cf42f5df627fd3246f4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_57.d.ts"
+hash = "402514a189a3a599ea67bbefd7c8a9c25f18ef70de263ae88c42c7768da55c55"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_58.d.ts"
+hash = "ddc8df7be121c707c81bd6a5a0db763def7c3cc5347c886300e1b03cf9f0c26c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_59.d.ts"
+hash = "b5414a4d548ad6707279d5cd54e355d943035af508299011309298703e095176"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_6.d.ts"
+hash = "bfe9756f6071a93e8b5bf04c37a2de135558bd1b79a6ef76c2168f17be179818"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_60.d.ts"
+hash = "4202cc69f0ead82ac4ae71f522c689bd8579b70afa3d3ae7860a541e2e664472"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_61.d.ts"
+hash = "1e30e007ec39bbb56c809fa5e83f83b7683156238ba6796d094fc61b77757e98"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_62.d.ts"
+hash = "8192f93fe74624cf44fe9a5065c5856d64acc70a7ffede40d07e6fcd2e8ce49a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_63.d.ts"
+hash = "7ad8918a1508828df844b1a5cae143d8afb8dde9d5242e8030539a75bd68241d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_64.d.ts"
+hash = "af0428a486c900074df418440a73f2f1add28e71b8e7db8d28ba1d9fb55f8db1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_65.d.ts"
+hash = "96d5d3a318bb71fe48f4d61fb75ff6e5a63ab34379943987121792ad0b875d51"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_66.d.ts"
+hash = "b0fa5db6a4a16ca02cd458ca2d1bb575d747b1913bd89c33356c2e9535e48557"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_67.d.ts"
+hash = "22858104d2345377a9dd17febccb5cb9963f5eb51a1817b6df346e25d3847df0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_68.d.ts"
+hash = "d60d174b9d77065732d6895c282452143d35b9c0efc4ef19a4f6919c9330c979"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_69.d.ts"
+hash = "d16f895dbb12903fb03d6d00da751bb6d978e6e2f6bfe69331416b13501b7724"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_7.d.ts"
+hash = "831c4201a881e31728116d74f73b75f893281ed67c1d96e1a3ad00496c2b3633"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_70.d.ts"
+hash = "74349483657bfadb773f810bd862a7ca1375374863a23cd473c448fb9f073258"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_71.d.ts"
+hash = "c0718449e9e85487e4753e139820e9aacf142669dd0846bf8356d32d2bbe48cb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_72.d.ts"
+hash = "80be5bd41d38ecfb0ab5774f8b6f64dceaaf8655f1e3c9280c99a76cf67b1379"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_73.d.ts"
+hash = "ca136838f7c52320d061567fc1901f3059c22661de47031528fe8a68e0e5510d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_74.d.ts"
+hash = "b3305c2bea52336aa316c7931aa34ebc2b56c00f3d3742cd0147107cc163ab9d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_75.d.ts"
+hash = "987dd73bf3804f72fa90af7e5c882d37541a0d041b254c46ec07e883b1fd7840"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_76.d.ts"
+hash = "aa7173553009e2f1fdd0577b21b96a90c04ac0d3dad8096c56a2d16cd57ba938"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_77.d.ts"
+hash = "1a917235f318d204d373c09867ee41de29c4da56a2b11799fb9ba56afe4e510e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_78.d.ts"
+hash = "97be0a3458ba7a598b4460d9d22610bc1c43ce481e79041abf0bc3750055bfd6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_79.d.ts"
+hash = "2af3e54ca31a991aaa453ab2828a34ada0ebc00e849b4cd80454622a2fe5a704"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_8.d.ts"
+hash = "09dc3639e17121e81fa7f37d2cb93492234991aa04b10254d532dc539298dca3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_80.d.ts"
+hash = "9d96fbdc959fc7d96c288a6d21f83b717886f1001eca20bf797e5b68a8205295"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_81.d.ts"
+hash = "f99f833d096be5c1efb3a325659a3946ca83c883a8e3ebbf63aaedd5543b2d01"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_82.d.ts"
+hash = "77bee1d20feda3041da6ccf6c12539c5ba23b88a21038fb645c3e933f097182d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_83.d.ts"
+hash = "2884f7500357a896247b8c34f0a36b5c73cef10ac390cd3bb7873d77fcbbc7b1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_84.d.ts"
+hash = "6aef39deec2214ef4c09a7af2907069425d20bcedc3cc3fa354fb48ddcb8f5a6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_85.d.ts"
+hash = "672e4a9f1481dd980dec28c90b6f46491f5a51e5d16ad0c06d3c49d6e7c7dd5e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_9.d.ts"
+hash = "db7c536707a44cc261f5f44497142b89fbfc04de25f6ab482b88382de55525bd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/names.d.ts"
+hash = "d1fe0c1e3467db9c16cb4f0788d8f307cae2499664c53206bac2a42fc875bdaa"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/raw.d.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/registries.d.ts"
+hash = "38119557968204829fb7a68e4447b0ee81680ac3919f485107eb1d5832143a53"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/probe/generated/tag_events.d.ts"
+hash = "bf914427164cef463ec021d817e8bb5faa99628053a0334d437e03c184300ff1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "564959d0e2280d346d914ce62da1e977950f963812947cf2937dad8128295d21"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/startup_scripts/customitems.js"
+hash = "4f61491b2b0a479fd7ac5c10462f20cb0028c8a4af48a8eff3f2d873c837b226"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/startup_scripts/modifyitems.js"
+hash = "4ca7d2b01a8c592f39c5fa1e77d6d1fccd9d7dd034c01b52d4213fe74a3adbce"
 hash-format = "sha256"
 
 [[files]]
@@ -673,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/crayfishgunmodunofficialport.pw.toml"
-hash = "280958cc9380862213c987ef6f9625656890723967499341eb5c58e1564df217"
+hash = "f5dbe3915d969b71d2b8fcd3d25c8fb41a74e044e968573061180fa77e9f5a6e"
 hash-format = "sha256"
 metafile = true
 
@@ -1604,6 +2204,12 @@ metafile = true
 [[files]]
 file = "mods/workers-1.20.1-1.7.7.pw.toml"
 hash = "b7b39b361266b7d785ecd631b43a6e5387aaf02e7c8d05ffd20ea3eb93ac3226"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
 hash-format = "sha256"
 metafile = true
 
