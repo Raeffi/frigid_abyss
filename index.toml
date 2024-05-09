@@ -678,6 +678,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/crayfishgunmodunofficialport.pw.toml"
+hash = "280958cc9380862213c987ef6f9625656890723967499341eb5c58e1564df217"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-1.20.1-0.5.1.f.pw.toml"
 hash = "c56638722ed51c09c5720883902107e93c145875b73ed73813cdaf0086a9b045"
 hash-format = "sha256"
