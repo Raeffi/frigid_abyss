@@ -16,7 +16,7 @@
 ["Soulspring Lamp"]
 	#Defines items that the Soulspring Lamp can use as fuel
 	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
-	"Fuel Items" = [["cold_sweat:soul_sprout", 4],["minecraft:blue_ice", 1]]
+	"Fuel Items" = [["cold_sweat:soul_sprout", 4], ["minecraft:blue_ice", 2], ["minecraft:packed_ice", 1]]
 	#Defines the dimensions that the Soulspring Lamp can be used in
 	#Format: ["dimension-id-1", "dimension-id-2", ...etc]
 	"Valid Dimensions" = ["minecraft:the_nether"]
@@ -45,7 +45,7 @@
 	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
 	#"cold": The amount of cold insulation the item provides.
 	#"hot": The amount of heat insulation the item provides.
-	"Insulating Curios" = []
+	"Insulating Curios" = [["irons_spellbooks:fireward_ring", 0.0, 999.0], ["irons_spellbooks:frostward_ring", 999.0, 0.0]]
 	#Defines how many insulation slots armor pieces have
 	#Format: [head, chest, legs, feet]
 	"Insulation Slots" = [4, 6, 5, 4]

@@ -18,17 +18,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "ec56e846896516974d3a7ed98dd18085e3bd700ef707a388cd07c6f1fae056ab"
+hash = "16886c9cbb6e4fa7bda035b4cee71d2d605fc408cae934c0f95ebc8bdf96633a"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "229a998336df7436dd457b1214327beb9ec971c305906bda4b25b839813aa576"
+hash = "cbbf56dafb52c1dd941d301c0bd3ad4c1fc3ad69e46b5ccc6ab08f7d3bc18e7c"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "fde985c526f150c0ea75ac48a65ceee1e1d9857cc1df2cfd84e3b43b5d5fa5f7"
+hash = "f23e1d32b3dd1cb3cfb18cee819c4c148ff84dfefaa472633197c053b25a0dc0"
 hash-format = "sha256"
 
 [[files]]
@@ -87,8 +87,18 @@ hash = "cffdfaa5a6768b6ed9c28789f3edddc2cfb51056e0a7ca88bd46200f88b935a2"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/config/packicon.pdn"
+hash = "c9fb16aea25a5521c0a2f66acf9b87ea57e592f7a7eeaf05134a5085d04c8999"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/config/packicon.png"
-hash = "1e6819e9b57593d877c9b376da1f9f2114a65eafcfc062966f1ffcd8a673157b"
+hash = "62c11f2eb254423842434ac122d46782ec997747071dd2bd287af287b02a462e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/config/packicon_old.png"
+hash = "2287acb181ce1138cb768ab9ee0b481551a79989431619dcbde53a520bcee134"
 hash-format = "sha256"
 
 [[files]]
@@ -628,7 +638,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "564959d0e2280d346d914ce62da1e977950f963812947cf2937dad8128295d21"
+hash = "2f203b47d3bba065a3833a7acdc8055bfce81cd1618d7c2b86aece0392653e9d"
 hash-format = "sha256"
 
 [[files]]

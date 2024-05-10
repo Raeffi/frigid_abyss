@@ -165,5 +165,20 @@ e.recipes.create.sequenced_assembly(['cgm:shell'], "#forge:plates/brass", [
 ]).transitionalItem(inter).loops(1)
 
 //####################################################################################
+
+//CREATE RECIPES
+
+e.recipes.create.compacting( "minecraft:ice" , "8x minecraft:snow_block")
+
+
+
+//####################################################################################
+
+//PNEUMATICRAFT RECIPES
+
+
+
+//####################################################################################
+
 })
 
