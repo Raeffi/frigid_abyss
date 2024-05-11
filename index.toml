@@ -28,7 +28,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "a745c8bb1155e2b61944b1723f272372248e2f66b0bd6c2c873edd42c3352b05"
+hash = "1d919ef687dc18dc8ddc518cd89432d0cfe07f5b8258e8dbe80a24596ccf9d2f"
 hash-format = "sha256"
 
 [[files]]
@@ -113,7 +113,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "97a836971b93e5036d64df3ecc928fc5d3f5000ed320739705c86acaee112be6"
+hash = "5aa2e17d8111522297f74cc477f8053a69ba4cf200447e1b328e20679c512fab"
 hash-format = "sha256"
 
 [[files]]
@@ -213,12 +213,6 @@ metafile = true
 [[files]]
 file = "mods/CreateCasing-1.20.1-1.6.0.pw.toml"
 hash = "4873af303b737db41d2bf9d78a2dd12cb2dc6fde5ee30cbbee9ad4ad0dec9d35"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.pw.toml"
-hash = "fa6f02120076c8f110dc259c15bfca346110e6ded8413b38b650029d358f8d89"
 hash-format = "sha256"
 metafile = true
 
@@ -357,12 +351,6 @@ metafile = true
 [[files]]
 file = "mods/LeavesBeGone-v8.0.0-1.20.1-Forge.pw.toml"
 hash = "08b432de735d33b0897ce28c4ad149b9de93319c330bef2c0196ec03439d1a8c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/LittleFrames_FORGE_v1.3.7_mc1.20.1.pw.toml"
-hash = "345e85fe3da2e4af97c9c3029bee1c64b638aa8401d339e1a91ae6d78160b7cf"
 hash-format = "sha256"
 metafile = true
 
@@ -1717,14 +1705,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-2.0.25.pw.toml"
-hash = "25947b712eef30d4ecbabf10a464375bfa488264736de6e0c5c3d5e95a3043f8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "8b59dabad04f02d8e458c14a1577a86e6432db62bccf19ad42781c561d1af6f1"
+hash = "9d294c8af0fa4589da8b11327a6b8f970c8d8f64875a8c58203ea3365a42709a"
 hash-format = "sha256"
 metafile = true
 
@@ -1750,7 +1732,13 @@ metafile = true
 file = "options.txt"
 hash = "7dac93e469ad9032fd34efca82221b33121b7daf2ce927f8fa7cf9dc15112774"
 hash-format = "sha256"
-preserve = true
+preserve = false
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
