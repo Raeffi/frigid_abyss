@@ -123,7 +123,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "8e7e67cc333081da85c5afd4a83dc7c9496fd7c046bbb7571b7b19ec538cdd5e"
+hash = "2a5ed19fa397b7c7ac1fbedfbac5e2032723ed584a2511e9c63e4412e84a364d"
 hash-format = "sha256"
 
 [[files]]
