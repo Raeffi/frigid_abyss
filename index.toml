@@ -664,6 +664,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "833c0992b726fb4a0bc3789a74ec59276a364c0948a9afc5d170b7f22d7100cc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/bygonenether-1.3.2-1.20.x.pw.toml"
 hash = "aa85fcc8dc3b2f2adfcb8da561854c6b13903769c53219614570a32e53796916"
 hash-format = "sha256"
