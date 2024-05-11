@@ -28,7 +28,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "f23e1d32b3dd1cb3cfb18cee819c4c148ff84dfefaa472633197c053b25a0dc0"
+hash = "a745c8bb1155e2b61944b1723f272372248e2f66b0bd6c2c873edd42c3352b05"
 hash-format = "sha256"
 
 [[files]]
@@ -113,7 +113,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "2f203b47d3bba065a3833a7acdc8055bfce81cd1618d7c2b86aece0392653e9d"
+hash = "97a836971b93e5036d64df3ecc928fc5d3f5000ed320739705c86acaee112be6"
 hash-format = "sha256"
 
 [[files]]
