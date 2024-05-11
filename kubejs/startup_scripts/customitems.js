@@ -5,6 +5,8 @@ StartupEvents.registry('item', e => {
     e.create('unfinished_basic_bullet').displayName("Unfinished Basic Bullet")
     e.create('unfinished_advanced_bullet').displayName("Unfinished Advanced Bullet")
     e.create('unfinished_shell').displayName("Unfinished Shell")
+    e.create('unfinished_iron_component').displayName("Unfinished Iron Mechanical Component")
+    e.create('unfinished_steel_component').displayName("Unfinished Steel Mechanical Component")
     
     // If you want to specify a different texture location you can do that too, like this:
     //e.create('test_item_1').texture('mobbo:item/lava') // This texture would be located at kubejs/assets/mobbo/textures/item/lava.png

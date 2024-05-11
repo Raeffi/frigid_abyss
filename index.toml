@@ -67,8 +67,18 @@ hash = "a41305fff25c8b5bae2c2d20381593f8c880e1d2a23d94e48682051ecfe28cf5"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_iron_component.png"
+hash = "110f8f32fc42752c71e384ac3c4ff28fcf24c1de7d68cdc47cdf24364f1b12a4"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/unfinished_shell.png"
 hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_steel_component.png"
+hash = "399ef27101470d19078fa95136e1a64b4b65d691e67ba83e618cd1fbe642e12a"
 hash-format = "sha256"
 
 [[files]]
@@ -113,7 +123,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "f147e7c3cbdee08090ce8e25536b08cc8a5e701dad1a8f9c94fdba1d3f0a415c"
+hash = "8e7e67cc333081da85c5afd4a83dc7c9496fd7c046bbb7571b7b19ec538cdd5e"
 hash-format = "sha256"
 
 [[files]]
@@ -123,7 +133,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/startup_scripts/customitems.js"
-hash = "4f61491b2b0a479fd7ac5c10462f20cb0028c8a4af48a8eff3f2d873c837b226"
+hash = "f79274c40811445ebad2f095160e716accc5789a0881ed0a3d16fe29f40a351c"
 hash-format = "sha256"
 
 [[files]]

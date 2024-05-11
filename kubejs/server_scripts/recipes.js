@@ -268,17 +268,411 @@ e.replaceInput(
     'WWW', 
     'WCW', // arg 2: the shape (array of strings)
     'WWW'  
-], {
-    W: '#minecraft:planks', 
-    C: 'tfmg:creosote_bucket'   
-}
-)
+    ], {
+        W: '#minecraft:planks', 
+        C: 'tfmg:creosote_bucket'   
+        }
+    )
+
+    e.remove({output: "immersiveengineering:toolupgrade_drill_damage"})
+
+    e.shaped("immersiveengineering:toolupgrade_drill_damage", [// arg 1: output
+    ' S ', 
+    'SM ', // arg 2: the shape (array of strings)
+    '  V'  
+    ], {
+        S: "#forge:ingots/steel", 
+        M: "immersiveengineering:component_iron",
+        V: "create_things_and_misc:vibration_mechanism"
+        }
+    )
+
+    e.remove({output: "immersiveengineering:component_iron"})
+
+    inter = "kubejs:unfinished_iron_component"
+
+    e.recipes.create.sequenced_assembly(["immersiveengineering:component_iron"], "#forge:ingots/copper", [
+        e.recipes.createDeploying(inter, [inter, "#forge:plates/iron"]),
+        e.recipes.createPressing(inter, inter)
+    ]).transitionalItem(inter).loops(4)
+
+    inter = "kubejs:unfinished_steel_component"
+
+    e.remove({output: "immersiveengineering:component_steel"})
+
+    e.recipes.create.sequenced_assembly(["immersiveengineering:component_steel"], "#forge:ingots/copper", [
+        e.recipes.createDeploying(inter, [inter, "#forge:plates/steel"]),
+        e.recipes.createPressing(inter, inter)
+    ]).transitionalItem(inter).loops(4)
 
 //####################################################################################
 
 //BITTERBALLEN RECIPES
 
+e.remove({output: Fluid.of("create_bic_bit:frying_oil")})
+
 e.recipes.create.compacting(Fluid.of("create_bic_bit:frying_oil", 250 * FluidAmounts.MB), "create_bic_bit:crushed_sunflower_seeds").heated()
+
+//####################################################################################
+
+//CC RECIPES
+
+e.remove({ id: 'computercraft:turtle_normal' })
+
+e.recipes.create.mechanical_crafting( "computercraft:turtle_normal", [
+    'SSSSS',
+    'SMCME',
+    'SMIMS',
+    'SRBRS'
+], {
+    C: "computercraft:computer_normal",
+    S: "#forge:plates/iron",
+    I: "create:item_vault",
+    B: "create:belt_connector",
+    R: "create:cogwheel",
+    M: "immersiveengineering:component_iron",
+    E: "cataclysm:mech_eye"
+})
+
+e.remove({ id: 'computercraft:turtle_advanced' })
+e.remove({ id: 'computercraft:turtle_advanced_upgrade' })
+
+e.recipes.create.mechanical_crafting( "computercraft:turtle_advanced", [
+    'SSSSS',
+    'SMCME',
+    'SMIMS',
+    'SRBRS'
+], {
+    C: "computercraft:computer_advanced",
+    S: "#forge:plates/steel",
+    I: "create:item_vault",
+    B: "create:belt_connector",
+    R: "create:cogwheel",
+    M: "immersiveengineering:component_steel",
+    E: "cataclysm:mech_eye"
+})
+
+e.remove({ id: 'computercraft:computer_normal' })
+
+e.recipes.create.mechanical_crafting( "computercraft:computer_normal", [
+    'SSSSS',
+    'SPELG',
+    'SPELG',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:computer_advanced' })
+e.remove({ id: 'computercraft:computer_advanced_upgrade' })
+
+e.recipes.create.mechanical_crafting( "computercraft:computer_advanced", [
+    'SSSSS',
+    'SPELG',
+    'SPELG',
+    'SSSSS'
+], {
+    S: "#forge:plates/steel",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic_adv",
+    P: "pneumaticcraft:module_expansion_card",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:speaker' })
+
+e.shaped("2x computercraft:speaker", [// arg 1: output
+' C ', 
+'FVF', // arg 2: the shape (array of strings)
+' C '  
+], {
+    F: "create:filter", 
+    C: "create:andesite_casing",
+    V: "create_things_and_misc:vibration_mechanism" 
+    }
+)
+
+e.remove({ id: 'computercraft:pocket_computer_normal' })
+
+e.recipes.create.mechanical_crafting( "computercraft:pocket_computer_normal", [
+    ' GGGGGG ',
+    'SPLPELES',
+    ' SSSSSS '
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:pocket_computer_advanced' })
+e.remove({ id: 'computercraft:pocket_computer_advanced_upgrade' })
+
+e.recipes.create.mechanical_crafting( "computercraft:pocket_computer_advanced", [
+    ' GGGGGG ',
+    'SPLPELES',
+    ' SSSSSS '
+], {
+    S: "#forge:plates/steel",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic_adv",
+    P: "pneumaticcraft:module_expansion_card",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:wireless_modem_normal' })
+
+e.recipes.create.mechanical_crafting( "computercraft:wireless_modem_normal", [
+    'W   W',
+    'SSSSS',
+    'SPELS',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:ender_pearl",
+    W: "create:redstone_link"
+})
+
+e.remove({ id: 'computercraft:wireless_modem_advanced' })
+
+e.recipes.create.mechanical_crafting( "computercraft:wireless_modem_advanced", [
+    'W   W',
+    'SSSSS',
+    'SPELS',
+    'SSSSS'
+], {
+    S: "#forge:plates/steel",
+    E: "immersiveengineering:component_electronic_adv",
+    P: "pneumaticcraft:module_expansion_card",
+    L: "minecraft:ender_eye",
+    W: "create:redstone_link"
+})
+
+e.remove({ id: 'computercraft:cable' })
+
+e.shaped("6x computercraft:cable", [// arg 1: output
+' S ', 
+'SRS', // arg 2: the shape (array of strings)
+' S '  
+], {
+    S: "#forge:plates/iron", 
+    R: "minecraft:redstone" 
+    }
+)
+
+e.remove({ id: 'computercraft:wired_modem' })
+
+e.shaped("6x computercraft:wired_modem", [// arg 1: output
+' S ', 
+'SRS', // arg 2: the shape (array of strings)
+'SES'  
+], {
+    S: "#forge:plates/iron", 
+    R: "minecraft:redstone",
+    E: "immersiveengineering:component_electronic",
+    }
+)
+
+e.remove({ id: 'computercraft:monitor_normal' })
+
+e.recipes.create.mechanical_crafting( "computercraft:monitor_normal", [
+    'SSSS',
+    'SELG',
+    'SELG',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:monitor_advanced' })
+
+e.recipes.create.mechanical_crafting( "computercraft:monitor_advanced", [
+    'SSSS',
+    'SELG',
+    'SELG',
+    'SSSS'
+], {
+    S: "#forge:plates/steel",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic_adv",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: 'computercraft:printer' })
+
+e.recipes.create.mechanical_crafting( "computercraft:printer", [
+    'SSSSS',
+    'SRBR ',
+    'SBPES',
+    'SRBR ',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    B: "create:belt_connector",
+    R: "create:cogwheel"
+})
+
+e.remove({ id: 'computercraft:disk_drive' })
+
+e.recipes.create.mechanical_crafting( "computercraft:disk_drive", [
+    'SSSSS',
+    'SP   ',
+    'SMBR ',
+    'SE   ',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    B: "create:belt_connector",
+    R: "create:cogwheel",
+    M: "create_new_age:basic_motor"
+})
+
+e.remove({ id: 'computer_cartographer:computerized_cartographer_block' })
+
+e.recipes.create.mechanical_crafting( "computer_cartographer:computerized_cartographer", [
+    'SSSSS',
+    'SECPS',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    C: "minecraft:cartography_table"
+})
+
+//####################################################################################
+
+//MEDIA RECIPES
+
+e.remove({ id: "iammusicplayer:music_manager" })
+
+e.recipes.create.mechanical_crafting( "iammusicplayer:music_manager", [
+    'SSSS',
+    'SPLG',
+    'SELG',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: "iammusicplayer:cassette_deck" })
+
+e.recipes.create.mechanical_crafting( "iammusicplayer:cassette_deck", [
+    'SSSSS',
+    'BEJEB',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    J: "minecraft:jukebox",
+    B: "supplementaries:speaker_block"
+})
+
+e.remove({ id: "iammusicplayer:boombox" })
+
+e.recipes.create.mechanical_crafting( "iammusicplayer:boombox", [
+    'SCCCS',
+    'BEJEB',
+    'SSSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    J: "minecraft:jukebox",
+    B: "supplementaries:speaker_block",
+    C: "#minecraft:buttons"
+})
+
+e.remove({ id: "waterframes:remote" })
+
+e.shaped("waterframes:remote", [// arg 1: output
+'SPS', 
+'SRS', // arg 2: the shape (array of strings)
+'SES'  
+], {
+    S: "#forge:plates/iron", 
+    R: "minecraft:redstone",
+    E: "immersiveengineering:component_electronic",
+    P: "minecraft:ender_pearl"
+    }
+)
+
+e.remove({ id: "waterframes:big_tv" })
+
+e.recipes.create.mechanical_crafting( "waterframes:big_tv", [
+    'SSSS',
+    'SELG',
+    'SPLG',
+    'SPLG',
+    'SELG',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: "waterframes:tv" })
+
+e.recipes.create.mechanical_crafting( "waterframes:tv", [
+    'SSSS',
+    'SELG',
+    'SPLG',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: "waterframes:frame" })
+
+e.recipes.create.mechanical_crafting( "waterframes:frame", [
+    'SSSS',
+    'SPLG',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    G: "#forge:glass_panes",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp"
+})
+
+e.remove({ id: "waterframes:projector" })
+
+e.recipes.create.mechanical_crafting( "waterframes:projector", [
+    'SSSS',
+    'SELA',
+    'SPES',
+    'SSSS'
+], {
+    S: "#forge:plates/iron",
+    E: "immersiveengineering:component_electronic",
+    P: "pneumaticcraft:printed_circuit_board",
+    L: "minecraft:redstone_lamp",
+    A: "minecraft:amethyst_shard"
+})
 
 //####################################################################################
 })
