@@ -234,6 +234,10 @@ e.replaceInput(
     "#forge:ingots/steel"
   )
 
+
+e.recipes.create.sandpaper_polishing("create:polished_rose_quartz", "biomesoplenty:rose_quartz_chunk")
+
+
 //####################################################################################
 
 //PNEUMATICRAFT RECIPES
@@ -259,6 +263,22 @@ e.replaceInput(
     "#forge:ingots/copper",
     "create:copper_casing"
   )
+
+  e.shaped("8x immersiveengineering:treated_wood_horizontal", [// arg 1: output
+    'WWW', 
+    'WCW', // arg 2: the shape (array of strings)
+    'WWW'  
+], {
+    W: '#minecraft:planks', 
+    C: 'tfmg:creosote_bucket'   
+}
+)
+
+//####################################################################################
+
+//BITTERBALLEN RECIPES
+
+e.recipes.create.compacting(Fluid.of("create_bic_bit:frying_oil", 250 * FluidAmounts.MB), "create_bic_bit:crushed_sunflower_seeds").heated()
 
 //####################################################################################
 })

@@ -631,6 +631,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/bocchium-1.20.1-0.0.3.pw.toml"
 hash = "f8d59912d1f29fcdacc27060c636e4d4f9a3abb9717c035c2aaf9f7df930e101"
 hash-format = "sha256"
@@ -1399,6 +1405,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/personality!.pw.toml"
+hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/philips-biome-features.pw.toml"
 hash = "fee24a5749441d4bbd50a9dfe4dd318e906a90b47c6c3f0834aada2896bca242"
 hash-format = "sha256"
@@ -1732,7 +1744,6 @@ metafile = true
 file = "options.txt"
 hash = "7dac93e469ad9032fd34efca82221b33121b7daf2ce927f8fa7cf9dc15112774"
 hash-format = "sha256"
-preserve = false
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
