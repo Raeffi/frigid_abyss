@@ -1757,8 +1757,9 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7dac93e469ad9032fd34efca82221b33121b7daf2ce927f8fa7cf9dc15112774"
+hash = "24edd1588a402cbbeaefad92c0d60bed6e24993d1cc462555f3936d083f96e3d"
 hash-format = "sha256"
+preserve = true
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
