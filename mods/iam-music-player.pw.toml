@@ -1,0 +1,13 @@
+name = "Iam Music Player"
+filename = "iammusicplayer-forge-mc1.20-3.22.0-alpha.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHHXRhiU/versions/ozviYKAq/iammusicplayer-forge-mc1.20-3.22.0-alpha.4.jar"
+hash-format = "sha1"
+hash = "fbab15b1c73bbae52c12f556f12bf3109fd1119e"
+
+[update]
+[update.modrinth]
+mod-id = "ZHHXRhiU"
+version = "ozviYKAq"

@@ -589,6 +589,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ash_api-forge-3.0.2_1.20.1.pw.toml"
 hash = "5746905cfafd452a8f4934d90cf8aaf1e0d69ffb7ea99d11b23cbc60a9f44215"
 hash-format = "sha256"
@@ -717,6 +723,12 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-11.1.118-forge.pw.toml"
 hash = "c6b5044074216d6cf7bbcaeacf810508963ab0d8b41346d6655011c7ed6dfb65"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 hash-format = "sha256"
 metafile = true
 
@@ -885,6 +897,12 @@ metafile = true
 [[files]]
 file = "mods/createrailwaysnavigator-0.4.1-beta-1.20.1.pw.toml"
 hash = "c4f6f02919af24c8eb6bd48a67e4048e6a92d6fc799db48a58acb54df3199054"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2cbb3ab76fd3f3b31d67bceae9e704953e5741dfab13837b88c580a86ea09a4f"
 hash-format = "sha256"
 metafile = true
 
@@ -1159,6 +1177,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player.pw.toml"
+hash = "655f93d0b7d17a663a6f4ce5cb912f398e900738a27b9f62f8e5e2aa8a3e4f05"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/idas_forge-1.9.3_1.20.1.pw.toml"
 hash = "fc8030171421507d24fda7af2f0f1463e3ec19f3e3d1bd63853d133bde5c28f8"
 hash-format = "sha256"
@@ -1377,6 +1401,12 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims-forge-1.20.1-0.22.0.pw.toml"
 hash = "2d458cf51e8d0a7e2f11beaf04b2fcd00ecde672ddc944040f7a19bcc6c4250c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "50e30d0f9c063b160b70692c5082df1a8d51fe51f87faea3cdafeccda94e7f4a"
 hash-format = "sha256"
 metafile = true
 
@@ -1681,8 +1711,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "1408ddf312193a5de042a5a2272e23b5836d0f77b6a68b0d6071a647bbe4f54e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/watermedia-2.0.25.pw.toml"
 hash = "25947b712eef30d4ecbabf10a464375bfa488264736de6e0c5c3d5e95a3043f8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "8b59dabad04f02d8e458c14a1577a86e6432db62bccf19ad42781c561d1af6f1"
 hash-format = "sha256"
 metafile = true
 

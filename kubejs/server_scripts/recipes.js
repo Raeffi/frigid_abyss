@@ -220,6 +220,19 @@ e.recipes.create.sequenced_assembly([
     e.recipes.createDeploying(inter, [inter, '#forge:nuggets/steel'])
 ]).transitionalItem(inter).loops(5) // set the transitional item and the number of loops
 
+e.recipes.create.mixing( Fluid.of("create:potion", 50 * FluidAmounts.MB, '{Potion:"minecraft:awkward"}'), ["minecraft:amethyst_shard","alexsmobs:banana_slug_slime","minecraft:poisonous_potato",'minecraft:fire_charge', Fluid.of("create:potion", 500 * FluidAmounts.MB, '{Potion:"minecraft:mundane"}')])
+
+e.replaceInput(
+    {output: ["create:empty_blaze_burner","create:electron_tube","createaddition:alternator","createaddition:rolling_mill"]},
+    "#forge:plates/iron",
+    "#forge:plates/steel"
+  )
+
+  e.replaceInput(
+    {output: ["create:mechanical_drill","create:mechanical_saw"]},
+    "#forge:ingots/iron",
+    "#forge:ingots/steel"
+  )
 
 //####################################################################################
 
@@ -239,8 +252,13 @@ e.replaceInput(
 
 //IE RECIPES
 
-e.recipes.create.mixing("minecraft:tuff", '#forge:slag').superheated()
+e.recipes.create.mixing("minecraft:tuff", ['#forge:slag',Fluid.lava(500)]).superheated()
+
+e.replaceInput(
+    {output: ["immersiveengineering:rs_engineering","immersiveengineering:light_engineering"]},
+    "#forge:ingots/copper",
+    "create:copper_casing"
+  )
 
 //####################################################################################
 })
-
