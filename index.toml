@@ -1327,6 +1327,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "d4fdadce4e7ec2c404eb5ffd2e89b2d557d4f2b616c3f0907c7676ba0ca60928"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/moremobvariants-forge_1.20-1.2.2.pw.toml"
 hash = "c84c4f331dca630601240cfc8ece7092264932c11e0f3af8b464997061bb201f"
 hash-format = "sha256"
