@@ -601,6 +601,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/architectury-9.2.14-forge.pw.toml"
 hash = "2f9a38b74141117e679bf6386340eeaf9ec4b0be7c816d65b6d7e777fe44bb93"
 hash-format = "sha256"
