@@ -32,6 +32,11 @@ hash = "6be0254de998790edb1b534fabc02d0aa3fbd6204503fae406eb459ec7ed97f8"
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e2b8d347a86df5d0edb86ad06cb964e0a272b63096d020b2400913aa018b8b98"
+hash-format = "sha256"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "ed4a11ce4888cba118da7149cbb956b715e24708882c4f3c958e8d3a5820e0b7"
 hash-format = "sha256"
