@@ -137,6 +137,11 @@ hash = "199e24abf92fa37772218aaae52524106d4bcde2c871919b1bcb08d0defa58b9"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/starterkit.js"
+hash = "b7900ae08ab47c808316579a509a68d49386af214d9d11abb009ec2199954e82"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "cc63ba1679f4cefec3b93b7cf10395b7e3986ab73e1f438a019702ba1b5fcf77"
 hash-format = "sha256"
