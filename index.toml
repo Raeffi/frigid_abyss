@@ -28,7 +28,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "1d919ef687dc18dc8ddc518cd89432d0cfe07f5b8258e8dbe80a24596ccf9d2f"
+hash = "6be0254de998790edb1b534fabc02d0aa3fbd6204503fae406eb459ec7ed97f8"
 hash-format = "sha256"
 
 [[files]]
@@ -87,6 +87,11 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/client_scripts/itemrename.js"
+hash = "5e442f47db0dce71fb9003b1bf5e39132042d475e5882922f5566f37c327706b"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "bad29d491f9bc07464601a2539151e1a8049356ad0b2c45236667b4ca564268e"
 hash-format = "sha256"
@@ -123,7 +128,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "2a5ed19fa397b7c7ac1fbedfbac5e2032723ed584a2511e9c63e4412e84a364d"
+hash = "199e24abf92fa37772218aaae52524106d4bcde2c871919b1bcb08d0defa58b9"
 hash-format = "sha256"
 
 [[files]]
