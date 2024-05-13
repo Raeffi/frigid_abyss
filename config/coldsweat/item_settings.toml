@@ -57,7 +57,7 @@
 	#Defines items that affect the player's temperature when consumed
 	#Format: [["item_id", amount], ["item_id", amount], ...etc]
 	#Negative values are cold foods, positive values are hot foods
-	"Temperature-Affecting Foods" = []
+	"Temperature-Affecting Foods" = [["delightful:salmonberry_ice_cream", -10],["delightful:matcha_ice_cream", -10],["undead_revamp2:fizzysnowgoo", -10],["delightful:cantaloupe_popsicle", -10],["delightful:cantaloupe_popsicle", -10],["farmersdelight:melon_popsicle", -10],["ends_delight:chorus_fruit_popsicle", -10],["minecraft:mushroom_stew", 20],["minecraft:beetroot_stew", 20],["minecraft:rabbit_stew", 20],["minecraft:suspicious_stew", 15],["farmersdelight:beef_stew", 25],["farmersdelight:vegetable_soup", 25],["farmersdelight:noodle_soup", 25],["farmersdelight:fish_stew", 25],["farmersdelight:baked_cod_stew", 25],["farmersdelight:chicken_soup", 25],["farmersdelight:pumpkin_soup", 25],["farmersdelight:sinigang", 25],["nethersdelight:strider_moss_stew", 20],["ends_delight:dragon_meat_stew", 20],["ends_delight:dragons_breath_and_chorus_soup", 20],["enlightened_end:chorus_soup", 20],["create:builders_tea", 10],["delightful:lavender_tea", 10],["ends_delight:chorus_fruit_milk_tea", 10],["ends_delight:bubble_tea", 10],["ends_delight:chorus_flower_tea", 10],["farmersdelight:hot_cocoa", 15]]
 	#Defines how much a waterskin will change the player's body temperature by when used
 	#Range: > 0
 	"Waterskin Strength" = 50

@@ -18,7 +18,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "16886c9cbb6e4fa7bda035b4cee71d2d605fc408cae934c0f95ebc8bdf96633a"
+hash = "49675fb2f825cb5eb18c96913f4b8925154ad1adb26dfc47273c8c78495240ae"
 hash-format = "sha256"
 
 [[files]]
@@ -747,6 +747,12 @@ metafile = true
 [[files]]
 file = "mods/chisels-and-bits-forge-1.4.148.pw.toml"
 hash = "8b70de305933765b22769060a5828ea375782e54499985628ed0b383d90d102b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 hash-format = "sha256"
 metafile = true
 
@@ -1617,6 +1623,12 @@ metafile = true
 [[files]]
 file = "mods/suppsquared-1.20-1.1.14.pw.toml"
 hash = "b7a475b6668d49920515b0c689015d9d4ffc438d6fd9b8597f5684815c9f0bca"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tagfoods.pw.toml"
+hash = "39d031d67222ae7050a0adb303426e00a422108dda6d758432b8044c128b8417"
 hash-format = "sha256"
 metafile = true
 
