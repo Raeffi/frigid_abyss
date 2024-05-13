@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "63bd75a0d6d02c461c83800520e20dea4e0c193a961d840353b54e443315d479"
+hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
 hash-format = "sha256"
 metafile = true
 
