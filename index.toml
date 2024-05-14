@@ -143,7 +143,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/starterkit.js"
-hash = "c2dbafde842d3d61fe3a09ba47ddd8c6385ade02be9796d850f902ca70d6b2d0"
+hash = "5a016e31143eb80b53f86038e512596c645a701356c84819fdbf8069178dfb22"
 hash-format = "sha256"
 
 [[files]]

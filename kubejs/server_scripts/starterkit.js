@@ -9,6 +9,6 @@ PlayerEvents.loggedIn(e => {
         e.player.give(Item.of("minecraft:wooden_axe", 1))
         e.player.give(Item.of("farmersdelight:bacon_sandwich", 5))
         e.player.give(Item.of("farmersdelight:hot_cocoa", 10))
-        e.player.give(Item.of("patchouli:frigid_abyss_guidebook", 1))
+        e.player.give(Item.of('patchouli:guide_book','{"patchouli:book": "patchouli:frigid_abyss_guidebook"}'))
     }
   })
