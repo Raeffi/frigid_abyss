@@ -1827,7 +1827,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "patchouli_books/frigid_abyss_guidebook/en_us/entries/useful_mods/useful_mods.json"
-hash = "18e39245656b36438f636fc6fded80f0bf22e323f155dfc1ef7962a877847fe9"
+hash = "c61bab6ec41aaaf57fef94e65f18e4f97f4050c60a0aee53195abfcf437e86f5"
 hash-format = "sha256"
 
 [[files]]

@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "List of important useful mods: $(li)Toms Simple Storage $(li2)Storage system mod $(li)ColdSweat $(li2)Temperature mod $(li)Irons Spells n Books $(li2)Mod that adds spell casting and wizardry $(li)MrCrayfish Gun Mod $(li2)Mod that adds firearms $(li)WaterFrames $(li2)Media player mod $(li)I am Music Player $(li2)Music player mod $(li)Immersive Paintings $(li2)Custom wall art (use graffiti for transparency)$(br)"
+            "text": "List of important useful mods: $(li)Toms Simple Storage $(li2)Storage system mod $(li)ColdSweat $(li2)Temperature mod $(li)Irons Spells n Books $(li2)Mod that adds spell casting and wizardry $(li)MrCrayfish Gun Mod $(li2)Mod that adds firearms $(li)WaterFrames $(li2)Media player mod $(li)I am Music Player $(li2)Music player mod $(li)Immersive Paintings $(li2)Custom wall art (use graffiti for transparency) $(li)TagFoods $(li2)Find all food in Jei with $foods$(br)"
         },
         {
             "type": "patchouli:text",
