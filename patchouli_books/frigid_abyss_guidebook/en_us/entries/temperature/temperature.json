@@ -1,0 +1,17 @@
+{
+    "name": "Temperature",
+    "icon": "minecraft:ice",
+    "category": "patchouli:temperature_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "",
+            "text": "This modpack contains the ColdSweat mod. Every biome has its own temperature. It gets colder during the night and according to the season (Can be determined with a calendar). You will also cool faster when wet. You can insulate your armor using certain items such as wool, fur, hoglin hide, etc. If the temperature is above or below the habitable range you will slowly freeze/overheat. You can use hot/cold blocks, a hearth, or food (ice cream cools, tea + soup + cocoa will heat you up) to keep your temperature in check.$(br)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Nether",
+            "text": "The nether is locked by being to hot. In order to unlock it use ice cream, ice blocks and fire resistance potions to venture into the nether and find Soulsprouts. You can use them to make the Soulspring Lamp. This device will keep your tempereature down when fueled and allow you to explore the nether.$(br)"
+        }
+    ]
+}

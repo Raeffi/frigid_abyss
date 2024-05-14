@@ -1,0 +1,17 @@
+{
+    "name": "Useful Mods",
+    "icon": "create:cogwheel",
+    "category": "patchouli:temperature_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "List of important useful mods: $(li)Toms Simple Storage $(li2)Storage system mod $(li)ColdSweat $(li2)Temperature mod $(li)Irons Spells n Books $(li2)Mod that adds spell casting and wizardry $(li)MrCrayfish Gun Mod $(li2)Mod that adds firearms $(li)WaterFrames $(li2)Media player mod $(li)I am Music Player $(li2)Music player mod $(li)Immersive Paintings $(li2)Custom wall art (use graffiti for transparency)$(br)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)End Remastered $(li2)End Portal requires many different eyes to open $(li)Eureka $(li2)Allows you to make ships $(li)Create Interactive $(li2)can turn create mod machines into ships to allow building on them while moving $(li)Main Tech Mods (Addons not listed) $(li2)Create $(li2)Immersive Engineering $(li2)Pneumaticcraft $(li2)ComputerCraft $(li)Tetra $(li2)Adds a deeply customizeable smithing system for tools and weapons$(br)"
+        }
+    ]
+}
+
+

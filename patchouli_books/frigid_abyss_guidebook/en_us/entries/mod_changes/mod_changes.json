@@ -1,0 +1,23 @@
+{
+    "name": "Changes to Mods",
+    "icon": "framedblocks:framed_wrench",
+    "category": "patchouli:temperature_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are quite a few changes done to recipes and features in the mods inside this pack. $(br2)Pneumaticcraft requires steel now instead of iron and the compressed iron has been renamed to Pressure treated Steel.$(br)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Create mod now requires steel for some machinery too. Also Rosequartz from the nether is compatible now. $(br2)ComputerCraft + I am Music Player + Watermedia have been completely rebalanced to all require electronic components and steel.$(br)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Immersive Engineering now requires Create mod assembly for certain items similar to the precision mechanism. Some items also require mechanisms from create and its addons. $(br2)ColdSweat has been configured to work with almost all blocks that should be warm or cold including machinery.$(br)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Eureka has been rebalanced by removing the Ship Engine and replacing it with the Rotaton Engine which requires a create mod power source to function. Balloons now require helium which is found in the end.$(br)"
+        }
+    ]
+}

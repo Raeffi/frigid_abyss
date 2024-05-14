@@ -32,6 +32,11 @@ hash = "6be0254de998790edb1b534fabc02d0aa3fbd6204503fae406eb459ec7ed97f8"
 hash-format = "sha256"
 
 [[files]]
+file = "config/patchouli-client.toml"
+hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
+hash-format = "sha256"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "e2b8d347a86df5d0edb86ad06cb964e0a272b63096d020b2400913aa018b8b98"
 hash-format = "sha256"
@@ -138,7 +143,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/starterkit.js"
-hash = "c23ae3d5220f1d336220fb33f4949bd9bda772bc15dda25be1a750198b692aeb"
+hash = "c2dbafde842d3d61fe3a09ba47ddd8c6385ade02be9796d850f902ca70d6b2d0"
 hash-format = "sha256"
 
 [[files]]
@@ -1799,6 +1804,31 @@ file = "options.txt"
 hash = "24edd1588a402cbbeaefad92c0d60bed6e24993d1cc462555f3936d083f96e3d"
 hash-format = "sha256"
 preserve = true
+
+[[files]]
+file = "patchouli_books/frigid_abyss_guidebook/book.json"
+hash = "2e24468999edfd4fd7191192505a02dc66c2a969bd47ce0d2e5d41ab0cf51ddb"
+hash-format = "sha256"
+
+[[files]]
+file = "patchouli_books/frigid_abyss_guidebook/en_us/categories/temperature_category.json"
+hash = "cdd8c2276a95187918fb768adc5a2e47d5a5c462b24524beb07fae8e1c074a92"
+hash-format = "sha256"
+
+[[files]]
+file = "patchouli_books/frigid_abyss_guidebook/en_us/entries/mod_changes/mod_changes.json"
+hash = "eddcedecaf70316429a3bbb1f6176bb358043a82a2b60285b5510e79c8336423"
+hash-format = "sha256"
+
+[[files]]
+file = "patchouli_books/frigid_abyss_guidebook/en_us/entries/temperature/temperature.json"
+hash = "c00aef8be41a5a16002d9c548510bc0a3b0bfc3851bd72953751cced0ea78e7e"
+hash-format = "sha256"
+
+[[files]]
+file = "patchouli_books/frigid_abyss_guidebook/en_us/entries/useful_mods/useful_mods.json"
+hash = "18e39245656b36438f636fc6fded80f0bf22e323f155dfc1ef7962a877847fe9"
+hash-format = "sha256"
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
