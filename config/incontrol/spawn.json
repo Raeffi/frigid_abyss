@@ -1,0 +1,113 @@
+[
+    {
+        "mob": ["undead_revamp2:bomber",
+                "undead_revamp2:clogger",
+                "undead_revamp2:invisiclogger",
+                "undead_revamp2:theskeeper",
+                "undead_revamp2:thespectre",
+                "undead_revamp2:thehorrors",
+                "undead_revamp2:thepregnant",
+                "undead_revamp2:theheavy",
+                "undead_revamp2:thesmoker",
+                "undead_revamp2:thelurker",
+                "undead_revamp2:thewolf",
+                "undead_revamp2:slaveman",
+                "undead_revamp2:thebeartamer"],
+                "mincount": {
+                    "amount": 1,
+                    "perplayer": true
+                  },
+        "result": "deny"
+    },
+    {
+        "mob": ["undead_revamp2:invisiimmortal",
+                "undead_revamp2:the_bidy",
+                "undead_revamp2:thebidyupside",
+                "undead_revamp2:immortal",
+                "undead_revamp2:sucker",
+                "undead_revamp2:theimmortal",
+                "undead_revamp2:therod",
+                "undead_revamp2:thehunter",
+                "undead_revamp2:invisiblebidy"],
+                "mincount": {
+                    "amount": 2,
+                    "perplayer": true
+                  },
+        "result": "deny"
+    },
+    {
+        "mob": ["undead_revamp2:the_moonflower",
+                "undead_revamp2:the_somnolence",
+                "undead_revamp2:thegliter",
+                "undead_revamp2:theswarmer"],
+                "mincount": {
+                    "amount": 3,
+                    "perplayer": true
+                  },
+        "result": "deny"
+    },
+    {
+        "mob": ["undead_revamp2:bomber",
+                "undead_revamp2:clogger",
+                "undead_revamp2:invisiclogger",
+                "undead_revamp2:theskeeper",
+                "undead_revamp2:thespectre",
+                "undead_revamp2:thehorrors",
+                "undead_revamp2:thepregnant",
+                "undead_revamp2:theheavy",
+                "undead_revamp2:thesmoker",
+                "undead_revamp2:thelurker",
+                "undead_revamp2:thewolf",
+                "undead_revamp2:slaveman",
+                "undead_revamp2:thebeartamer",
+                "undead_revamp2:the_moonflower",
+                "undead_revamp2:the_somnolence",
+                "undead_revamp2:thegliter",
+                "undead_revamp2:theswarmer",
+                "undead_revamp2:invisiimmortal",
+                "undead_revamp2:the_bidy",
+                "undead_revamp2:thebidyupside",
+                "undead_revamp2:immortal",
+                "undead_revamp2:sucker",
+                "undead_revamp2:theimmortal",
+                "undead_revamp2:therod",
+                "undead_revamp2:thehunter",
+                "undead_revamp2:invisiblebidy"],
+        "mincount": {
+          "amount": 4,
+          "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "mob": ["undead_revamp2:bomber",
+                "undead_revamp2:clogger",
+                "undead_revamp2:invisiclogger",
+                "undead_revamp2:theskeeper",
+                "undead_revamp2:thespectre",
+                "undead_revamp2:thehorrors",
+                "undead_revamp2:thepregnant",
+                "undead_revamp2:theheavy",
+                "undead_revamp2:thesmoker",
+                "undead_revamp2:thelurker",
+                "undead_revamp2:thewolf",
+                "undead_revamp2:slaveman",
+                "undead_revamp2:thebeartamer",
+                "undead_revamp2:the_moonflower",
+                "undead_revamp2:the_somnolence",
+                "undead_revamp2:thegliter",
+                "undead_revamp2:theswarmer",
+                "undead_revamp2:invisiimmortal",
+                "undead_revamp2:the_bidy",
+                "undead_revamp2:thebidyupside",
+                "undead_revamp2:immortal",
+                "undead_revamp2:sucker",
+                "undead_revamp2:theimmortal",
+                "undead_revamp2:therod",
+                "undead_revamp2:thehunter",
+                "undead_revamp2:invisiblebidy"],
+        "random": 0.95,
+        "result": "deny"
+    }
+
+]

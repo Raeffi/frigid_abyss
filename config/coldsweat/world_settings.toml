@@ -89,7 +89,7 @@
 ["#chipped:magma_block", 0.5, 3, true, 0.6],
 ["#chipped:snow", -0.01, 4, true, 0.5],
 ["minecraft:snow_block", -0.01, 4, true, 0.5],
-["minecraft:powder_snow", -2, 1, true, 4],
+["minecraft:powder_snow", -2, 1, true, 0.9],
 ["architects_palette:coarse_snow", -0.01, 4, true, 0.5],
 ["architects_palette:chiseled_packed_ice", -0.35, 4, true, 1.0],
 ["architects_palette:polished_packed_ice_wall", -0.35, 4, true, 1.0],

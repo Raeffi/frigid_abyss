@@ -12,4 +12,6 @@ ServerEvents.tags('item', e => {
     e.add("forge:coal_coke", "tfmg:coal_coke")
     e.add("minecraft:coals", "tfmg:coal_coke")
 
+    e.add("forge:seeds", "create_bic_bit:sunflower_seeds")
+
 })

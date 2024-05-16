@@ -60,6 +60,18 @@ e.recipes.create.mechanical_crafting("create_eureka:rotation_engine", [
     E: "create:electron_tube"
 })
 
+e.replaceInput(
+    {output: "#vs_eureka:ship_helms"},
+    "#forge:ingots/gold",
+    "create:precision_mechanism"
+)
+
+e.replaceInput(
+    {output: "#vs_eureka:ship_helms"},
+    "#forge:fences/wooden",
+    "immersiveengineering:treated_fence"
+)
+
 //####################################################################################
 
 //TOMS STORAGE RECIPES
@@ -237,6 +249,17 @@ e.replaceInput(
 
 e.recipes.create.sandpaper_polishing("create:polished_rose_quartz", "biomesoplenty:rose_quartz_chunk")
 
+e.replaceInput(
+    {output: ["create:water_wheel","create:large_water_wheel"]},
+    "#minecraft:planks",
+    "#forge:treated_wood"
+)
+
+e.replaceInput(
+    {output: ["create:brass_casing","create:copper_casing"]},
+    "#forge:stripped_logs",
+    "#forge:treated_wood"
+)
 
 //####################################################################################
 

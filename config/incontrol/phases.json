@@ -1,0 +1,8 @@
+[
+	{
+		"name": "before_day5",
+		"conditions": {
+			"maxdaycount": 5
+		}
+	}
+]
