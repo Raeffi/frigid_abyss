@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchud.pw.toml"
-hash = "d24994c16f00e5b925321bd7413bf1465029fbc97c5a46c041f94a6061f04132"
+hash = "48593f165bb5f7652de2230b44157eb887b895ff653c4316afb84a882cb80539"
 hash-format = "sha256"
 metafile = true
 
