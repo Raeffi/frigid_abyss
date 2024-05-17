@@ -148,7 +148,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "5522b8972f55a3e50071bb0af9a03b473230397b83a6ef31380b72be38b22823"
+hash = "fc2d704bbfad80ee4f3d8716b6329bf05a547b4208f4e935ea4b3e7cdf924345"
 hash-format = "sha256"
 
 [[files]]
@@ -1288,10 +1288,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
+file = "mods/interactive.pw.toml.DISABLED"
 hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/interiors-0.5.3_forge-mc1.20.1.pw.toml"

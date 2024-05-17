@@ -161,7 +161,7 @@ e.remove({output: "cgm:basic_bullet"})
 
 let inter = "kubejs:unfinished_basic_bullet"
 
-e.recipes.create.sequenced_assembly(['cgm:basic_bullet'], "#forge:plates/copper", [
+e.recipes.create.sequenced_assembly(['8x cgm:basic_bullet'], "#forge:plates/copper", [
     e.recipes.createPressing(inter, inter),
     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
     e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"])
@@ -172,7 +172,7 @@ e.remove({output: "cgm:advanced_bullet"})
 
 inter = "kubejs:unfinished_advanced_bullet"
 
-e.recipes.create.sequenced_assembly(['cgm:advanced_bullet'], "#forge:plates/brass", [
+e.recipes.create.sequenced_assembly(['4x cgm:advanced_bullet'], "#forge:plates/brass", [
     e.recipes.createPressing(inter, inter),
     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
@@ -184,7 +184,7 @@ e.remove({output: "cgm:shell"})
 
 inter = "kubejs:unfinished_shell"
 
-e.recipes.create.sequenced_assembly(['cgm:shell'], "#forge:plates/brass", [
+e.recipes.create.sequenced_assembly(['4x cgm:shell'], "#forge:plates/brass", [
     e.recipes.createDeploying(inter, [inter, "#forge:ingots/plastic"]),
     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
