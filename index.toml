@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchud.pw.toml"
-hash = "99b537da14eb0e5dd1328d7be6f6b544ce23ac800a14fd3d4a03847c45bbda0e"
+hash = "d24994c16f00e5b925321bd7413bf1465029fbc97c5a46c041f94a6061f04132"
 hash-format = "sha256"
 metafile = true
 
@@ -750,12 +750,6 @@ metafile = true
 [[files]]
 file = "mods/charmofundying-forge-6.5.0_1.20.1.pw.toml"
 hash = "eb73c21f134675a99b2e3d0f1f07f122a0775bc136b56ee59f0f90a7084ec0f5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/charms-2.0.2-1.20.1.pw.toml"
-hash = "f6640963f1aac06613f3c6193a42d6f1df7a85c67661c83d6d4002cbc5d1651d"
 hash-format = "sha256"
 metafile = true
 
