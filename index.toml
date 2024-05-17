@@ -694,6 +694,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "99b537da14eb0e5dd1328d7be6f6b544ce23ac800a14fd3d4a03847c45bbda0e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/botarium-forge-1.20.1-2.3.3.pw.toml"
 hash = "1637713ce109afb04550f6f0ba4c67802ab8344ccdaf02cf2108972862e5d202"
 hash-format = "sha256"
@@ -1383,6 +1389,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "1b393548b32a73fc41f7c4e17a2edb7ee146bc872c419e8623647abc90afb919"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/mastercutter-1.1.pw.toml"
 hash = "3624ed33601ffb44b38d178e1ed8dd295a60563a6ac4e9af63b23c22463f2f02"
 hash-format = "sha256"
@@ -1541,6 +1553,12 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/servuxforged.pw.toml"
+hash = "64d7d38bf66b2df528bdad61843b03d473de18d45bdb8a22480b6fb932792c2f"
 hash-format = "sha256"
 metafile = true
 
