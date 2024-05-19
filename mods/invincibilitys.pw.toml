@@ -1,0 +1,13 @@
+name = "Invincibilitys"
+filename = "Invincibility 1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZatNNO73/versions/cj8KCnfe/Invincibility%201.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "2457b0e09678af3f68c032adb0ab7e57f0bdd70c"
+
+[update]
+[update.modrinth]
+mod-id = "ZatNNO73"
+version = "cj8KCnfe"
