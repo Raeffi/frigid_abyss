@@ -106,7 +106,7 @@
                 "undead_revamp2:therod",
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
-        "random": 0.95,
+        "random": 0.9,
         "result": "deny"
     }
 

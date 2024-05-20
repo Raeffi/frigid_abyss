@@ -38,7 +38,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "ed619418e0e93f449f9fc66028708b2418244942aaba42bba100a30cca92a01a"
+hash = "2fdbb153de4fd026415f05bc236fe55b2fde01a48a589066334ae65b289a5f6c"
 hash-format = "sha256"
 
 [[files]]
@@ -1331,6 +1331,12 @@ metafile = true
 [[files]]
 file = "mods/jei-1.20.1-forge-15.3.0.4.pw.toml"
 hash = "fea2dba897774455223d382c4237b2ba7f7c3a7f47069e530caf363acba56b12"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 hash-format = "sha256"
 metafile = true
 
