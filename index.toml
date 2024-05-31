@@ -32,6 +32,11 @@ hash = "23cff458e34e0cf9a3023d4c1170f1b869bea39f553ea5362e45aaf0af6b03ad"
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "439f81706cc54084e4c7f432bcdc3d7def496f5598380111401f90cc1eb5b9fa"
+hash-format = "sha256"
+
+[[files]]
 file = "config/incontrol/phases.json"
 hash = "5f9c440b6bb3d2e8dc2af549d9d543dd5a1632928596d7bb5da6868b28705029"
 hash-format = "sha256"
@@ -108,7 +113,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/client_scripts/itemrename.js"
-hash = "5e442f47db0dce71fb9003b1bf5e39132042d475e5882922f5566f37c327706b"
+hash = "b53f45324f031f84f50b5dc205bd2fc8b9c6685e81eaaed64f61a8a877f8cd26"
 hash-format = "sha256"
 
 [[files]]
@@ -138,7 +143,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "43585e795d12f4a186c5ce150814c2c6825e2c832c434240f990e425905df44a"
+hash = "27aef82938d7b8a3c6169d1acb3c59d85db006997eaabf6c1fa02022c0de509c"
 hash-format = "sha256"
 
 [[files]]
@@ -148,7 +153,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "fc2d704bbfad80ee4f3d8716b6329bf05a547b4208f4e935ea4b3e7cdf924345"
+hash = "39d58a962cf1e729a6887a617cc5a005962323f8e02715b865ffa6052cc1c6b4"
 hash-format = "sha256"
 
 [[files]]
@@ -1773,6 +1778,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "7db48f02ef2ae4c72218905e5cf99ea1cbdc4e4f5c589fe5ce6c0c88dd96fca3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "39a245571d0bf349aec62d6d39720e9ecfb3a90db9d1b2abe82785633680778c"
 hash-format = "sha256"
@@ -1846,7 +1857,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "24edd1588a402cbbeaefad92c0d60bed6e24993d1cc462555f3936d083f96e3d"
+hash = "3f42c94c95e7f30288ccdeaed6f3bd7dbac2102da48013f6742a51a5f4c7bfd3"
 hash-format = "sha256"
 preserve = true
 
@@ -1877,19 +1888,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
-hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
+hash = "16ea5234fdf3bd38bb876a0a55935befd98a8a513d3379d6edafc9b47dfad0ce"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
-hash = "a5978639cd1d71165728c75e601e3e3a2c8acf3eb232bb2d78469bd98c0373bb"
+hash = "7f5edf993a1f3ea71a249dd5aef9428e443034dd784efed8610866a4400efaa8"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-guns.pw.toml"
-hash = "aa0573c393e25ac1824da641e33edc82207022685760811545517ab0dda3f57a"
+hash = "b7b7afeea46d18852931c22c0917767f6ef91ca176b9decde3cfc6d5cd373e11"
 hash-format = "sha256"
 metafile = true
 
@@ -1901,18 +1912,24 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eureka!-create-airships!.pw.toml"
-hash = "a61d1ba2a695d5ff4752089e34ee44cd50fcf593db323677521f50c69dab08e4"
+hash = "943ed03196959f8b10a95c9447e6dd0073014a094de648521f8f8ce29f36522f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "resourcepacks/toms-better-create-storage.pw.toml"
-hash = "a09e074e2803493d66cbe2b9a1eaee7cb000b3c4bf5a47279be0d2f717f6c233"
+hash = "38e5dd894973d075ff71add6eef30506d059356b6b61aaa7f9a5a42886155d90"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
+hash = "ed45f865df369bee4510b6316d743b4f5dc833fe5506adb0e412e42e48876c1f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ultimatecarreskin.pw.toml"
+hash = "08cab6b5a9fc1eaf0f0e87a9db760c76d808a4add3eb554bc81282fe6e9ff008"
 hash-format = "sha256"
 metafile = true
