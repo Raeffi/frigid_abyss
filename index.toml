@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ratatouille.pw.toml"
-hash = "5046951d125a8b972a7c74628ed056f185d72d8a95c81dba3c40115839c34f86"
+hash = "28513e7fab1e1381c6fb7c2dd9f3aa784a64ac36c402082229b4b0ca00966f93"
 hash-format = "sha256"
 metafile = true
 

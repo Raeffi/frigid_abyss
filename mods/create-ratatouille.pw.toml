@@ -1,6 +1,6 @@
 name = "Create Ratatouille"
 filename = "create_ratatouille-1.20.1-1.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XM0ifg8q/versions/xzoBDxeg/create_ratatouille-1.20.1-1.1.jar"
