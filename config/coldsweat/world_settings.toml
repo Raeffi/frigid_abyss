@@ -99,7 +99,9 @@
 ["architects_palette:polished_packed_ice", -0.35, 4, true, 1.0],
 ["architects_palette:packed_ice_pillar", -0.35, 4, true, 1.0],
 ["architects_palette:molten_nether_bricks", 0.3, 3, true, 0.4],
-["immersiveengineering:storage_uranium", 0.6, 3, true, 0.7]
+["immersiveengineering:storage_uranium", 0.6, 3, true, 0.7],
+["ratatouille:frozen_block", -0.35, 4, true, 1.0],
+["car:blastfurnace", 0.39, 5, true, 0.6, "powered=true"],
 ]
 	#The maximum range of blocks' area of effect
 	#Note: This will not change anything unless blocks are configured to utilize the expanded range
