@@ -764,7 +764,6 @@ e.recipes.create.mechanical_crafting( "waterframes:projector", [
 
 //CAR RECIPES
 
-e.remove({ id: "car:generator" })
 e.remove({ id: "car:cable" })
 e.remove({ id: "car:fluid_pipe" })
 e.remove({ id: "car:fluid_extractor" })
@@ -901,6 +900,33 @@ e.shaped("car:dynamo", [// arg 1: output
     I: "#forge:dusts/redstone",
     C: "immersiveengineering:coil_lv"
     }
+)
+
+e.remove({ id: "car:generator" })
+
+e.shaped("car:generator", [// arg 1: output
+'IRI', 
+'EMC', // arg 2: the shape (array of strings)
+'III'  
+], {
+    I: "#forge:ingots/iron",
+    R: "#forge:dusts/redstone",
+    C: "immersiveengineering:coil_lv",
+    M: "immersiveengineering:component_iron",
+    E: "car:engine_3_cylinder"
+    }
+)
+
+e.replaceInput(
+    {output: "car:oilmill"},
+    "minecraft:piston",
+    "#design_decor:millstones"
+)
+
+e.replaceInput(
+    {output: "car:blastfurnace"},
+    "minecraft:furnace",
+    "immersiveengineering:furnace_heater"
 )
 
 let lada = (output, colorInput) => {
