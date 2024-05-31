@@ -855,6 +855,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-ratatouille.pw.toml"
+hash = "5046951d125a8b972a7c74628ed056f185d72d8a95c81dba3c40115839c34f86"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FORGE.pw.toml"
 hash = "63dcb23891bd303b481d9f2bdb839ffc88529541039225e666743066858f81b7"
 hash-format = "sha256"
@@ -1438,6 +1444,18 @@ metafile = true
 [[files]]
 file = "mods/moonlight-1.20-2.11.12-forge.pw.toml"
 hash = "d7bae6bd9a980c221a6fda269de48d545264825bf1c53ef841bfc0c535ac6159"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "f8bd3f2bdf03b7de7e7e5442a72c458ed9b2afe067a79a7be72e5894eeba1887"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "18d3ebdaddfbfedc8a694e96ce17a5423599d440809a09d5c5cdcb6ecf8592f5"
 hash-format = "sha256"
 metafile = true
 
