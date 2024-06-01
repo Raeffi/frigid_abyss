@@ -224,7 +224,7 @@ e.recipes.create.sequenced_assembly([
     Item.of('2x gold_nugget').withChance(2.0),
     'iron_ingot',
     'clock'
-], 'create:golden_sheet', [ // 'create:golden_sheet' is the input
+], "#forge:plates/gold", [ // 'create:golden_sheet' is the input
     // the transitional item set by `transitionalItem('create:incomplete_large_cogwheel')` is the item used during the intermediate stages of the assembly
     e.recipes.createDeploying(inter, [inter, 'create:cogwheel']),
     // like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item
