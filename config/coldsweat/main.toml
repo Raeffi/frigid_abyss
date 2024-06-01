@@ -29,7 +29,7 @@ Difficulty = 4
 	#Sets whether damage scales with difficulty
 	"Damage Scaling" = true
 	#When set to true, players cannot sleep if they are cold or hot enough to die
-	"Prevent Sleep When in Danger" = true
+	"Prevent Sleep When in Danger" = false
 
 ["Temperature Effects"]
 

@@ -23,7 +23,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "cbbf56dafb52c1dd941d301c0bd3ad4c1fc3ad69e46b5ccc6ab08f7d3bc18e7c"
+hash = "ff78ae47bcb752add5a45ef5cc6234f1224ab09043fd61f9ff09c0765e74ea9e"
 hash-format = "sha256"
 
 [[files]]
