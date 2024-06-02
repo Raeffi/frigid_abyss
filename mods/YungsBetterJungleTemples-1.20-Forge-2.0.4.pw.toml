@@ -1,12 +1,13 @@
 name = "[1.20] v2.0.4 (Forge)"
-filename = "YungsBetterJungleTemples-1.20-Forge-2.0.4.jar"
+filename = "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/kvifUaXe/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar"
-hash-format = "sha512"
-hash = "7e3b73920ac3fd994249e9ecc26ed2a8e86ba4fede203908ab8856d8fd3e24bb708cc710095932f7a1e21e548e882dedb3780010220387c85e302e6ca656f1e7"
+url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+hash-format = "sha1"
+hash = "0b3c8556983895fea980247bb4d437ca535e7259"
 
+[update]
 [update.modrinth]
 mod-id = "z9Ve58Ih"
-version = "kvifUaXe"
+version = "CXQc6EnZ"

@@ -1,18 +1,18 @@
 name = "AmbientSounds"
-filename = "AmbientSounds_FORGE_v5.3.9_mc1.20.1.jar"
+filename = "AmbientSounds_FORGE_v6.0.1_mc1.20.1.jar"
 side = "client"
 
-[option] 
-optional = true
-default = true
-description = "adds ambient noises to biomes"
-
 [download]
-url = "https://cdn.modrinth.com/data/fM515JnW/versions/5sNrTJOv/AmbientSounds_FORGE_v5.3.9_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/rSZhsa1c/AmbientSounds_FORGE_v6.0.1_mc1.20.1.jar"
 hash-format = "sha1"
-hash = "b9f25fa50ecf075b3aef40b682d9c370a03a34f5"
+hash = "1319aff96bcf7f44b56b8b81d944588b9e5e7e08"
 
 [update]
 [update.modrinth]
 mod-id = "fM515JnW"
-version = "5sNrTJOv"
+version = "rSZhsa1c"
+
+[option]
+optional = true
+description = "adds ambient noises to biomes"
+default = true

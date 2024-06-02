@@ -1,11 +1,12 @@
 name = "Create Deco 2.0.1-1.20.1-forge"
-filename = "createdeco-2.0.1-1.20.1-forge.jar"
+filename = "createdeco-2.0.2-1.20.1-forge.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/EcZilZTT/createdeco-2.0.1-1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "53ec4b040cfeb82a95508dde8f192d7019b64247946f0eea2e801d3c2c2c2726b44ae14d4990156c2aaff8cbd2b24a5a445d23cd295d4aa3c6c8c75aa01f9de7"
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/lcpO5tBr/createdeco-2.0.2-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "606650f31ca0a5eb64d4bbb8fbaecf357a3bdb43"
 
+[update]
 [update.modrinth]
 mod-id = "sMvUb4Rb"
-version = "EcZilZTT"
+version = "lcpO5tBr"

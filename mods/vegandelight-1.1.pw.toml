@@ -1,12 +1,13 @@
 name = "Vegan Delight 1.1"
-filename = "vegandelight-1.1.jar"
+filename = "vegandelight-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/1AyN13ps/vegandelight-1.1.jar"
-hash-format = "sha512"
-hash = "c21f085aafe61cf4790f75a3eef0b2a08a37003fe0cdb472a90b2799a71f18156d1e578de9de7c5f06ba40cb950b577c6ecae94831462eab795c04ce860d72c0"
+url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/MDMf7ked/vegandelight-1.2.jar"
+hash-format = "sha1"
+hash = "8b0b551df467a493586bde4c5a3c263f31b331cb"
 
+[update]
 [update.modrinth]
 mod-id = "Na8nA0jA"
-version = "1AyN13ps"
+version = "MDMf7ked"

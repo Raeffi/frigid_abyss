@@ -1,11 +1,12 @@
 name = "Delightful 3.5.2 - 1.20.1"
-filename = "Delightful-1.20.1-3.5.2.jar"
+filename = "Delightful-1.20.1-3.5.4.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/JtSnhtNJ/versions/tbDBi4m9/Delightful-1.20.1-3.5.2.jar"
-hash-format = "sha512"
-hash = "45496b97822db6654a710a7a916ed1f69b1bea1ca24ccc61c7d4c43b8ad89b2da3f0a2f8831ed29e7862b4570142220ed18431b8192470e29c60b42721ae1345"
+url = "https://cdn.modrinth.com/data/JtSnhtNJ/versions/RHlR4idq/Delightful-1.20.1-3.5.4.jar"
+hash-format = "sha1"
+hash = "86750926bb6fb4e2e64ee47c635471b5ffb64fed"
 
+[update]
 [update.modrinth]
 mod-id = "JtSnhtNJ"
-version = "tbDBi4m9"
+version = "RHlR4idq"

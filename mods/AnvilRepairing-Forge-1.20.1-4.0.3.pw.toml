@@ -1,11 +1,12 @@
 name = "AnvilRepairing-Forge-1.20.1-4.0.3"
-filename = "AnvilRepairing-Forge-1.20.1-4.0.3.jar"
+filename = "AnvilRepairing-Forge-1.20.1-4.0.7.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/gY0sChT6/versions/GWF3wKyA/AnvilRepairing-Forge-1.20.1-4.0.3.jar"
-hash-format = "sha512"
-hash = "6a43b28f095c672ab043998bc35a070b18d367abfcabc2154ba2fc40b8a34eb81d5f8ed93bba6b62c25f591d756e73a3bde1aefe6f52f78d5c512d9e5b70cd5b"
+url = "https://cdn.modrinth.com/data/gY0sChT6/versions/5wSCBNGL/AnvilRepairing-Forge-1.20.1-4.0.7.jar"
+hash-format = "sha1"
+hash = "4335fb231f27c99ad1c8be438935d398180b8d4e"
 
+[update]
 [update.modrinth]
 mod-id = "gY0sChT6"
-version = "GWF3wKyA"
+version = "5wSCBNGL"

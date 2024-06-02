@@ -1,12 +1,12 @@
 name = "1.20-1.1.18"
-filename = "amendments-1.20-1.1.22.jar"
+filename = "amendments-1.20-1.1.31.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/6iTJugQR/versions/2mgTSWBo/amendments-1.20-1.1.22.jar"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/iFucsSea/amendments-1.20-1.1.31.jar"
 hash-format = "sha1"
-hash = "377c8fec7c4a8ca81af9bc129d48053ea0800e88"
+hash = "8d554e03863249f677dda814ffe0b4daa2a56804"
 
 [update]
 [update.modrinth]
 mod-id = "6iTJugQR"
-version = "2mgTSWBo"
+version = "iFucsSea"

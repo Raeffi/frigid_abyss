@@ -1,11 +1,12 @@
 name = "Create Encased 1.20.1-1.6.0"
-filename = "CreateCasing-1.20.1-1.6.0.jar"
+filename = "CreateCasing-1.20.1-1.6.0-fix1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/m7BIb963/CreateCasing-1.20.1-1.6.0.jar"
-hash-format = "sha512"
-hash = "a842b4eb893cd02b555468c2fa21154430c0e54ce4d60c76f9ac2722051adbb821e9a2de4eb84fe0123a3acda56558365a3a285ab71d40281ca7a641de59babe"
+url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/RIW3rx3g/CreateCasing-1.20.1-1.6.0-fix1.jar"
+hash-format = "sha1"
+hash = "a558d37a52228ea0fe9fa2fed27b832bd3416638"
 
+[update]
 [update.modrinth]
 mod-id = "hSSqdyU1"
-version = "m7BIb963"
+version = "RIW3rx3g"

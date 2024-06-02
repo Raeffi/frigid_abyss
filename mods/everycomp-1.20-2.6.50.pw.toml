@@ -1,12 +1,12 @@
 name = "1.20-2.6.50"
-filename = "everycomp-1.20-2.6.52.jar"
+filename = "everycomp-1.20-2.6.56.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/SmBtxSKf/everycomp-1.20-2.6.52.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/cR9zm4gj/everycomp-1.20-2.6.56.jar"
 hash-format = "sha1"
-hash = "f2bf4617ee85894f1f8b6f1efaa6d028133805d0"
+hash = "6de8565e45fb9c893525b664868d6722958180ea"
 
 [update]
 [update.modrinth]
 mod-id = "eiktJyw1"
-version = "SmBtxSKf"
+version = "cR9zm4gj"

@@ -1,12 +1,13 @@
 name = "1.2.2 - Forge 1.20"
-filename = "moremobvariants-forge+1.20-1.2.2.jar"
+filename = "moremobvariants-forge+1.20.1-1.3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JiEhJ3WG/versions/VxRA0Nwd/moremobvariants-forge%2B1.20-1.2.2.jar"
-hash-format = "sha512"
-hash = "1725ff258247609842528c5cf984d44f38b2e5dedc05fc407a6355b50f2e63b3605bf4e737916f5c25955e8a4ed8af958aac12525db3f3fdc0e44c6f4e02a2ed"
+url = "https://cdn.modrinth.com/data/JiEhJ3WG/versions/qtpseir7/moremobvariants-forge%2B1.20.1-1.3.0.1.jar"
+hash-format = "sha1"
+hash = "0fad563c9d66e421b0b0d4541b33d18516446c58"
 
+[update]
 [update.modrinth]
 mod-id = "JiEhJ3WG"
-version = "VxRA0Nwd"
+version = "qtpseir7"

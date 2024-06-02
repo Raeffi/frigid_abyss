@@ -1,11 +1,12 @@
 name = "CEI 1.2.9.c for Create 1.20.1-0.5.1.f"
-filename = "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar"
+filename = "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/RP7am3NH/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar"
-hash-format = "sha512"
-hash = "954b127611e0cd8895daf62a75abc7f686355082fc75cf56e80b96be1506660aa530199a8a05f4c1f20b0c8128300bbc5e17e4493743e2c3be3baa34d7efeee3"
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
+hash-format = "sha1"
+hash = "eec891067ec8c72fdaeb97bece103eed5e10e719"
 
+[update]
 [update.modrinth]
 mod-id = "JWGBpFUP"
-version = "RP7am3NH"
+version = "JFhYaP3a"

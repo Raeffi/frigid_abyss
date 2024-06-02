@@ -1,12 +1,13 @@
 name = "Structure Gel API v2.16.1"
-filename = "structure_gel-1.20.1-2.16.1.jar"
+filename = "structure_gel-1.20.1-2.16.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/FQtCiGpd/structure_gel-1.20.1-2.16.1.jar"
-hash-format = "sha512"
-hash = "47e3538ca2874c9b9ac98e3f084e1e6ce74330a8cf3f87c80c58b1e5fec26c2fbec81bcaa569bcc75a0c1abbcc65209b1ea1eca181641d2670d20beae9b02779"
+url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/xavY0MZc/structure_gel-1.20.1-2.16.2.jar"
+hash-format = "sha1"
+hash = "ec8c59d2a69eca3249a8da673f572b40b6d59895"
 
+[update]
 [update.modrinth]
 mod-id = "T8TGycIQ"
-version = "FQtCiGpd"
+version = "xavY0MZc"

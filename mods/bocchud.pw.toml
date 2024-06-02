@@ -1,18 +1,17 @@
 name = "BoccHUD"
-filename = "BoccHUD-0.1.4-mc1.20.1.jar"
+filename = "BoccHUD-0.1.5-mc1.20.1.jar"
 side = "client"
 
-[option] 
-optional = true
-default = false
-description = "adds more info for debugging to hud"
-
 [download]
-url = "https://cdn.modrinth.com/data/zfPoD7Tm/versions/dK2ZJOGe/BoccHUD-0.1.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/zfPoD7Tm/versions/mFoTwEtC/BoccHUD-0.1.5-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "f78a5f76e726bf6fd38d71381b33c0f25a3bcc18"
+hash = "e29fa3765b58e32a4a8525df329e4638a8cf7ace"
 
 [update]
 [update.modrinth]
 mod-id = "zfPoD7Tm"
-version = "dK2ZJOGe"
+version = "mFoTwEtC"
+
+[option]
+optional = true
+description = "adds more info for debugging to hud"
