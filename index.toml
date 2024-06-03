@@ -28,7 +28,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "2af48f05a55e7122382b77e235f46784224b9d8ba13fd3c6e88807d67bd13fa4"
+hash = "ff5a412f93ce39c6a4b0c787fb020ca14c3ea03ef6a06d3db625b0a31a6f01d4"
 hash-format = "sha256"
 
 [[files]]
@@ -1940,7 +1940,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
+hash = "ed45f865df369bee4510b6316d743b4f5dc833fe5506adb0e412e42e48876c1f"
 hash-format = "sha256"
 metafile = true
 

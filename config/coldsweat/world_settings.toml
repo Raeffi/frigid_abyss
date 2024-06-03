@@ -102,6 +102,7 @@
 ["immersiveengineering:storage_uranium", 0.6, 3, true, 0.7],
 ["ratatouille:frozen_block", -0.35, 4, true, 1.0],
 ["car:blastfurnace", 0.39, 5, true, 0.6, "powered=true"],
+["jumbofurnace:jumbo_furnace", 0.3,	 5, true, 1,	 "lit=true"],
 ]
 	#The maximum range of blocks' area of effect
 	#Note: This will not change anything unless blocks are configured to utilize the expanded range
