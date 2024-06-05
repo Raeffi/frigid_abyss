@@ -68,7 +68,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_server.json"
-hash = "92faaec3444c8942f2d081d7a8bb03931c9cde78bbfd110aabdc0ae0fe7e6659"
+hash = "12ac4862ea79cdb0549246ca975d1117cc0e9c3a889b693acff6b281eac5e5b1"
 hash-format = "sha256"
 
 [[files]]

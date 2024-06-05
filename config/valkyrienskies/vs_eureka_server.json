@@ -1,5 +1,5 @@
 {
-  "enginePowerLinear" : 5000000.0,
+  "enginePowerLinear" : 8000000.0,
   "enginePowerLinearMin" : 10000.0,
   "enginePowerAngular" : 1.0,
   "enginePowerAngularMin" : 0.0,
@@ -36,7 +36,7 @@
   "diagonals" : true,
   "ballastWeight" : 10000.0,
   "ballastNoWeight" : 1000.0,
-  "allowDisassembly" : true,
+  "allowDisassembly" : false,
   "maxShipBlocks" : 32768,
   "$schema" : "schemas/vs_eureka_server.schema.json"
 }
