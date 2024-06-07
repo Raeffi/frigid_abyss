@@ -1,0 +1,911 @@
+[
+    {
+        "block": "s_a_b:blacksteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greensteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluesteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyansteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graysteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraysteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluesteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentasteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinksteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplesteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangesteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limesteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitesteelblock",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacksteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greensteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluesteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyansteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graysteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraysteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluesteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentasteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinksteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplesteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangesteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limesteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitesteelvslab",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacksteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greensteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluesteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyansteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graysteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraysteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluesteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentasteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinksteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplesteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangesteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limesteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitesteelslab",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacksteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redsteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greensteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluesteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyansteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownsteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graysteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraysteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluesteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentasteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowsteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinksteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplesteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangesteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limesteelarmorstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitesteelarmorstairs",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacklightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redlightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greenlightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluelightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyanlightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownlightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graylightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraylightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluelightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentalightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowlightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinklightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplelightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangelightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limelightsteelblock",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitelightsteelblock",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacklightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redlightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greenlightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluelightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyanlightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownlightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graylightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraylightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluelightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentalightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowlightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinklightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplelightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangelightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limelightsteelvslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitelightsteelvslab",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blakclightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redlightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greenlightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluelightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyanlightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownlightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graylightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraylightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluelightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentalightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowlightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinklightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplelightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangelightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limelightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitelightsteelslab",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:blacklightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:redlightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:greenlightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:bluelightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:cyanlightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:brownlightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:graylightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightgraylightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightbluelightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:magentalightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:yellowlightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:pinklightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:purplelightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:orangelightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:limelightsteelstairs",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:whitelightsteelstairs",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelblockcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockcoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelvslabcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabcoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelslabcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabcoloredparade",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabcolored_",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelstairscolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairscolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairscolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairscolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairscoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelblockcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockcoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelvslabcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabcoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelslabcolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabcolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabcolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabcolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabcoloredparade",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabcolored_",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelstairscolored_29",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lghtsteelstairscolored_33",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lghtsteelstairscolored_32",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lghtsteelstairscolored_31",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lghtsteelstairscoloredparade",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelblockshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblock_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelblockrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelvslabshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslab_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelvslabrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelslab",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslab_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelslabpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steeelslabrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:steelstairsshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairs_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairsgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairspanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:steelstairsrotbraun",
+        "mass": 100.0
+    },
+
+    
+
+    {
+        "block": "s_a_b:lightsteelblockshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblock_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelblockrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelvslabshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslab_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslavgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelvslabrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelslabshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslab_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabpanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelslabrotbraun",
+        "mass": 100.0
+    },
+
+
+
+    {
+        "block": "s_a_b:lightsteelstairsshipbottom",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelstairs_4bo",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelstairsgelb",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelstairspanzergrau",
+        "mass": 100.0
+    },
+    {
+        "block": "s_a_b:lightsteelstairsrotbraun",
+        "mass": 100.0
+    }
+]

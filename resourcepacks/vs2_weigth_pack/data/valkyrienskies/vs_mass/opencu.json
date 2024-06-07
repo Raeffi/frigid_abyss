@@ -1,0 +1,10 @@
+[
+    {
+      "block": "opencu:repulsor",
+      "mass": 100.0
+    },
+	{
+      "block": "opencu:adv_dispenser",
+      "mass": 100.0
+    }
+]

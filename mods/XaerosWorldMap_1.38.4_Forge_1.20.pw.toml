@@ -1,17 +1,18 @@
 name = "Xaeros Worldmap"
-filename = "XaerosWorldMap_1.38.4_Forge_1.20.jar"
+filename = "XaerosWorldMap_1.38.8_Forge_1.20.jar"
 side = "both"
 
-[option] 
-optional = true
-default = true
-description = "worldmap screen"
-
 [download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar"
-hash-format = "sha512"
-hash = "27e6b99f37d588d1c7927384fad3f67bc55e3150437c13f1029b760cf01e3cb646b1a6edae04edfa8037a30971fb627527b8bbc0c19dc21926865c036adac4f9"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/3t3qLyne/XaerosWorldMap_1.38.8_Forge_1.20.jar"
+hash-format = "sha1"
+hash = "a7e0a8a5fc1e31bfff5fb733c51b361ffb1fb5da"
 
+[update]
 [update.modrinth]
 mod-id = "NcUtCpym"
-version = "oE23WzAY"
+version = "3t3qLyne"
+
+[option]
+optional = true
+description = "worldmap screen"
+default = true

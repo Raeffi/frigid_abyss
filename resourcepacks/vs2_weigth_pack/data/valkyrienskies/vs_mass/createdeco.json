@@ -1,0 +1,698 @@
+[
+    {
+        "block": "createdeco:gold_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_sheet_metal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_sheet_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_sheet_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_sheet_slab_vert",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:locked_andesite_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:locked_brass_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:locked_cast_iron_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:locked_copper_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:locked_zinc_door",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:gold_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:netherite_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:andesite_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:brass_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:cast_iron_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:polished_iron_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:polished_iron_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:iron_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:copper_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copperd_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_bars_overlay",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_mesh_fence",
+        "mass": 50.0
+    },
+    {
+        "block": "createdeco:zinc_catwalk",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_catwalk_stair",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_block",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_hull",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:andesite_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brass_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:copper_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_support",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gold_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:netherite_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cast_iron_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:iron_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:zinc_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:white_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:orange_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:magenta_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:light_blue_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:lime_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:pink_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gray_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:light_gray_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cyan_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:purple_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brown_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:black_decal",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:white_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:orange_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:magenta_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:light_blue_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:lime_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:pink_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:gray_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:light_gray_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:cyan_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:purple_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:brown_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:black_placard",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_gold_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_gold_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_gold_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_gold_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_netherite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_netherite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_netherite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_netherite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_andesite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_andesite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_andesite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_andesite_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_brass_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_brass_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_brass_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_brass_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_cast_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_cast_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_cast_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_cast_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_iron_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_copper_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_copper_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_copper_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_copper_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:yellow_zinc_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:red_zinc_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:green_zinc_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "createdeco:blue_zinc_lamp",
+        "mass": 100.0
+    }
+]

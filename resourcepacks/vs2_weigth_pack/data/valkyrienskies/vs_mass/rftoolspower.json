@@ -1,0 +1,66 @@
+[
+    {
+      "block": "rftoolspower:dimensionalcell",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:dimensionalcell_simple",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:dimensionalcell_advanced",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:dimensionalcell_creative",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:cell1",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:cell2",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:cell3",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:coalgenerator",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:power_monitor",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:power_level",
+      "mass": 20.0
+    },
+    {
+      "block": "rftoolspower:endergenic",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:ender_monitor",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:pearl_injector",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:blazing_generator",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:blazing_agitator",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolspower:blazing_infuser",
+      "mass": 100.0
+    }
+]

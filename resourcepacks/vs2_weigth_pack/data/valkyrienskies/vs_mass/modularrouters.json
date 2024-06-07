@@ -1,0 +1,55 @@
+[
+    {
+      "block": "modularrouters:modular_router",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:template_frame",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:monitor_advanced",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:wireless_modem_advanced",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:wireless_modem_normal",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:computer_normal",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:turtle_normal",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:monitor_normal",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:wired_modem_full",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:cable",
+      "mass": 20.0
+    },
+    {
+      "block": "modularrouters:printer",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:speaker",
+      "mass": 100.0
+    },
+    {
+      "block": "modularrouters:disk_drive",
+      "mass": 100.0
+    }
+
+]

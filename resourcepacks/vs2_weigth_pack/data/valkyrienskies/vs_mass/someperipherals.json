@@ -1,0 +1,26 @@
+[
+    {
+      "block": "some_peripherals:ballistic_accelerator",
+      "mass": 100.0
+    },
+	{
+      "block": "some_peripherals:raycaster",
+      "mass": 100.0
+    },
+	{
+      "block": "some_peripherals:goggle_link_port",
+      "mass": 100.0
+    },
+	{
+      "block": "some_peripherals:radar",
+      "mass": 100.0
+    },
+	{
+      "block": "some_peripherals:digitizer",
+      "mass": 100.0
+    },
+	{
+      "block": "some_peripherals:world_scanner",
+      "mass": 100.0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "block": "createbigcannons:cannon_mount",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:yaw_controller",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:cast_iron_autocannon_breech",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:cast_iron_autocannon_recoil_spring",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:cast_iron_autocannon_barrel",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:bronze_autocannon_breech",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:bronze_autocannon_recoil_spring",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:bronze_autocannon_barrel",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:steel_autocannon_breech",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:steel_autocannon_recoil_spring",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:steel_autocannon_barrel",
+        "mass": 100.0
+    },
+    {
+        "block": "createbigcannons:autocannon_ammo_container",
+        "mass": 50.0
+    }
+]

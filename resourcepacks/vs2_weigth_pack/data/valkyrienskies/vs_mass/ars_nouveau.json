@@ -1,0 +1,118 @@
+[
+    {
+      "block": "ars_nouveau:source_jar",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:agronomic_sourcelink",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:mage_block",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:rune",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:warding_stone",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:arcane_pedestal",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:enchanting_apparatus",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:portal",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:arcane_core",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:imbuement_chamber",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:creative_source_jar",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:source_gem_block",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:potion_jar",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:potion_melder",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:vitalic_sourcelink",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:alchemical_sourcelink",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:mycelial_sourcelink",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:relay_warp",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:relay_deposit",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:basic_spell_turret",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:spell_turret",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:timer_spell_turret",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:spell_prism",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:relay",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:relay_splitter",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:whirlisprig_flower",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:relay_collector",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:scryers_oculus",
+      "mass": 100.0
+    },
+	{
+      "block": "ars_nouveau:scryers_crystal",
+      "mass": 100.0
+    }
+]

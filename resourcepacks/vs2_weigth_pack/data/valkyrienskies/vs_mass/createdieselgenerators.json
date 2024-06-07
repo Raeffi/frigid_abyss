@@ -1,0 +1,78 @@
+[
+      {
+        "block": "createdieselgenerators:diesel_engine",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:huge_diesel_engine",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:large_diesel_engine",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:asphalt_block",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:asphalt_slab",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:asphalt_stairs",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:basin_lid",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:canister",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:chip_wood_block",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:chip_wood_slab",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:chip_wood_stairs",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:distillation_tank",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:oil_barrel",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:powered_engine_shaft",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:pumpjack_bearing",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:pumpjack_bearing_b",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:pumpjack_crank",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:pumpjack_head",
+        "mass": 100.0
+      },
+      {
+        "block": "createdieselgenerators:pumpjack_hole",
+        "mass": 100.0
+      }
+]

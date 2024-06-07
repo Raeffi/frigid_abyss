@@ -1,0 +1,110 @@
+[
+    {
+      "block": "rftoolsutility:crafter1",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:crafter2",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:crafter3",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:matter_booster",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:matter_transmitter",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:matter_receiver",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:destination_analyzer",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:dialing_device",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:simple_dialer",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:tank",
+      "mass": 20.0
+    },
+    {
+      "block": "rftoolsutility:screen",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:screen_controller",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:creative_screen",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:matter_beamer",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:spawner",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:environmental_controller",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:analog",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:counter",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:digit",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:invchecker",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:sensor",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:sequencer",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:logic",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:timer",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:wire",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:redstone_receiver",
+      "mass": 100.0
+    },
+    {
+      "block": "rftoolsutility:redstone_transmitter",
+      "mass": 100.0
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+      "block": "advancedperipherals:environment_detector",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:chat_box",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:me_bridge",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:rs_bridge",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:ar_controller",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:energy_detector",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:peripheral_casing",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:inventory_manager",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:redstone_integrator",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:block_reader",
+      "mass": 20.0
+    },
+    {
+      "block": "advancedperipherals:geo_scanner",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:nbt_storage",
+      "mass": 100.0
+    },
+    {
+      "block": "advancedperipherals:colony_integrator",
+      "mass": 100.0
+    }
+
+]

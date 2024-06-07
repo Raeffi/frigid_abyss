@@ -1,0 +1,18 @@
+[
+    {
+        "block": "vc:radar_cc",
+        "mass": 100.0
+    },
+    {
+        "block": "vc:reader_cc",
+        "mass": 100.0
+    },
+    {
+        "block": "vc:motor_cc",
+        "mass": 100.0
+    },
+    {
+        "block": "vc:top_cc",
+        "mass": 100.0
+    }
+]

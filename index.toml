@@ -6,6 +6,21 @@ hash = "6a7f363a670985269b5c5b72b0ba92663641b741dbed3c898743ba355265ae25"
 hash-format = "sha256"
 
 [[files]]
+file = "config/block_lists/list_of_all_blocks.txt"
+hash = "1848ef1dbe04083b8b590a2b51ad677417148d7eaf4356a5b106751c3dbd8cc1"
+hash-format = "sha256"
+
+[[files]]
+file = "config/block_lists/list_of_chipped_blocks.txt"
+hash = "d857e694c91409de8df62479fc043fd9f078b3ab4640af420ec0cc2fd5aae3a8"
+hash-format = "sha256"
+
+[[files]]
+file = "config/block_lists/ship_blacklist_blocks.txt"
+hash = "2c5bc3a0447f71c395f59546ea920e67b453927b6d9da9c83d2c3350163c46e2"
+hash-format = "sha256"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 hash = "0b529f6468821baa29dd4f71ef013881f6b5c5d080464d3cc78422c7fc03bcab"
 hash-format = "sha256"
@@ -28,7 +43,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "ff5a412f93ce39c6a4b0c787fb020ca14c3ea03ef6a06d3db625b0a31a6f01d4"
+hash = "4e16bc21a0ea4ebb0662a5b1ed9582db6a1f20418d0ee7692472d7b6be07cca7"
 hash-format = "sha256"
 
 [[files]]
@@ -68,7 +83,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_server.json"
-hash = "12ac4862ea79cdb0549246ca975d1117cc0e9c3a889b693acff6b281eac5e5b1"
+hash = "37757564b408c20d2e6bb6d27452ccb80577eef7dd8f55c40f0c8a3a14df07b1"
 hash-format = "sha256"
 
 [[files]]
@@ -512,13 +527,13 @@ metafile = true
 
 [[files]]
 file = "mods/XaerosWorldMap_1.38.4_Forge_1.20.pw.toml"
-hash = "f472676e4037905eb61bd890139e3fdb1f6531d8870876e65b6e063e12efbff6"
+hash = "e157adcc162c6a69b31c4f2774a298efafe2b93313e9837c6f8ea52867e1a388"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/Xaeros_Minimap_24.1.1_Forge_1.20.pw.toml"
-hash = "0e98b7e2d2e378ba5331f465388e0600fa10e1df1445fc8ed5c8c4e24aa75e40"
+hash = "c2e89099fd14f96363c75d7402d71e5d1d8355a4a858ac297f82fc2b7692f480"
 hash-format = "sha256"
 metafile = true
 
@@ -1949,3 +1964,118 @@ file = "resourcepacks/ultimatecarreskin.pw.toml"
 hash = "08cab6b5a9fc1eaf0f0e87a9db760c76d808a4add3eb554bc81282fe6e9ff008"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/advancedperipherals.json"
+hash = "d6700ffc6b4253d926e0487c8d9b1f024a01ff74db5a0f1750791e66fb24ffb7"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/ars_nouveau.json"
+hash = "511064c725d4c4dfa3c33cf1f0137d2bfecb0114400807566955016e4aa2b18d"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/computercraft.json"
+hash = "072676f1973d6c75ded6d05415ae2a909237a6b86d5ee7126f0079f884dd6bae"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/copiescats.json"
+hash = "6bdf5d1d2f285c67a033de52795e701302a9a04190bcfc49818205367d294f0a"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/copycatsplus.json"
+hash = "396ad8fab5dd178b7f987b7764bee32709e13e8f3119e97fb53c73df90ec5a02"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/create.json"
+hash = "2ca11f64a9d7ca6710c169298ad0d3721d077b6c594857612a9a5292b103dac9"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createbigcannons.json"
+hash = "f35692d9ee16dd57fbfa88f4d22630d950cb046c0342b0177ba9104136ad7ef5"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createdeco.json"
+hash = "e59588a632d0a8c0bd366d3f091eab92459f4c5b7f23ccb10b46e289429f9698"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createdieselgenerators.json"
+hash = "4ffb33cd21fce1ddef4eff2b543a37b8861cb56142700786a50209a4e0902780"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createtweakedcontrollers.json"
+hash = "4680526ea7a01a225d6698c993dcf12967701fae37ae312ade59dfb510057654"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/framedblocks.json"
+hash = "efc1ddaa2cbd7ceaf055fe85cf3d96f497b23dc9f3dcbead384498a68cb76488"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/modularrouters.json"
+hash = "1a6edd22a89921c1f7f246034030a277d78bba205a70ce9c1a5d982440c61bfb"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/opencu.json"
+hash = "1cef11f4143597e30b030375854f65eb385e8940a1c8ed10967e877d0db956f5"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/rftoolspower.json"
+hash = "6bd266a8a5779f126b049282f8537fac40e1f527cd806a9dcf51fa35660cc728"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/rftoolsutility.json"
+hash = "ed19469ef6867a683d17f413a9fc102a3bd72039ddc979214e1fd9ff21a2ae02"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/s_a_b.json"
+hash = "e02f6a850abd23267d9daa355d094b8c402e36a456ab2a1b1ae9a41a8562ad35"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/someperipherals.json"
+hash = "76850759aee6594cc56c0f0a42cec6b5d698d97f1baa160087377f3443bd6111"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/vc.json"
+hash = "ab210e33cc325e8ae1ec7b2718ac46af48d09bc1afd172d8e96914d25929fbfe"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/vs_clockwork.json"
+hash = "57aefd4451a96199463b27a9db4ecc76f6eba17021c7069bb884a8fef2bee8cb"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/generator.ps1"
+hash = "719d17a5d9991755e7da1d11d2a51949e40f31bb677c864ca722029c6de39280"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/list_of_all_blocks.txt"
+hash = "1848ef1dbe04083b8b590a2b51ad677417148d7eaf4356a5b106751c3dbd8cc1"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/pack.mcmeta"
+hash = "11bb3ebc118e099847aff1d5a037a0d5f3d6298662fb35ac1ce8dd2d2678cf84"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/vs2_weigth_pack/vs2_weigth_pack.code-workspace"
+hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
+hash-format = "sha256"

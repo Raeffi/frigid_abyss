@@ -1,0 +1,1935 @@
+[
+    {
+        "block": "create:acacia_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:acacia_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:adjustable_chain_gearshift",
+        "mass": 100.0
+    },
+    {
+        "block": "create:analog_lever",
+        "mass": 10.0
+    },
+    {
+        "block": "create:andesite_alloy_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_belt_funnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_alloy",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_door",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_encased_shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_funnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_scaffolding",
+        "mass": 100.0
+    },
+    {
+        "block": "create:andesite_tunnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:asurine",
+        "mass": 100.0
+    },
+    {
+        "block": "create:asurine_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:basin",
+        "mass": 100.0
+    },
+    {
+        "block": "create:belt",
+        "mass": 5.0
+    },
+    {
+        "block": "create:birch_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:birch_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:black_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:black_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:black_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:black_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:black_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:blaze_burner",
+        "mass": 100.0
+    },
+    {
+        "block": "create:blue_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:blue_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:blue_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:blue_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:blue_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_belt_funnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_door",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_encased_shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_funnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_scaffolding",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_tunnel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brass_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brown_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brown_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brown_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:brown_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:brown_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:calcite_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cart_assembler",
+        "mass": 100.0
+    },
+    {
+        "block": "create:chute",
+        "mass": 100.0
+    },
+    {
+        "block": "create:clutch",
+        "mass": 100.0
+    },
+    {
+        "block": "create:clipboard",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cogwheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:content_observer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:contraption_controls",
+        "mass": 100.0
+    },
+    {
+        "block": "create:controller_rail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:controls",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_backtank",
+        "mass": 35.0
+    },
+    {
+        "block": "create:copper_bars",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_door",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_ladder",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_scaffolding",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_shingles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_tiles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copper_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:copycat_bars",
+        "mass": 50.0
+    },
+    {
+        "block": "create:copycat_base",
+        "mass": 50.0
+    },
+    {
+        "block": "create:copycat_panel",
+        "mass": 50.0
+    },
+    {
+        "block": "create:copycat_step",
+        "mass": 50.0
+    },
+    {
+        "block": "create:creative_crate",
+        "mass": 100.0
+    },
+    {
+        "block": "create:creative_fluid_tank",
+        "mass": 100.0
+    },
+    {
+        "block": "create:creative_motor",
+        "mass": 10.0
+    },
+    {
+        "block": "create:crimsite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:crimsite_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:crimson_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:crimson_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:crushing_wheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:crushing_wheel_controller",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cuckoo_clock",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_asurine_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_andesite_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_calcite_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_crimsite_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_deepslate_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_dripstone_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_granite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_limestone_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_ochrum_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scorchia_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_scoria_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_tuff_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_brick_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_brick_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_brick_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cut_veridium_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cyan_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cyan_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cyan_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:cyan_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:cyan_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:dark_oak_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:dark_oak_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:deepslate_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:deployer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:depot",
+        "mass": 100.0
+    },
+    {
+        "block": "create:diorite_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:display_board",
+        "mass": 100.0
+    },
+    {
+        "block": "create:display_link",
+        "mass": 100.0
+    },
+    {
+        "block": "create:dripstone_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:elevator_contact",
+        "mass": 100.0
+    },
+    {
+        "block": "create:elevator_pulley",
+        "mass": 100.0
+    },
+    {
+        "block": "create:encased_chain_drive",
+        "mass": 100.0
+    },
+    {
+        "block": "create:encased_fan",
+        "mass": 100.0
+    },
+    {
+        "block": "create:encased_fluid_pipe",
+        "mass": 100.0
+    },
+    {
+        "block": "create:experience_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_shingle_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_shingle_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_shingles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_tile_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_tile_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:exposed_copper_tiles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:fake_track",
+        "mass": 100.0
+    },
+    {
+        "block": "create:fluid_pipe",
+        "mass": 100.0
+    },
+    {
+        "block": "create:fluid_tank",
+        "mass": 100.0
+    },
+    {
+        "block": "create:flywheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:framed_glass",
+        "mass": 100.0
+    },
+    {
+        "block": "create:framed_glass_door",
+        "mass": 100.0
+    },
+    {
+        "block": "create:framed_glass_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:framed_glass_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gantry_carriage",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gantry_shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gearbox",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gearshift",
+        "mass": 100.0
+    },
+    {
+        "block": "create:glass_fluid_pipe",
+        "mass": 100.0
+    },
+    {
+        "block": "create:granite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:granite_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gray_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gray_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gray_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:gray_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:gray_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:green_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:green_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:green_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:green_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:green_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:hand_crank",
+        "mass": 100.0
+    },
+    {
+        "block": "create:haunted_bell",
+        "mass": 50.0
+    },
+    {
+        "block": "create:horizontal_framed_glass",
+        "mass": 100.0
+    },
+    {
+        "block": "create:horizontal_framed_glass_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:hose_pulley",
+        "mass": 100.0
+    },
+    {
+        "block": "create:industrial_iron_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:item_drain",
+        "mass": 100.0
+    },
+    {
+        "block": "create:item_vault",
+        "mass": 100.0
+    },
+    {
+        "block": "create:jungle_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:jungle_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:large_bogey",
+        "mass": 100.0
+    },
+    {
+        "block": "create:large_cogwheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:large_water_wheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_asurine",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_andesite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_calcite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_crimsite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_deepslate",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_dripstone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_granite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_limestone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_ochrum",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_scorchia",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_scoria",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_tuff",
+        "mass": 100.0
+    },
+    {
+        "block": "create:layered_veridium",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lectern_controller",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_blue_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_blue_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_blue_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_blue_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:light_blue_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_gray_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_gray_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_gray_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:light_gray_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:light_gray_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lime_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lime_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lime_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lime_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:lime_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:limestone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:limestone_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:linear_chassis",
+        "mass": 100.0
+    },
+    {
+        "block": "create:lit_blaze_burner",
+        "mass": 100.0
+    },
+    {
+        "block": "create:magenta_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:magenta_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:magenta_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:magenta_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:magenta_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mangrove_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mangrove_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_arm",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_bearing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_crafter",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_drill",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_harvester",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_mixer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_piston",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_piston_head",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_plough",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_press",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_pump",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_roller",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mechanical_saw",
+        "mass": 100.0
+    },
+    {
+        "block": "create:metal_bracket",
+        "mass": 100.0
+    },
+    {
+        "block": "create:metal_girder",
+        "mass": 100.0
+    },
+    {
+        "block": "create:metal_girder_encased_shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:millstone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mincart_anchor",
+        "mass": 100.0
+    },
+    {
+        "block": "create:mysterious_cuckoo_clock",
+        "mass": 100.0
+    },
+    {
+        "block": "create:netherite_backtank",
+        "mass": 35.0
+    },
+    {
+        "block": "create:nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:nozzle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oak_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oak_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:ochrum",
+        "mass": 100.0
+    },
+    {
+        "block": "create:ochrum_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:orange_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:orange_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:orange_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:orange_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:orange_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:ornate_iron_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:ornate_iron_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_shingle_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_shingle_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_shingles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_tile_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_tile_stairs",
+        "mass": 100.0
+    },
+    {
+        "block": "create:oxidized_copper_tiles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:peculiar_bell",
+        "mass": 50.0
+    },
+    {
+        "block": "create:pink_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:pink_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:pink_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:pink_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:pink_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:piston_extension_pole",
+        "mass": 100.0
+    },
+    {
+        "block": "create:placard",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_limestone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_scoria",
+        "mass": 100.0
+    },
+    {
+        "block": "create:portable_fluid_interface",
+        "mass": 100.0
+    },
+    {
+        "block": "create:portable_storage_interface",
+        "mass": 100.0
+    },
+    {
+        "block": "create:powered_latch",
+        "mass": 10.0
+    },
+    {
+        "block": "create:powered_shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:powered_toggle_latch",
+        "mass": 10.0
+    },
+    {
+        "block": "create:pulley_magnet",
+        "mass": 100.0
+    },
+    {
+        "block": "create:pulse_extender",
+        "mass": 100.0
+    },
+    {
+        "block": "create:pulse_repeater",
+        "mass": 100.0
+    },
+    {
+        "block": "create:purple_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:purple_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:purple_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:purple_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:purple_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:radial_chassis",
+        "mass": 100.0
+    },
+    {
+        "block": "create:railway_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:raw_zinc_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:red_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:red_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:red_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:red_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:red_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:redstone_contact",
+        "mass": 100.0
+    },
+    {
+        "block": "create:redstone_link",
+        "mass": 100.0
+    },
+    {
+        "block": "create:refined_radiance_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:reinforced_rail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:rope",
+        "mass": 80.0
+    },
+    {
+        "block": "create:rope_pulley",
+        "mass": 100.0
+    },
+    {
+        "block": "create:rose_quartz_block",
+        "mass": 100.0
+    },
+    {
+        "block": "create:rose_quartz_lamp",
+        "mass": 100.0
+    },
+    {
+        "block": "create:rose_quartz_tiles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:rotation_speed_controller",
+        "mass": 100.0
+    },
+    {
+        "block": "create:sail_frame",
+        "mass": 100.0
+    },
+    {
+        "block": "create:schematic_table",
+        "mass": 100.0
+    },
+    {
+        "block": "create:schematicannon",
+        "mass": 100.0
+    },
+    {
+        "block": "create:scorchia_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:scoria",
+        "mass": 100.0
+    },
+    {
+        "block": "create:scoria_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:secondary_linear_chassis",
+        "mass": 100.0
+    },
+    {
+        "block": "create:sequenced_gearshift",
+        "mass": 100.0
+    },
+    {
+        "block": "create:shadow_steel_casing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:shaft",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_asurine_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_bogey",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_andesite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_calcite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_crimsite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_deepslate_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_dripstone_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_granite_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_limestone_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_ochrum_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_rose_quartz_tiles",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_scorchia_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_scoria_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_tuff_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:small_veridium_bricks",
+        "mass": 100.0
+    },
+    {
+        "block": "create:smart_chute",
+        "mass": 100.0
+    },
+    {
+        "block": "create:smart_fluid_pipe",
+        "mass": 100.0
+    },
+    {
+        "block": "create:speedometer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:spout",
+        "mass": 100.0
+    },
+    {
+        "block": "create:spruce_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:spruce_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:steam_engine",
+        "mass": 100.0
+    },
+    {
+        "block": "create:steam_whistle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:steam_whistle_extension",
+        "mass": 100.0
+    },
+    {
+        "block": "create:sticker",
+        "mass": 100.0
+    },
+    {
+        "block": "create:sticky_mechanical_piston",
+        "mass": 100.0
+    },
+    {
+        "block": "create:stockpile_switch",
+        "mass": 100.0
+    },
+    {
+        "block": "create:stressometer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:tiled_glass",
+        "mass": 100.0
+    },
+    {
+        "block": "create:tiled_glass_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:track",
+        "mass": 100.0
+    },
+    {
+        "block": "create:track_observer",
+        "mass": 100.0
+    },
+    {
+        "block": "create:track_signal",
+        "mass": 100.0
+    },
+    {
+        "block": "create:track_station",
+        "mass": 100.0
+    },
+    {
+        "block": "create:train_door",
+        "mass": 100.0
+    },
+    {
+        "block": "create:train_trapdoor",
+        "mass": 100.0
+    },
+    {
+        "block": "create:tuff_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:turntable",
+        "mass": 100.0
+    },
+    {
+        "block": "create:veridium",
+        "mass": 100.0
+    },
+    {
+        "block": "create:veridium_pillar",
+        "mass": 100.0
+    },
+    {
+        "block": "create:vertical_framed_glass",
+        "mass": 100.0
+    },
+    {
+        "block": "create:vertical_framed_glass_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:warped_window",
+        "mass": 100.0
+    },
+    {
+        "block": "create:warped_window_pane",
+        "mass": 100.0
+    },
+    {
+        "block": "create:water_wheel",
+        "mass": 100.0
+    },
+    {
+        "block": "create:water_wheel_structure",
+        "mass": 100.0
+    },
+    {
+        "block": "create:weighted_ejector",
+        "mass": 100.0
+    },
+    {
+        "block": "create:white_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:white_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:white_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:white_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:white_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:windmill_bearing",
+        "mass": 100.0
+    },
+    {
+        "block": "create:wooden_bracket",
+        "mass": 100.0
+    },
+    {
+        "block": "create:yellow_nixie_tube",
+        "mass": 100.0
+    },
+    {
+        "block": "create:yellow_sail",
+        "mass": 100.0
+    },
+    {
+        "block": "create:yellow_seat",
+        "mass": 100.0
+    },
+    {
+        "block": "create:yellow_toolbox",
+        "mass": 50.0
+    },
+    {
+        "block": "create:yellow_valve_handle",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_granite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_granite_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_granite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_granite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_diorite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_diorite_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_diorite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_diorite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_andesite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_andesite_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_andesite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_andesite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_calcite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_calcite_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_calcite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_calcite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_dripstone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_dripstone_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_dripstone_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_dripstone_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_deepslate",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_deepslate_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_deepslate_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_deepslate_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_tuff",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_tuff_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_tuff_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_tuff_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_asurine",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_asurine_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_asurine_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_asurine_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_crimsite",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_crimsite_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_crimsite_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_crimsite_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_limestone",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_limestone_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_limestone_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_limestone_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_ochrum",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_ochrum_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_ochrum_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_ochrum_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scoria",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scoria_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_scoria_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scoria_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scorchia",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scorchia_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_scorchia_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_scorchia_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_veridium",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_veridium_stairs",
+        "mass": 50.0
+    },
+    {
+        "block": "create:polished_cut_veridium_slab",
+        "mass": 100.0
+    },
+    {
+        "block": "create:polished_cut_veridium_wall",
+        "mass": 100.0
+    },
+    {
+        "block": "create:zinc_block",
+        "mass": 100.0
+    }
+
+]
