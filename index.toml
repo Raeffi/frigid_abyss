@@ -1767,6 +1767,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/timeoutfixes.pw.toml"
+hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/toms_storage-1.20-1.6.6.pw.toml"
 hash = "e5696a2d05a16d2212110bbf0eba98e1c743362f674a181e0e694f983c1489fd"
 hash-format = "sha256"
