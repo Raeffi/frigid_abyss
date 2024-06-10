@@ -73,7 +73,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e2b8d347a86df5d0edb86ad06cb964e0a272b63096d020b2400913aa018b8b98"
+hash = "f56e2603f1eabf6a0fb30543095839bb97ba70dce12d4ebc171daff6177c93a4"
+hash-format = "sha256"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
+hash-format = "sha256"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 hash-format = "sha256"
 
 [[files]]
@@ -1266,6 +1276,12 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e9a32db9e2f859c0c5647ca2ca0b521c0e27cb6785a7e0b90ae99f92fc69ce6a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "26a693e3ddcf604cd4200bd38d59add56eb2ae65fb3c0c322e6390ed1541f598"
 hash-format = "sha256"
 metafile = true
 
