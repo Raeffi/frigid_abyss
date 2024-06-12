@@ -13,10 +13,10 @@
                 "undead_revamp2:thewolf",
                 "undead_revamp2:slaveman",
                 "undead_revamp2:thebeartamer"],
-                "mincount": {
+        "mincount": {
                     "amount": 1,
                     "perplayer": true
-                  },
+                    },
         "result": "deny"
     },
     {
@@ -29,10 +29,10 @@
                 "undead_revamp2:therod",
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
-                "mincount": {
+        "mincount": {
                     "amount": 2,
                     "perplayer": true
-                  },
+                    },
         "result": "deny"
     },
     {
@@ -40,10 +40,10 @@
                 "undead_revamp2:the_somnolence",
                 "undead_revamp2:thegliter",
                 "undead_revamp2:theswarmer"],
-                "mincount": {
+        "mincount": {
                     "amount": 3,
                     "perplayer": true
-                  },
+                    },
         "result": "deny"
     },
     {
@@ -74,9 +74,9 @@
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
         "mincount": {
-          "amount": 4,
-          "perplayer": true
-        },
+                        "amount": 4,
+                        "perplayer": true
+                    },
         "result": "deny"
     },
     {
@@ -108,6 +108,11 @@
                 "undead_revamp2:invisiblebidy"],
         "random": 0.9,
         "result": "deny"
-    }
+    },
+    {
+        "hostile": true,
+        "area": "spawn",
+        "result": "deny"
+      }
 
 ]

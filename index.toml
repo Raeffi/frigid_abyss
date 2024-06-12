@@ -52,13 +52,18 @@ hash = "439f81706cc54084e4c7f432bcdc3d7def496f5598380111401f90cc1eb5b9fa"
 hash-format = "sha256"
 
 [[files]]
+file = "config/incontrol/areas.json"
+hash = "89fdb021cc87732a8f07eeefbedb0b03a0e0f79333a785b3072b69f9842af449"
+hash-format = "sha256"
+
+[[files]]
 file = "config/incontrol/phases.json"
 hash = "5f9c440b6bb3d2e8dc2af549d9d543dd5a1632928596d7bb5da6868b28705029"
 hash-format = "sha256"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "1c03de47b86f2c9ac9baa0d536f0b56075327ad0ba168212e2f93a2226ef6713"
+hash = "1b23cf3c7ccf28c77ddd93ef1162945ed485ddea250bd63b3c5fad61a99c36bd"
 hash-format = "sha256"
 
 [[files]]
