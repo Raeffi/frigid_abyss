@@ -1309,12 +1309,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/integrated_api-1.5.1_1.20.1-forge.pw.toml"
 hash = "14ca2bd31e46cbd4b2a0b36864f53594a83d5177bf0da41c9c37ab85292a56f4"
 hash-format = "sha256"
@@ -1971,6 +1965,12 @@ metafile = true
 [[files]]
 file = "resourcepacks/eureka!-create-airships!.pw.toml"
 hash = "943ed03196959f8b10a95c9447e6dd0073014a094de648521f8f8ce29f36522f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/incendium.pw.toml"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 hash-format = "sha256"
 metafile = true
 
