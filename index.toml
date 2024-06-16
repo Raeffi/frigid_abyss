@@ -1309,6 +1309,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/integrated_api-1.5.1_1.20.1-forge.pw.toml"
 hash = "14ca2bd31e46cbd4b2a0b36864f53594a83d5177bf0da41c9c37ab85292a56f4"
 hash-format = "sha256"
@@ -1682,12 +1688,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass_of_curios-forge-1.20.1-1.7.2.pw.toml"
 hash = "f4b3f60e7421304567bb0900d250f85596ead44101a3cbb6dfce2714fc45db2e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "87d1813c1cd17d97fc8f3d202059cf9787eb8d0ccf2cc51f89179994421b0971"
 hash-format = "sha256"
 metafile = true
 
