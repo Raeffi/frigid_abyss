@@ -47,6 +47,11 @@ hash = "4e16bc21a0ea4ebb0662a5b1ed9582db6a1f20418d0ee7692472d7b6be07cca7"
 hash-format = "sha256"
 
 [[files]]
+file = "config/creeper_firework-common.toml"
+hash = "cdc718197984f0c4e438eea419b529af6ad0f5874bc18611cdbafdb88c88d4a1"
+hash-format = "sha256"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "439f81706cc54084e4c7f432bcdc3d7def496f5598380111401f90cc1eb5b9fa"
 hash-format = "sha256"
@@ -987,6 +992,18 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "4a0c265d871898cbc90f93aea5d0401288344b84957b3ca9d9aae67147164a9c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "57c9e365f8ca691b3b929687ea5e3479f5244ee1e4f79dcb4a0b28ca71d12c50"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/creeper-no-break-blocks.pw.toml"
+hash = "c5b3a3941036b3cf8eab3a7b649d4d0663d1e53f31f56395bc45d69c9c46ebb3"
 hash-format = "sha256"
 metafile = true
 
