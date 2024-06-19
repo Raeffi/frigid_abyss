@@ -1,17 +1,18 @@
 name = "DistantHorizons"
-filename = "DistantHorizons-2.0.1-a-1.20.1.jar"
+filename = "DistantHorizons-2.1.0-a-1.20.1.jar"
 side = "client"
 
-[option] 
-optional = true
-default = true
-description = "increases view distance with LOD terrain"
-
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"
-hash-format = "sha512"
-hash = "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/xbRHd92j/DistantHorizons-2.1.0-a-1.20.1.jar"
+hash-format = "sha1"
+hash = "c75221af6d258d9e2f57a7a6e6f8b999d753b0cc"
 
+[update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "fAVxiMK6"
+version = "xbRHd92j"
+
+[option]
+optional = true
+description = "increases view distance with LOD terrain"
+default = true

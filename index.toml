@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.0.1-a-1.20.1.pw.toml"
-hash = "7b094ce4b2ccdb195ab7fbc6b459966c5cfbf441babc4c76f43b06e8431571ce"
+hash = "839f608ef3e188c81a83ca96e69d6ff16d5f4696558ece56e21d1b3bcc467adf"
 hash-format = "sha256"
 metafile = true
 
@@ -824,6 +824,12 @@ metafile = true
 [[files]]
 file = "mods/collective-1.20.1-7.40.pw.toml"
 hash = "af445ee33d5d82a44451211eb795ea2ea8d60619918e08c78e71fa6d12a957e1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "7bf539a861e6891c358930526502ee24dc11c15a24c1e0cedda4b729864dbcb4"
 hash-format = "sha256"
 metafile = true
 
@@ -1349,12 +1355,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/invincibilitys.pw.toml"
-hash = "ce3a0c49a33aa136bec71e9a3bab9246597c0bc92feaae520e4ed124639a19be"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "9fb6d0e451647631db6b4c411048bd85e5b9d2a15c3ecf1070d7f6a05ea32431"
 hash-format = "sha256"
@@ -1477,6 +1477,12 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/micles-login-protection.pw.toml"
+hash = "2a21d980bc02a10145bab052a6ad19593ada79c8852adc488b8348c4c1ce25d4"
 hash-format = "sha256"
 metafile = true
 
