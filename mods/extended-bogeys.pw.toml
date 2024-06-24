@@ -1,0 +1,8 @@
+name = "Extended-Bogeys"
+filename = "extendedbogeys-0.5.11-1.20.1-0.5.1.f-forge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/WeidosOddities/Extended-Bogeys-Borked/releases/download/0.5.11-1.20.1/extendedbogeys-0.5.11-1.20.1-0.5.1.f-forge.jar"
+hash-format = "sha256"
+hash = "e20cf7f41c7ae932d31cb36209db56797cd1aa764332c2f1ef5c6306e8887351"

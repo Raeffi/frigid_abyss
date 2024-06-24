@@ -858,6 +858,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/crayfishgunmodunofficialport.pw.toml"
 hash = "f5dbe3915d969b71d2b8fcd3d25c8fb41a74e044e968573061180fa77e9f5a6e"
 hash-format = "sha256"
@@ -1166,6 +1172,12 @@ metafile = true
 [[files]]
 file = "mods/explorify-v1.3.0-mc1.20.pw.toml"
 hash = "71ef11a31e665ebfeaa8891177417a5dd9450670601a6a788c8d0b79c43b1bae"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/extended-bogeys.pw.toml"
+hash = "1b42e6fc72aa99e94bb2bd64ae4ec35d92346eda45f87cb485515610cf7704fd"
 hash-format = "sha256"
 metafile = true
 
