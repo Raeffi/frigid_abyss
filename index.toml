@@ -97,6 +97,11 @@ hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 hash-format = "sha256"
 
 [[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "24366c1d574a5cd6b5f28b58b113cd4654c9502c0636c5b239ce02be909eb8ba"
+hash-format = "sha256"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "ed4a11ce4888cba118da7149cbb956b715e24708882c4f3c958e8d3a5820e0b7"
 hash-format = "sha256"
