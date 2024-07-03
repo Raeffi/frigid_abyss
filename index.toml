@@ -1415,6 +1415,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "28364c62becffad4f55bbc60d85a83ef770b44e41284789b310bec7d483267fc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-forge-1.20-15.0.0.pw.toml"
 hash = "4d845c011e2d1d47f558a89e1316cde79830ae8e6ae6b1df004f189e317c523d"
 hash-format = "sha256"
@@ -1679,6 +1685,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "57db525a873fea67762cfb6aeea4d5699f2c2f2302b6211823636c1d1397a943"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "65d57814ec779568e45fdf79fd1056df5046cb909ff5165fb5c36c4e9182d88a"
 hash-format = "sha256"
@@ -1909,6 +1921,12 @@ metafile = true
 [[files]]
 file = "mods/volcanobiomemod.pw.toml"
 hash = "b9e807e103bc26d0ea86090c371e2ff586b07ef94180af639957ef785daeb10b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "24cbc31c8da007b5aa7ed9f08b2620c455564c923254cfb9394cb70f08b8a6e1"
 hash-format = "sha256"
 metafile = true
 
