@@ -863,6 +863,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "695eeee04c63d617d35d68f60484fcee025cb8297edc7186bf3105fd51342d4a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 hash-format = "sha256"
