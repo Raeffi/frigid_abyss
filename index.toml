@@ -701,6 +701,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "5fe25c367d5a69db8d9b7cfce15fc1f3d9dc63ca93fd7d47d9c13678b129c9f7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/bigcontraptions-1.0.pw.toml"
 hash = "a36c2e4c85ad37c74ad25626c3196f0d8c40361df1495e36a0ba1718ad62a363"
 hash-format = "sha256"
