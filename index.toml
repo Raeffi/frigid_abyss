@@ -1,6 +1,11 @@
 hash-format = "sha512"
 
 [[files]]
+file = "config/ImmersiveAtmosphere.json"
+hash = "e3b7767f39d711c304a7894fbe824b3d90a8dce5737a5cf70a7d88c07208c67a"
+hash-format = "sha256"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "6a7f363a670985269b5c5b72b0ba92663641b741dbed3c898743ba355265ae25"
 hash-format = "sha256"
