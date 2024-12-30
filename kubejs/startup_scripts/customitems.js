@@ -8,6 +8,9 @@ StartupEvents.registry('item', e => {
     e.create('unfinished_iron_component').displayName("Unfinished Iron Mechanical Component")
     e.create('unfinished_steel_component').displayName("Unfinished Steel Mechanical Component")
     
+
+
+
     // If you want to specify a different texture location you can do that too, like this:
     //e.create('test_item_1').texture('mobbo:item/lava') // This texture would be located at kubejs/assets/mobbo/textures/item/lava.png
     
@@ -16,4 +19,15 @@ StartupEvents.registry('item', e => {
     
     // You can specify item type as 2nd argument in create(), some types have different available methods
     //.create('custom_sword', 'sword').tier('diamond').attackDamageBaseline(10.0)
+  })
+
+  StartupEvents.registry('fluid', e => {
+
+    e.create('steam')
+    .thinTexture(0xf2f2f2)
+    .displayName('Steam')
+    .noBucket()
+    .noBlock()
+    .gaseous()
+    
   })

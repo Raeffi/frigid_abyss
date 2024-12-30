@@ -1,0 +1,20 @@
+["car:bio_diesel"]
+	efficiency = 100
+
+["pneumaticcraft:biodiesel"]
+	efficiency = 100
+
+["pneumaticcraft:diesel"]
+	efficiency = 100
+
+["pneumaticcraft:gasoline"]
+	efficiency = 90
+
+["immersiveengineering:biodiesel"]
+	efficiency = 100
+
+["tfmg:diesel"]
+	efficiency = 100
+
+["tfmg:gasoline"]
+	efficiency = 90

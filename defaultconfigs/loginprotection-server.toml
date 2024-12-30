@@ -1,0 +1,78 @@
+
+#Settings for protecting players while they are joining.
+[Login]
+	#Whether to apply any post protection effects to joining players.
+	applyPostProtectionEffects = true
+	#Whether mobs will ignore a protected player. (They will not attack/aggro)
+	mobsIgnorePlayer = true
+
+	[Login.AllowedKeys]
+		#Allowed keys players can press without becoming active.
+		#Available values: PAUSE, DEBUG, FULLSCREEN, PERSPECTIVE, SMOOTH_CAMERA, SCREENSHOT, SPECTATOR_OUTLINES,
+		#ADVANCEMENTS, PLAYER_LIST, CHAT, SOCIAL_INTERACTIONS, LOAD_HOTBAR_ACTIVATOR, SAVE_HOTBAR_ACTIVATOR,
+		#SWAP_ITEM, INVENTORY, HOTBAR, DROP_ITEM, USE_ITEM, PICK_BLOCK, ATTACK, MOVE, SNEAK, JUMP
+		allowedKeys = ["PAUSE", "DEBUG", "FULLSCREEN", "PERSPECTIVE", "SMOOTH_CAMERA", "SCREENSHOT", "SPECTATOR_OUTLINES", "ADVANCEMENTS", "PLAYER_LIST", "CHAT", "SOCIAL_INTERACTIONS", "LOAD_HOTBAR_ACTIVATOR", "SAVE_HOTBAR_ACTIVATOR", "SWAP_ITEM", "HOTBAR", "PICK_BLOCK"]
+
+	[Login.Grace]
+		#Whether a player receives a grace period after becoming active or not.
+		graceEnabled = true
+		#Whether mobs ignore the player during their grace period.
+		graceMobsIgnorePlayer = true
+		#How long the grace period lasts in seconds.
+		#Range: > 1
+		graceDuration = 10
+
+#Settings for protecting players that are afk.
+[AFK]
+	#Enable protection of afk players?
+	enabled = true
+	#How long a player needs to be afk to become protected. (seconds)
+	#Range: 1 ~ 107374182
+	timeThreshold = 600
+	#Whether to apply any post protection effects to afk players.
+	applyPostProtectionEffects = false
+	#Whether mobs will ignore a protected player. (They will not attack/aggro
+	mobsIgnorePlayerEnabled = true
+
+	[AFK.AllowedKeys]
+		#Allowed keys players can press without becoming active.
+		#Available values: PAUSE, DEBUG, FULLSCREEN, PERSPECTIVE, SMOOTH_CAMERA, SCREENSHOT, SPECTATOR_OUTLINES,
+		#ADVANCEMENTS, PLAYER_LIST, CHAT, SOCIAL_INTERACTIONS, LOAD_HOTBAR_ACTIVATOR, SAVE_HOTBAR_ACTIVATOR,
+		#SWAP_ITEM, INVENTORY, HOTBAR, DROP_ITEM, USE_ITEM, PICK_BLOCK, ATTACK, MOVE, SNEAK, JUMP
+		allowedKeys = ["PAUSE", "FULLSCREEN", "SCREENSHOT", "ADVANCEMENTS"]
+
+	[AFK.Grace]
+		#Whether a player receives a grace period after becoming active or not.
+		graceEnabled = false
+		#Whether mobs ignore the player during their grace period.
+		graceMobsIgnorePlayer = true
+		#How long the grace period lasts in seconds.
+		#Range: > 1
+		graceDuration = 5
+
+#Additional protection settings that apply as soon as a player becomes active if enabled.
+[Post]
+
+	[Post.WaterProtection]
+		#Whether a player's air supply gets refilled.
+		refillAir = true
+		#Whether a player receives water breathing when in water.
+		waterEnabled = false
+		#Water breathing duration in seconds.
+		#Range: 1 ~ 107374182
+		waterDuration = 10
+
+	[Post.LavaProtection]
+		#Whether a player receives fire resistance when in lava.
+		enabled = true
+		#Fire resistance duration in seconds.
+		#Range: 1 ~ 107374182
+		duration = 10
+
+	[Post.FireProtection]
+		#Whether a player receives fire resistance when on fire.
+		enabled = false
+		#Fire resistance duration in seconds.
+		#Range: 1 ~ 107374182
+		duration = 10
+

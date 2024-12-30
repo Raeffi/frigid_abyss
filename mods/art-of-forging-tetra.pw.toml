@@ -1,0 +1,13 @@
+name = "Art of Forging: A Tetra Addon"
+filename = "art_of_forging-1.8.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y9qsR64e/versions/A75F6Uvd/art_of_forging-1.8.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "cd22cd2d5fbd7a26dd5e8eb38e59a8a6109b7a5b6961e24c91400dc9e2442a6d5ccaa10780997c7f448adc54ad800042b25dccc6aadc7229da2dd9ec82f221ca"
+
+[update]
+[update.modrinth]
+mod-id = "Y9qsR64e"
+version = "A75F6Uvd"

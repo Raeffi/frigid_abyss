@@ -85,6 +85,4 @@ ClientEvents.lang('en_us', e => {
     rename("car:purple_transporter_body"        , "Purple Truck Body")
     rename("car:magenta_transporter_body"       , "Magenta Truck Body")
     rename("car:pink_transporter_body"          , "Pink Truck Body")
-
 })
-

@@ -13,7 +13,23 @@
     // example of the mansion being doubled in rarity (the mod's default)
     {
       "structure": "idas:farmhouse",
+      "factor": 9
+    },
+    {
+      "structure": "towns_and_towers:mimic_desert",
       "factor": 3
+    },
+    {
+      "structure": "dungeons_enhanced:elders_temple",
+      "factor": 9
+    },
+    {
+      "structure": "dungeons_enhanced:pirate_ship",
+      "factor": 9
+    },
+    {
+      "structure": "dungeons_enhanced:fishing_ship",
+      "factor": 9
     },
     // add the structures you want to modify in the format:
     // {

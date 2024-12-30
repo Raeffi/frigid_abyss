@@ -4,7 +4,7 @@ side = "server"
 
 [option] 
 optional = true
-default = true
+default = false
 description = "DO NOT ENABLE, only for testing"
 
 [download]

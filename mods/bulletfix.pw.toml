@@ -1,0 +1,13 @@
+name = "BulletFix"
+filename = "BulletFix1.2.20.1TAC1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6kT1juXg/versions/khLKJO9n/BulletFix1.2.20.1TAC1.1.jar"
+hash-format = "sha512"
+hash = "d1ad481768ede9ca1aca03b48413c1e07faf33ac2aa22a00837b8f657231243c141c7ac35d6b8ab34173530969c95ff6d918881331a74d143409f9a1a063d4e1"
+
+[update]
+[update.modrinth]
+mod-id = "6kT1juXg"
+version = "khLKJO9n"

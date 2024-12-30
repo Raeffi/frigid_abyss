@@ -1,0 +1,13 @@
+name = "Kakapos"
+filename = "kakapos-0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FN0YbtJe/versions/GWio19ee/kakapos-0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "e656b4f53c74594b67e199144785f940454c7eafa655da26e6316941c1264b4721627fd625ad1a0c423ba521e007e3f095fcc5a73a10b931bdf6f850a873fa52"
+
+[update]
+[update.modrinth]
+mod-id = "FN0YbtJe"
+version = "GWio19ee"
