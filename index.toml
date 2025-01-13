@@ -566,8 +566,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/FarmersDelight-1.20.1-1.2.4.pw.toml"
-hash = "dfb62c80e7f33dca9b49a9aa6c52f499bed9c84375d70ec038d2dec3a0028ee9"
+file = "mods/FarmersDelight.pw.toml"
+hash = "e6d969f9a7f3d60ac32885a7206a19a253f58713efb838cdf07f8ec9c9701068"
 hash-format = "sha256"
 metafile = true
 
@@ -916,6 +916,12 @@ metafile = true
 [[files]]
 file = "mods/better-foliage-renewed.pw.toml"
 hash = "5fe25c367d5a69db8d9b7cfce15fc1f3d9dc63ca93fd7d47d9c13678b129c9f7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/better-lily-pads.pw.toml"
+hash = "aa9794866ba91666a7ece3a3ab5b3a7a9ba14569bb0cfa89ffad2048fa10f00e"
 hash-format = "sha256"
 metafile = true
 
@@ -1602,6 +1608,11 @@ file = "mods/immediatelyfast.pw.toml"
 hash = "e9a32db9e2f859c0c5647ca2ca0b521c0e27cb6785a7e0b90ae99f92fc69ce6a"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/immersive-geology.pw.toml.disabled"
+hash = "9da7220fe034cdf259f4bf7f920996ae166c042a721bda32b6ae9cbd6d8f2015"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
