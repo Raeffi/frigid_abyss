@@ -1,0 +1,13 @@
+name = "Project Red Transmission"
+filename = "ProjectRed-1.20.1-4.20.0-transmission.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/pzI8pbNX/ProjectRed-1.20.1-4.20.0-transmission.jar"
+hash-format = "sha512"
+hash = "d19f41dca7b06ed21fd241fe17ad9d8de36bb352f145f78d9f8371243cc27287b1b6ee3a80151813aee70b02bdc91455a2178bc78944dad11d8e1ac9928ac547"
+
+[update]
+[update.modrinth]
+mod-id = "dXmH4rEw"
+version = "pzI8pbNX"

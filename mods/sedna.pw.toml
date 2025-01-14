@@ -1,0 +1,7 @@
+name = "sedna"
+filename = "sedna-1.18.2-forge-1.0.15+24e9fd2.jar"
+
+[download]
+url = "https://github.com/fnuecke/sedna-mc/releases/download/1.18.2-forge%2F1.0.15/sedna-1.18.2-forge-1.0.15+24e9fd2.jar"
+hash-format = "sha256"
+hash = "606377830a6d0ee945d5dd5c5877738e791580fc95491b3080c6a255e28a35a7"

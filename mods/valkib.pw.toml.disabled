@@ -1,0 +1,7 @@
+name = "valkib"
+filename = "valkib-1.0.0.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/luwwc5hse26svnty9iovq/valkib-1.0.0.jar?rlkey=r8c6gv95ph1f1wu1pyp0vp6tj&st=udu4us89&dl=1"
+hash-format = "sha256"
+hash = "0abeedb78fa6542094ac44ee019f5b9172b1df84ab0a46d40ef64df57cbbc06d"

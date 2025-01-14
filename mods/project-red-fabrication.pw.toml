@@ -1,0 +1,13 @@
+name = "Project Red Fabrication"
+filename = "ProjectRed-1.20.1-4.20.0-fabrication.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5H1VMCiY/versions/KHaFBz9R/ProjectRed-1.20.1-4.20.0-fabrication.jar"
+hash-format = "sha512"
+hash = "a63f758a13dd667040fd0f0908ca13d116a9f8166fc007a1c7a83ce295d1d0aed8959fc98b58b5fffaed04cfd76df2fd7dcedc6500d3a6df320c78d1a5a9bf51"
+
+[update]
+[update.modrinth]
+mod-id = "5H1VMCiY"
+version = "KHaFBz9R"

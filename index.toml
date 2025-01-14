@@ -734,18 +734,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/XaerosWorldMap_1.38.4_Forge_1.20.pw.toml"
-hash = "e157adcc162c6a69b31c4f2774a298efafe2b93313e9837c6f8ea52867e1a388"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/Xaeros_Minimap_24.1.1_Forge_1.20.pw.toml"
-hash = "c2e89099fd14f96363c75d7402d71e5d1d8355a4a858ac297f82fc2b7692f480"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/YeetusExperimentus-Forge-2.3.0-build.4_mc1.20.1.pw.toml"
 hash = "a467fd82754b37b3ea391aea6f2838e505f530998b1d1fe8d56002098c8e960a"
 hash-format = "sha256"
@@ -806,6 +794,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ede64c0b2041a6ea24b1406891e18ecd8210f517433a6ee26b82378e06d4abc0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/alexsmobs-1.22.8.pw.toml"
 hash = "933c7c157c516d9dc7166378d83ff0ce289f5ac31db977864f10be7bc2dd37f3"
 hash-format = "sha256"
@@ -836,8 +830,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae.pw.toml"
-hash = "221e85ab67a10bfc0de6c02ab835d9830e1d3acabc4a0c91b6629e168948b438"
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-delight.pw.toml"
+hash = "63946c6c7b2c70eb96b3ec9a46d1cd2d3ca9a7d226bb53bc97c43c43a2d452dd"
 hash-format = "sha256"
 metafile = true
 
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 hash-format = "sha256"
 metafile = true
 
@@ -890,10 +890,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/atlas.pw.toml"
+file = "mods/atlas.pw.toml.disabled"
 hash = "4ba02f153542fd4652a3dc788841940a1f125f4aca41cf6fe07b9bbc336976d7"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -1004,6 +1003,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1.20.1-forge-1.110.2.pw.toml"
 hash = "0537bb290c8ecc89207d4877076e70ed8ee26e13231ed5a074164f1fc3632f7a"
 hash-format = "sha256"
@@ -1012,6 +1017,18 @@ metafile = true
 [[files]]
 file = "mods/cccbridge-mc1.20.1-forge-1.6.3.pw.toml"
 hash = "e68d074b90629c2e54a2a57fc22356bc3746ef321b55523fbcae88ed17d620d9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "6e680be3cca5047fa566588220045ba76faf90889319c7aff3c03dd450065d20"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cerberu.pw.toml"
+hash = "bc03af76e7a644f447401f22422da4e9934266e7a0ec715d44a0ca9faab1a716"
 hash-format = "sha256"
 metafile = true
 
@@ -1070,6 +1087,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "cb2c1d1bc8838f2118d5fc1d83c23f949782b09c431b6034fb6aa240fb443676"
 hash-format = "sha256"
@@ -1113,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "93dbdfe0835a9b22456ab948e48450700ad9f119b08b19fb97615bc451d579dc"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 hash-format = "sha256"
 metafile = true
 
@@ -1126,6 +1149,12 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "695eeee04c63d617d35d68f60484fcee025cb8297edc7186bf3105fd51342d4a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
 hash-format = "sha256"
 metafile = true
 
@@ -1162,6 +1191,12 @@ metafile = true
 [[files]]
 file = "mods/create-track-map-1.4_mc1.20.1-neoforge.pw.toml"
 hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "6bbc25d95d3815e479f63daa98b5478bd98211462501328409cbf80c0c74533d"
 hash-format = "sha256"
 metafile = true
 
@@ -1328,6 +1363,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curios-forge-5.7.2_1.20.1.pw.toml"
 hash = "47ec06e8f2ca5a2d8c41adec9b9279aab5c20021ec0d777d54f2b66fbf557154"
 hash-format = "sha256"
@@ -1376,6 +1417,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "6b8053bc7343659665925625e947a2f79a786cf2e14b67934b3091b04bd6a624"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ears-forge-1.19.4-1.4.6.pw.toml"
 hash = "f5c85969007830279139e6cf040d8c515157997e6f85d299a639c13290518648"
 hash-format = "sha256"
@@ -1418,6 +1465,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor-ported.pw.toml"
+hash = "46cb477f4a9b2f9b068cc0d3ca3a4a99ee00f08c4892202fb5c3ae8449f3618f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "d205605493bf83a641f3d865c650f0ee8962295ecc3fb674d3f294f8a05505e5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/enlightend-5.0.14-1.20.1.pw.toml"
 hash = "fa2724d6587ce55226f731d5e56bff32b9f673f95a9fe34f3486215a31f11a43"
 hash-format = "sha256"
@@ -1442,6 +1501,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "8c99a2f18765dea9f320eed774f060e1082366fafd94d406375cacfcbd117750"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/explorify-v1.3.0-mc1.20.pw.toml"
 hash = "71ef11a31e665ebfeaa8891177417a5dd9450670601a6a788c8d0b79c43b1bae"
 hash-format = "sha256"
@@ -1449,7 +1514,13 @@ metafile = true
 
 [[files]]
 file = "mods/extended-bogeys.pw.toml"
-hash = "1b42e6fc72aa99e94bb2bd64ae4ec35d92346eda45f87cb485515610cf7704fd"
+hash = "0de9ce59a8a610db1040c5f1f6e7c26b9ec115f25ecfee5e4550a991dd234bb2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 hash-format = "sha256"
 metafile = true
 
@@ -1514,6 +1585,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "c2608e53bb7918c81045db4723e287882905ba800dbd4526985218748297275e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/funky-flora.pw.toml"
 hash = "7250b2abfe700bc02261b2e7cf6f644487cf3aca7e0c3112fc32d10adee2579d"
 hash-format = "sha256"
@@ -1528,6 +1605,12 @@ metafile = true
 [[files]]
 file = "mods/gardens-of-the-dead-forge-4.0.1.pw.toml"
 hash = "4b2d40927f9c5bfaa547e351fd4ca203b840f3fe860f3569440daf6eb221598d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/gauges-and-switches-ported.pw.toml"
+hash = "3cd4a0825c7667abbeee4389fe7eaac126562c3809ae54eba57096f10845be74"
 hash-format = "sha256"
 metafile = true
 
@@ -1610,6 +1693,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "dad7340be9b36778872f58addd597fadd07f82b47e22b038af5cf47af9b725b9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/immersive-geology.pw.toml.disabled"
 hash = "9da7220fe034cdf259f4bf7f920996ae166c042a721bda32b6ae9cbd6d8f2015"
 hash-format = "sha256"
@@ -1641,6 +1730,12 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 hash-format = "sha256"
 metafile = true
 
@@ -1728,6 +1823,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "1aaac7a8428445f01423ec88213bc17734861fcb1de3ffba082b499ef8a0b196"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "28364c62becffad4f55bbc60d85a83ef770b44e41284789b310bec7d483267fc"
 hash-format = "sha256"
@@ -1793,6 +1894,42 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "25d949b0a3d98e2ec3cbe81b48ef8919c1bf04cbd47366ee9c750eff10f5aa01"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
+hash = "5b94b899c6b621cdd5f94e6f94a0774d35a192a9e28fa7462ab2892681f2a157"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
+hash = "2332d25e2338e60f8554869565b2431294c22bcab3c407453c5974f73f2152ef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "c21a52142ee283d25f2e28c2b395393adca5e12cc8bb629c8d0a45b64e3439c7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-valhelsia-structures.pw.toml"
+hash = "be6aae4bd982701732573dd3ec44a906ffba18948412be55a2094de81d369f3f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "6863aa91d9154b3b68b56619d078ca063c00ee5309dcee4fa17540b276a49de9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "67da636765b37f5ff941af776c9e50bfb7441529c2eb07dceef5643af175f281"
 hash-format = "sha256"
@@ -1805,8 +1942,32 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/luminousdepths.pw.toml"
+hash = "9f644a332120787d2e60caaafc4a92e7644ac39e9049d4bb10971368f530da4a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2870e3b886d8e302480fa62db1cd330bf36179110c945a21555f227f3f390197"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "c1f2efd11a933c8fa868a8bdbecc2036fe33abc144004362b0f86ee53404c405"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-doors.pw.toml"
+hash = "47b565fbc0f269222372a9386ad353d26f860209e4d41fc0110c4691b9f80c3c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "3f1eea2dd5059eaf390788895a15e83e906083f2013fc0d8cf4bff74c4a99726"
 hash-format = "sha256"
 metafile = true
 
@@ -1859,6 +2020,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "9e9ebd7c8e93fd92b7ec87cf6ce2152732c10aad6c52f657cf479a5514828931"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
 hash = "f8bd3f2bdf03b7de7e7e5442a72c458ed9b2afe067a79a7be72e5894eeba1887"
 hash-format = "sha256"
@@ -1867,6 +2034,12 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "18d3ebdaddfbfedc8a694e96ce17a5423599d440809a09d5c5cdcb6ecf8592f5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/more-tetra-materials.pw.toml"
+hash = "bf663fdb60b4b75a195cfb203e74bab900812f2fe0006a3f4bee33805bad691f"
 hash-format = "sha256"
 metafile = true
 
@@ -1943,14 +2116,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/oc2r.pw.toml"
+hash = "7236f106f2e0685fce7e3da0b4db936359ca7f3410c47f46c217dd35f719afa5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "6a64eaa974fa92be21bf47b36ac0ce5edcda3fefbe29301862cd50ac96cd16cc"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims-forge-1.20.1-0.22.0.pw.toml"
-hash = "1159be78e48582ba18e56b94f6d7ed3ef866d4ca6f16e613c6641b3c8b54dd3c"
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "738a9ff73992d4ced2f720ab28a6179b467a89e77cfebe175403a7816ac9e89b"
 hash-format = "sha256"
 metafile = true
 
@@ -1997,8 +2176,44 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "9544831a799f40b5214e8bd01dcfded6b19d84bb87efa568561c108b3b929ead"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "7622a0955fce7d56fb27db9fb3ef1a26220dbac0511198f99a372fbadcfb79d2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "84c8fbf4ef95283d58a4dac819f4221a334c22da2368b3dc2016dc48b4d0759b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "7e9f532055fa65b56742023e8f8c3ebe209359a8f899d6d54491f7508e2ada56"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "6bb4325674189774c01001aab17b1b0bb9c7dfd14424af95964616b35ee6cacb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/realistic-torches.pw.toml"
 hash = "0f190b57197fa20489ec02641b9a594c574e9edb3960e54adb433e97b1b089d0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/recipes-library.pw.toml"
+hash = "779155317471577b1c73d66584bf2a43bb358662efcf984ced59e0b993a22f62"
 hash-format = "sha256"
 metafile = true
 
@@ -2035,6 +2250,12 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sedna.pw.toml"
+hash = "d1d0a15530e324be155fd20609e3c2cf53c6e6cd6a6fc8c80540da2cdff09956"
 hash-format = "sha256"
 metafile = true
 
@@ -2213,6 +2434,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/toms_storage-1.20-1.6.6.pw.toml"
 hash = "e5696a2d05a16d2212110bbf0eba98e1c743362f674a181e0e694f983c1489fd"
 hash-format = "sha256"
@@ -2291,8 +2518,19 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml.disabled"
+hash = "9c7ea837fe01d7c49c6606259444ff4eb765ba12298bde8ef1497ebfde60cf40"
+hash-format = "sha256"
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "c486de69ef38168e7195722b2206723c27a7160fca42a14e195ee0d51272f6a8"
 hash-format = "sha256"
 metafile = true
 
@@ -2347,6 +2585,24 @@ metafile = true
 [[files]]
 file = "mods/workers-1.20.1-1.7.7.pw.toml"
 hash = "2f4d1202ae6326390530c8e4ffb73bfcc9090db96dc7410b7612a13f6c891501"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0b76a3e5fa9d76378324558101807108f3099cbb6c17f24586330aad8dc91f85"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "f11b06f1bd3defefcdcfb5c62e14a4158d15f78f2389bb8dfea05fb8fc8fc80b"
 hash-format = "sha256"
 metafile = true
 
