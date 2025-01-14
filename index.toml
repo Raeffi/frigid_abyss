@@ -77,13 +77,18 @@ hash = "1b23cf3c7ccf28c77ddd93ef1162945ed485ddea250bd63b3c5fad61a99c36bd"
 hash-format = "sha256"
 
 [[files]]
+file = "config/jade/hide-entities.json"
+hash = "0a7ca5a84d1969881626fbc9804727e934c7b17e61b1c9034e5913fd2ab6ba51"
+hash-format = "sha256"
+
+[[files]]
 file = "config/jeresources-common.toml"
 hash = "cea039749f22bdb8abb20eac27fba94a7f6694728dfd3eabb2fb58f87e49877c"
 hash-format = "sha256"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "4e0a0ac18cae00be6d32980545f99e078ca28be788e62b4080e81432c0fd943c"
+hash = "c2570b86bab66213bc993911763dbb9e4c68a7bf115e08071f4f1f0c82787e40"
 hash-format = "sha256"
 
 [[files]]
