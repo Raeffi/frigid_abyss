@@ -1672,7 +1672,7 @@
 	"Overlay Shader" = false
 	"Spawner Replacer" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
-	"Variant Selector" = true
+	"Variant Selector" = false
 	"Villager Rerolling Rework" = false
 
 	[experimental.adjustable_chat]

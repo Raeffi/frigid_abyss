@@ -98,7 +98,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f56e2603f1eabf6a0fb30543095839bb97ba70dce12d4ebc171daff6177c93a4"
+hash = "6cae693ae34d0f29762e4ccd811e6fb1198e3b76f4fdab201222a1c79f834037"
 hash-format = "sha256"
 
 [[files]]
@@ -278,7 +278,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "defaultconfigs/railways-server.toml"
-hash = "8bb806db99040ea909537e1baa2c4621f136f4f85d15e2174cbe1754c62f66d8"
+hash = "f7bbcef4f19637cdb08cf8a29ec903e508c27c0b19ae8805e3dde5ddb1343154"
 hash-format = "sha256"
 
 [[files]]
