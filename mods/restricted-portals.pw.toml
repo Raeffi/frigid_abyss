@@ -1,0 +1,13 @@
+name = "Restricted Portals"
+filename = "restrictedportals-forge-1.20.1-1.5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kGd0Bwtw/versions/OqIqpR9F/restrictedportals-forge-1.20.1-1.5.0.jar"
+hash-format = "sha512"
+hash = "6c4404ab512a517f42c7305b70903728115006212a4255424e5073933546c3d89575da802b33c10b6833793605c05fc4a6821864169aaf3d006d6e6912a941e6"
+
+[update]
+[update.modrinth]
+mod-id = "kGd0Bwtw"
+version = "OqIqpR9F"

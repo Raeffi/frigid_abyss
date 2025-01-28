@@ -1,0 +1,13 @@
+name = "Normal Damage"
+filename = "normaldamage-1.0.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qv3o0VDX/versions/vemiNYY1/normaldamage-1.0.0-forge.jar"
+hash-format = "sha512"
+hash = "f0cb9f39e5138c3c18743e75e77f0857db281a1fcdbfc5436fd2341eeca145356340e19dbc8a89f29ea25056d5c6f170418162ab583019fef999e9453656c669"
+
+[update]
+[update.modrinth]
+mod-id = "Qv3o0VDX"
+version = "vemiNYY1"

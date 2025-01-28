@@ -1,0 +1,12 @@
+name = "1.20-2.6.50"
+filename = "everycomp-1.20-2.7.12.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/atv3A4RT/everycomp-1.20-2.7.12.jar"
+hash-format = "sha512"
+hash = "beb1972e9f15864d3e525e3158339e095111ee6c149a8eb5c82def4e17d4f1ffc2fae269136f05684e34201b7437a18a7721a06437ac56a31ed9f90dca31946e"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "atv3A4RT"

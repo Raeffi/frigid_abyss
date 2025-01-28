@@ -1,0 +1,13 @@
+name = "Stargate Train Compat"
+filename = "sgtrain-forge-mod-0.1.0-mod.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/67wB5dBa/versions/NFp1Ofw4/sgtrain-forge-mod-0.1.0-mod.jar"
+hash-format = "sha512"
+hash = "e144db137452b7da63a870dd3cf6fabe35ff06638f6e58508a1973f912521629440cbf96f58d6053239362b3aab7330101d1b71d4f4113bd98afc1e5da1522f2"
+
+[update]
+[update.modrinth]
+mod-id = "67wB5dBa"
+version = "NFp1Ofw4"

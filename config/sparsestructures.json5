@@ -23,14 +23,6 @@
       "structure": "dungeons_enhanced:elders_temple",
       "factor": 9
     },
-    {
-      "structure": "dungeons_enhanced:pirate_ship",
-      "factor": 9
-    },
-    {
-      "structure": "dungeons_enhanced:fishing_ship",
-      "factor": 9
-    },
     // add the structures you want to modify in the format:
     // {
     //     "structure": "namespace:structure_name",

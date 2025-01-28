@@ -1,0 +1,13 @@
+name = "TellMe"
+filename = "tellme-fabric-1.20.1-0.9.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ytk7UEym/versions/NiY53paO/tellme-fabric-1.20.1-0.9.1.jar"
+hash-format = "sha512"
+hash = "6cae3cbbd02c6bc9531cb79fbc8fe14431ed74d87daa73382293592a03363973f3a2b04f794a409f7ef7bf3b59a29202951065ce958a0184b68f8a67e07e3e31"
+
+[update]
+[update.modrinth]
+mod-id = "ytk7UEym"
+version = "NiY53paO"

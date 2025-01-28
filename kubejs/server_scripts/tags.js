@@ -43,4 +43,8 @@ ServerEvents.tags('worldgen/biome', e => {
     e.add("tetra:has_structure/forged_ruins", "#minecraft:is_mountain")
     e.add("tetra:has_structure/forged_ruins", "#minecraft:is_taiga")
     e.add("tetra:has_structure/forged_ruins", "#forge:is_mountain")
+
+    e.removeAll("ae2:has_meteorites")
+    //e.add("ae2:has_meteorites", "#minecraft:")
+
 })

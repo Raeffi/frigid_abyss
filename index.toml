@@ -27,33 +27,67 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "3a17e8ee94eed60c3675b3e9806bcadd8633f13bd8446f87adbfdb03872d231b"
+hash = "8bcccd0605a7ea27a64106beb8ecf68275bfa3c9530c802328b5b9409998949b"
 hash-format = "sha256"
-preserve = true
 
 [[files]]
 file = "config/coldsweat/entity.toml"
-hash = "07f0eb47f4c92d79a9083a3103786eedd3f9e71c677184c4c4ec12166ebdc0f9"
+hash = "12df55328e91ffa91918cc672bafc59fd3a25b35cafaaf98c0d3c8687c4dae26"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item.toml"
-hash = "fdc680f51f154ab9cc2fe0001cf3b2bd9e1b5bd9f7b6060e1f3defa56c930788"
+hash = "3510505af924dd9d8cd69e81ece413d191c5db7daf6687d05ae6204abba67d1d"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/main.toml"
+hash = "b8ada7b50b12ad3db6a0babeb16e71b9c6be7e3699272c8bda848ffb6165df3b"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "91e7aaec80987b2bc59ec4a2ba5932350039795825adc1c07ea6b5e825c86d9c"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat_old/client.toml"
+hash = "3a17e8ee94eed60c3675b3e9806bcadd8633f13bd8446f87adbfdb03872d231b"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat_old/entity.toml"
+hash = "07f0eb47f4c92d79a9083a3103786eedd3f9e71c677184c4c4ec12166ebdc0f9"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat_old/item.toml"
+hash = "fdc680f51f154ab9cc2fe0001cf3b2bd9e1b5bd9f7b6060e1f3defa56c930788"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat_old/main.toml"
 hash = "ab66e55223827573e59a8e27d5d31e65e32ab098e9a0fbdc073dde98b04ad951"
 hash-format = "sha256"
 
 [[files]]
-file = "config/coldsweat/world_aaaaa.toml"
+file = "config/coldsweat_old/world_aaaaa.toml"
 hash = "649dbd38f41bc7c65b4f3afbd19fa72ff9f6afc5841c9fc382e6ac909540d31b"
 hash-format = "sha256"
 
 [[files]]
 file = "config/creeper_firework-common.toml"
 hash = "cdc718197984f0c4e438eea419b529af6ad0f5874bc18611cdbafdb88c88d4a1"
+hash-format = "sha256"
+
+[[files]]
+file = "config/custom-portals-config.json"
+hash = "e7002a6ab9871d8bb8c7147934d51bc3b17c72498c0b0e3959578373b0bc058e"
+hash-format = "sha256"
+
+[[files]]
+file = "config/enigmaticlegacy-common.omniconf"
+hash = "74a00b06b1089b09b83ffdc17fc185f3443efb994d796a0c0c03692cfd560262"
 hash-format = "sha256"
 
 [[files]]
@@ -84,6 +118,96 @@ hash-format = "sha256"
 [[files]]
 file = "config/jeresources-common.toml"
 hash = "cea039749f22bdb8abb20eac27fba94a7f6694728dfd3eabb2fb58f87e49877c"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/common.toml"
+hash = "b4e0a70f4c8ecffbeab7ef7b8aec557c2bcfff37f6595cc2c5370313a51516bb"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/ancient.json"
+hash = "4a6b6802deb91f8dc61c4e2b1e99949c55921917670debb70719777dc2a88267"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/atlantis.json"
+hash = "6c94aca83ef22c8c005893521af15b74f695d65158afe0190faa7c41de31c0b6"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/bio_wasteland.json"
+hash = "d54f190bd0c60ee171ff5f6c750226c8063190e57b59309c2dc6d7066e0d224f"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/biosphere.json"
+hash = "4866eda7c521315ccee195a28b83d28a149775d885b3710413d01fa82ab99aac"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/cavern.json"
+hash = "16de3104890a4b24e851429d277ac7673db0fb7164ea1ee5d22d743252e10757"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/default.json"
+hash = "a4c79a7867b02986a2498c8e023030321348e004abd63a4cafb20a1e22cb3036"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/floating.json"
+hash = "9478d5d9f9612ffd9b2fb0cd9d45654139a0b6225c861527eeeac0ece1c65a7b"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/largecities.json"
+hash = "d5a65b39455ed92f41fbc44100995d3bfa1c7a9287d9a958e2e470b96746c9a6"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/nodamage.json"
+hash = "c99b5b10d22c17e80da1647c878e9d96d144aa33b881170c02e7d07b68d69483"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/onlycities.json"
+hash = "92ec4f9d65b323b0cb8980ac777544dfb5a63755760072692dac07c78c714398"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/rarecities.json"
+hash = "45183d33c7c8d2fa64a0fdf0127d8b01683fcf4b6703747154eec8f633292b5a"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/safe.json"
+hash = "43d0ee5b154b2fb81fa9b2c7ee89319c23c6fbf6396f83aef9e7c6b89605ca7a"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/space.json"
+hash = "669b0059451f28846e38bcfef4e180552ca2460d29fcef57dbfc4c345b95c6ac"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/tallbuildings.json"
+hash = "de41e2d35d44d7960aadef602ded15928e020c6d9330bbe83f5aee54d2d3db79"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/void_outside.json"
+hash = "bac97fd34181827ad002f7471275e310ebed665eedcac05e5799a3ed7acab812"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/wasteland.json"
+hash = "834440ab1002133cf9360bf5ee8251300b0ba2c51916e0bb2818d53ac921ff8e"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostworlds-common.toml"
+hash = "7d8506e95525f5f8242dc00a563cbca18e9832aeb5b110a4b458bdf7094142b8"
 hash-format = "sha256"
 
 [[files]]
@@ -118,7 +242,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "3547e1468a27fdce04775d8376100167c981870474c0cb0d3c923c3194c7d54b"
+hash = "7fc491bed895a0a8d1ab12d70fb4fcd773a75d37e7da8c34dd92218cbcc46ff6"
 hash-format = "sha256"
 
 [[files]]
@@ -397,8 +521,908 @@ hash = "27aef82938d7b8a3c6169d1acb3c59d85db006997eaabf6c1fa02022c0de509c"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/ice_maze/arch.json"
+hash = "f4dbf21292cdecc1d4b333d836dcfd3d16e1de71b1b1e80c58350aa3e8278392"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/ice_maze/common.json"
+hash = "37604f0880e0b89e86c71a37c124283bf8f9408f413112e30b01326f6c0afcc5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/ice_maze/spiral.json"
+hash = "a6c6bdc641478f1a705e74a792e32720c71dc88339fe7849e5fcf8ea29b9328d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/outpost.json"
+hash = "f39de030ad82de1a8507196e499433d993da2c64f954157d7f9f01346a29e083"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/shelter.json"
+hash = "fc9e74debb49207dc1ff3667a8801770d520bb8a01ae0df103ab56857825b5c8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/ship.json"
+hash = "1cf1bac58a446a2cbbdbb380c552065006f3260126b55d0b4a1a01f0c21a7d3c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/biome/coniferous_forest.json"
+hash = "c85acdc9de0942af8b09b3d5e511ae1cc756918c480bd84a59378b7be2de5d53"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/biome/fir_clearing.json"
+hash = "9b634e92a3f472e8c969ef1dc123c23367156aeb498d2af2edf8b192d444eb5f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_auroral_garden.json"
+hash = "dc8456bdcef977bb9ede4a84ddf6a43a3d77a9cad96f968218b94e7ceb50c584"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_bayou.json"
+hash = "7d153f69320a64e1bdfabeaa2229bd7dd1af54e2e1567982c8502fc75486ba5c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_bog.json"
+hash = "086ecc9c3465809c90f3518bad1faf45629ed301a9cc891f867eb03c0dd0bbc6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_coniferous_forest.json"
+hash = "74029804930711955b0aa059623976ddde6e8692af4f3ff5ed064f6f5ccdc2dc"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_dead_forest.json"
+hash = "dafddb1d7c2a24e4c8663947b7d836e75d1da0c1d0eb888b5870481e73a9f967"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_dense_woodland.json"
+hash = "c24a3937a875583a921730dacf8f4f515bd61c69c37d0f9063e113e710584ed4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_dryland.json"
+hash = "6472e4bfb27a18c2b69ecac6d45b56e4df6f455750b62900a0608dc889ecc608"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_field.json"
+hash = "ef83d2ed6eda0aad2604ffb353c4af4fdffa0e8cb2b05bb45756127b25bb3db8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_field_forest.json"
+hash = "8750d9f28dbd0f60ae848b9d5a8c709a92478f3644c6dd4826f859ff998e91cc"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_fir_clearing.json"
+hash = "19f5f225a7fe1ffcfa99de83e2f1dadd349d4f4b638c63a50e56ced5d4b2ac79"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_fungal_jungle.json"
+hash = "4c99da347db8df3cd896fdcd871af62aeb4658a9748a9e113d5fe187faa01598"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_jade_cliffs.json"
+hash = "cb3f2ce5ec89cdbae2b8c9557cac9c1ca0c35e3adf2a5ad9e853e06072f8f328"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_lavender_field.json"
+hash = "c5d49dd6a06313e9d272731bb803f4893d1f1007f0d3cf0755ae3d5e136d0c15"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_lavender_forest.json"
+hash = "cdae432fe419372ad1d8b80a0fe2a597d74c5a973e4ec2ff1ef3c2b221cf2cf8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_lush_desert.json"
+hash = "f637e7f85acfbdb4c80d2bc60d600be0436988b7bbd7ea45bcdb5f365b91bf57"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_maple_forest.json"
+hash = "c90bda86aab25ea46053db03bfde217c18fad14f066fe8b7f6238953bfb28c30"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_mediterranean_forest.json"
+hash = "759552a6d2894a10b42ecc1673e6bc9d6fcddfd0eacc57460d2252b9e9d34cd7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_muskeg.json"
+hash = "634cea88ab62ccbac2676d7c5f1fb92f17c30038831abfa9778aa9589d4e4762"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_mystic_grove.json"
+hash = "e34b389e5c7456225c980b6a3a62c0ca6671d73955d90966c76fd5c36d98cd19"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_old_growth_dead_forest.json"
+hash = "2b121a7e09a9711fcb1df056c87b44137c029ab1ed8d42d3c1422a1eb3d88a93"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_ominous_woods.json"
+hash = "fa5169cad4bbc0229364cb8fddfe28c58a7e0f3c631c91996785346dea707478"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_orchard.json"
+hash = "59cebc7aa20c29c6c50a00bbc934b73ab21866398391e08793d27d06da8e7ae5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_origin_valley.json"
+hash = "3cfb805a8cc80fbf065b33b46c18b3f80450b147ecc76d159d6fab0fcbfc9b32"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_prairie.json"
+hash = "78b894827fef20a46fd51a85a013c4e109c3cb99c3057e64ffb524ba8701a35d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_rainforest.json"
+hash = "a019a52eb5c355f0a5aaa9d343fe42e273d924fe7ac33da2b0a8fa6e91e5b3b0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_rainforest_cliffs.json"
+hash = "4aacc46e3d27f68a86e4922a4d26cb6a58482adbd9d36aff6818bf36f72f668b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_rainforest_floodplain.json"
+hash = "09ca1de8b2cc3ac38fc1014a746b48c8aa9e20084c44c7707c63219ec2d70f88"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_redwood_forest.json"
+hash = "f6be7466c5fdb522b40e049f6b325c0fba628da30c9ebbab9600eb9e1b07adac"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_rocky_shrubland.json"
+hash = "c46fe5ece790e17b6d414c9a704a4a26548097501cdc97512a1ae85a521199a9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_scrubland.json"
+hash = "cdad759ca5f45e337cb3a1763375766f862b1f7227f5ea48cf555e01da4ba75d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_seasonal_forest.json"
+hash = "9be7b21be59f4723e8efbe1b021d34d82a81ccda4074dbb939c17837dc739748"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_seasonal_orchard.json"
+hash = "bcc15b07a8de63d804b6d45fab37d599f2ea355a7c4f2aa7d98468bda956a289"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_seasonal_pumpkin_patch.json"
+hash = "797f3f4c232812bfa5011d42e2c21d33900e250a9876b7b39e8e528a106dbfd0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_shrubland.json"
+hash = "cf41403df8cee236210de012f461eb48b5df41812e7ef88db82ca5883ca04b30"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_snowblossom_grove.json"
+hash = "e186857b6c1a50ab7b1c369752368015829deb808acd6ea44d23048aa31cbd9b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_snowy_coniferous_forest.json"
+hash = "add6afcdbcc4bb8c6373adfa5ed514e5bb96adef0661c674fee8b6a9f8b3f4ad"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_snowy_maple_forest.json"
+hash = "40bdedcea28f909e93af32085a7f18a761b0595bf81ee45cb187be38f91c66ec"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_tropics.json"
+hash = "d160b1e2dad76537c5ea7a4f9dbaed706df4d3ccb3e221130b3aeb8c42594636"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_tundra.json"
+hash = "91089c55d5de6ec4bc0b0a6a8353182e34beb4a286244b01805860e79c1a9da8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_undergrowth.json"
+hash = "2d21b5635ff43928c53deace5b6b665df668f256ad5f6ad71231f2d0ea58438e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_volcanic_plains.json"
+hash = "6d7073c0f72cd3ae9a487b4c7aec0c80ce4a0c5efa4f8a00252269f9d612cae3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_wasteland.json"
+hash = "bf4b05de677643f1eef961b0ec4019d07336a3f074dd3980e0991e1a448c2c75"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_wetland.json"
+hash = "4c03bd31aa8c6556252d115315981a87770419346bbc9da0da245701f777c3ca"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/biomesoplenty/worldgen/placed_feature/trees_woodland.json"
+hash = "7cc8372301c72afccc3b00a1161c8f45a248be61928dd7ebad343b457d461f53"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/structures/fishing_ship.nbt"
+hash = "8d8f5698cb61d1436f120318c4052a2eaba499529eb6921d813c01551dd746b7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/structures/pirate_ship.nbt"
+hash = "fcc71cc7705f60fcad92dd6955f3637bcb6e7ac72b1fb1d9749f9e6df78f384f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/structures/pirate_ship/back.nbt"
+hash = "23917651cdd79553bfe101c7ba4e5e37a3f41634616d6f8acd9778ab3bdfa4e8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/structures/pirate_ship/front.nbt"
+hash = "c4c922d2404fc9f88e114d554288a7fd8e37d37d2dedac09ac51aad7a087f7f6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/structure/fishing_ship.json"
+hash = "d62a948592b6580215085fc1aaf3ac2087a0f130822b575cbc486cc55285ee7e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/structure/pirate_ship.json"
+hash = "a2f7dd1cd64dc5e67dfb9c61e42653325105cfd7f81bdc7663fca4d9085e9fac"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/structure_set/fishing_ship.json"
+hash = "2fa82886a445f2c59ee7185741fd9ef9c36387835b841fb1c76ffbd82aeaa779"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/structure_set/pirate_ship.json"
+hash = "b951d37361d0c2caf623932339de63ea2e9849d9272e9cdbba2343720d5a6d6c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/template_pool/fishing_ship.json"
+hash = "c43a7678a92f77b50caf3a7844ba8d9fdab1e6a546c511dfaf90c582891af5ac"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/dungeons_enhanced/worldgen/template_pool/pirate_ship.json"
+hash = "ad52f877a558f41d76fa89f7e8da1a58a9809164d4bfc1498c660ee2a6399ea7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down/rails_down1_1.mcfunction"
+hash = "aea100645a4852075c3b0da05d87712c6c89bbf7384d8d632debcc1df006d5a0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down/rails_down1_2.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down/rails_down2_1.mcfunction"
+hash = "5b431b70e111b7a4224c3459b3694a893a7b710b8f4d8e842652774055908f61"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down/rails_down2_2.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down1.mcfunction"
+hash = "f3aa75574f7ec4c501c6011f3dec24201cc4d934bcc33496357f74c3452cd01c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_down2.mcfunction"
+hash = "c2ce86745471243ba81d5ec6e484b8fcbe1dc951718407395b00ac820ad5a071"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/dimension/lostcity_test.json"
+hash = "4d5daa5f89fd6c80de16ad97e0f508fecdcc8c6b8b43670e29672b490ead8369"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/dimension_type/lostcity.json"
+hash = "0f1198e9e847ba3f20c6a96cce4f73887c46548737df929ba636c5351e35611f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/palettes/rails_custom.json"
+hash = "b657faeba48439be2c3ee4030eccc1851edd4cb6f938f671df60c0699956c9e1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rail_dungeon1.json"
+hash = "d50cdb8865b46f2688819ee6647efda81b6ef922100a2e4df589e582a5f508f7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rail_dungeon2.json"
+hash = "543fe1f4de59b92566b27aefbab4a6f7a7b79bf504c8bbb78a355d8d6df3399a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_3split.json"
+hash = "0222378386bdc14de02e62601e825e8946fad587365da32e2306883278ce3ed7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_bend.json"
+hash = "585899ce1ef357addc0fa2325ee3198492dfa0f4ef93272bd0554d0a75727323"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_down1.json"
+hash = "a875b6d4d444331bf8aab63ca6bab42c5ea201c86ef4772e4159f7dc018f6418"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_down2.json"
+hash = "0e77527db3250446d31951aef2af0d6977a1f7d923d61dacad7d69e51f12d9b1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_flat.json"
+hash = "ec6b31a5d49baf772e6b7860c8fb177d0f7890bce1c2dcc84cc03130907a9e74"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_horizontal.json"
+hash = "f9136274cb10d9c4455ffddca21de69c41010489b0970ab1bf5306c0c15e9e99"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_horizontal_end.json"
+hash = "8dfb8a66dace05bbcb139ac3d360ae5c498004a353194c30abecbf1a1483092d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_horizontal_water.json"
+hash = "4b6916db23da9c3ee460eed93879329bb33b246c76ce80a8c79446c17b898080"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_vertical.json"
+hash = "d14a90fba02a41624bf1237b2584609757c6357a7f1428c54f79410173b22529"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/rails_vertical_water.json"
+hash = "17e666caed5492124194af516f8902aac6ee8f4a3526359e0f55a523e6b6f41e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/station_open.json"
+hash = "42d67b32621cfee71d9797cc238996c43552ac41506586a4be331b08ac674194"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/station_openroof.json"
+hash = "00a9e7eea9c6746fa7a6fd7642d1c912c0c57da7478e4cf45e4688af66bfbf08"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/station_underground.json"
+hash = "434c5be8c2347a02bd160df18954cc21df471954b1f008242c5daffe50a9a2f4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/blocks/replaceable.json"
+hash = "d75f92f06a12e56efd68cfd16de4bcb6c5ca0817e31dca46a2593e584f9d7ba2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/blocks/replaceable_by_trees.json"
+hash = "45d3f530efeb2a43cb5f6ac9d4904af018dea2e11edfd64b26bd0c4261b8ac29"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/birch_forest.json"
+hash = "324d69f20a5a598deed2a2765b09cdbb157be496b0aea764e3db801a9d4e890b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/cherry_grove.json"
+hash = "9ef71a8a78c16c44f18cf25f203cc7830b31d3a0c13404b312519e7507ae87d3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/coniferous_forest.json"
+hash = "ffa4a00c78ee4e799b5c108de995766137f66239f595beb229979584ee4b78fe"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/dark_forest.json"
+hash = "e80b5f92e5a28af06c9751d68a09e10edc92aa3608d081ec4957456d2f53f127"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_dark.json"
+hash = "4cb484fcb4a93a67aec8b46e283d324a9c73f4b4807405406dd4a521225dd762"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/deep_frozen_ocean.json"
+hash = "ce65d945525443f7c13185a7f57c7049b21cc7a27a4a18be69120c460e41dfa4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/fir_clearing.json"
+hash = "f70d08f6a5e3fe290884dc0666b4a8116abd075927d4bf3e6608c4836c04abd5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/flower_forest.json"
+hash = "6c39137a5f8665276c01f519b956752b40b89851a8642b27e67d2541a6833564"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/forest.json"
+hash = "dab4b2e31912174924f2fb85554b4f8a22527ce889acbde70df692466f767254"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/grove.json"
+hash = "bb22a894baaa4445eb29a792adf2a791df78a3b9793a29fd978c878901cdd3b9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/jungle.json"
+hash = "3fc951c17539960896a614bc0e03f0e7598e7bb63276f1160c534492f1760dd4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/old_growth_birch_forest.json"
+hash = "d1613d2fb484a301582fc31ef3618743dc1277c287f522b691d97e523998e052"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/old_growth_pine_taiga.json"
+hash = "80cf7ae8853d00c0fae9cfef91cd78b991b2f9d46ac3f72e89549d96cc1e674b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/old_growth_spruce_taiga.json"
+hash = "a28a6048146de9f930fd77a52533e89d5a40be97a8047c008726a9243dc9d504"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/plains.json"
+hash = "c7b4029174216b53e7b7bd324108bf85a57c652f6a4b41887669f90eb2516278"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/seasonal_forest.json"
+hash = "7934b439f2c85f12759659b6aca2b1b9b4d430ab5197c6869ca61804dd1e9486"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/snowy_plains.json"
+hash = "9e6a3f57124783a743eef64e06bec5b8fd4ca0334938564bf552e31c35f967db"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/snowy_taiga.json"
+hash = "fd24a4d4b805bfec41778e1cf0d7164a11ac20f54d12bf7847b92c6b7bba8f15"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/swamp.json"
+hash = "c59455d87e29d44cac6dd3eb25c388d240eea2f06a610c2858eebb2c7866e993"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/taiga.json"
+hash = "d9cc8fb45615ebae704b09f282df39b79906bd7357b2cdaf1f82ed66200559da"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/windswept_forest.json"
+hash = "23614059eeba927697bf0b522018613a2d9d0475620efeb021f63a93f50572ef"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/acacia.json"
+hash = "adbb15431f3a872aa4a47cf05da33dd406cff0c749df647754906eb5605a37de"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/azalea_tree.json"
+hash = "c53f233c4d6f2d08efc26a9df2c9ec6dbe0612a7a48850b41722d3abea66cd75"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/birch.json"
+hash = "1f38c157043302ab06c6d4df79b635fcb0da05041eb8da0a37b6dc198a57754f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/birch_bees_0002.json"
+hash = "3e2043641361ff294b1399fbf138ce1d77c8d5dbe2389a048d3faae3766a64cb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/birch_bees_002.json"
+hash = "48db94441b835f5088e4e985ea6a042fc7f61d190e2754239216b4287fa77ae4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/birch_bees_005.json"
+hash = "9e3bde5a7c58be1e4349a20c26ce6014e5a9bc49c108f416f6e855914b2319b5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/birch_tall.json"
+hash = "55590f043930ba8c730dc414af80454523767d2776a9624557c4f1a27d345b2e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/cherry.json"
+hash = "c132f9e4960d0814a7a3d5533e131987521fc934f1c797b0de287cf441bb724c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/cherry_bees_005.json"
+hash = "9ddfafc4f13407133648756c15d1a2d07bce12a7d65c7c13320b3c23cf410c7c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/dark_oak.json"
+hash = "258982fff05ea620d3452b85094a00b91b74f3e99305e7e0c7ad98cdc2232aa8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak.json"
+hash = "0b94aeb4fdb92b49df59abb41c9e24f2bc4a51eaa35a4a3e2ff96e9b0786593c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak_bees.json"
+hash = "026f57658713e9dabda273587956b4c6d6ee91ba14bbb905b36226b793f07daa"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak_bees_0002.json"
+hash = "d0b0ae6750cabd0617dd0b3d624cf1812028c5f177a0b1065564f641e8cf7671"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak_bees_002.json"
+hash = "4235d13f55fbd9f5cf1be9d5fb5a7c4d4749e6f9ceb78231abb50d19427ba38b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak_bees_005.json"
+hash = "e17b3d65aba9ce3aac51ddbd775b068a9a9584bf0007b7208c7db9c1d5fb5f54"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/fancy_oak_bees_05.json"
+hash = "e9862a4ca38d56d46067d05e3263827f53818330bd850c07cba8720c6191abc1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/jungle_bush.json"
+hash = "d91740644a3d4e42be969f59ddb21f5f1165810f2d9fad75376f6dc125e812ee"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/jungle_tree.json"
+hash = "2162c7c629f823845a165251d9bdbe3aeafa969ac1ac961123ffee5ee8a71d49"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/jungle_tree_no_vine.json"
+hash = "e2d05ecb8e3ec49d949aa3a2f39e9f775d51eeeaad4db9ed7a509b660bb261c4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/mangrove.json"
+hash = "0eee3cf46c0ec0e57a19a4a35b63bee57aa955c369d8d9d1eda520a949184de7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/meadow_trees.json"
+hash = "eadc292d53c96ea46f55b9cd21ef916bb70f463d2c98aa62f902839735930ff2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/mega_jungle_tree.json"
+hash = "714ecc33491ebbae7fbd90fc7723bb53ef81a91780117739a93f951fdc938b43"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/mega_pine.json"
+hash = "3b39cf36f335133d2d15dcb82b9007478e1584e8ee86d58d7da4bb72383697a1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/mega_spruce.json"
+hash = "3daa13fd5386df13d355beda680760c016ba4bc0c6e9edf6ff6c14b8754e1db8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/oak.json"
+hash = "d08c199c80940cc77ed5a19966d92c881713e73b9bc73120dbf86e7562ba4436"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/oak_bees_0002.json"
+hash = "512c0cb4f91760a01de86552f6028b26e15758b4ba80f4fc67c65b19a146ec15"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/oak_bees_002.json"
+hash = "f5514e4c87882c55e80c979d7e43ac217d80032cc8e930c6328c28b376eacd31"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/oak_bees_005.json"
+hash = "7356e7a7a8e1cfe2589aaa3babc92d3ed45ba11c1c769d54855674cb8690db76"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/pine.json"
+hash = "47885cbc4ea6e0f90aa79e5600de076324d94bce7d4151cad755ecb0681edde1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/rooted_azalea_tree.json"
+hash = "2959f133f8f6c63440405fcba4f88abd8c8a2bccf26a21ac845f58f32a19d1dd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/spruce.json"
+hash = "d1f6a3510cac76469d7d3b93589220f6f7fd44648dcc015905f36ea2d3f2f87e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/super_birch_bees.json"
+hash = "0549e8774b301e16f67ebe8657ebb64974cb990ae0e159963ee1cfc415d23de2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/super_birch_bees_0002.json"
+hash = "3462b2c545f313f1ed58a51b42ff4e4dc85bbe0b2d6e4b6bf886879c8bcbaa0d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/super_birch_bees_05.json"
+hash = "e04f2f13531fb7098031323d19a32d355bcb27ef1d6c77054a58d1d338531f45"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/swamp_oak.json"
+hash = "bd48e9c1665495665b5127aba21a9ddcf5c682bf75f3539c28ccde196854ef1a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/tall_mangrove.json"
+hash = "91207c97b3ae2af68ca172c15382f9c6325c76325a3f52d5d5150ae13c4c1836"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/trees_birch_and_oak.json"
+hash = "b48a8c2efb3a146256535c86e4e3e5acfcb63743054aa4a9cc500697dfaabc63"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/trees_taiga.json"
+hash = "0e224920285b7c91fa0ac1c2f798345691d08d1362a26a84a55d9ff9649c6614"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "ddaaa74ca58e2b26818b46a2c6b45b0927ec266a029c55a1b1f38b1a26518ca1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/dark_forest_vegetation.json"
+hash = "32d7ae428e73a53a3fe83c771773ffbfcd7d4c48d10786fc91def49a6b581815"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/iceberg_blue.json"
+hash = "ef6fa8c762fc88053036418bbc852787f91dfa22263b8c213bf9f90938197aeb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/iceberg_packed.json"
+hash = "46454f1ec04bfa5759590194edee48f429ed9fd8fb1c141dcb14e361637855f9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/pine.json"
+hash = "7e5fe84dbd04c5d118593b7a75ff359a2f2c506342a5721a64e611e5c2ec125f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/pine_checked.json"
+hash = "7e5fe84dbd04c5d118593b7a75ff359a2f2c506342a5721a64e611e5c2ec125f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/spruce.json"
+hash = "ad92d57c3514e6855dbd5236731cbb40bdf5442539e5fb3399704bf7bdbb45c1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/spruce_checked.json"
+hash = "ad92d57c3514e6855dbd5236731cbb40bdf5442539e5fb3399704bf7bdbb45c1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_badlands.json"
+hash = "b6c30af7f172d5f3269412b1fec905551897d5a336334a88599058405f72c76c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_birch.json"
+hash = "bb2b44320b4add74b6d6fdff2d47dc64085473724635d84113d5110342fea8e1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_birch_and_oak.json"
+hash = "917af0784931135da624873387edc45318092704c2d92df66c67b41e15ef599f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_cherry.json"
+hash = "9457c40e5e212659b19e8ac4e9743e393bdd408b5a8f0f7b73b17ae4a7327bfe"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_flower_forest.json"
+hash = "da7f5735d9a4105f357a43b80fa02d8ae7f9b8d4338e08a4104a0ab94e29af65"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_grove.json"
+hash = "638359b0b168d98a7a6b2c3b922c1957c00cb9b6a3f9d7589830de89e6777e95"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_jungle.json"
+hash = "80714608a3aa6a747cca488451abf2f7675a9259774d468475810bdf6ea6237f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_mangrove.json"
+hash = "933ef7505e762a24182dd8684835317bbc3d54c6a81ec78486d41ed58c1d1641"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_meadow.json"
+hash = "494e07b75025c472da38badcc854e2adc15a4a5c66d8aca037dc23e964046d4e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_old_growth_pine_taiga.json"
+hash = "1b8e87d8fad42d22e6a2935d289911fef726616cc7f681e6966a599482e96f5a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_old_growth_spruce_taiga.json"
+hash = "cd9c2af24bb9d5395badd3282c3e50f80adb1b045b00e959ad41c1ac547e8bf5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_plains.json"
+hash = "d138972555e058133c07a34cfcc597535b3cf1c9622b9fcf9ac7234ad5c52e5e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_savanna.json"
+hash = "8911f08fa5f8a9e54e9352e30f02e4dceedd1db55d8f912238b094718c392c89"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_snowy.json"
+hash = "8075540365964a65b4f46447c18130fb1e703ec09d5136b9cc063b0211e795ce"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_sparse_jungle.json"
+hash = "fd3dc970e5a76a6d8f26166e37c5cf2b3be7921f65183aeeb4421ef6dcf4864e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_swamp.json"
+hash = "7b006a7cbf0edc94e20ee7db23ed4f99a29cf538c8a443cd30b4cbeb519603c2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_taiga.json"
+hash = "089fc90aa010445e63491e4807d7921274855abd572cf403a9d1e82b78446b4b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_water.json"
+hash = "7d10ad7376d76630a5b70997d130b3167f566eb8e90fd4b33bf2abfc4c155c06"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_windswept_forest.json"
+hash = "54d3d98f448836041679805b292fb68a68072b672f9730d2a73c94aa24053f64"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_windswept_hills.json"
+hash = "55b25d0c5a73e01850dbf3bbfc6663ba049418241ee52537a0f0d2d76183e8f5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/trees_windswept_savanna.json"
+hash = "d7ec2e2849b27b93e0341418333de5f13533ed967f390a34ccb65bcbb3d74a23"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/restrictedportals/advancements/end.json"
+hash = "2e5504ea3c667ad3e9024d81debdc19e6c772825f892164ca61404f1943e6d24"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/restrictedportals/advancements/nether.json"
+hash = "bb43489cdb418a38f91e22377fd4274396b1714a9f6fccba7adededa6240f806"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/structure_set/goauld_temple.json"
+hash = "74c0a3f0eb6fbe847205e634e131b18ba7829066fd37731c04da6a2128f70deb"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/coldsweat.js"
+hash = "75e264af035cc3005869889af0fe280c2623a216bc78a765b889a609709556d2"
 hash-format = "sha256"
 
 [[files]]
@@ -408,12 +1432,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/starterkit.js"
-hash = "5a016e31143eb80b53f86038e512596c645a701356c84819fdbf8069178dfb22"
+hash = "2084b8508dbd10d0710f3467976438d3e491c0f5bef2a8134d289c0e5e3e9d62"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "0ff11241ef677cad3f0172d7dcb93889d9b413b6a6cd3f8a59093e5009ccf470"
+hash = "2b0e4ca203ba367247986d4519220f06bce967c17935c63d36bf4097291e8719"
 hash-format = "sha256"
 
 [[files]]
@@ -423,7 +1447,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/startup_scripts/modifyitems.js"
-hash = "89c4edb0570a863832c7243b90fffe9715798af633b1081a8ddfd71b0b9f703b"
+hash = "3d059ed2f2e038b2d6d6957decc16c38e70f8f06f16a63a2d9a20de406706ef1"
 hash-format = "sha256"
 
 [[files]]
@@ -847,6 +1871,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "221e85ab67a10bfc0de6c02ab835d9830e1d3acabc4a0c91b6629e168948b438"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/architectury-9.2.14-forge.pw.toml"
 hash = "2f9a38b74141117e679bf6386340eeaf9ec4b0be7c816d65b6d7e777fe44bb93"
 hash-format = "sha256"
@@ -1099,7 +2129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "cb2c1d1bc8838f2118d5fc1d83c23f949782b09c431b6034fb6aa240fb443676"
+hash = "3d228e011e73ecc5dd4ef268e1705754ae0bdda438b984f245ea4103e9bf0421"
 hash-format = "sha256"
 metafile = true
 
@@ -1196,6 +2226,12 @@ metafile = true
 [[files]]
 file = "mods/create-track-map-1.4_mc1.20.1-neoforge.pw.toml"
 hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-trains-and-customportalapi-compability.pw.toml"
+hash = "225e8c79aee83ec0ebcee605cb60e14c676d8f20f6bb39e8668be70030fb2a89"
 hash-format = "sha256"
 metafile = true
 
@@ -1308,6 +2344,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/creating-space.pw.toml"
+hash = "f7f9b89fd50641d39d27666f57549ee145e8ea6c56be621312f0f7ce57dd7c72"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "4a0c265d871898cbc90f93aea5d0401288344b84957b3ca9d9aae67147164a9c"
 hash-format = "sha256"
@@ -1376,6 +2418,18 @@ metafile = true
 [[files]]
 file = "mods/curios-forge-5.7.2_1.20.1.pw.toml"
 hash = "47ec06e8f2ca5a2d8c41adec9b9279aab5c20021ec0d777d54f2b66fbf557154"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/custom-portal-builder.pw.toml"
+hash = "56787a141836450f325bdfdbda19c47a6598a5643ea3743cd15828a8942d9422"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/customportalapi.pw.toml"
+hash = "639dedebad2b20c4898253ff98320a04a008a29f8b0f05582700beb80d5ad13c"
 hash-format = "sha256"
 metafile = true
 
@@ -1500,8 +2554,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/everycomp-1.20-2.6.50.pw.toml"
-hash = "370ecab623d71a62c00ad9315ccd638d9ca8d238be01d910a3e389d3446f33c2"
+file = "mods/everycomp.pw.toml"
+hash = "d017f237e85350a50417480d499228c3db20578043841e0e197343655ff17109"
 hash-format = "sha256"
 metafile = true
 
@@ -1574,6 +2628,12 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "974ea15fc0d5348cdaadd6fb8512587cdaffa7656bc00fcaf1f89f960eac5004"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "48cd054000672e0716de97763391e6a925dc8cc29d78c31097ab86bc2d1f9c59"
 hash-format = "sha256"
 metafile = true
 
@@ -1680,6 +2740,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/huge-structure-blocks.pw.toml"
+hash = "6d37fbabd68d615695289e04fe7f1454fb42e7bd411e1f49ab1e58935682d311"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/iam-music-player.pw.toml"
 hash = "bf09f028c36be5cd718fac5c1bce7cabcdbf0f8c9210e25a8c81fa1461427634"
 hash-format = "sha256"
@@ -1704,9 +2770,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/immersive-geology.pw.toml.disabled"
-hash = "9da7220fe034cdf259f4bf7f920996ae166c042a721bda32b6ae9cbd6d8f2015"
+file = "mods/immersive-geology.pw.toml"
+hash = "e6952d8bdfd8471b14e00c2ce876fbdfd35e95936521444e301d6a0b3bb285b9"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
@@ -2103,6 +3170,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/normal-damage.pw.toml"
+hash = "57a9794d70eed80e2d43c8b591be7e87760a177540be9ee7e6f3c26c3c277fc3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-forge-1.7.1-mc1.20.1.pw.toml"
 hash = "b1bc01a686349467b81d42905f66aaf87c1b09331def007c2723a8f98cd0147c"
 hash-format = "sha256"
@@ -2176,7 +3249,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "00d4fc651df5d594087b34a17cef5043f39b05eeb5e096222e36053286ea6a86"
+hash = "4eb8a00a969afaebe39ed64ea399aff66c7793d56ac9e2e6b1642e590a8e05a4"
 hash-format = "sha256"
 metafile = true
 
@@ -2229,6 +3302,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/restricted-portals.pw.toml"
+hash = "aada947dd880e3482390103d2c22c3fdd97de66ef1b0f2be734c85e600da1ad2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 hash-format = "sha256"
@@ -2267,6 +3346,18 @@ metafile = true
 [[files]]
 file = "mods/servuxforged.pw.toml"
 hash = "64d7d38bf66b2df528bdad61843b03d473de18d45bdb8a22480b6fb932792c2f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sgjourney.pw.toml"
+hash = "28374b61550bdee299faaabd0b808409319a895e8ad57be9a88d4d8628ed10d7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sgtrain.pw.toml"
+hash = "4ae660cb9bdfb12cedf969100a67d71e5dfa6181c4cc66d850ace21c1739bea0"
 hash-format = "sha256"
 metafile = true
 
@@ -2391,6 +3482,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/tellme.pw.toml"
+hash = "1ee64cf2c7d5f6cd479fc85550d6f772a9e614916a6b4002858112a8816872ce"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/tetra.pw.toml"
 hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
 hash-format = "sha256"
@@ -2429,6 +3526,18 @@ metafile = true
 [[files]]
 file = "mods/tfmg-0.8.0b-1.20.1.pw.toml"
 hash = "d302a46f4d63f8cc5de0bf06f18af3134dd72ee8390205590262e861b65de74f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "a1e604c6923639ceabcbdf1bfea6eaa9f7534288c5e3528c700b58317530fdc0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tiered.pw.toml"
+hash = "e43da40d6a838276c581adb2a6a62e7b0c8f8badb154775d2d2f0902c093f0ef"
 hash-format = "sha256"
 metafile = true
 
@@ -2505,6 +3614,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+hash = "3b6b8c600b582f2d9aab2e281e4678908bbd1e7bf9dc94edbac1da4f1b81a0ba"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "39a245571d0bf349aec62d6d39720e9ecfb3a90db9d1b2abe82785633680778c"
 hash-format = "sha256"
@@ -2519,6 +3634,12 @@ metafile = true
 [[files]]
 file = "mods/valhelsia_furniture-forge-1.20.1-1.1.3.pw.toml"
 hash = "89591e4e97d8439fe0d7faa2e43ae73038f38d23ae1e4db8e03384fcaa06c89c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valkib.pw.toml"
+hash = "04f89529acbb5c248b8774e1e9d1b0ab2c346ca58217533061706a8558a84d71"
 hash-format = "sha256"
 metafile = true
 
@@ -2595,7 +3716,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0b76a3e5fa9d76378324558101807108f3099cbb6c17f24586330aad8dc91f85"
+hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
 hash-format = "sha256"
 metafile = true
 

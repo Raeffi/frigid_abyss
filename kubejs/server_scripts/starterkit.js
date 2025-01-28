@@ -1,10 +1,12 @@
 PlayerEvents.loggedIn(e => {
     if (!e.player.stages.has('starting_items')) {
         e.player.stages.add('starting_items')
-        e.player.give(Item.of("cold_sweat:fur_cap", 1))
-        e.player.give(Item.of("cold_sweat:fur_parka", 1))
-        e.player.give(Item.of("cold_sweat:fur_pants", 1))
-        e.player.give(Item.of("cold_sweat:fur_boots", 1))
+        e.player.give(Item.of("scguns:powder_and_ball", 16))
+        e.player.give(Item.of("scguns:flintlock_pistol", 1))
+        e.player.give(Item.of("cold_sweat:goat_fur_cap", 1))
+        e.player.give(Item.of("cold_sweat:goat_fur_parka", 1))
+        e.player.give(Item.of("cold_sweat:goat_fur_pants", 1))
+        e.player.give(Item.of("cold_sweat:goat_fur_boots", 1))
         e.player.give(Item.of("minecraft:wooden_pickaxe", 1))
         e.player.give(Item.of("minecraft:wooden_axe", 1))
         e.player.give(Item.of("farmersdelight:bacon_sandwich", 5))
