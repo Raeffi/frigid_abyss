@@ -1,0 +1,114 @@
+{
+  "palette": [
+    {
+      "char": "k",
+      "block": "railways:track_tieless_narrow[shape=zo,turn=false,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "railways:track_tieless_narrow[shape=xo,turn=false,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:rail[shape=south_east]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:rail[shape=south_west]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:rail[shape=north_west]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:rail[shape=north_east]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:powered_rail[powered=true,shape=north_south]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:powered_rail[powered=true,shape=ascending_south]"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:powered_rail[powered=true,shape=ascending_north]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:command_block[conditional=false,facing=up]",
+      "tag": {
+        "Command": "function frigidabyss:rails_down1",
+        "auto": 1,
+        "conditionMet": 1
+      }
+    },
+    {
+      "char": "b",
+      "block": "architects_palette:hazard_wall"
+    }, 
+    {
+      "char": "d",
+      "block": "createdeco:industrial_iron_support[waterlogged=false,facing=up]"
+    },    
+    {
+      "char": "g",
+      "block": "createdeco:industrial_iron_mesh_fence"
+    },   
+    {
+      "char": "h",
+      "block": "minecraft:command_block[conditional=false,facing=up]",
+      "tag": {
+        "Command": "function frigidabyss:rails_down2",
+        "auto": 1,
+        "conditionMet": 1
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:powered_rail[powered=true,shape=ascending_east]"
+    },
+    {
+      "char": "j",
+      "block": "immersiveengineering:concrete_quarter"
+    },
+    {
+      "char": "l",
+      "block": "architects_palette:redstone_cage_lantern[facing=up,inverted=true,lit=true,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "immersiveengineering:concrete_tile"
+    },   
+    {
+      "char": "t",
+      "block": "railways:buffer_narrow[facing=east,style=mono,waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:polished_deepslate_wall"
+    },
+    {
+      "char": "v",
+      "block": "chipped:grill_gray_concrete"
+    },
+    {
+      "char": "w",
+      "block": "immersiveengineering:slab_concrete"
+    },
+    {
+      "char": "x",
+      "block": "immersiveengineering:slab_concrete[type=top]"
+    },
+    {
+      "char": "y",
+      "block": "immersiveengineering:concrete"
+    },
+    {
+      "char": "z",
+      "block": "design_decor:industrial_plating_block"
+    }   
+  ]
+}

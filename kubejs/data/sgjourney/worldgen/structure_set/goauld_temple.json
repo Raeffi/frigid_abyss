@@ -1,0 +1,31 @@
+{
+	// What structures to pick to try and spawn if a spot passes the placement check.
+    // If two or more structures in this list can spawn in a biome at a spot, a random one based on weight is chosen to spawn
+	"structures":
+	[
+		{
+			"structure": "sgjourney:goauld_temple/desert_pyramid/desert_pyramid",
+			"weight": 1
+		},
+		{
+			"structure": "sgjourney:goauld_temple/desert_pyramid/abandoned/desert_pyramid_abandoned",
+			"weight": 1
+		},
+		{
+			"structure": "sgjourney:goauld_temple/jungle_pyramid/jungle_pyramid",
+			"weight": 1
+		},
+		{
+			"structure": "sgjourney:goauld_temple/badlands_ziggurat/badlands_ziggurat",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:concentric_rings",
+		"count": 128,
+		"distance": 38,
+		"preferred_biomes": "#minecraft:is_overworld",
+		"salt": 24342,
+		"spread": 7
+	  }
+}

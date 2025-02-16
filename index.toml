@@ -842,7 +842,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down/rails_down2_1.mcfunction"
-hash = "7071a9f9ceea2dd3711a9d77b8a590202ebe2c4ac8b8beb5dab0c3d4d6a487d8"
+hash = "0fcd388d2538da9e92ea0d1f1ced9804e2a562bb3101348bed13d9a3bb449883"
 hash-format = "sha256"
 
 [[files]]
@@ -902,7 +902,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_down2.json"
-hash = "5bd6c881154b170bccb3f33cc37e37ffdc02ea5323f2b33367de2b120f0c02ac"
+hash = "d9140e7ce61f8e15f246b8661994048c60e813f7b6577058782321b74547b566"
 hash-format = "sha256"
 
 [[files]]

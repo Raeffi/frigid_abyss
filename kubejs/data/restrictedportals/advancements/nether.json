@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "cold_sweat:soulspring_lamp"
+      },
+      "title": "Nether Unlocked!",
+      "description": "Obtain a Soulspring Lamp"
+    },
+    "parent": "restrictedportals:root",
+    "criteria": {
+      "nether": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "cold_sweat:soulspring_lamp"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "nether"
+      ]
+    ]
+  }

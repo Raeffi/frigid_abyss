@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "dungeons_enhanced:fishing_ship",
+  "size": 2,
+  "max_distance_from_center": 80,
+  "biomes": "#minecraft:is_overworld",
+  "step": "surface_structures",
+  "use_expansion_hack": false,
+  "spawn_overrides": {},
+  "start_height": {
+    "absolute": 62
+  }
+}
