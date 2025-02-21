@@ -1,13 +1,13 @@
 name = "Frigid Abyss"
 author = "Raeffi"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24dc0ddfc6673f730cb033dca81bc1d49f36a6a58eab6b45c3fd8499518e0e5b"
+hash = "9ae5daf1b04764d47cca4800087da16bbf39a93ca84f0af0f0f020b88a2694f6"
 
 [versions]
-forge = "47.3.0"
+forge = "47.3.25"
 minecraft = "1.20.1"
