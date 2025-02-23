@@ -1,0 +1,28 @@
+{
+  "blocks": [
+    {
+      "random": 9,
+      "block": "immersiveengineering:concrete_brick_cracked"
+    },
+    {
+      "random": 8,
+      "block": "immersiveengineering:concrete"
+    },
+    {
+      "random": 4,
+      "block": "engineersdecor:rebar_concrete"
+    },
+    {
+      "random": 7,
+      "block": "immersiveengineering:concrete_tile"
+    },
+    {
+      "random": 5,
+      "block": "engineersdecor:rebar_concrete_tile"
+    },
+    {
+      "random": 1000,
+      "block": "immersiveengineering:concrete_brick"
+    }
+  ]
+}

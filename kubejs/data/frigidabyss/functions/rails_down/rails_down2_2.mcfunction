@@ -1,0 +1,18 @@
+#setblock ~4 ~2 ~ railways:track_tieless_narrow[shape=ae,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+
+setblock ~-4 ~2 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{AlternateModel:0b,Connections:[{Axes:[{V:[0.7071067811865475d,-0.7071067811865475d,0.0d]},{V:[-1.0d,0.0d,0.0d]}],Casing:"immersiveengineering:slab_concrete",Girder:0b,Material:"railways:tieless_narrow",Normals:[{V:[0.7071067811865476d,0.7071067811865476d,0.0d]},{V:[0.0d,1.0d,0.0d]}],Positions:[{X:0,Y:0,Z:0},{X:4,Y:-2,Z:0}],Primary:1b,ShiftDown:0b,Starts:[{V:[1.0d,0.0d,0.5d]},{V:[4.0d,-2.0d,0.5d]}]}],ForgeCaps:{},TrackCasing:"immersiveengineering:slab_concrete"}
+
+setblock ~-5 ~3 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+setblock ~-6 ~4 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+setblock ~-7 ~5 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+setblock ~-8 ~6 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+setblock ~-9 ~7 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+setblock ~-10 ~8 ~ railways:track_tieless_narrow[shape=aw,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+
+#setblock ~-10 ~8 ~ railways:track_tieless_narrow[shape=ae,turn=true,waterlogged=false]{AlternateModel:0b,Connections:[{Axes:[{V:[0.7071067811865475d,0.7071067811865475d,0.0d]},{V:[-1.0d,0.0d,0.0d]}],Casing:"immersiveengineering:slab_concrete",Girder:0b,Material:"railways:tieless_narrow",Normals:[{V:[-0.7071067811865476d,0.7071067811865476d,0.0d]},{V:[0.0d,1.0d,0.0d]}],Positions:[{X:0,Y:0,Z:0},{X:5,Y:4,Z:0}],Primary:1b,ShiftDown:0b,Starts:[{V:[1.0d,1.0d,0.5d]},{V:[5.0d,4.0d,0.5d]}]}],ForgeCaps:{},TrackCasing:"immersiveengineering:slab_concrete"}
+
+#setblock ~10 ~8 ~ railways:track_tieless_narrow[shape=ae,turn=true,waterlogged=false]{Connections: [], AlternateModel: 0b, TrackCasing: "immersiveengineering:slab_concrete"}
+
+setblock ~ ~ ~ railways:track_create_andesite_narrow[shape=xo,turn=true,waterlogged=false]{AlternateModel:1b,Connections:[{Axes:[{V:[-1.0d,0.0d,0.0d]},{V:[0.7071067811865475d,-0.7071067811865475d,0.0d]}],Casing:"immersiveengineering:slab_concrete",Girder:0b,Material:"railways:tieless_narrow",Normals:[{V:[0.0d,1.0d,0.0d]},{V:[0.7071067811865476d,0.7071067811865476d,0.0d]}],Positions:[{X:0,Y:0,Z:0},{X:-4,Y:2,Z:0}],Primary:1b,ShiftDown:0b,Starts:[{V:[0.0d,0.0d,0.5d]},{V:[-3.0d,2.0d,0.5d]}]}],ForgeCaps:{},TrackCasing:"architects_palette:plating_slab"}
+
+setblock ~-15 ~12 ~ railways:track_tieless_narrow[shape=xo,turn=true,waterlogged=false]{AlternateModel:1b,Connections:[{Axes:[{V:[1.0d,0.0d,0.0d]},{V:[-0.7071067811865475d,0.7071067811865475d,0.0d]}],Casing:"immersiveengineering:slab_concrete",Girder:0b,Material:"railways:tieless_narrow",Normals:[{V:[0.0d,1.0d,0.0d]},{V:[0.7071067811865476d,0.7071067811865476d,0.0d]}],Positions:[{X:0,Y:0,Z:0},{X:5,Y:-4,Z:0}],Primary:1b,ShiftDown:0b,Starts:[{V:[1.0d,0.0d,0.5d]},{V:[5.0d,-3.0d,0.5d]}]}],ForgeCaps:{},TrackCasing:"architects_palette:plating_slab"}

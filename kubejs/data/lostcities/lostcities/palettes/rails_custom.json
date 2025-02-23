@@ -98,7 +98,14 @@
     },  
     {
       "char": "t",
-      "block": "railways:buffer_narrow[facing=east,style=mono,waterlogged=false]"
+      "block": "railways:buffer_narrow[facing=west,style=mono,waterlogged=false]",
+      "tag":{
+        "TargetTrack":{
+          "X":0,
+          "Y":-1,
+          "Z":0
+        }
+      }     
     },
     {
       "char": "u",
@@ -230,6 +237,32 @@
     {
       "char": "X",
       "block": "createdeco:andesite_catwalk_railing[east=false,north=false,south=false,waterlogged=false,west=true]"
+    },
+    {
+      "char": "Y",
+      "block": "createdeco:industrial_iron_support[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "Z",
+      "block": "createdeco:industrial_iron_support[waterlogged=true,facing=north]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:command_block[conditional=false,facing=up]",
+      "tag": {
+        "Command": "function frigidabyss:rails_bend",
+        "auto": 1,
+        "conditionMet": 1
+      }
+    },
+    {
+      "char": "&",
+      "block": "minecraft:command_block[conditional=false,facing=up]",
+      "tag": {
+        "Command": "function frigidabyss:rails_3split",
+        "auto": 1,
+        "conditionMet": 1
+      }
     }
   ]
 }

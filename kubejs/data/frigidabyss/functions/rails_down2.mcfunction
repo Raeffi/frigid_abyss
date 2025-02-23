@@ -1,2 +1,2 @@
-execute if block ~-1 ~-1 ~ immersiveengineering:concrete_quarter run execute unless block ~-16 ~ ~ minecraft:void_air run execute unless block ~16 ~ ~ minecraft:void_air run function frigidabyss:rails_down/rails_down2_1
-execute unless block ~-1 ~-1 ~ immersiveengineering:concrete_quarter run execute unless block ~-16 ~ ~ minecraft:void_air run execute unless block ~16 ~ ~ minecraft:void_air run function frigidabyss:rails_down/rails_down2_2
+execute if block ~1 ~ ~ immersiveengineering:concrete_quarter run function frigidabyss:rails_down/rails_down2_1
+execute unless block ~1 ~ ~ immersiveengineering:concrete_quarter run function frigidabyss:rails_down/rails_down2_2

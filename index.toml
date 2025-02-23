@@ -831,13 +831,43 @@ hash = "ad52f877a558f41d76fa89f7e8da1a58a9809164d4bfc1498c660ee2a6399ea7"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/functions/rails_3split.mcfunction"
+hash = "d0aca8cc10fcc7a8015ddbd01e0e6e98ce55759db953906a23eeb299324371fb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_3split/rails_3split_n.mcfunction"
+hash = "fcf44b1198469cbb6d992c60bf82f8a1dad3fd8cf839f95867e0df02219f9aa6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_3split/rails_3split_s.mcfunction"
+hash = "1ea42e73432709bed094c9af8ed70829503073a0d9ff81fe43c7baf918959364"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_bend.mcfunction"
+hash = "378bd35d50a2a47517cf67bcecd184bab3f74e5365b40749b7aee817ebda6ff4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_bend/rails_bend1.mcfunction"
+hash = "8826932a062d2cbdf2500750e45a5a17f56de6150bb8d8b07bb6cdf7b4cb072a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/rails_bend/rails_bend2.mcfunction"
+hash = "ff7eb22fc3c58a1252d03da914c7ff8a2ec37503368c9245f1051120233d5e71"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down/rails_down1_1.mcfunction"
 hash = "30370129dc5acbaa561e834456d92ea7b4f723530f8491afc2fe3ee34458f366"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down/rails_down1_2.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "23687f87290eb7a4b65e7d0dffdbe75bcf3d8f62aed992d214d13afc6c4d3ab1"
 hash-format = "sha256"
 
 [[files]]
@@ -847,7 +877,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down/rails_down2_2.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "986de0372b92ac55885b2e82d1809fff46ff7ee118751464b04b82797fd8f71c"
 hash-format = "sha256"
 
 [[files]]
@@ -857,7 +887,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down2.mcfunction"
-hash = "c2ce86745471243ba81d5ec6e484b8fcbe1dc951718407395b00ac820ad5a071"
+hash = "0b6c47876e90f24b67645e5245118fc0ea608bc68d8d9425f7880656f14efc50"
 hash-format = "sha256"
 
 [[files]]
@@ -871,8 +901,23 @@ hash = "0f1198e9e847ba3f20c6a96cce4f73887c46548737df929ba636c5351e35611f"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/lostcities/lostcities/palettes/default.json"
+hash = "6357e11012230f539d88939badf56a578b57f4c886d19a31eb59979fcb58b5f2"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/lostcities/lostcities/palettes/rails_custom.json"
-hash = "53f77610bb15e3da4d9f987aec13ddf44161b266b7b504e5f163268099ac13c0"
+hash = "977f75c70e3e97c233fd8b3aa87bcdd9b53ed60fe6b0315abc69006738d78bbd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/bridge_covered.json"
+hash = "476c704086b282cb57c9829094a20063442c616923af71fb4ed0a97ea007e826"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/bridge_open.json"
+hash = "4e2f6c7fbf76637252b4ed06a99ffa5a541ebff047aee03723fc5814cb519f8a"
 hash-format = "sha256"
 
 [[files]]
@@ -887,22 +932,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_3split.json"
-hash = "0222378386bdc14de02e62601e825e8946fad587365da32e2306883278ce3ed7"
+hash = "68afaa58b4358300cfba5443a222ebaa449b6da822b53d0222192ee05ef91b61"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_bend.json"
-hash = "585899ce1ef357addc0fa2325ee3198492dfa0f4ef93272bd0554d0a75727323"
+hash = "d9d2edc3599ba2304a4066e50f53deae9164d5dcd239006b2712243183e30415"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_down1.json"
-hash = "02e79b3be0ebad23585740473e4a36cba57a29c3abd782212007ee1d9c1f5f17"
+hash = "1e93a5248a194b97fb5bdd3a160495da8b0a24e1457e3ab8fd63f2683d8ad751"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_down2.json"
-hash = "795a6f7742a6b7321082ae4dd0860173210853027327e773ef6e3a78de5082c1"
+hash = "60c09c0f217854c1f03d98d2f2237c468558f2ff9467a7c85b4c9ca12787856c"
 hash-format = "sha256"
 
 [[files]]
@@ -917,7 +962,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_horizontal_end.json"
-hash = "8dfb8a66dace05bbcb139ac3d360ae5c498004a353194c30abecbf1a1483092d"
+hash = "415d808fd29a8d5c82fec0869e19b46faca6a1c417eb42244cc8366d0315b71e"
 hash-format = "sha256"
 
 [[files]]
@@ -927,12 +972,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_vertical.json"
-hash = "d14a90fba02a41624bf1237b2584609757c6357a7f1428c54f79410173b22529"
+hash = "d522b9f4370e8be9ece81cf5c7c6f2e7062fcf1fbcee40e0412cd96bfd2673bd"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/rails_vertical_water.json"
-hash = "17e666caed5492124194af516f8902aac6ee8f4a3526359e0f55a523e6b6f41e"
+hash = "5b7a500ce41c035601f63b08697c1117c2e843f96703d17947df6af118a4f034"
 hash-format = "sha256"
 
 [[files]]
@@ -947,12 +992,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/station_staircase.json"
-hash = "63cf30cfe1243f58bce150d44576b1fb4d720e621db1989c39a6baaef3cf70e3"
+hash = "c85722cccc62b3b411fe339da8727cda2e518787a53de47a949b0dd9aedaa84d"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/station_staircase_surface.json"
-hash = "8891c1b19fcbd64ec3a683090a5ea2c367b64f32ba2b66c640ef6deba8cee444"
+hash = "c18cdb53c3e110e11a0bf30d9c8afb776ce1801abb65227af623fd58a354a393"
 hash-format = "sha256"
 
 [[files]]
@@ -962,7 +1007,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/station_underground_stairs.json"
-hash = "0d9a643a23429da6b01766048002e4e4e327cff26fc3ee2ef35196b950e46c89"
+hash = "e9c66b39ab5a3346a3c1092d17f700b6ad92bc8d7c5d9fd16034a5fd04760672"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/variants/bars.json"
+hash = "8ca13b1d5af4d199de4df1fa4ab978105775ccef53627b4bbc488a8c71245367"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/variants/concretebrick.json"
+hash = "71add2ff7dddf57ae6ed5043dbbb2385eca20fe0282aa145493c1050a545e217"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/variants/stonebrick.json"
+hash = "d55841ecc442aa1864a695fa5320f35b179c313d808abfd437b34a9e548a0a02"
 hash-format = "sha256"
 
 [[files]]
@@ -2972,6 +3032,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/lc-helper.pw.toml"
+hash = "6cc141ad0de1eb68a45e91738b99e8c1ec5d935d7196dad398416490b3ca4ff7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b67788df2948db7f4aa69bb01ad539d4d54e5f1f823ed6d6bfaf2949cf972518"
 hash-format = "sha256"
@@ -3033,7 +3099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lostcities.pw.toml"
-hash = "24f15103c5e9bce3546405cc3e421bd5a402e464015cb3d57d8811f931663f21"
+hash = "ae8f11593432efcd3a250353c989480decf5966900c0a3cd5c84c733cdc11cee"
 hash-format = "sha256"
 metafile = true
 

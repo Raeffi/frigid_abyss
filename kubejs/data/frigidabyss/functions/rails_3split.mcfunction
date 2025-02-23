@@ -1,0 +1,2 @@
+execute if block ~ ~ ~5 minecraft:command_block run function frigidabyss:rails_3split/rails_3split_n
+execute if block ~ ~ ~-5 minecraft:command_block run function frigidabyss:rails_3split/rails_3split_s

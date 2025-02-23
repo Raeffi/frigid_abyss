@@ -1,0 +1,18 @@
+name = "LC Helper"
+filename = "lc_helper-1.0.jar"
+side = "client"
+
+[option] 
+optional = true
+default = false
+description = "For Development only"
+
+[download]
+hash-format = "sha1"
+hash = "c69887d0077b47ddc8f26f0c1690bf9f0faff956"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6214293
+project-id = 1203361
