@@ -832,7 +832,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_3split.mcfunction"
-hash = "d0aca8cc10fcc7a8015ddbd01e0e6e98ce55759db953906a23eeb299324371fb"
+hash = "913014c74935f9e790667a9607ebcaa2517d83ad7d4cda84fb04110b31a39a27"
 hash-format = "sha256"
 
 [[files]]
