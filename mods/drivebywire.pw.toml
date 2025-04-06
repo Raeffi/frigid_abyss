@@ -1,0 +1,7 @@
+name = "DriveByWire"
+filename = "drivebywire-1.20.1-0.0.10.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/ostx5hdu2g3h0lcb48i87/drivebywire-1.20.1-0.0.10.jar?rlkey=5y8o3ytyknc6l3hzxhu2diauj&st=4nqx54ww&dl=1"
+hash-format = "sha256"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"

@@ -1,16 +1,16 @@
 {
   "blocks": [
     {
-      "random": 500,
-      "block": "createdeco:industrial_iron_bars"
-    },
-    {
       "random": 20,
       "block": "createdeco:industrial_iron_bars_overlay"
     },
     {
-      "random": 5,
+      "random": 1,
       "block": "quark:paper_wall_sakura"
+    },
+    {
+      "random": 500,
+      "block": "createdeco:industrial_iron_bars"
     }
   ]
 }

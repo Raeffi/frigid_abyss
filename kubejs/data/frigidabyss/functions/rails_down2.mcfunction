@@ -1,2 +1,3 @@
+gamerule commandBlockOutput false
 execute if block ~1 ~ ~ immersiveengineering:concrete_quarter run function frigidabyss:rails_down/rails_down2_1
 execute unless block ~1 ~ ~ immersiveengineering:concrete_quarter run function frigidabyss:rails_down/rails_down2_2

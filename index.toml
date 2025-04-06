@@ -11,6 +11,16 @@ hash = "6a7f363a670985269b5c5b72b0ba92663641b741dbed3c898743ba355265ae25"
 hash-format = "sha256"
 
 [[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "6184168c00c4f45e874e0043304992c67beb5d5306e6150dec4f79dd4dd24b71"
+hash-format = "sha256"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "8a3c5984499a05fbae5dea2104919f391ff2257b0450a389f415667d1a561c3e"
+hash-format = "sha256"
+
+[[files]]
 file = "config/block_lists/list_of_all_blocks.txt"
 hash = "1848ef1dbe04083b8b590a2b51ad677417148d7eaf4356a5b106751c3dbd8cc1"
 hash-format = "sha256"
@@ -37,7 +47,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item.toml"
-hash = "3510505af924dd9d8cd69e81ece413d191c5db7daf6687d05ae6204abba67d1d"
+hash = "c67792a9cbaf1cd3621216e9eedc86c52158d43dc216a780fe1eb60c096342f2"
 hash-format = "sha256"
 
 [[files]]
@@ -47,7 +57,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "91e7aaec80987b2bc59ec4a2ba5932350039795825adc1c07ea6b5e825c86d9c"
+hash = "6a04663488ef7d6b2593a1286c106a3d4cad5b8259cf0d804aaf105ccff6ed25"
 hash-format = "sha256"
 
 [[files]]
@@ -158,6 +168,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/lostcities/profiles/floating.json"
 hash = "9478d5d9f9612ffd9b2fb0cd9d45654139a0b6225c861527eeeac0ece1c65a7b"
+hash-format = "sha256"
+
+[[files]]
+file = "config/lostcities/profiles/frigidabyss.json"
+hash = "9c4b4dc9d05b629706a33d262aa740528c3877a96e11b088fa407350afd007d5"
 hash-format = "sha256"
 
 [[files]]
@@ -781,6 +796,11 @@ hash = "7cc8372301c72afccc3b00a1161c8f45a248be61928dd7ebad343b457d461f53"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/data.code-workspace"
+hash = "c81f8bcfd5c0d58e44268aec8fe696e337de21f9277bfe977c05273084bf7544"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/dungeons_enhanced/structures/fishing_ship.nbt"
 hash = "8d8f5698cb61d1436f120318c4052a2eaba499529eb6921d813c01551dd746b7"
 hash-format = "sha256"
@@ -832,7 +852,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_3split.mcfunction"
-hash = "913014c74935f9e790667a9607ebcaa2517d83ad7d4cda84fb04110b31a39a27"
+hash = "2c1a6df6c45aa122b443b8dc9fa8c6a78c5c622364bdc0f81e71dd5a07f97be9"
 hash-format = "sha256"
 
 [[files]]
@@ -847,7 +867,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_bend.mcfunction"
-hash = "378bd35d50a2a47517cf67bcecd184bab3f74e5365b40749b7aee817ebda6ff4"
+hash = "82a95478cb22c6211e4f30323ec50278c4f4c36bdc1497ecf60c9f312cdf249b"
 hash-format = "sha256"
 
 [[files]]
@@ -882,17 +902,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down1.mcfunction"
-hash = "273d384c913d5b8ee077e2aee7a183d97a376c48e8fd65c890e7b1d6eb91de18"
+hash = "72e4e658407c90e7bb569bc359d11db96d90d7cf3c3b8a1987a7d1d88b14868b"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down2.mcfunction"
-hash = "0b6c47876e90f24b67645e5245118fc0ea608bc68d8d9425f7880656f14efc50"
+hash = "961d9f55c6e5856f45ef3e96de3f30558993c08bb5385f533c9d1eeb07117da1"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/dimension/lostcity_test.json"
-hash = "4d5daa5f89fd6c80de16ad97e0f508fecdcc8c6b8b43670e29672b490ead8369"
+file = "kubejs/data/lostcities/dimension/lostcity.json"
+hash = "babe0d302e418d0dc75b3d6e0b50e1003f0c84cbd3dc80fc098cb35af407e829"
 hash-format = "sha256"
 
 [[files]]
@@ -1012,17 +1032,32 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/variants/bars.json"
-hash = "8ca13b1d5af4d199de4df1fa4ab978105775ccef53627b4bbc488a8c71245367"
+hash = "9da146b6fdc0821fed1ba97943d67263d1b1ed2cc265e39f268a07b9339f10c4"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/variants/concretebrick.json"
-hash = "71add2ff7dddf57ae6ed5043dbbb2385eca20fe0282aa145493c1050a545e217"
+hash = "388d2ba2546687b85357e687e107d7c8f0704d0771006a61da82a8c90ed8f3e0"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/lostcities/variants/stonebrick.json"
 hash = "d55841ecc442aa1864a695fa5320f35b179c313d808abfd437b34a9e548a0a02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/worldstyles/standard.json"
+hash = "2571bbf2b5e5d8d471f84d29ac0891904350f09cbdff717de1e9625a11ce4465"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/worldstyles/standard_everywhere.json"
+hash = "f9ba293e07cf02fffa9815ef186cb9b4e45be20193c11e0d911be80e0d8ad755"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/worldgen/noise_settings/lostcity.json"
+hash = "da0b61f12df3e1e41263511f40a5586a15ead586d699efc4b22b80766985e782"
 hash-format = "sha256"
 
 [[files]]
@@ -1331,7 +1366,7 @@ hash = "0e224920285b7c91fa0ac1c2f798345691d08d1362a26a84a55d9ff9649c6614"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
+file = "kubejs/data/minecraft/worldgen/noise_settings_disabled/overworld.json"
 hash = "ddaaa74ca58e2b26818b46a2c6b45b0927ec266a029c55a1b1f38b1a26518ca1"
 hash-format = "sha256"
 
@@ -1497,7 +1532,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/coldsweat.js"
-hash = "75e264af035cc3005869889af0fe280c2623a216bc78a765b889a609709556d2"
+hash = "3d0aa14af3c3b4cbd9e37626dd6868f710dcad616573308070de1163b94af441"
 hash-format = "sha256"
 
 [[files]]
@@ -1652,8 +1687,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/EnigmaticLegacy-2.29.0.pw.toml"
-hash = "d34209b3879ec615fafbd5d33ff4c5d070eb02adf38067f90018362a82eb6c38"
+file = "mods/EnigmaticLegacy.pw.toml"
+hash = "9f46cb2d9ea23673f3b5704a7392118cc7761248d5515775840e4473bc8a89a0"
 hash-format = "sha256"
 metafile = true
 
@@ -2019,13 +2054,13 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
+hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
+hash = "80945a16dbee33567e85231d88e4b6a74b9a4365d3b27b7806720f18d75ced45"
 hash-format = "sha256"
 metafile = true
 
@@ -2181,7 +2216,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "3d228e011e73ecc5dd4ef268e1705754ae0bdda438b984f245ea4103e9bf0421"
+hash = "8e2b89ba642130defbf6ed6281fc9b26f65d1719ca1a60c83f299f0cefc5a1d1"
 hash-format = "sha256"
 metafile = true
 
@@ -2546,6 +2581,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/drivebywire.pw.toml"
+hash = "1bc2f2f385be95f34b9ca75ce96329b8b81d02abcc8d20956260bfaf11c4fabd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/dungeons_enhanced-1.20.1-5.2.2.pw.toml"
 hash = "41fec2b6ec0a4410f178f58330c066ef5073595021f91db57df7bedf4aafdf20"
 hash-format = "sha256"
@@ -2776,6 +2817,12 @@ metafile = true
 [[files]]
 file = "mods/geophilic-reforged.pw.toml"
 hash = "6b0772c2147b904c874b57478dec93070901febd8e1234e7c51711c16352f962"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 hash-format = "sha256"
 metafile = true
 
@@ -3032,12 +3079,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lc-helper.pw.toml"
-hash = "6cc141ad0de1eb68a45e91738b99e8c1ec5d935d7196dad398416490b3ca4ff7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b67788df2948db7f4aa69bb01ad539d4d54e5f1f823ed6d6bfaf2949cf972518"
 hash-format = "sha256"
@@ -3094,6 +3135,12 @@ metafile = true
 [[files]]
 file = "mods/lootr-1.20-0.7.31.78.pw.toml"
 hash = "07478e5c0d18fc15ffc73003c1059172b4ed42db2f2366036010b49c3ed613e1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/lost-souls.pw.toml"
+hash = "a1e021bb9a21463d81205f378d27a56684f80f7bb382e025439d0e3070b2caf6"
 hash-format = "sha256"
 metafile = true
 
@@ -3380,6 +3427,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "fcb95ac9e305c0ac7d78f4fb66901da4fd73cd1f80f48ebeb08d0aea466da3ef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.24.pw.toml"
 hash = "f5fdfb9fd7dbd7a7213225b5891d121046377b5a1af950f20a52780c749fe58c"
 hash-format = "sha256"
@@ -3572,6 +3625,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/tetra.pw.toml"
 hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
 hash-format = "sha256"
@@ -3651,7 +3710,7 @@ metafile = true
 
 [[files]]
 file = "mods/trackwork.pw.toml"
-hash = "8deda3bd6e624e01a1d31187855e5c8bc5a8f1852a35a7ddf18c903921344d65"
+hash = "28be4cbc383219609173f427c918e0593e98498accd31fdb923ab00d8e6cbe3d"
 hash-format = "sha256"
 metafile = true
 
@@ -3746,6 +3805,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/villagerworkers.pw.toml"
+hash = "1514c38beff1c5733605062c6e9e3ba50dd06c75c733919dee748103b27d112a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/volcanobiomemod.pw.toml"
 hash = "b9e807e103bc26d0ea86090c371e2ff586b07ef94180af639957ef785daeb10b"
 hash-format = "sha256"
@@ -3782,20 +3847,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/workers-1.20.1-1.7.7.pw.toml"
-hash = "2f4d1202ae6326390530c8e4ffb73bfcc9090db96dc7410b7612a13f6c891501"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "671d9bd7908e43496170656a6c05da60e7867445d2910676bace6f29c5d25bc2"
+hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
+hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 hash-format = "sha256"
 metafile = true
 

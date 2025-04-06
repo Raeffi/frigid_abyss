@@ -13,12 +13,20 @@
       "block": "engineersdecor:rebar_concrete"
     },
     {
+      "random": 1,
+      "block": "create:andesite_bars"
+    },
+    {
       "random": 7,
       "block": "immersiveengineering:concrete_tile"
     },
     {
       "random": 5,
       "block": "engineersdecor:rebar_concrete_tile"
+    },
+    {
+      "random": 3,
+      "block": "immersiveengineering:concrete_sprayed"
     },
     {
       "random": 1000,
