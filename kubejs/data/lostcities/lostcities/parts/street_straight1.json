@@ -1,0 +1,252 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "Α",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+      },
+      {
+        "char": "δ",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dfalse]"
+      },
+      {
+        "char": "О",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dup,paired\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+      },
+      {
+        "char": "л",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dtrue]"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "і",
+        "block": "trafficcraft:road_gully[facing\u003dsouth,open\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+      },
+      {
+        "char": "e",
+        "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+      },
+      {
+        "char": "Н",
+        "block": "trafficcraft:road_gully[facing\u003dnorth,open\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "architects_palette:sheet_metal_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "ϑ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ϟ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Ћ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "ϝ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ϒ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "σ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Љ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "І",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "τ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Ϝ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ͳ",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ϧ",
+        "block": "trafficcraft:street_lamp[facing\u003dsouth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "x": 183,
+          "ForgeCaps": {},
+          "y": 69,
+          "z": -79,
+          "id": "trafficcraft:street_lamp_block_entity",
+          "turnOnTime": 0
+        }
+      },
+      {
+        "char": "ϛ",
+        "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "x": 210,
+          "ForgeCaps": {},
+          "y": 69,
+          "z": -67,
+          "id": "trafficcraft:street_lamp_block_entity",
+          "turnOnTime": 0
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "ΑΑδfОfffffffcffл",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaіa",
+      "aaaaaaaaaaaaaaaa",
+      "dddddddddddddddd",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "eeeeeeeeeeeeeeee",
+      "aaaaaaaaaaaaaaaa",
+      "aНaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "cccccfffffffcfcf",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "                ",
+      "       Ͳ       Ͳ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "ϑϞЋhϝϒϞϞϞσhϑЋhЉh",
+      "ІττσhhІτϜhϝττϒτϒ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       Ͳ       Ͳ",
+      "                "
+    ],
+    [
+      "                ",
+      "       ͳ       ͳ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       ͳ       ͳ",
+      "                "
+    ],
+    [
+      "                ",
+      "       g       g",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       g       g",
+      "                "
+    ],
+    [
+      "                ",
+      "       g       g",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       g       g",
+      "                "
+    ],
+    [
+      "                ",
+      "       Ϧ       Ϧ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       ϛ       ϛ",
+      "                "
+    ]
+  ]
+}

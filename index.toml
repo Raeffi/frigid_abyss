@@ -57,7 +57,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "6a04663488ef7d6b2593a1286c106a3d4cad5b8259cf0d804aaf105ccff6ed25"
+hash = "91e7aaec80987b2bc59ec4a2ba5932350039795825adc1c07ea6b5e825c86d9c"
 hash-format = "sha256"
 
 [[files]]
@@ -83,6 +83,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/coldsweat_old/world_aaaaa.toml"
 hash = "649dbd38f41bc7c65b4f3afbd19fa72ff9f6afc5841c9fc382e6ac909540d31b"
+hash-format = "sha256"
+
+[[files]]
+file = "config/creatingspace-common.toml"
+hash = "e43a9b9fdf0555c7fa0cfa5da40b1dd25a8fd013e3132f60263edf5eb0de47e5"
 hash-format = "sha256"
 
 [[files]]
@@ -132,7 +137,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/lostcities/common.toml"
-hash = "b4e0a70f4c8ecffbeab7ef7b8aec557c2bcfff37f6595cc2c5370313a51516bb"
+hash = "c7e175cd69d7c26e8600d97fe209756ef17198fac1852244f7bd3aee5f6527c3"
 hash-format = "sha256"
 
 [[files]]
@@ -172,7 +177,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/lostcities/profiles/frigidabyss.json"
-hash = "9c4b4dc9d05b629706a33d262aa740528c3877a96e11b088fa407350afd007d5"
+hash = "6a591577f5dc8c6e141dad01a274bb4fef9e98bce750d7c72cb287ee1481afa2"
 hash-format = "sha256"
 
 [[files]]
@@ -238,6 +243,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/quark-common.toml"
 hash = "6cae693ae34d0f29762e4ccd811e6fb1198e3b76f4fdab201222a1c79f834037"
+hash-format = "sha256"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
 hash-format = "sha256"
 
 [[files]]
@@ -341,6 +351,11 @@ hash = "9823c9dbd2c01e324d3b7309e3085a757df14b200a8aad295bfd0cffbe5ee8d9"
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfigs/creatingspace-server.toml"
+hash = "e9eed71e6f78f667d6430cc5c7c13a74e07a42dce403d77545d34a25e2e85714"
+hash-format = "sha256"
+
+[[files]]
 file = "defaultconfigs/curios-server.toml"
 hash = "31818944254f689e486489e6ca4fb63a8a409e099e5f3ef99bab39c4d6e8008a"
 hash-format = "sha256"
@@ -366,6 +381,11 @@ hash = "3e3b5ef8277d11a128cc51f2841bce51f1f8f10e9393443d4a5f282d069e2136"
 hash-format = "sha256"
 
 [[files]]
+file = "defaultconfigs/immersivegeology-server.toml"
+hash = "63c874fcb189263dc47614dd2e8f5eeba7c8baa2968b1ba6d0636db72835b242"
+hash-format = "sha256"
+
+[[files]]
 file = "defaultconfigs/irons_spellbooks-server.toml"
 hash = "3604d8eb8c38a55aa12b80611b3d9a04f254949bcf6777774540a0d8f1631dd0"
 hash-format = "sha256"
@@ -383,6 +403,16 @@ hash-format = "sha256"
 [[files]]
 file = "defaultconfigs/loginprotection-server.toml"
 hash = "71ea8db2acee0bc19bc5789094cab0132d42ce4a7e2544e4b51df8a990fa7afb"
+hash-format = "sha256"
+
+[[files]]
+file = "defaultconfigs/lostcities-server.toml"
+hash = "2dd6c3c843da5dfe4a85b54a137f9a6522eaa2ef1ad8ee8ad596c1a10b41652e"
+hash-format = "sha256"
+
+[[files]]
+file = "defaultconfigs/lostsouls-server.toml"
+hash = "7a31bbbfdd16d69565b0ce226ebd95bac9d90b0658270b386ef84192aa61f4f0"
 hash-format = "sha256"
 
 [[files]]
@@ -796,6 +826,16 @@ hash = "7cc8372301c72afccc3b00a1161c8f45a248be61928dd7ebad343b457d461f53"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
+hash = "36afc2682560667414e29ebbb38535bc66cfa433b6c75059c52bb41b4aea6ad8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/creatingspace/worldgen/configured_feature/nickel_overworld_replacement.json"
+hash = "a8539fe6c4bf175544d2d51f9e7036002f52c812268dc788ff7d58de62f51c8c"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/data.code-workspace"
 hash = "c81f8bcfd5c0d58e44268aec8fe696e337de21f9277bfe977c05273084bf7544"
 hash-format = "sha256"
@@ -908,6 +948,36 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/frigidabyss/functions/rails_down2.mcfunction"
 hash = "961d9f55c6e5856f45ef3e96de3f30558993c08bb5385f533c9d1eeb07117da1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/traffic_light/trafficlight_east.mcfunction"
+hash = "1642fac66388baf9d6322c6075d8d6c90649766841f06088973554cbd9073d40"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/traffic_light/trafficlight_north.mcfunction"
+hash = "42809b0dcfce74596b091b707c8a4e85e7d60f5a7997951e0f491e580a2ac459"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/traffic_light/trafficlight_south.mcfunction"
+hash = "64435182e2911eb6efb20385c4d999dd0b087b827456a1cb1c32308d397e201b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/traffic_light/trafficlight_west.mcfunction"
+hash = "2c0edf949934b20041a68a614f90cfd5dee4d9f7ba8a4fb785499af1dc4b7853"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/functions/trafficlights_intersection.mcfunction"
+hash = "e51d2b9bfdc8f18c5e6cbcdf6d157b00a3393580c17d34074837bfaa60255530"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/structures/traffic_lights_intersection.nbt"
+hash = "4c6f68cf84a1b876fd86018efdd1849d00f4a27c9f6aae7e9e5209074eec45c4"
 hash-format = "sha256"
 
 [[files]]
@@ -1028,6 +1098,46 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/lostcities/lostcities/parts/station_underground_stairs.json"
 hash = "e9c66b39ab5a3346a3c1092d17f700b6ad92bc8d7c5d9fd16034a5fd04760672"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_all.json"
+hash = "a22bca289d7c964c16ba7d5d71ee782f6b3cabade15598432dc7fa34b052637e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_bend.json"
+hash = "bac3cca4a76c58a7039e801447e5f48cd8480790124bc1c2a3a1dfb836e309c4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_end1.json"
+hash = "b600b6522e2fdd75ee0f3f6e76d71d43c70caef3709dd71f28294069651854a1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_end2.json"
+hash = "bc57574df42078343ac05ae059c90062f320e6026af58c1fed5e4f4c0c4fa436"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_straight1.json"
+hash = "99838513e75874a515805736ef5e9e90ca86f5050d54bfdbebc03c55edbe48db"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_straight2.json"
+hash = "91f3be0e1ce59a5c2f5105ba855f5cb0f46b6e7e813f0ff197244c7010214aba"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_straight3.json"
+hash = "01bd336ac105652f67b127e7906634e8e98dedd4bc0d558e7ae47b49a836faff"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/lostcities/lostcities/parts/street_t.json"
+hash = "49149ef1058d8cb65ba9eced0daf795b9a3224d0eced8e4d7db5372c853f25d0"
 hash-format = "sha256"
 
 [[files]]
@@ -1522,7 +1632,122 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/structure_set/goauld_temple.json"
-hash = "74c0a3f0eb6fbe847205e634e131b18ba7829066fd37731c04da6a2128f70deb"
+hash = "69488a791eba4b469026c468db0b9869b88806b98050122f61d9c3740ce1c6b4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
+hash = "df1599fa87661610b081699874fa4a1a138d31482b2d7286537f5c87317ab571"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/nickel_ore.json"
+hash = "5764e32e06eee3552db09a9183635352d13eec9da622bb15800827335c34bf8c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/generator.ps1"
+hash = "719d17a5d9991755e7da1d11d2a51949e40f31bb677c864ca722029c6de39280"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/list_of_all_blocks.txt"
+hash = "1848ef1dbe04083b8b590a2b51ad677417148d7eaf4356a5b106751c3dbd8cc1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/advancedperipherals.json"
+hash = "d6700ffc6b4253d926e0487c8d9b1f024a01ff74db5a0f1750791e66fb24ffb7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/ars_nouveau.json"
+hash = "511064c725d4c4dfa3c33cf1f0137d2bfecb0114400807566955016e4aa2b18d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/computercraft.json"
+hash = "072676f1973d6c75ded6d05415ae2a909237a6b86d5ee7126f0079f884dd6bae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/copiescats.json"
+hash = "6bdf5d1d2f285c67a033de52795e701302a9a04190bcfc49818205367d294f0a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/copycatsplus.json"
+hash = "396ad8fab5dd178b7f987b7764bee32709e13e8f3119e97fb53c73df90ec5a02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/create.json"
+hash = "2ca11f64a9d7ca6710c169298ad0d3721d077b6c594857612a9a5292b103dac9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/createbigcannons.json"
+hash = "f35692d9ee16dd57fbfa88f4d22630d950cb046c0342b0177ba9104136ad7ef5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/createdeco.json"
+hash = "e59588a632d0a8c0bd366d3f091eab92459f4c5b7f23ccb10b46e289429f9698"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/createdieselgenerators.json"
+hash = "4ffb33cd21fce1ddef4eff2b543a37b8861cb56142700786a50209a4e0902780"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/createtweakedcontrollers.json"
+hash = "4680526ea7a01a225d6698c993dcf12967701fae37ae312ade59dfb510057654"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/framedblocks.json"
+hash = "efc1ddaa2cbd7ceaf055fe85cf3d96f497b23dc9f3dcbead384498a68cb76488"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/modularrouters.json"
+hash = "1a6edd22a89921c1f7f246034030a277d78bba205a70ce9c1a5d982440c61bfb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/opencu.json"
+hash = "1cef11f4143597e30b030375854f65eb385e8940a1c8ed10967e877d0db956f5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/rftoolspower.json"
+hash = "6bd266a8a5779f126b049282f8537fac40e1f527cd806a9dcf51fa35660cc728"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/rftoolsutility.json"
+hash = "ed19469ef6867a683d17f413a9fc102a3bd72039ddc979214e1fd9ff21a2ae02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/s_a_b.json"
+hash = "e02f6a850abd23267d9daa355d094b8c402e36a456ab2a1b1ae9a41a8562ad35"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/someperipherals.json"
+hash = "76850759aee6594cc56c0f0a42cec6b5d698d97f1baa160087377f3443bd6111"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/vc.json"
+hash = "ab210e33cc325e8ae1ec7b2718ac46af48d09bc1afd172d8e96914d25929fbfe"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/valkyrienskies/vs_mass/vs_clockwork.json"
+hash = "57aefd4451a96199463b27a9db4ecc76f6eba17021c7069bb884a8fef2bee8cb"
 hash-format = "sha256"
 
 [[files]]
@@ -1532,7 +1757,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/coldsweat.js"
-hash = "3d0aa14af3c3b4cbd9e37626dd6868f710dcad616573308070de1163b94af441"
+hash = "80464d9b550d8c60fb82b01d81739d7b63ef682a3e4071ee3ece7b03a8a20ed7"
 hash-format = "sha256"
 
 [[files]]
@@ -1547,7 +1772,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "2b0e4ca203ba367247986d4519220f06bce967c17935c63d36bf4097291e8719"
+hash = "d3031ab5e3d3c0b9ae1f4f601fcb631f16008ae181f38537dc47f671b7ddaeef"
 hash-format = "sha256"
 
 [[files]]
@@ -1657,8 +1882,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-2.0.1-a-1.20.1.pw.toml"
-hash = "839f608ef3e188c81a83ca96e69d6ff16d5f4696558ece56e21d1b3bcc467adf"
+file = "mods/DistantHorizons.pw.toml"
+hash = "8e4e90496f7495a5e7bd47bafd18200028fe3336582541c1e16344d6e0421f24"
 hash-format = "sha256"
 metafile = true
 
@@ -1916,7 +2141,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ede64c0b2041a6ea24b1406891e18ecd8210f517433a6ee26b82378e06d4abc0"
+hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
 hash-format = "sha256"
 metafile = true
 
@@ -2341,7 +2566,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c56638722ed51c09c5720883902107e93c145875b73ed73813cdaf0086a9b045"
+hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 hash-format = "sha256"
 metafile = true
 
@@ -2394,8 +2619,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/createaddition-1.20.1-1.2.2.pw.toml"
-hash = "20926576de61fd821db1940360ff9ba64b47355b28a95f17ae6fe1517bf48deb"
+file = "mods/createaddition.pw.toml"
+hash = "24fd39b924fe2d5f210698dccca7e4fed2ecdba623f9892363b0047fbbb0883e"
 hash-format = "sha256"
 metafile = true
 
@@ -2443,7 +2668,7 @@ metafile = true
 
 [[files]]
 file = "mods/creating-space.pw.toml"
-hash = "f7f9b89fd50641d39d27666f57549ee145e8ea6c56be621312f0f7ce57dd7c72"
+hash = "3fc55254d1b4e495d4fce973314bf10e0cb6990b2d60233b9831014b2e74d421"
 hash-format = "sha256"
 metafile = true
 
@@ -2522,6 +2747,12 @@ metafile = true
 [[files]]
 file = "mods/custom-portal-builder.pw.toml"
 hash = "56787a141836450f325bdfdbda19c47a6598a5643ea3743cd15828a8942d9422"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "d8265b6fc7103a951fa9df14f7cd64c35a27b00b963073eb7891c9767a6e6397"
 hash-format = "sha256"
 metafile = true
 
@@ -2624,7 +2855,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 hash-format = "sha256"
 metafile = true
 
@@ -2689,10 +2920,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/excavated_variants.pw.toml"
+file = "mods/excavated_variants.pw.toml.disabled"
 hash = "8c99a2f18765dea9f320eed774f060e1082366fafd94d406375cacfcbd117750"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/explorify-v1.3.0-mc1.20.pw.toml"
@@ -2906,7 +3136,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-geology.pw.toml"
-hash = "e6952d8bdfd8471b14e00c2ce876fbdfd35e95936521444e301d6a0b3bb285b9"
+hash = "d5be29999765305889b07417cc190c130b5a2823a486a671fea2ca340d069a60"
 hash-format = "sha256"
 metafile = true
 
@@ -2924,7 +3154,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "3b81ebee6bc906cafb94a30b77583b865c1a88ad4bdfb0e9fb3555c9577f136a"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 hash-format = "sha256"
 metafile = true
 
@@ -2972,7 +3202,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "9fb6d0e451647631db6b4c411048bd85e5b9d2a15c3ecf1070d7f6a05ea32431"
+hash = "b34e1170a9f44ee68ee5d94fb0a354923ff6d71396dab84c7f0657010185d1c0"
 hash-format = "sha256"
 metafile = true
 
@@ -3212,7 +3442,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0f72327d7d168bfaed4a9ff3041cd5305df9d5538a63beebf6005ab8d9dcd14c"
+hash = "c441afa4e473eee72726ff9348a151c87214eafc461848744bbfd742f896614a"
 hash-format = "sha256"
 metafile = true
 
@@ -3332,7 +3562,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "6a64eaa974fa92be21bf47b36ac0ce5edcda3fefbe29301862cd50ac96cd16cc"
+hash = "a7f9df11de5c6d207f4de048002315410ea268b0a3fab08755c8144cbd7bdfab"
 hash-format = "sha256"
 metafile = true
 
@@ -3667,8 +3897,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-0.8.0b-1.20.1.pw.toml"
-hash = "d302a46f4d63f8cc5de0bf06f18af3134dd72ee8390205590262e861b65de74f"
+file = "mods/tfmg.pw.toml"
+hash = "f957eff69fa5d41b93d4462061128839c091e5a632dd0ac68899bd15e1bd2cc3"
 hash-format = "sha256"
 metafile = true
 
@@ -3716,7 +3946,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "8d74102e49bc0412a2c603b50fec5883e914d65d80e0e52c6fdd5fa963cb74b6"
+hash = "95708c5221b1334c46943118ccde29fcc9100edfea17d0f2c5ab148b7c44b68b"
 hash-format = "sha256"
 metafile = true
 
@@ -3948,118 +4178,3 @@ file = "resourcepacks/ultimatecarreskin.pw.toml"
 hash = "08cab6b5a9fc1eaf0f0e87a9db760c76d808a4add3eb554bc81282fe6e9ff008"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/advancedperipherals.json"
-hash = "d6700ffc6b4253d926e0487c8d9b1f024a01ff74db5a0f1750791e66fb24ffb7"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/ars_nouveau.json"
-hash = "511064c725d4c4dfa3c33cf1f0137d2bfecb0114400807566955016e4aa2b18d"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/computercraft.json"
-hash = "072676f1973d6c75ded6d05415ae2a909237a6b86d5ee7126f0079f884dd6bae"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/copiescats.json"
-hash = "6bdf5d1d2f285c67a033de52795e701302a9a04190bcfc49818205367d294f0a"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/copycatsplus.json"
-hash = "396ad8fab5dd178b7f987b7764bee32709e13e8f3119e97fb53c73df90ec5a02"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/create.json"
-hash = "2ca11f64a9d7ca6710c169298ad0d3721d077b6c594857612a9a5292b103dac9"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createbigcannons.json"
-hash = "f35692d9ee16dd57fbfa88f4d22630d950cb046c0342b0177ba9104136ad7ef5"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createdeco.json"
-hash = "e59588a632d0a8c0bd366d3f091eab92459f4c5b7f23ccb10b46e289429f9698"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createdieselgenerators.json"
-hash = "4ffb33cd21fce1ddef4eff2b543a37b8861cb56142700786a50209a4e0902780"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/createtweakedcontrollers.json"
-hash = "4680526ea7a01a225d6698c993dcf12967701fae37ae312ade59dfb510057654"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/framedblocks.json"
-hash = "efc1ddaa2cbd7ceaf055fe85cf3d96f497b23dc9f3dcbead384498a68cb76488"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/modularrouters.json"
-hash = "1a6edd22a89921c1f7f246034030a277d78bba205a70ce9c1a5d982440c61bfb"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/opencu.json"
-hash = "1cef11f4143597e30b030375854f65eb385e8940a1c8ed10967e877d0db956f5"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/rftoolspower.json"
-hash = "6bd266a8a5779f126b049282f8537fac40e1f527cd806a9dcf51fa35660cc728"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/rftoolsutility.json"
-hash = "ed19469ef6867a683d17f413a9fc102a3bd72039ddc979214e1fd9ff21a2ae02"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/s_a_b.json"
-hash = "e02f6a850abd23267d9daa355d094b8c402e36a456ab2a1b1ae9a41a8562ad35"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/someperipherals.json"
-hash = "76850759aee6594cc56c0f0a42cec6b5d698d97f1baa160087377f3443bd6111"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/vc.json"
-hash = "ab210e33cc325e8ae1ec7b2718ac46af48d09bc1afd172d8e96914d25929fbfe"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/data/valkyrienskies/vs_mass/vs_clockwork.json"
-hash = "57aefd4451a96199463b27a9db4ecc76f6eba17021c7069bb884a8fef2bee8cb"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/generator.ps1"
-hash = "719d17a5d9991755e7da1d11d2a51949e40f31bb677c864ca722029c6de39280"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/list_of_all_blocks.txt"
-hash = "1848ef1dbe04083b8b590a2b51ad677417148d7eaf4356a5b106751c3dbd8cc1"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/pack.mcmeta"
-hash = "11bb3ebc118e099847aff1d5a037a0d5f3d6298662fb35ac1ce8dd2d2678cf84"
-hash-format = "sha256"
-
-[[files]]
-file = "resourcepacks/vs2_weigth_pack/vs2_weigth_pack.code-workspace"
-hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
-hash-format = "sha256"

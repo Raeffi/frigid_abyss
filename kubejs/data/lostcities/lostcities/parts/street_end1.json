@@ -1,0 +1,360 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "ϐ",
+        "block": "trafficcraft:asphalt_pattern_23[facing\u003dsouth]",
+        "tag": {
+          "color": 0,
+          "x": 220,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -62,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "Α",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+      },
+      {
+        "char": "δ",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+      },
+      {
+        "char": "ё",
+        "block": "trafficcraft:asphalt_pattern_246[facing\u003dwest]",
+        "tag": {
+          "color": 0,
+          "x": 213,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -60,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "щ",
+        "block": "trafficcraft:asphalt_pattern_1[facing\u003dwest]",
+        "tag": {
+          "color": 0,
+          "x": 214,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -60,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "э",
+        "block": "trafficcraft:asphalt_pattern_26[facing\u003dwest]",
+        "tag": {
+          "color": 0,
+          "x": 215,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -60,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "d",
+        "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+      },
+      {
+        "char": "М",
+        "block": "trafficcraft:asphalt_pattern_26[facing\u003dsouth]",
+        "tag": {
+          "color": 0,
+          "x": 215,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -58,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "ς",
+        "block": "trafficcraft:asphalt_curb[facing\u003deast,shape\u003dstraight]"
+      },
+      {
+        "char": "Ѓ",
+        "block": "trafficcraft:asphalt_pattern_1[facing\u003dnorth]",
+        "tag": {
+          "color": 0,
+          "x": 218,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -57,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "ю",
+        "block": "trafficcraft:asphalt_pattern_246[facing\u003dnorth]",
+        "tag": {
+          "color": 0,
+          "x": 220,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -57,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "Џ",
+        "block": "trafficcraft:asphalt_pattern_26[facing\u003dnorth]",
+        "tag": {
+          "color": 0,
+          "x": 215,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -55,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "Н",
+        "block": "trafficcraft:road_gully[facing\u003dnorth,open\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ь",
+        "block": "trafficcraft:asphalt_pattern_26[facing\u003deast]",
+        "tag": {
+          "color": 0,
+          "x": 212,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -53,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "ϼ",
+        "block": "trafficcraft:asphalt_pattern_1[facing\u003deast]",
+        "tag": {
+          "color": 0,
+          "x": 213,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -53,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "т",
+        "block": "trafficcraft:asphalt_pattern_246[facing\u003deast]",
+        "tag": {
+          "color": 0,
+          "x": 214,
+          "ForgeCaps": {},
+          "y": 64,
+          "z": -53,
+          "id": "trafficcraft:colored_block_entity"
+        }
+      },
+      {
+        "char": "Є",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dsouth,paired\u003dfalse]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "architects_palette:sheet_metal_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "ϑ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "σ",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Ж",
+        "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "ͳ",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "в",
+        "block": "trafficcraft:traffic_sign[facing\u003dwest,shape\u003dsquare,waterlogged\u003dfalse]",
+        "tag": {
+          "x": 210,
+          "ForgeCaps": {},
+          "y": 67,
+          "z": -67,
+          "SignTexture": "builtIn_1_37@32x32",
+          "id": "trafficcraft:traffic_sign_block_entity"
+        }
+      },
+      {
+        "char": "Ц",
+        "block": "trafficcraft:street_lamp[facing\u003deast,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "x": 210,
+          "ForgeCaps": {},
+          "y": 69,
+          "z": -51,
+          "id": "trafficcraft:street_lamp_block_entity",
+          "turnOnTime": 0
+        }
+      },
+      {
+        "char": "Й",
+        "block": "trafficcraft:street_lamp[facing\u003dwest,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "x": 223,
+          "ForgeCaps": {},
+          "y": 69,
+          "z": -51,
+          "id": "trafficcraft:street_lamp_block_entity",
+          "turnOnTime": 0
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbceeeeeeeeeeeec",
+      "bccaaaϐaaϐaaϐaac",
+      "ΑΑδaaaϐaaϐaaϐaac",
+      "aaaaaaaaaaaaaaac",
+      "aaaaaёщэaaaaaaac",
+      "aaaaaaaaaaaaaaac",
+      "ddaaМaaМaaМaaaac",
+      "bbςaЃaaЃaaЃaюaac",
+      "bbςaЃaaЃaaЃaЃaac",
+      "eeaaЏaaЏaaЏaЏaac",
+      "aaaaaaaaaaaaaaac",
+      "aНaaьϼтaaaaaaaac",
+      "aaaaaaaaaaaaaaac",
+      "cЄcaaaϐaaϐaaϐaac",
+      "bccaaaϐaaϐaaϐaac",
+      "bbcddddddddddddc"
+    ],
+    [
+      "                ",
+      "                ",
+      "  Ͳ            Ͳ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "ϑσ              ",
+      "Жh              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  Ͳ            Ͳ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "  ͳ            ͳ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  ͳ            ͳ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "  g            g",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  в            g",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "  g            g",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  g            g",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "  Ц            Й",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  Ц            Й",
+      "                ",
+      "                "
+    ]
+  ]
+}

@@ -1,0 +1,421 @@
+{
+    "xsize": 16,
+    "zsize": 16,
+    "palette": {
+      "palette": [
+        {
+          "char": " ",
+          "block": "minecraft:air"
+        },
+        {
+          "char": "b",
+          "block": "minecraft:grass_block[snowy\u003dfalse]"
+        },
+        {
+          "char": "Α",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+        },
+        {
+          "char": "δ",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+        },
+        {
+          "char": "f",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dfalse]"
+        },
+        {
+          "char": "О",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dup,paired\u003dfalse]"
+        },
+        {
+          "char": "c",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+        },
+        {
+          "char": "a",
+          "block": "trafficcraft:asphalt"
+        },
+        {
+          "char": "d",
+          "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+        },
+        {
+          "char": "e",
+          "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+        },
+        {
+          "char": "Њ",
+          "block": "minecraft:rooted_dirt"
+        },
+        {
+          "char": "ч",
+          "block": "car:asphalt"
+        },
+        {
+          "char": "о",
+          "block": "createbigcannons:cast_iron_cannon_barrel[facing\u003dwest]",
+          "tag": {
+            "Connections": [
+              "west"
+            ],
+            "Facing": "west",
+            "Welds": [],
+            "x": 185,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -54,
+            "id": "createbigcannons:cannon"
+          }
+        },
+        {
+          "char": "ц",
+          "block": "tfmg:asphalt"
+        },
+        {
+          "char": "Б",
+          "block": "decorative_blocks:rocky_dirt"
+        },
+        {
+          "char": "з",
+          "block": "createbigcannons:cast_iron_autocannon_barrel[assembled\u003dfalse,end\u003dnothing,facing\u003dwest,waterlogged\u003dfalse]",
+          "tag": {
+            "Connections": [
+              "east"
+            ],
+            "Facing": "west",
+            "Welds": [],
+            "x": 184,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -53,
+            "id": "createbigcannons:autocannon",
+            "ContainedStack": {
+              "Count": "1b",
+              "id": "minecraft:air",
+              "tag": {
+                "Gun": {
+                  "General": {
+                    "MaxAmmo": 2,
+                    "Rate": 8,
+                    "Spread": "3.0d"
+                  },
+                  "Modules": {
+                    "Attachments": {
+                      "Barrel": {}
+                    }
+                  },
+                  "Projectile": {
+                    "Damage": "9.0d"
+                  }
+                },
+                "Model": {
+                  "Count": 1,
+                  "id": "create:brass_hand",
+                  "tag": {
+                    "CustomModelData": 1
+                  }
+                },
+                "display": {
+                  "Name": "{\"text\":\"Caplock Pistol\",\"italic\":false}"
+                }
+              }
+            }
+          }
+        },
+        {
+          "char": "А",
+          "block": "minecraft:coarse_dirt"
+        },
+        {
+          "char": "Ͳ",
+          "block": "architects_palette:sheet_metal_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+        },
+        {
+          "char": "ϑ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "σ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "h",
+          "block": "minecraft:dead_bush"
+        },
+        {
+          "char": "Ϟ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "ϒ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "Ћ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "Х",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "Љ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "Ж",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "ϝ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "τ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "Ϝ",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "І",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "g",
+          "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "Ї",
+          "block": "twigs:pebble[waterlogged\u003dfalse]"
+        },
+        {
+          "char": "ϵ",
+          "block": "trafficcraft:traffic_bollard[waterlogged\u003dfalse]",
+          "tag": {
+            "color": -1,
+            "x": 219,
+            "ForgeCaps": {},
+            "y": 65,
+            "z": -77,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "х",
+          "block": "engineersdecor:fluid_barrel[facing\u003dup,level\u003d3,waterlogged\u003dfalse]",
+          "tag": {
+            "x": 189,
+            "ForgeCaps": {},
+            "y": 65,
+            "z": -54,
+            "id": "engineersdecor:tet_fluid_barrel",
+            "tank": {
+              "Amount": 8000,
+              "FluidName": "tfmg:liquid_asphalt"
+            }
+          }
+        },
+        {
+          "char": "ы",
+          "block": "chipped:reinforced_oak_crate[facing\u003dup,open\u003dfalse]",
+          "tag": {
+            "x": 188,
+            "ForgeCaps": {},
+            "y": 65,
+            "Items": [
+              {
+                "Count": "1b",
+                "Slot": "0b",
+                "id": "immersiveengineering:shovel_steel",
+                "tag": {
+                  "Damage": 0,
+                  "Tiered": {
+                    "Tier": "tiered:standard_tools/common"
+                  }
+                }
+              },
+              {
+                "Count": "1b",
+                "Slot": "22b",
+                "id": "immersiveengineering:shovel_steel",
+                "tag": {
+                  "Damage": 0,
+                  "Tiered": {
+                    "Tier": "tiered:standard_tools/common"
+                  }
+                }
+              }
+            ],
+            "z": -53,
+            "id": "minecraft:barrel"
+          }
+        },
+        {
+          "char": "ѐ",
+          "block": "trafficcraft:paint_bucket[facing\u003deast,paint\u003d1,waterlogged\u003dfalse]",
+          "tag": {
+            "color": 15,
+            "x": 187,
+            "ForgeCaps": {},
+            "y": 65,
+            "z": -52,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "ͳ",
+          "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "ї",
+          "block": "trafficcraft:traffic_sign[facing\u003dwest,shape\u003dtriangle,waterlogged\u003dfalse]",
+          "tag": {
+            "x": 176,
+            "ForgeCaps": {},
+            "y": 67,
+            "z": -55,
+            "SignTexture": "builtIn_3_25@32x32",
+            "id": "trafficcraft:traffic_sign_block_entity"
+          }
+        },
+        {
+          "char": "Ϧ",
+          "block": "trafficcraft:street_lamp[facing\u003dsouth,lit\u003dtrue,waterlogged\u003dfalse]",
+          "tag": {
+            "turnOffTime": 0,
+            "x": 183,
+            "ForgeCaps": {},
+            "y": 69,
+            "z": -79,
+            "id": "trafficcraft:street_lamp_block_entity",
+            "turnOnTime": 0
+          }
+        },
+        {
+          "char": "ϛ",
+          "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+          "tag": {
+            "turnOffTime": 0,
+            "x": 210,
+            "ForgeCaps": {},
+            "y": 69,
+            "z": -67,
+            "id": "trafficcraft:street_lamp_block_entity",
+            "turnOnTime": 0
+          }
+        }
+      ]
+    },
+    "slices": [
+      [
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "ΑΑδfОfffffffcfff",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "dddddddddddddddd",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "eeeeeeeeeeeeeeee",
+        "aaaaaЊaчооцaaaaa",
+        "aaaaaaЊБззaaaaaa",
+        "aaaaaaБaАaЊaaaaa",
+        "cccccfffffffcfcf",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb"
+      ],
+      [
+        "                ",
+        "       Ͳ       Ͳ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "ϑσhϑϞϒσhϑϒЋhХhЉh",
+        "ЖhϝτϜhhϝϜhІσhϝτσ",
+        "g       Ї       ",
+        " ϵ  А Ї    Ї х ϵ",
+        "   ААЊ      ы   ",
+        " ϵ ЇЊБ   Ї ѐ   ϵ",
+        "                ",
+        "       Ͳ       Ͳ",
+        "                "
+      ],
+      [
+        "                ",
+        "       ͳ       ͳ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "g               ",
+        "                ",
+        "    Б           ",
+        "                ",
+        "                ",
+        "       ͳ       ͳ",
+        "                "
+      ],
+      [
+        "                ",
+        "       g       g",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "ї               ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       g       g",
+        "                "
+      ],
+      [
+        "                ",
+        "       g       g",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       g       g",
+        "                "
+      ],
+      [
+        "                ",
+        "       Ϧ       Ϧ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       ϛ       ϛ",
+        "                "
+      ]
+    ]
+  }

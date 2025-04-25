@@ -282,4 +282,24 @@ ColdSweatEvents.registries(e => {
 
     )
 
+
+    e.addBlockTemperature(0.476, "mc",
+        blockTemp =>
+            blockTemp.blocks("create:lit_blaze_burner")
+                .maxEffect(0.8)
+                .range(7)
+                .state("flame_type", "regular")
+    
+    )
+    
+
+    e.addBlockTemperature(-0.476, "mc",
+        blockTemp =>
+            blockTemp.blocks("create:lit_blaze_burner")
+                .maxEffect(0.8)
+                .range(7)
+                .state("flame_type", "soul")
+
+    )
+
 })

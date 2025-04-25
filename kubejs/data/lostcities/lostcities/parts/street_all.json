@@ -1,0 +1,319 @@
+{
+    "xsize": 16,
+    "zsize": 16,
+    "palette": {
+      "palette": [
+        {
+          "char": " ",
+          "block": "minecraft:air"
+        },
+        {
+          "char": "b",
+          "block": "minecraft:grass_block[snowy\u003dfalse]"
+        },
+        {
+          "char": "c",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+        },
+        {
+          "char": "a",
+          "block": "trafficcraft:asphalt"
+        },
+        {
+          "char": "д",
+          "block": "trafficcraft:asphalt_pattern_27[facing\u003dnorth]",
+          "tag": {
+            "color": 0,
+            "x": 166,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -64,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "e",
+          "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+        },
+        {
+          "char": "Α",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+        },
+        {
+          "char": "ρ",
+          "block": "trafficcraft:asphalt_pattern_108[facing\u003dwest]",
+          "tag": {
+            "color": 0,
+            "x": 194,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -58,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "Ю",
+          "block": "trafficcraft:asphalt_pattern_129[facing\u003dsouth]",
+          "tag": {
+            "color": 0,
+            "x": 166,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -63,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "δ",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+        },
+        {
+          "char": "ΐ",
+          "block": "trafficcraft:asphalt_pattern_108[facing\u003dnorth]",
+          "tag": {
+            "color": 0,
+            "x": 206,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -61,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "γ",
+          "block": "trafficcraft:asphalt_pattern_108[facing\u003dsouth]",
+          "tag": {
+            "color": 0,
+            "x": 166,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -62,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "f",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dfalse]"
+        },
+        {
+          "char": "Τ",
+          "block": "trafficcraft:asphalt_pattern_108[facing\u003deast]",
+          "tag": {
+            "color": 0,
+            "x": 204,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -50,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "с",
+          "block": "trafficcraft:asphalt_pattern_129[facing\u003dwest]",
+          "tag": {
+            "color": 0,
+            "x": 206,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -58,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "ћ",
+          "block": "trafficcraft:asphalt_pattern_27[facing\u003deast]",
+          "tag": {
+            "color": 0,
+            "x": 207,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -58,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "ς",
+          "block": "trafficcraft:asphalt_curb[facing\u003deast,shape\u003dstraight]"
+        },
+        {
+          "char": "Ѕ",
+          "block": "trafficcraft:asphalt_curb[facing\u003dwest,shape\u003dstraight]"
+        },
+        {
+          "char": "ѓ",
+          "block": "trafficcraft:asphalt_pattern_27[facing\u003dwest]",
+          "tag": {
+            "color": 0,
+            "x": 192,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -55,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "ѕ",
+          "block": "trafficcraft:asphalt_pattern_129[facing\u003deast]",
+          "tag": {
+            "color": 0,
+            "x": 193,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -55,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "Є",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dsouth,paired\u003dfalse]"
+        },
+        {
+          "char": "ј",
+          "block": "trafficcraft:asphalt_pattern_129[facing\u003dnorth]",
+          "tag": {
+            "color": 0,
+            "x": 201,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -50,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "d",
+          "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+        },
+        {
+          "char": "у",
+          "block": "trafficcraft:asphalt_pattern_27[facing\u003dsouth]",
+          "tag": {
+            "color": 0,
+            "x": 201,
+            "ForgeCaps": {},
+            "y": 64,
+            "z": -49,
+            "id": "trafficcraft:colored_block_entity"
+          }
+        },
+        {
+          "char": "ф",
+          "block": "minecraft:command_block[conditional\u003dfalse,facing\u003deast]",
+          "tag": {
+            "Command": "function frigidabyss:trafficlights_intersection",
+            "auto": 1,
+            "conditionMet": 1
+          }
+        }
+      ]
+    },
+    "slices": [
+      [
+        "bbcaaaдeeaaaacbb",
+        "bΑcρρρЮaaaaaacδb",
+        "ΑΑδΐΐΐγΐΐΐΐΐΐfff",
+        "aaρaaaaaaaaaaΤΐa",
+        "aaρaaaaaaaaaaΤΐa",
+        "aaρaaaaaaaaaaΤΐa",
+        "aaρaaaaaaaaaaΤсћ",
+        "ςaρaaaaaaaaaaΤaЅ",
+        "ςaρaaaaaaaaaaΤaЅ",
+        "ѓѕΤaaaaaaaaaaΤaa",
+        "aγΤaaaaaaaaaaΤaa",
+        "aγΤaaaaaaaaaaΤaa",
+        "aγρaaaaaaaaaaΤaa",
+        "cccγγγγγγγγγγfcf",
+        "bЄcaaaaaaјΤΤΤcfb",
+        "bbcaaaaddуaaacbb"
+      ],
+      [
+        "                ",
+        " ф              ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  }

@@ -15,6 +15,13 @@ ServerEvents.tags('item', e => {
     e.add("forge:seeds", "create_bic_bit:sunflower_seeds")
 })
 
+//Block Tag events
+
+ServerEvents.tags('block', e => {
+
+    e.add("lostcities:rotatable", "/trafficcraft:.*/")
+})
+
 ServerEvents.tags('worldgen/biome', e => {
     e.add("finitewater:has_infinite_water", "minecraft:river")
     e.add("finitewater:has_infinite_water", "minecraft:frozen_river")

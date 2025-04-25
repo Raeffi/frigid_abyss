@@ -1,0 +1,1 @@
+setblock ~ ~ ~ trafficcraft:traffic_light[facing=west,model=tripple,waterlogged=false]{ForgeCaps:{},color:-1,colorSlots:[I;1,2,3],controlType:1b,enabledColors:[],icon:0b,phaseId:0,powered:0b,running:1b,schedule:{entries:[{color:[I;2],id:0,ticks:20},{color:[I;],id:0,ticks:20}],loop:1b,trigger:0b},ticks:18,totalTicks:18L,type:0b}
