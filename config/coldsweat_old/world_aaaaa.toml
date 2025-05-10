@@ -54,6 +54,7 @@
 	# *temperature-limit: The maximum world temperature at which this block temp will be effective.
 	# - (Represents the minimum temp if the block temp is negative)
 	#"Block Temperatures" = [["cold_sweat:boiler", 0.27, 7, "mc", 0.88, "lit=true", "", 4], ["cold_sweat:icebox", -0.27, 7, "mc", 0.88, "frosted=true", "", 0], ["minecraft:fire", 0.476, 7, "mc", 0.9, "", "", 8], ["#minecraft:campfires", 0.476, 7, "mc", 0.9, "lit=true", " ", 8], ["minecraft:magma_block", 0.25, 3, "mc", 1.0], ["minecraft:lava_cauldron", 0.5, 7, "mc", 1.5], ["minecraft:ice", -0.15, 4, "mc", 0.6, "", "", -0.7], ["minecraft:packed_ice", -0.25, 4, "mc", 1.0, "", "", -0.7], ["minecraft:blue_ice", -0.35, 4, "mc", 1.4, "", "", -0.7], ["#minecraft:ice", -0.15, 4, "mc", 0.6, "", "", -0.7]]
+#  [["block-ids", 										<temperature>, 	<range>, <*units>, <*max effect>, 	<*predicates>, <*nbt>, <*temperature-limit>], [etc...], [etc...]]
 "Block Temperatures" =[
 	["cold_sweat:boiler", 									0.27, 			7, 		"mc",	0.88, 			"lit=true", 	"", 	4],
 	["cold_sweat:icebox", 									-0.27, 			7, 		"mc",	0.88, 			"frosted=true", "", 	0],
