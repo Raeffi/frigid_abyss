@@ -19,7 +19,6 @@
 		"idas:ancient_statue/ancient_statue_desert",
 		"idas:ancient_statue/ancient_statue_jungle",
 		"idas:ancient_statue/ancient_statue_plains",
-		"philipsbiomefeatures:andesite_rocks",
 		"idas:animal_den/forest_den",
 		"idas:animal_den/foxhound_den",
 		"idas:animal_den/polar_bear_den",
@@ -114,7 +113,6 @@
 		"sgjourney:goauld_temple/desert_pyramid/desert_pyramid",
 		"sgjourney:goauld_temple/jungle_pyramid/jungle_pyramid",
 		"luminous_depths:golden_house",
-		"philipsbiomefeatures:granite_rocks",
 		"explorify:guide_post_cold",
 		"explorify:guide_post_warm",
 		"idas:haunted_manor",
@@ -309,5 +307,5 @@
 	#If true then avoid generating cities in chunks with villages
 	avoidVillages = true
 	#If true then avoid flattening the terrain around the city in case there was a structure that was avoided
-	avoidFlattening = false
+	avoidFlattening = true
 

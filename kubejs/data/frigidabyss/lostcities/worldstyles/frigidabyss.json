@@ -1,0 +1,98 @@
+{
+  "outsidestyle": "outside",
+  "settings": {
+    "railwayavoidance": "ignore"
+  },
+  "multisettings": {
+    "areasize": 10,
+    "minimum": 1,
+    "maximum": 5,
+    "correctstylefactor": 0.8,
+    "attempts": 50
+  },
+  "scattered": {
+    "areasize": 8,
+    "chance": 0.02,
+    "weightnone": 30,
+    "list": []
+  },
+  "citybiomemultipliers": [
+    {
+      "multiplier": 0.01,
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_ocean"
+        ]
+      }
+    },
+    {
+      "multiplier": 0.1,
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_river"
+        ]
+      }
+    }
+  ],
+  "citystyles": [
+    {
+      "factor": 9.0,
+      "biomes": {
+        "if_any": [
+          "biomesoplenty:rainforest"
+        ]
+      },
+      "citystyle": "frigidabyss:citystyle_residential"
+    },
+    {
+      "factor": 9.0,
+      "biomes": {
+        "if_any": [
+          "minecraft:desert",
+          "minecraft:badlands"
+        ]
+      },
+      "citystyle": "frigidabyss:citystyle_industrial"
+    },
+    {
+      "factor": 9.0,
+      "biomes": {},
+      "citystyle": "frigidabyss:citystyle_commercial"
+    }
+  ],
+  "parts":{
+    "railways":{
+      "stationunderground":["frigidabyss:station_underground"
+      ],
+      "stationopen":["frigidabyss:station_open"
+      ],
+      "stationopenroof":["frigidabyss:station_openroof"
+      ],
+      "stationundergroundstairs":["frigidabyss:station_underground_stairs"
+      ],
+      "stationstaircase":["frigidabyss:station_staircase"
+      ],
+      "stationstaircasesurface":["frigidabyss:station_staircase_surface"
+      ],
+      "railshorizontal":["frigidabyss:rails_horizontal"
+      ],
+      "railshorizontalwater":["frigidabyss:rails_horizontal_water"
+      ],
+      "railsvertical":["frigidabyss:rails_vertical"
+      ],
+      "railsverticalwater":["frigidabyss:rails_vertical_water"
+      ],
+      "rails3split":["frigidabyss:rails_3split"
+      ],
+      "railsbend":["frigidabyss:rails_bend"
+      ],
+      "railsflat":["frigidabyss:rails_flat"
+      ],
+      "railsdown1":["frigidabyss:rails_down1"
+      ],
+      "railsdown2":["frigidabyss:rails_down2"
+      ]
+    },
+    "highways":{}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "dimx": 1,
+  "dimz": 2,
+  "buildings": [
+    [
+      "frigidabyss:residential1garden_0_0",
+      "frigidabyss:residential1garden_0_1"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "Γ",
+        "block": "chipped:rought_gravel"
+      },
+      {
+        "char": "Β",
+        "block": "chipped:sifted_gravel"
+      },
+      {
+        "char": "Α",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+      },
+      {
+        "char": "δ",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "trafficcraft:asphalt"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbSSSSSSSSbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb"
+    ]
+  ]
+}

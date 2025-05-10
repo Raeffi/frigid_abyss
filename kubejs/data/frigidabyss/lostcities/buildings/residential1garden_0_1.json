@@ -1,0 +1,22 @@
+{
+  "filler": "#",
+  "rubble": "}",
+  "minfloors": 2,
+  "maxfloors": 2,
+  "maxcellars": 0,
+  "allowDoors": false,
+  "parts": [
+    {
+      "floor": 0,
+      "part": "frigidabyss:residential1garden_0_1_0"
+    },
+    {
+      "floor": 1,
+      "part": "frigidabyss:residential1garden_0_1_1"
+    },
+    {
+      "top": true,
+      "part": "frigidabyss:empty"
+    }
+  ]
+}

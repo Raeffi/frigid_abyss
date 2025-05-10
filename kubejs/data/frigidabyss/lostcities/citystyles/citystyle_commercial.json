@@ -1,0 +1,97 @@
+{
+  "style": "frigidabyss:commercial_style",
+  "inherit": "citystyle_config",
+  "stuff_tags": ["rubble"],
+  "streetblocks": {
+    "border": "y",
+    "wall": "w",
+    "street": "S",
+    "streetbase": "b",
+    "streetvariant": "B",
+    "parts":{
+      "full":["frigidabyss:street_full"
+      ],
+      "straight":["frigidabyss:street_straight1","frigidabyss:street_straight2","frigidabyss:street_straight3"
+      ],
+      "end":["frigidabyss:street_end1","frigidabyss:street_end2"
+      ],
+      "bend":["frigidabyss:street_bend"
+      ],
+      "t":["frigidabyss:street_t"
+      ],
+      "none":["frigidabyss:street_none"
+      ],
+      "all":["frigidabyss:street_all"
+      ]
+    }
+  },
+  "parkblocks": {
+    "elevation": "x"
+  },
+  "corridorblocks": {
+    "roof": "x",
+    "glass": "+"
+  },
+  "railblocks": {
+    "railmain": "y"
+  },
+  "sphereblocks": {
+    "glass": "Z",
+    "border": "9",
+    "inner": "b"
+  },
+  "selectors": {
+    "buildings": [
+		{
+			"factor": 1.0,
+			"value": "frigidabyss:residential_1"
+		}
+    ],
+    "multibuildings": [
+		{
+			"factor": 1.0,
+			"value": "frigidabyss:residential_1_garden"
+		}
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:bridge_open"
+      },
+      {
+        "factor": 1.0,
+        "value": "lostcities:bridge_covered"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:building_front1"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:stairs1"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:fountain1"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:park_pool"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "lostcities:rail_dungeon1"
+      }
+    ]
+  }
+}

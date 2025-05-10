@@ -1,0 +1,260 @@
+{
+    "xsize": 16,
+    "zsize": 16,
+    "palette": {
+      "palette": [
+        {
+          "char": " ",
+          "block": "minecraft:air"
+        },
+        {
+          "char": "a",
+          "block": "minecraft:grass_block[snowy\u003dfalse]"
+        },
+        {
+          "char": "c",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003ddown,paired\u003dfalse]"
+        },
+        {
+          "char": "C",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dsouth,paired\u003dfalse]"
+        },
+        {
+          "char": "b",
+          "block": "trafficcraft:asphalt"
+        },
+        {
+          "char": "j",
+          "block": "trafficcraft:asphalt_curb[facing\u003dwest,shape\u003dstraight]"
+        },
+        {
+          "char": "f",
+          "block": "trafficcraft:asphalt_curb[facing\u003deast,shape\u003dstraight]"
+        },
+        {
+          "char": "B",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dtrue]"
+        },
+        {
+          "char": "e",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dnorth,paired\u003dfalse]"
+        },
+        {
+          "char": "q",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003dwest,paired\u003dfalse]"
+        },
+        {
+          "char": "l",
+          "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+        },
+        {
+          "char": "g",
+          "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+        },
+        {
+          "char": "i",
+          "block": "architects_palette:heavy_stone_bricks[facing\u003deast,paired\u003dfalse]"
+        },
+        {
+          "char": "k",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "o",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "d",
+          "block": "minecraft:dead_bush"
+        },
+        {
+          "char": "r",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "t",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "x",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "y",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "m",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "s",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "n",
+          "block": "architects_palette:sheet_metal_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+        },
+        {
+          "char": "w",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "v",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "A",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "u",
+          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+        },
+        {
+          "char": "p",
+          "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "h",
+          "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+        },
+        {
+          "char": "z",
+          "block": "trafficcraft:street_lamp[facing\u003dwest,lit\u003dtrue,waterlogged\u003dfalse]",
+          "tag": {
+            "turnOffTime": 0,
+            "x": 205,
+            "ForgeCaps": {},
+            "y": 69,
+            "z": -74,
+            "id": "trafficcraft:street_lamp_block_entity",
+            "turnOnTime": 0
+          }
+        },
+        {
+          "char": "D",
+          "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+          "tag": {
+            "turnOffTime": 0,
+            "x": 198,
+            "ForgeCaps": {},
+            "y": 69,
+            "z": -67,
+            "id": "trafficcraft:street_lamp_block_entity",
+            "turnOnTime": 0
+          }
+        }
+      ]
+    },
+    "slices": [
+      [
+        "acCbbbjaafbbbBaa",
+        "ccbbbbjaafbbbeaa",
+        "qbbbbbcaafbbbcaa",
+        "bbbbbjaaqbbbbcaa",
+        "bbbbbcaafbbbbcaa",
+        "bbbleaaafbbbccaa",
+        "llcaaaaebbbbcaaa",
+        "aaaaaaebbbbbcaaa",
+        "aaaeggbbbbbceaaa",
+        "gggbbbbbbbbcaaaa",
+        "bbbbbbbbbbccaaaa",
+        "bbbbbbbbiccaaaaa",
+        "bbbbbicicaaaaaaa",
+        "ccciccaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa"
+      ],
+      [
+        "       ko       ",
+        "       dr       ",
+        "       td       ",
+        "      xd        ",
+        "      yd        ",
+        "     dkm        ",
+        "   dsod      n  ",
+        "wvAmdr          ",
+        "kud             ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      n         ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "             p  ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      p         ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "             h  ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      h         ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "             h  ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      h         ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "             z  ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      D         ",
+        "                ",
+        "                "
+      ]
+    ]
+  }

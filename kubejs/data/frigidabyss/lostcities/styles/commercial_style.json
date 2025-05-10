@@ -1,0 +1,16 @@
+{
+  "randompalettes": [
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:common"
+      }
+    ],
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:default"
+      }
+    ]
+  ]
+}

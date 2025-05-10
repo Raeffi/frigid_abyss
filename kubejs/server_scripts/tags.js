@@ -19,7 +19,13 @@ ServerEvents.tags('item', e => {
 
 ServerEvents.tags('block', e => {
 
-    e.add("lostcities:rotatable", "/trafficcraft:.*/")
+    e.add("lostcities:rotatable", global.blocksWithFacing)//[blockWithFacing,"/trafficcraft:.*/"])
+
+    e.add("car:drivable_blocks","/.*:.*asphalt:*/")
+
+    //e.add(["car:generator","car:gas_station"],"/.*:.*asphalt:*/")
+
+    e.add("minecraft:stairs","/.*:.*stairs.*/")
 })
 
 ServerEvents.tags('worldgen/biome', e => {

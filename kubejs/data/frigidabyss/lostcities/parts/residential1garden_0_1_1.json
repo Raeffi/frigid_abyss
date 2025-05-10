@@ -1,0 +1,282 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "chipped:checkered_lodestone_tiles"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "N",
+        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=lower,waterlogged=false]"
+      },
+      {
+        "char": "G",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=left,open=false,powered=false,third=lower,waterlogged=false]"
+      },
+      {
+        "char": "P",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=right,open=false,powered=false,third=lower,waterlogged=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "R",
+        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=middle,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "create:spruce_window_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "i",
+        "block": "create:spruce_window_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "X",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=left,open=false,powered=false,third=middle,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=right,open=false,powered=false,third=middle,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=upper,waterlogged=false]"
+      },
+      {
+        "char": "M",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=left,open=false,powered=false,third=upper,waterlogged=false]"
+      },
+      {
+        "char": "Q",
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=north,hinge=right,open=false,powered=false,third=upper,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "create:spruce_window"
+      },
+      {
+        "char": "x",
+        "block": "chipped:ornate_shroomlight_lantern"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "e",
+        "block": "hearth_and_home:shingle_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "p",
+        "block": "hearth_and_home:shingle_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "o",
+        "block": "hearth_and_home:shingle_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "f",
+        "block": "hearth_and_home:shingle_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "l",
+        "block": "hearth_and_home:shingle_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "hearth_and_home:shingle_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "hearth_and_home:shingle_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "m",
+        "block": "hearth_and_home:shingle_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "J",
+        "block": "hearth_and_home:shingle_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "E",
+        "block": "hearth_and_home:shingle_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "A",
+        "block": "hearth_and_home:shingle_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "hearth_and_home:shingle_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "B",
+        "block": "hearth_and_home:shingle_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "F",
+        "block": "hearth_and_home:shingle_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "W",
+        "block": "hearth_and_home:shingle_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      " eeeeeeeeeeeeee ",
+      " pbbbbbbbbbbbbp ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      "  b          b  ",
+      " obbbbbbbbbbbbo ",
+      " ffffffffffffff ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "    lz    ym    ",
+      " eeeJbbjjbbEeee ",
+      " pb          bp ",
+      "  b          b  ",
+      "  b          b  ",
+      "  i          i  ",
+      "  i          i  ",
+      "  b          b  ",
+      "  b          b  ",
+      " ob          bo ",
+      " fffAbbjjbbDfff ",
+      "    lz    ym    ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "     lz  ym     ",
+      "     lbjjbm     ",
+      " eeeeB    Feeee ",
+      " pbx        xbp ",
+      "  b          b  ",
+      "  i          i  ",
+      "  i          i  ",
+      "  b          b  ",
+      " obx        xbo ",
+      " ffffA    Dffff ",
+      "     lbjjbm     ",
+      "     lz  ym     ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "      lzym      ",
+      "      lbbm      ",
+      "      l  m      ",
+      " eeeeeB  Feeeee ",
+      " pb          bp ",
+      "  i          i  ",
+      "  i          i  ",
+      " ob          bo ",
+      " fffffA  Dfffff ",
+      "      l  m      ",
+      "      lbbm      ",
+      "      lzym      ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "       lm       ",
+      "       lm       ",
+      "       lm       ",
+      "       lm       ",
+      " eeeeeeBEeeeeee ",
+      " pb          bp ",
+      " ob          bo ",
+      " ffffffAWffffff ",
+      "       lm       ",
+      "       lm       ",
+      "       lm       ",
+      "       lm       ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " eeeeeeeeeeeeee ",
+      " ffffffffffffff ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}
