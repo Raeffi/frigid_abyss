@@ -1,7 +1,7 @@
-name = "LostCities"
+name = "lostcities"
 filename = "lostcities-1.20-7.3.5r.jar"
 
 [download]
-url = "https://www.dropbox.com/scl/fi/u2y4haen43rc8tpq3r3gv/lostcities-1.20-7.3.5r.jar?rlkey=rag3ohsj6ebm93t7w1c15ipjt&st=8ftjqbyt&dl=1"
+url = "https://www.dropbox.com/scl/fi/u2y4haen43rc8tpq3r3gv/lostcities-1.20-7.3.5r.jar?rlkey=rag3ohsj6ebm93t7w1c15ipjt&st=y1437ckn&dl=1"
 hash-format = "sha256"
-hash = "45ef92cc19668874e0e2cca96c12a943063d1bc54ea7067d567e3ca86559a1a7"
+hash = "94558f1960d3057af114788bebf66f235c5494a413bee985f46b960fb3e40aee"

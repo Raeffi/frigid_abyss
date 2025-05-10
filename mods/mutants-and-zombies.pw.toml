@@ -1,0 +1,13 @@
+name = "Mutants and Zombies"
+filename = "MutantsZombies-0.9.8-Forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0C544GP/versions/lbWLttx0/MutantsZombies-0.9.8-Forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "994dfa8bda4dadae113006afbde5b371259c437404f2c7c9e818dd5703f0bc9199fc4db27d46aa8eb5c7c5f06ae28258df72ccbbd57667fe2b596ea351b698cc"
+
+[update]
+[update.modrinth]
+mod-id = "W0C544GP"
+version = "lbWLttx0"
