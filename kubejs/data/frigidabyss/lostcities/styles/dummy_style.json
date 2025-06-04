@@ -1,0 +1,89 @@
+{
+  "randompalettes": [
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:common"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:default"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:spawners"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "lostcities:bricks_standard"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:loot"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:basement1"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:exterior_spruce"
+      },
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:exterior_mangrove"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:walls_dripstone_brick"
+      },
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:walls_silt_brick"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:roof_gray_shingle"
+      },
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:roof_shingle"
+      }
+    ],
+
+    [
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:interior_oak"
+      },
+      {
+        "factor": 1.0,
+        "palette": "frigidabyss:interior_dark_oak"
+      }
+    ]
+  ]
+}
