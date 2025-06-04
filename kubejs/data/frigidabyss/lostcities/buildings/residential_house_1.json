@@ -1,0 +1,28 @@
+{
+  "filler": "#",
+  "rubble": "}",
+  "minfloors": 2,
+  "maxfloors": 2,
+  "mincellars": 1,
+  "maxcellars": 1,
+  "allowDoors": false,
+  "preferslonely":0.5,
+  "parts": [
+    {
+      "cellar": true,
+      "part": "frigidabyss:residential_house_1_b1"
+    },
+    {
+      "floor": 0,
+      "part": "frigidabyss:residential_house_1_0"
+    },
+    {
+      "floor": 1,
+      "part": "frigidabyss:residential_house_1_1"
+    },
+    {
+      "top": true,
+      "part": "frigidabyss:empty"
+    }
+  ]
+}
