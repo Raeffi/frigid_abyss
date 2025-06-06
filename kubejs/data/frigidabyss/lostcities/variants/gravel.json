@@ -1,0 +1,16 @@
+{
+  "blocks": [
+    {
+      "random": 46,
+      "block": "chipped:rought_gravel"
+    },
+    {
+      "random": 46,
+      "block": "chipped:sifted_gravel"
+    },
+    {
+      "random": 1000,
+      "block": "minecraft:gravel"
+    }  
+  ]
+}

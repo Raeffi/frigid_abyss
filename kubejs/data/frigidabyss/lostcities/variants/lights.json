@@ -1,0 +1,44 @@
+{
+  "blocks": [
+    {
+      "random": 25,
+      "block": "engineersdecor:iron_inset_light[facing=up,waterlogged=false]"
+    },
+    {
+      "random": 25,
+      "block": "tfmg:light_bulb[facing=down,level=0,waterlogged=false]"
+    },
+    {
+      "random": 25,
+      "block": "createaddition:small_light_connector[facing=up,mode=none,powered=false,rotation=none,variant=default]"
+    },
+    {
+      "random": 25,
+      "block": "cb_multipart:multipart",
+      "tag":{
+        "parts":
+          [
+            {
+              "id":"projectred_illumination:white_inverted_fixture_light",
+              "pow":"0b",
+              "side":"1b"
+            }
+          ]
+        }
+    },
+    {
+      "random": 1000,
+      "block": "cb_multipart:multipart",
+      "tag":{
+        "parts":
+          [
+            {
+              "id":"projectred_illumination:white_fixture_light",
+              "pow":"0b",
+              "side":"1b"
+            }
+          ]
+        }
+    }
+  ]
+}

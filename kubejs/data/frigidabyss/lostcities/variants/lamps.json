@@ -1,0 +1,652 @@
+{
+  "blocks": [
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:white_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:gray_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:black_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:red_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:yellow_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:green_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:blue_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "minecraft:pink_candle[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=1,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=2,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=3,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=4,lit=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=1,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=2,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=3,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_white[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_gray[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_black[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_red[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_yellow[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_green[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_blue[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "supplementaries:candle_holder_pink[candles=4,lit=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:light_gray_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:white_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:gray_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:black_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:red_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:yellow_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:green_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:blue_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:pink_fabric_desk_lamp[powered=false,switched_on=false,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:light_gray_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:white_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:gray_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:black_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:red_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:yellow_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:green_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1,
+      "block": "valhelsia_furniture:blue_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    },
+    {
+      "random": 1000,
+      "block": "valhelsia_furniture:pink_fabric_desk_lamp[powered=false,switched_on=true,waterlogged=false]"
+    }
+  ]
+}

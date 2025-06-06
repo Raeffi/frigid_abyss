@@ -1,0 +1,66 @@
+{
+    "palette": [
+      {
+        "char": "⊞",
+        "block": "create:mangrove_window"
+      },
+      {
+        "char": "◫",
+        "block": "create:mangrove_window_pane[waterlogged=false]"
+      },
+      {
+        "char": "Ⓝ",
+        "block": "minecraft:command_block[conditional=false,facing=north]",
+        "tag": {
+          "Command": "setdoor chipped:glass_mangrove_door chipped:glass_mangrove_door dramaticdoors:tall_chipped_tile_windowed_mangrove_door dramaticdoors:tall_manyideas_mangrove_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓔ",
+        "block": "minecraft:command_block[conditional=false,facing=east]",
+        "tag": {
+          "Command": "setdoor chipped:glass_mangrove_door chipped:glass_mangrove_door dramaticdoors:tall_chipped_tile_windowed_mangrove_door dramaticdoors:tall_manyideas_mangrove_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓢ",
+        "block": "minecraft:command_block[conditional=false,facing=south]",
+        "tag": {
+          "Command": "setdoor chipped:glass_mangrove_door chipped:glass_mangrove_door dramaticdoors:tall_chipped_tile_windowed_mangrove_door dramaticdoors:tall_manyideas_mangrove_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓦ",
+        "block": "minecraft:command_block[conditional=false,facing=west]",
+        "tag": {
+          "Command": "setdoor chipped:glass_mangrove_door chipped:glass_mangrove_door dramaticdoors:tall_chipped_tile_windowed_mangrove_door dramaticdoors:tall_manyideas_mangrove_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+
+      {
+        "char": "င",
+        "block": "handcrafted:mangrove_bench[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "၁",
+        "block": "handcrafted:mangrove_bench[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "ပ",
+        "block": "handcrafted:mangrove_bench[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "ဂ",
+        "block": "handcrafted:mangrove_bench[facing=south,waterlogged=false]"
+      }
+
+    ]
+}

@@ -45,17 +45,17 @@
     },
     {
       "char": "v",
-      "variant": "stonebrick",
+      "variant": "frigidabyss:stonebrick",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "y",
-      "variant": "concretebrick",
+      "variant": "frigidabyss:concretebrick",
       "damaged": "immersiveengineering:concrete_sprayed"
     },
     {
       "char": "x",
-      "variant": "stonebrick",
+      "variant": "frigidabyss:stonebrick",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "char": "w",
-      "variant": "bars"
+      "variant": "frigidabyss:bars"
     },
     {
       "char": ":",

@@ -1,0 +1,44 @@
+{
+  "blocks": [
+    {
+      "random": 64,
+      "block": "framedblocks:framed_slab[glowing=true,propagates_skylight=false,solid=true,top=true,waterlogged=false]",
+      "tags":
+      {
+        "camo":
+        {
+          "state":
+          {
+            "Name":"chipped:ornate_white_redstone_lamp",
+            "Properties":
+            {
+              "lit":"true"
+            }
+          },
+          "type":"framedblocks:block"
+        },
+        "glowing":"1b"
+      }
+    },
+    {
+      "random": 1000,
+      "block": "framedblocks:framed_slab[glowing=false,propagates_skylight=false,solid=true,top=true,waterlogged=false]",
+      "tags":
+      {
+        "camo":
+        {
+          "state":
+          {
+            "Name":"chipped:ornate_white_redstone_lamp",
+            "Properties":
+            {
+              "lit":"false"
+            }
+          },
+          "type":"framedblocks:block"
+        },
+        "glowing":"0b"
+      }
+    }
+  ]
+}

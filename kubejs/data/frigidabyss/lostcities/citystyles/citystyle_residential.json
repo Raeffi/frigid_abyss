@@ -1,5 +1,5 @@
 {
-  "style": "frigidabyss:residential_style",
+  "style": "frigidabyss:dummy_style",
 "inherit": "citystyle_config",
   "stuff_tags": ["rubble"],
   "streetblocks": {
@@ -9,19 +9,33 @@
     "streetbase": "b",
     "streetvariant": "B",
     "parts":{
-      "full":["frigidabyss:street_full"
+      "full":[
+        "frigidabyss:street_full"
       ],
-      "straight":["frigidabyss:street_straight1","frigidabyss:street_straight2","frigidabyss:street_straight3"
+      "straight":[
+        "frigidabyss:street_straight1",
+        "frigidabyss:street_straight1",
+        "frigidabyss:street_straight1",
+        "frigidabyss:street_straight1",
+        "frigidabyss:street_straight2",
+        "frigidabyss:street_straight3"
       ],
-      "end":["frigidabyss:street_end1","frigidabyss:street_end2"
+      "end":[
+        "frigidabyss:street_end1",
+        "frigidabyss:street_end2",
+        "frigidabyss:street_end2"
       ],
-      "bend":["frigidabyss:street_bend"
+      "bend":[
+        "frigidabyss:street_bend"
       ],
-      "t":["frigidabyss:street_t"
+      "t":[
+        "frigidabyss:street_t"
       ],
-      "none":["frigidabyss:street_none"
+      "none":[
+        "frigidabyss:street_none"
       ],
-      "all":["frigidabyss:street_all"
+      "all":[
+        "frigidabyss:street_all"
       ]
     }
   },
@@ -43,13 +57,17 @@
   "selectors": {
     "buildings": [
 		{
-			"factor": 1.0,
+			"factor": 0.5,
 			"value": "frigidabyss:residential_1"
+		},
+		{
+			"factor": 0.5,
+			"value": "frigidabyss:residential_house_1"
 		}
     ],
     "multibuildings": [
 		{
-			"factor": 1.0,
+			"factor": 0.5,
 			"value": "frigidabyss:residential_1_garden"
 		}
     ],
@@ -64,10 +82,6 @@
       }
     ],
     "fronts": [
-      {
-        "factor": 1.0,
-        "value": "lostcities:building_front1"
-      }
     ],
     "stairs": [
       {

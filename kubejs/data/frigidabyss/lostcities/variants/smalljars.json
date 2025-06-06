@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "random": 6,
+      "block": "valhelsia_structures:glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:white_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:white_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:orange_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:orange_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:light_blue_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:light_blue_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:black_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:black_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:cyan_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:cyan_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:brown_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:brown_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:green_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:green_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:light_gray_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:light_gray_glazed_jar[rotated=true,waterlogged=false]"
+    },
+    {
+      "random": 6,
+      "block": "valhelsia_structures:purple_glazed_jar[rotated=false,waterlogged=false]"
+    },
+    {
+      "random": 1000,
+      "block": "valhelsia_structures:purple_glazed_jar[rotated=true,waterlogged=false]"
+    }
+  ]
+}

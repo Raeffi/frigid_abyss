@@ -1,0 +1,15 @@
+{
+  "palette":
+    [
+        {
+        "char": "⛧",
+        "block": "minecraft:spawner",
+        "mob": "easymobs"
+        },
+        {
+        "char": "☠︎︎",
+        "block": "minecraft:spawner",
+        "mob": "hardmobs"
+        }
+    ]
+}

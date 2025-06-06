@@ -1,0 +1,65 @@
+{
+  "palette": [
+    {
+      "char": "🞓",
+        "blocks": [
+        {
+          "random": 64,
+          "block": "twigs:mixed_silt_bricks"
+        },
+        {
+          "random": 16,
+          "block": "twigs:cracked_silt_bricks"
+        },
+        {
+          "random": 1000,
+          "block": "twigs:silt_bricks"
+        }
+      ]
+    },
+    {
+      "char": "▄",
+      "block": "twigs:silt_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "▀",
+      "block": "twigs:silt_brick_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "▶",
+      "block": "twigs:silt_brick_stairs[facing=east,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "◄",
+      "block": "twigs:silt_brick_stairs[facing=west,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "▲",
+      "block": "twigs:silt_brick_stairs[facing=north,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "▼",
+      "block": "twigs:silt_brick_stairs[facing=south,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "▷",
+      "block": "twigs:silt_brick_stairs[facing=east,half=top,waterlogged=false]"
+    },
+    {
+      "char": "◁",
+      "block": "twigs:silt_brick_stairs[facing=west,half=top,waterlogged=false]"
+    },
+    {
+      "char": "△",
+      "block": "twigs:silt_brick_stairs[facing=north,half=top,waterlogged=false]"
+    },
+    {
+      "char": "▽",
+      "block": "twigs:silt_brick_stairs[facing=south,half=top,waterlogged=false]"
+    },
+    {
+      "char": "◆",
+      "block": "twigs:silt_brick_wall[waterlogged=false]"
+    }
+  ]
+}

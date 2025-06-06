@@ -1,5 +1,5 @@
 {
-  "style": "frigidabyss:industrial_style",
+  "style": "frigidabyss:dummy_style",
 "inherit": "citystyle_config",
   "stuff_tags": ["rubble"],
   "streetblocks": {
@@ -42,17 +42,21 @@
   },
   "selectors": {
     "buildings": [
-		{
-			"factor": 1.0,
-			"value": "frigidabyss:residential_1"
-		}
-    ],
-    "multibuildings": [
-		{
-			"factor": 1.0,
-			"value": "frigidabyss:residential_1_garden"
-		}
-    ],
+      {
+        "factor": 0.5,
+        "value": "frigidabyss:residential_1"
+      },
+      {
+        "factor": 0.5,
+        "value": "frigidabyss:residential_house_1"
+      }
+      ],
+      "multibuildings": [
+      {
+        "factor": 0.5,
+        "value": "frigidabyss:residential_1_garden"
+      }
+      ],
     "bridges": [
       {
         "factor": 1.0,
@@ -64,10 +68,6 @@
       }
     ],
     "fronts": [
-      {
-        "factor": 1.0,
-        "value": "lostcities:building_front1"
-      }
     ],
     "stairs": [
       {

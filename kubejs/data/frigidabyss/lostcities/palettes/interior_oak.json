@@ -1,0 +1,526 @@
+{
+    "palette": [
+      {
+        "char": "ⓝ",
+        "block": "minecraft:command_block[conditional=false,facing=north]",
+        "tag": {
+          "Command": "setdoor chipped:heavy_dark_oak_door chipped:heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "ⓔ",
+        "block": "minecraft:command_block[conditional=false,facing=east]",
+        "tag": {
+          "Command": "setdoor chipped:heavy_dark_oak_door chipped:heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "ⓢ",
+        "block": "minecraft:command_block[conditional=false,facing=south]",
+        "tag": {
+          "Command": "setdoor chipped:heavy_dark_oak_door chipped:heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "ⓦ",
+        "block": "minecraft:command_block[conditional=false,facing=west]",
+        "tag": {
+          "Command": "setdoor chipped:heavy_dark_oak_door chipped:heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door dramaticdoors:tall_chipped_heavy_dark_oak_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "𖢫",
+        "block": "chipped:cornered_red_carpet"
+      },
+
+      {
+        "char": "⊔",
+        "block": "handcrafted:oak_chair[color=red,facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⊓",
+        "block": "handcrafted:oak_chair[color=red,facing=east,waterlogged=false]"
+      },
+      {
+        "char": "⊐",
+        "block": "handcrafted:oak_chair[color=red,facing=west,waterlogged=false]"
+      },
+      {
+        "char": "⊏",
+        "block": "handcrafted:oak_chair[color=red,facing=east,waterlogged=false]"
+      },
+
+      {
+        "char": "⋃",
+        "block": "handcrafted:oak_couch[color=red,facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⋂",
+        "block": "handcrafted:oak_couch[color=red,facing=south,waterlogged=false]"
+      },
+      {
+        "char": "⊃",
+        "block": "handcrafted:oak_couch[color=red,facing=west,waterlogged=false]"
+      },
+      {
+        "char": "⊂",
+        "block": "handcrafted:oak_couch[color=red,facing=east,waterlogged=false]"
+      },      
+
+      {
+        "char": "⛩",
+        "block": "valhelsia_furniture:oak_table"
+      },
+
+      {
+        "char": "⍓",
+        "block": "valhelsia_furniture:oak_desk[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⍌",
+        "block": "valhelsia_furniture:oak_desk[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "⍃",
+        "block": "valhelsia_furniture:oak_desk[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "⍄",
+        "block": "valhelsia_furniture:oak_desk[facing=east,waterlogged=false]"
+      },
+
+      {
+        "char": "⍐",
+        "block": "valhelsia_furniture:oak_desk_drawer[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⍗",
+        "block": "valhelsia_furniture:oak_desk_drawer[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "⍇",
+        "block": "valhelsia_furniture:oak_desk_drawer[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "⍈",
+        "block": "valhelsia_furniture:oak_desk_drawer[facing=east,waterlogged=false]"
+      },
+
+      {
+        "char": "⮉",
+        "block": "handcrafted:oak_nightstand[color=none,facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⮋",
+        "block": "handcrafted:oak_nightstand[color=none,facing=south,waterlogged=false]"
+      },
+      {
+        "char": "⮈",
+        "block": "handcrafted:oak_nightstand[color=none,facing=west,waterlogged=false]"
+      },
+      {
+        "char": "⮊",
+        "block": "handcrafted:oak_nightstand[color=none,facing=east,waterlogged=false]"
+      },
+
+      {
+        "char": "⬓",
+        "block": "decorative_blocks:oak_support[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "⬒",
+        "block": "decorative_blocks:oak_support[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "◨",
+        "block": "decorative_blocks:oak_support[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "◧",
+        "block": "decorative_blocks:oak_support[facing=east,waterlogged=false]"
+      },
+
+      {
+        "char": "⋓",
+        "block": "handcrafted:oak_drawer[facing=north]"
+      },
+      {
+        "char": "⋒",
+        "block": "handcrafted:oak_drawer[facing=south]"
+      },
+      {
+        "char": "⋑",
+        "block": "handcrafted:oak_drawer[facing=west]"
+      },
+      {
+        "char": "⋐",
+        "block": "handcrafted:oak_drawer[facing=east]"
+      },      
+
+      {
+        "char": "ᕰ",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=north,type=1]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=north,type=3]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=north,type=4]"
+          },
+          {
+            "random": 1000,
+            "block": "handcrafted:oak_shelf[facing=north,type=5]"
+          }
+        ]
+      },
+      {
+        "char": "ᕱ",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=south,type=1]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=south,type=3]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=south,type=4]"
+          },
+          {
+            "random": 1000,
+            "block": "handcrafted:oak_shelf[facing=south,type=5]"
+          }
+        ]
+      },
+      {
+        "char": "ᕲ",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=west,type=1]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=west,type=3]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=west,type=4]"
+          },
+          {
+            "random": 1000,
+            "block": "handcrafted:oak_shelf[facing=west,type=5]"
+          }
+        ]
+      },
+      {
+        "char": "ᕳ",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=east,type=1]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=east,type=3]"
+          },
+          {
+            "random": 32,
+            "block": "handcrafted:oak_shelf[facing=east,type=4]"
+          },
+          {
+            "random": 1000,
+            "block": "handcrafted:oak_shelf[facing=east,type=5]"
+          }
+        ]
+      },
+
+      {
+        "char": "⊟",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "minecraft:bookshelf"
+        },
+        {
+          "random": 43,
+          "block": "chipped:oak_webbed_bookshelf"
+        },
+        {
+          "random": 1000,
+          "block": "chipped:dusty_bookshelf"
+        }
+      ]
+      },
+      {
+        "char": "⊠",
+        "block": "chipped:vertical_oak_planks"
+      },
+      {
+        "char": "⊡",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "ᆷ",
+        "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ᄆ",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "ᗘ",
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ᗛ",
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ᗗ",
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ᗖ",
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ᐳ",
+        "block": "minecraft:oak_stairs[facing=east,half=top,waterlogged=false]"
+      },
+      {
+        "char": "ᐸ",
+        "block": "minecraft:oak_stairs[facing=west,half=top,waterlogged=false]"
+      },
+      {
+        "char": "ᐱ",
+        "block": "minecraft:oak_stairs[facing=north,half=top,waterlogged=false]"
+      },
+      {
+        "char": "ᐯ",
+        "block": "minecraft:oak_stairs[facing=south,half=top,waterlogged=false]"
+      },
+      {
+        "char": "⌗",
+        "block": "minecraft:oak_fence[waterlogged=false]"
+      },
+
+      {
+        "char": "⟰",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=north,type=1]"
+        },
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=north,type=2]"
+        },
+        {
+          "random": 1000,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=north,type=3]"
+        }
+      ]
+      },
+      {
+        "char": "⟱",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=south,type=1]"
+        },
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=south,type=2]"
+        },
+        {
+          "random": 1000,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=south,type=3]"
+        }
+      ]
+      },
+      {
+        "char": "⭆",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=east,type=1]"
+        },
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=east,type=2]"
+        },
+        {
+          "random": 1000,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=east,type=3]"
+        }
+      ]
+      },
+      {
+        "char": "⭅",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=west,type=1]"
+        },
+        {
+          "random": 43,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=west,type=2]"
+        },
+        {
+          "random": 1000,
+          "block": "handcrafted:oak_counter[counter=calcite,facing=west,type=3]"
+        }
+      ]
+      },
+
+      {
+        "char": "⤊",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "storagedelight:oak_drawer[facing=north]"
+        },
+        {
+          "random": 43,
+          "block": "storagedelight:oak_cabinet_with_glass_doors[facing=north]"
+        },
+        {
+          "random": 1000,
+          "block": "storagedelight:oak_single_door_cabinet[facing=north]"
+        }
+      ]
+      },
+      {
+        "char": "⤋",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "storagedelight:oak_drawer[facing=south]"
+        },
+        {
+          "random": 43,
+          "block": "storagedelight:oak_cabinet_with_glass_doors[facing=south]"
+        },
+        {
+          "random": 1000,
+          "block": "storagedelight:oak_single_door_cabinet[facing=south]"
+        }
+      ]      
+    },
+      {
+        "char": "⇚",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "storagedelight:oak_drawer[facing=west]"
+        },
+        {
+          "random": 43,
+          "block": "storagedelight:oak_cabinet_with_glass_doors[facing=west]"
+        },
+        {
+          "random": 1000,
+          "block": "storagedelight:oak_single_door_cabinet[facing=west]"
+        }
+      ]       
+    },
+      {
+        "char": "⇛",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "storagedelight:oak_drawer[facing=east]"
+        },
+        {
+          "random": 43,
+          "block": "storagedelight:oak_cabinet_with_glass_doors[facing=east]"
+        },
+        {
+          "random": 1000,
+          "block": "storagedelight:oak_single_door_cabinet[facing=east]"
+        }
+      ] 
+    },
+
+       {
+        "char": "⮽",
+        "blocks": [
+          {
+            "random": 64,
+            "block": "chipped:oak_crate[facing=up,open=false]"
+          },
+          {
+            "random": 1000,
+            "block": "chipped:reinforced_oak_crate[facing=up,open=false]"
+          }       
+        ] 
+      },   
+
+      {
+        "char": "🁛",
+        "block": "minecraft:command_block[conditional=false,facing=east]",
+        "tag": {
+          "Command": "",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "🀷",
+        "block": "minecraft:command_block[conditional=false,facing=west]",
+        "tag": {
+          "Command": "",
+          "auto": 1,
+          "conditionMet": 1
+        }      
+      },
+      {
+        "char": "🁩",
+        "block": "minecraft:command_block[conditional=false,facing=north]",
+        "tag": {
+          "Command": "",
+          "auto": 1,
+          "conditionMet": 1
+        }      
+      },
+      {
+        "char": "🂍",
+        "block": "minecraft:command_block[conditional=false,facing=south]",
+        "tag": {
+          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=west,occupied=false,part=head,shape=right] white red",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+
+      {
+        "char": "▦",
+        "block": "chipped:checkered_lodestone_tiles"
+      },
+      {
+        "char": "▧",
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,waterlogged=false]"
+      },
+      {
+        "char": "▧",
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,waterlogged=false]"
+      }
+
+    ]
+  }

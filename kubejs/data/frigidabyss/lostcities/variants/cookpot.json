@@ -1,0 +1,36 @@
+{
+  "blocks": [
+    {
+      "random": 16,
+      "block": "farmersdelight:cooking_pot[facing=east,support=none,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:cooking_pot[facing=west,support=none,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:cooking_pot[facing=north,support=none,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:cooking_pot[facing=south,support=none,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:skillet[facing=east,support=false,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:skillet[facing=west,support=false,waterlogged=false]"
+    },
+    {
+      "random": 16,
+      "block": "farmersdelight:skillet[facing=north,support=false,waterlogged=false]"
+    },
+    {
+      "random": 1000,
+      "block": "farmersdelight:skillet[facing=south,support=false,waterlogged=false]"
+    }   
+  ]
+}

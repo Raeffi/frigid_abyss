@@ -1,0 +1,66 @@
+{
+    "palette": [
+      {
+        "char": "⊞",
+        "block": "create:spruce_window"
+      },
+      {
+        "char": "◫",
+        "block": "create:spruce_window_pane[waterlogged=false]"
+      },
+      {
+        "char": "Ⓝ",
+        "block": "minecraft:command_block[conditional=false,facing=north]",
+        "tag": {
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓔ",
+        "block": "minecraft:command_block[conditional=false,facing=east]",
+        "tag": {
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓢ",
+        "block": "minecraft:command_block[conditional=false,facing=south]",
+        "tag": {
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+      {
+        "char": "Ⓦ",
+        "block": "minecraft:command_block[conditional=false,facing=west]",
+        "tag": {
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "auto": 1,
+          "conditionMet": 1
+        }
+      },
+
+      {
+        "char": "င",
+        "block": "handcrafted:spruce_bench[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "၁",
+        "block": "handcrafted:spruce_bench[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "ပ",
+        "block": "handcrafted:spruce_bench[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "ဂ",
+        "block": "handcrafted:spruce_bench[facing=south,waterlogged=false]"
+      }
+
+    ]
+}

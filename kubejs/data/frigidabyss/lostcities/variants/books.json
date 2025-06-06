@@ -1,0 +1,68 @@
+{
+  "blocks": [
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=1,facing=north]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=2,facing=north]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=3,facing=north]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=4,facing=north]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=1,facing=south]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=2,facing=south]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=3,facing=south]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=4,facing=south]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=1,facing=east]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=2,facing=east]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=3,facing=east]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=4,facing=east]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=1,facing=west]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=2,facing=west]"
+    },
+    {
+      "random": 8,
+      "block": "handcrafted:stackable_book[books=3,facing=west]"
+    },
+    {
+      "random": 1000,
+      "block": "handcrafted:stackable_book[books=4,facing=west]"
+    }
+  ]
+}

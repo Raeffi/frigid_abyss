@@ -13,10 +13,6 @@
     {
       "floor": 1,
       "part": "frigidabyss:empty"
-    },
-    {
-      "top": true,
-      "part": "frigidabyss:empty"
     }
   ]
 }

@@ -1,5 +1,221 @@
 {
-  "palette": [
+    "palette": [
+    {
+      "char": "𓎶",
+      "variant": "frigidabyss:pots"
+    },
+    {
+      "char": "𐃢",
+      "variant": "frigidabyss:bigjars"
+    },
+    {
+      "char": "𐃰",
+      "variant": "frigidabyss:smalljars"
+    },
+    {
+      "char": "𓎩",
+      "variant": "frigidabyss:cookpot"
+    },
+    {
+      "char": "🕯",
+      "variant": "frigidabyss:lamps"
+    },
+    {
+      "char": "☀︎",
+      "variant": "frigidabyss:lights"
+    },
+    {
+      "char": "𖤓",
+      "variant": "frigidabyss:basementlights"
+    },
+    {
+      "char": "▣",
+      "block": "handcrafted:kitchen_hood[waterlogged=false]"
+    },
+    {
+      "char": "▪",
+      "block": "handcrafted:kitchen_hood_pipe[corner=false,waterlogged=false]"
+    },
+    {
+      "char": "🗒",
+      "variant": "frigidabyss:books"
+    },
+    {
+      "char": "✿",
+      "variant": "frigidabyss:pottedplants"
+    },
+
+    {
+      "char": "ᗜ",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "handcrafted:oven[facing=north,lit=false]"
+        },
+        {
+          "random": 1000,
+          "block": "farmersdelight:stove[facing=north,lit=false]"
+        }
+      ]      
+    },
+    {
+      "char": "ᗝ",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "handcrafted:oven[facing=south,lit=false]"
+        },
+        {
+          "random": 1000,
+          "block": "farmersdelight:stove[facing=south,lit=false]"
+        }
+      ] 
+    },
+    {
+      "char": "ᗞ",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "handcrafted:oven[facing=west,lit=false]"
+        },
+        {
+          "random": 1000,
+          "block": "farmersdelight:stove[facing=west,lit=false]"
+        }
+      ] 
+    },
+    {
+      "char": "ᗡ",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "handcrafted:oven[facing=east,lit=false]"
+        },
+        {
+          "random": 1000,
+          "block": "farmersdelight:stove[facing=east,lit=false]"
+        }
+      ] 
+    },
+
+    {
+      "char": "𝈱",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "minecraft:cauldron"
+        },
+        {
+          "random": 1000,
+          "block": "create:basin[facing=down]"
+        }
+      ] 
+    },
+
+    {
+      "char": "⊢",
+      "block": "supplementaries:faucet[facing=east,waterlogged=false]"
+    },
+    {
+      "char": "⊣",
+      "block": "supplementaries:faucet[facing=west,waterlogged=false]"
+    },
+    {
+      "char": "⊥",
+      "block": "supplementaries:faucet[facing=north,waterlogged=false]"
+    },
+    {
+      "char": "⊤",
+      "block": "supplementaries:faucet[facing=south,waterlogged=false]"
+    },
+
+    {
+      "char": "𐃡",
+      "blocks": 
+      [
+        {
+          "random": 64,
+          "block": "handcrafted:berry_jam_jar[facing=south,jars=1,waterlogged=false]"
+        },
+        {
+          "random": 1000,
+          "block": "supplementaries:jar[facing=west,light_level=0,waterlogged=false]",
+          "tag":{
+            "Items":
+            [
+              {
+                "Count":"1b",
+                "Slot":"0b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"1b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"2b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"3b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"4b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"5b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"6b",
+                "id":"minecraft:cookie"
+              },
+              {
+                "Count":"1b",
+                "Slot":"7b",
+                "id":"minecraft:cookie"
+              }
+            ]
+          }
+        }
+      ] 
+
+    },
+
+    {
+      "char": "⬚",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "⛶",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "🄶",
+      "variant": "frigidabyss:gravel"
+    },
+    {
+      "char": "⩸",
+      "block": "minecraft:grass_block"
+    },
+    {
+      "char": "🄳",
+      "block": "minecraft:dirt"
+    },
+
     {
       "char": "1",
       "block": "minecraft:spawner",
@@ -231,5 +447,8 @@
       "char": "~",
       "block": "minecraft:structure_void"
     }
-  ]
-}
+
+    ]
+  }
+
+  

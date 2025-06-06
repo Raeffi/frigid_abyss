@@ -102,7 +102,7 @@
     "buildingWithoutLootChance": 0.0,
     "railwayDungeonChance": 0.01,
     "generateNether": false,
-    "parkChance": 0.001,
+    "parkChance": 0.0001,
     "corridorChance": 0.0,
     "randomLeafBlockThickness": 2,
     "buildingMaxCellars": 3,

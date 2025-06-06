@@ -5,8 +5,8 @@
   },
   "multisettings": {
     "areasize": 10,
-    "minimum": 1,
-    "maximum": 5,
+    "minimum": 4,
+    "maximum": 8,
     "correctstylefactor": 0.8,
     "attempts": 50
   },
@@ -18,7 +18,7 @@
   },
   "citybiomemultipliers": [
     {
-      "multiplier": 0.01,
+      "multiplier": 0.0,
       "biomes": {
         "if_any": [
           "#minecraft:is_ocean"
@@ -26,7 +26,7 @@
       }
     },
     {
-      "multiplier": 0.1,
+      "multiplier": 0.0,
       "biomes": {
         "if_any": [
           "#minecraft:is_river"

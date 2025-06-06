@@ -13,10 +13,6 @@
     {
       "floor": 1,
       "part": "frigidabyss:residential1garden_0_1_1"
-    },
-    {
-      "top": true,
-      "part": "frigidabyss:empty"
     }
   ]
 }

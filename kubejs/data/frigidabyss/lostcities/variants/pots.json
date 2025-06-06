@@ -1,0 +1,28 @@
+{
+  "blocks": [
+    {
+      "random": 21,
+      "block": "handcrafted:white_glazed_thick_pot"
+    },
+    {
+      "random": 21,
+      "block": "handcrafted:blue_glazed_thick_pot"
+    },
+    {
+      "random": 21,
+      "block": "handcrafted:white_glazed_medium_pot"
+    },
+    {
+      "random": 21,
+      "block": "handcrafted:blue_glazed_medium_pot"
+    },
+    {
+      "random": 21,
+      "block": "handcrafted:white_glazed_thin_pot"
+    },
+    {
+      "random": 1000,
+      "block": "handcrafted:blue_glazed_thin_pot"
+    }
+  ]
+}

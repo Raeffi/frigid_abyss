@@ -1,0 +1,71 @@
+{
+  "palette": [
+    {
+      "char": "▢",
+        "blocks": [
+        {
+          "random": 10,
+          "block": "immersiveengineering:concrete_brick_cracked"
+        },
+        {
+          "random": 1000,
+          "block": "immersiveengineering:concrete_brick"
+        }
+      ]
+    },
+    {
+      "char": "⇲",
+      "block": "immersiveengineering:slab_concrete_brick[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⇱",
+      "block": "immersiveengineering:slab_concrete_brick[type=top,waterlogged=false]"
+    },
+    {
+      "char": "⇁",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=east,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "↽",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=west,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "↿",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=north,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⇃",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=south,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⇀",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=east,half=top,waterlogged=false]"
+    },
+    {
+      "char": "↼",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=west,half=top,waterlogged=false]"
+    },
+    {
+      "char": "↾",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=north,half=top,waterlogged=false]"
+    },
+    {
+      "char": "⇂",
+      "block": "immersiveengineering:stairs_concrete_brick[facing=south,half=top,waterlogged=false]"
+    },
+    {
+      "char": "◇",
+      "block": "immersiveengineering:wall_clinker_brick[waterlogged=false]"
+    },
+
+    {
+      "char": "▩",
+      "block": "chipped:checkered_basalt_tiles"
+    },
+    {
+      "char": "⨿",
+      "block": "createdeco:industrial_iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+    }
+
+  ]
+}

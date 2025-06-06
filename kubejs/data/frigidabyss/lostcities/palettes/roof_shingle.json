@@ -1,0 +1,48 @@
+{
+  "palette": [
+    {
+      "char": "⮞",
+      "block": "hearth_and_home:shingle_stairs[facing=east,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⮜",
+      "block": "hearth_and_home:shingle_stairs[facing=west,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⮝",
+      "block": "hearth_and_home:shingle_stairs[facing=north,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⮟",
+      "block": "hearth_and_home:shingle_stairs[facing=south,half=bottom,waterlogged=false]"
+    },
+    {
+      "char": "⮚",
+      "block": "hearth_and_home:shingle_stairs[facing=east,half=top,waterlogged=false]"
+    },
+    {
+      "char": "⮘",
+      "block": "hearth_and_home:shingle_stairs[facing=west,half=top,waterlogged=false]"
+    },
+    {
+      "char": "⮙",
+      "block": "hearth_and_home:shingle_stairs[facing=north,half=top,waterlogged=false]"
+    },
+    {
+      "char": "⮛",
+      "block": "hearth_and_home:shingle_stairs[facing=south,half=top,waterlogged=false]"
+    },
+    {
+      "char": "◚",
+      "block": "hearth_and_home:shingle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "◛",
+      "block": "hearth_and_home:shingle_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "🞖",
+      "block": "hearth_and_home:shingles"
+    }
+  ]
+}

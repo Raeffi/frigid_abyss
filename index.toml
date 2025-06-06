@@ -137,7 +137,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/lostcities/common.toml"
-hash = "c7e175cd69d7c26e8600d97fe209756ef17198fac1852244f7bd3aee5f6527c3"
+hash = "d8e3502b24347597b03e712ab43e5ecda241de02ae7ae54d4286ff6384ba2b3f"
 hash-format = "sha256"
 
 [[files]]
@@ -171,13 +171,18 @@ hash = "a4c79a7867b02986a2498c8e023030321348e004abd63a4cafb20a1e22cb3036"
 hash-format = "sha256"
 
 [[files]]
+file = "config/lostcities/profiles/development.json"
+hash = "de8db9096168d34563c42c254e87c3ffacd80b494526be7de0ee672f345c87ec"
+hash-format = "sha256"
+
+[[files]]
 file = "config/lostcities/profiles/floating.json"
 hash = "9478d5d9f9612ffd9b2fb0cd9d45654139a0b6225c861527eeeac0ece1c65a7b"
 hash-format = "sha256"
 
 [[files]]
 file = "config/lostcities/profiles/frigidabyss.json"
-hash = "b31764a2a5c6d117a82bebede479b23cfb685f341544ab28da27661c66fecbba"
+hash = "8ee4245c93030f66b2a6233f3cae3251de2cd480f809ed54f72cb45a736b331b"
 hash-format = "sha256"
 
 [[files]]
@@ -977,12 +982,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/buildings/residential1garden_0_0.json"
-hash = "c1bbf19343901468f656b4faf13d94ca251310e4e05b8a3621d8d7ed09b1df09"
+hash = "b4477d68b48bc289bda9c62f3b08e5b9f60385066018776c53939a1e9e8abeed"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/buildings/residential1garden_0_1.json"
-hash = "72abd03e2f25ad72f51483e86b8426030020576ce1aa210b466957642df66e16"
+hash = "f30bbae871ad1d2253cacb0ec1bdc443f47ef5bed4524905359c884782c881e9"
 hash-format = "sha256"
 
 [[files]]
@@ -991,18 +996,23 @@ hash = "2c1fc280f4b4858814f6c6ae2f6023a72cf4a7992e64a61d76b666f1e9e5212f"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/lostcities/buildings/residential_house_1.json"
+hash = "f15f74c583360f0aec660c707a64b76b7d6ff8a88af891a541cd85384bcacfcb"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_commercial.json"
-hash = "4b09dd560048b93f899ce97b1281385db0392834ce05c67fd6e45deb1246d7ba"
+hash = "79f328616d041d5a538a10d227e2c477de642bdb44e96380ab046d9e741fd671"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_industrial.json"
-hash = "5b4c20c854603386c4742f17cf09e78d8a11b78db5d03dcd1ac8982ffcd7d565"
+hash = "d42a9ee27a193903a58e6f29fd06e399bea104f58e0268091caa6eee9d6311b4"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_residential.json"
-hash = "ab5d4e64b25cff837bbcaf01aec4143d04a02fbde912ecc0611fccb771eeaa22"
+hash = "799f6a282b184b4587bf99d83695d686e8d1a463640051753671bd6c5967e51c"
 hash-format = "sha256"
 
 [[files]]
@@ -1011,18 +1021,73 @@ hash = "ed58a9c280551bbd1017fc25aacd59570c301c400b3ecac21c2bbbfd2e8bf4a7"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/basement1.json"
+hash = "69a1d8350036fed79ef2738638fa7281462c9b4b863803c4d7880e7ab0f3dffb"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/lostcities/palettes/common.json"
-hash = "920465dee7e557f208973d425ec6e3338472b8f9b542f95af3e229b02f1b4c2e"
+hash = "653c451af02d55c2261d6f799842e90ff05ddc2f5b983d48f104ec0046d9608b"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/palettes/default.json"
-hash = "6357e11012230f539d88939badf56a578b57f4c886d19a31eb59979fcb58b5f2"
+hash = "ad063383b3519b4b0a935932175c5a6fe01a92f90cf7f5c9df5c554b581b87ae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/exterior_mangrove.json"
+hash = "dae52eda0ca7567a636a70b44faeed3cc616ea65c87f98feb939bda1f4a73b6c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/exterior_spruce.json"
+hash = "53814170bb616a36bcec8005cf31bf5f2298b996f57a7a8ecf0202ca0ea71a66"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/interior_dark_oak.json"
+hash = "659e013183663132d7e87d0faa562b329b0ac16d1d13457de688cd0801af4b73"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/interior_oak.json"
+hash = "c5e3e5939d0a274492966c261c0fe05c7bb29f96732457b94eb1868882932f04"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/loot.json"
+hash = "99edb9f7f45a81ae69230ad08d61123005639a1a040c3ca3930ff54c9d5eecbb"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/palettes/rails_custom.json"
 hash = "977f75c70e3e97c233fd8b3aa87bcdd9b53ed60fe6b0315abc69006738d78bbd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/roof_gray_shingle.json"
+hash = "2e4715d42065d1aa01574ec58ff89632627b99e1ff00ba11652487fc4a3151fd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/roof_shingle.json"
+hash = "527d265919fc1fd06cff1ac9b0a7eb8018a6d859949e22b85405ccba16544f34"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/spawners.json"
+hash = "60a2128e91b809bb1d98ce5aa978c5a149f2821d6630e146f7a67ed4b81013ca"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/walls_dripstone_brick.json"
+hash = "0257e798f755f9ec868749dfceea9382ab9c6986966bfa7cd0d2fb93af7f40ed"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/palettes/walls_silt_brick.json"
+hash = "cabb8b06f16937fe4be0c96c08635437bf34bb7613006680544b74938b7aa611"
 hash-format = "sha256"
 
 [[files]]
@@ -1102,7 +1167,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/parts/residential1_0_0_0.json"
-hash = "3ac6acab26d594363b3cec66b8e73b0c7ed77f0b03b2e4a8aca82b9f41d0420e"
+hash = "55ed89bd72af9de3ec869375362ce668d3bdcfef0a20d795635e36748f72a41e"
 hash-format = "sha256"
 
 [[files]]
@@ -1112,7 +1177,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/parts/residential1garden_0_0_0.json"
-hash = "faed57e2b99c9b8fb4d3af5175fabeac73f3a6a221959cd78c2b058b7a4d59ed"
+hash = "b03cf129b61506ca459be02022b765814029291460586f0d8377740639643a94"
 hash-format = "sha256"
 
 [[files]]
@@ -1123,6 +1188,21 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/parts/residential1garden_0_1_1.json"
 hash = "abdb2eec0840d05b7fd4ec6a92d32b260e47c550886babbd403648660d88fe42"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/parts/residential_house_1_0.json"
+hash = "e94287735af3943130f5196540a2c9893a0e2c8084174a7fa58236ff6906a356"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/parts/residential_house_1_1.json"
+hash = "1daca05f197e152af60326bf9257d9cfab17d42dbf7b016d2b0ccce52ace8585"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/parts/residential_house_1_b1.json"
+hash = "398fec555bb06feb2644d947655ca45c00f09f35419007816ed17d362cdffbe8"
 hash-format = "sha256"
 
 [[files]]
@@ -1202,17 +1282,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/styles/commercial_style.json"
-hash = "dae6dbfff165e5164234dffdbb68df4f9448f494535c3c38b485a5ab8c299e3d"
+hash = "9e9a865a60290ab4f7be4182ee22a08cfcb6d1ac4e5649106a75f7846723058a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/styles/dummy_style.json"
+hash = "cef94268760ef51041510787002ee374fd98575ce7c68b4aa2740d64b9a6868b"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/styles/industrial_style.json"
-hash = "dae6dbfff165e5164234dffdbb68df4f9448f494535c3c38b485a5ab8c299e3d"
+hash = "9e9a865a60290ab4f7be4182ee22a08cfcb6d1ac4e5649106a75f7846723058a"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/styles/residential_style.json"
-hash = "dae6dbfff165e5164234dffdbb68df4f9448f494535c3c38b485a5ab8c299e3d"
+hash = "9e9a865a60290ab4f7be4182ee22a08cfcb6d1ac4e5649106a75f7846723058a"
 hash-format = "sha256"
 
 [[files]]
@@ -1221,8 +1306,58 @@ hash = "9da146b6fdc0821fed1ba97943d67263d1b1ed2cc265e39f268a07b9339f10c4"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/basementlights.json"
+hash = "9c72990970e653b1d3d583f4a87068b3725b62d2f54f06e64265d8e36bce5313"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/bigjars.json"
+hash = "1340fc3106c50fb0bd2b9c937911a0e32c9430d188a726acec51eeef0d29c3f5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/books.json"
+hash = "8f3e19f50456e09f926e533682c4b0e748b1945a308602362f4459ed6d818a1e"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/lostcities/variants/concretebrick.json"
 hash = "388d2ba2546687b85357e687e107d7c8f0704d0771006a61da82a8c90ed8f3e0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/cookpot.json"
+hash = "3a087dff3eb562fb491d5e7ffc49ba02bc0f236cac688afbb1f5c1a1e03eb605"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/gravel.json"
+hash = "8fb66e3341ea605ffe73d9ec8de53243d8b34a72688051fd1f3cc227a2689a98"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/lamps.json"
+hash = "77429f15dbaea70b55aef80a6a0465202ca9f17572b601f5f23b457c76da8cf8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/lights.json"
+hash = "aee904aa237b7a9a5da8d1afaf9aa2b87a56e6facbc93665ff8c31d9a224c48a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/pots.json"
+hash = "2caaa79b47d1fba2f4f01b711b83d789ba6b7ad50b4534b196bdebd6c52c3c79"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/pottedplants.json"
+hash = "bdb01b726775693baaf8bf36fac6203874c06fbcc65a0b574edce05f5fec0da1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/lostcities/variants/smalljars.json"
+hash = "e7b38c8449ac009d316b4830fc767f232f552ec8e997a66433e1f3aa302b6feb"
 hash-format = "sha256"
 
 [[files]]
@@ -1232,7 +1367,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/worldstyles/frigidabyss.json"
-hash = "7438520ac7ea1e0f2f45ea8aac490522b19a14459e3aabf991e63acf2a598e79"
+hash = "47db760e1955e37f1492fcc4163ac0cee632ae7b1866dab2bc813dd81e5e51a1"
 hash-format = "sha256"
 
 [[files]]
@@ -1251,27 +1386,27 @@ hash = "0f1198e9e847ba3f20c6a96cce4f73887c46548737df929ba636c5351e35611f"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/lostcities/palettes/common.json"
+file = "kubejs/data/lostcities/lostcities_old/palettes/common.json"
 hash = "920465dee7e557f208973d425ec6e3338472b8f9b542f95af3e229b02f1b4c2e"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/lostcities/palettes/default.json"
+file = "kubejs/data/lostcities/lostcities_old/palettes/default.json"
 hash = "6357e11012230f539d88939badf56a578b57f4c886d19a31eb59979fcb58b5f2"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/lostcities/variants/bars.json"
+file = "kubejs/data/lostcities/lostcities_old/variants/bars.json"
 hash = "9da146b6fdc0821fed1ba97943d67263d1b1ed2cc265e39f268a07b9339f10c4"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/lostcities/variants/concretebrick.json"
+file = "kubejs/data/lostcities/lostcities_old/variants/concretebrick.json"
 hash = "388d2ba2546687b85357e687e107d7c8f0704d0771006a61da82a8c90ed8f3e0"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/lostcities/variants/stonebrick.json"
+file = "kubejs/data/lostcities/lostcities_old/variants/stonebrick.json"
 hash = "d55841ecc442aa1864a695fa5320f35b179c313d808abfd437b34a9e548a0a02"
 hash-format = "sha256"
 
@@ -1756,6 +1891,11 @@ hash = "69488a791eba4b469026c468db0b9869b88806b98050122f61d9c3740ce1c6b4"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/spyglass.json"
+hash = "8f6a5bb805f1d7c6e2112a0048129d031020b473469b91c944d654d9a180dcc5"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
 hash = "df1599fa87661610b081699874fa4a1a138d31482b2d7286537f5c87317ab571"
 hash-format = "sha256"
@@ -1881,6 +2021,11 @@ hash = "80464d9b550d8c60fb82b01d81739d7b63ef682a3e4071ee3ece7b03a8a20ed7"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/commands.js"
+hash = "1539539871fcebeec03a519af9be135088ecf74bc938033e990819a3c2c2c6d9"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "719aa4b2560b7be6ef53958b078db6a902f7bcae8136cb2dfc0fef03955f3597"
 hash-format = "sha256"
@@ -1893,6 +2038,11 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "36fdfc524e4e5ca3805ef1bc9e6217ac84a299faf99ad21e764f3834188f392c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/spyglass.json"
+hash = "8f6a5bb805f1d7c6e2112a0048129d031020b473469b91c944d654d9a180dcc5"
 hash-format = "sha256"
 
 [[files]]
@@ -1929,7 +2079,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/Architects-Palette-1.20.1-1.3.6.1.pw.toml"
+file = "mods/Architects-Palette.pw.toml"
 hash = "eb1d217106a7e4481a4ebe0a0375be31396d30f280dd7ee777972c036f0c9252"
 hash-format = "sha256"
 metafile = true
@@ -1971,8 +2121,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/Chipped-forge-1.20.1-3.0.4.pw.toml"
-hash = "c934f525b9c7cc3d7440f5a0275af09220ee8b43ddea8e2790cc9e663051c697"
+file = "mods/Chipped.pw.toml"
+hash = "4a0796d997b23b1b53b244f0939e8c0076e16198ba6b4093440fd65eca5a23d4"
 hash-format = "sha256"
 metafile = true
 
@@ -2278,7 +2428,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "d8723c2c74766c880a048679b09d891731d1d2c2fa67e2a8f360c3d8a435553b"
+hash = "cd354e4d5e041a86635d4faafea88cfae702594728774b9a3929484751daefdf"
 hash-format = "sha256"
 metafile = true
 
@@ -2792,7 +2942,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4a0c265d871898cbc90f93aea5d0401288344b84957b3ca9d9aae67147164a9c"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 hash-format = "sha256"
 metafile = true
 
@@ -3026,8 +3176,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 hash-format = "sha256"
 metafile = true
 
@@ -3349,8 +3511,32 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "c03eef5a460517ef0fbd2a9a419470bc2ccb91a74da330b00c51a4053f92c5ab"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
 hash-format = "sha256"
 metafile = true
 
@@ -3679,6 +3865,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
 hash-format = "sha256"
@@ -3799,11 +3991,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml.disabled"
-hash = "32ee85be1b868a77453a16ab97c3f8e1a69d8ea7fff95ea0eeb1aea78b8d0eef"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "fcb95ac9e305c0ac7d78f4fb66901da4fd73cd1f80f48ebeb08d0aea466da3ef"
 hash-format = "sha256"
@@ -3826,16 +4013,6 @@ file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml.disabled"
-hash = "8c3142ad4fe843d42114c6a5bc8c92ecd80aa69492e4350891383d57aa5dfa37"
-hash-format = "sha256"
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml.disabled"
-hash = "2a15af7632f794782a547e672354f41068c8af62f20dfa5fafd7e3cfc74e1c81"
-hash-format = "sha256"
 
 [[files]]
 file = "mods/saturn.pw.toml"
@@ -4223,13 +4400,13 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "886001098328fec32c5dd0907ef1fcdfb3fecd84db6e35f298a0de4fa2df8e77"
+hash = "b7b1053c904f427819f0236fe5528d722e75da3cc8c27c43908cd179b0f8d1cc"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "24c3daea0e5b299bead4db0bda093c84d85abe7565427b0120afd3ee8ed2b784"
+hash = "eef977bcac4bfd222529a55088771722227f25ff8174338809783a7871caa27d"
 hash-format = "sha256"
 metafile = true
 
@@ -4247,13 +4424,13 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 hash-format = "sha256"
 metafile = true
 
@@ -4307,18 +4484,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
-hash = "7f5edf993a1f3ea71a249dd5aef9428e443034dd784efed8610866a4400efaa8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-guns.pw.toml"
-hash = "b7b7afeea46d18852931c22c0917767f6ef91ca176b9decde3cfc6d5cd373e11"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "resourcepacks/create-simple-storage-recipes-datapack.pw.toml"
 hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
 hash-format = "sha256"
@@ -4327,6 +4492,12 @@ metafile = true
 [[files]]
 file = "resourcepacks/eureka!-create-airships!.pw.toml"
 hash = "943ed03196959f8b10a95c9447e6dd0073014a094de648521f8f8ce29f36522f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/scary-spider.pw.toml"
+hash = "0d35374d0e591fd56068efcc61125fdf8bd0b7455ea5c50a359a68f69ee532c3"
 hash-format = "sha256"
 metafile = true
 
