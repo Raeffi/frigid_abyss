@@ -21,7 +21,7 @@
       "variant": "frigidabyss:lamps"
     },
     {
-      "char": "☀︎",
+      "char": "✦",
       "variant": "frigidabyss:lights"
     },
     {
@@ -44,7 +44,23 @@
       "char": "✿",
       "variant": "frigidabyss:pottedplants"
     },
-
+    {
+        "char": "⊟",
+        "blocks": [
+        {
+          "random": 43,
+          "block": "minecraft:bookshelf"
+        },
+        {
+          "random": 43,
+          "block": "chipped:oak_webbed_bookshelf"
+        },
+        {
+          "random": 1000,
+          "block": "chipped:dusty_bookshelf"
+        }
+      ]
+    },
     {
       "char": "ᗜ",
       "blocks": 

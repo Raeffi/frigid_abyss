@@ -249,24 +249,6 @@
           }
         ]
       },
-
-      {
-        "char": "⊟",
-        "blocks": [
-        {
-          "random": 43,
-          "block": "minecraft:bookshelf"
-        },
-        {
-          "random": 43,
-          "block": "chipped:dark_oak_webbed_bookshelf"
-        },
-        {
-          "random": 1000,
-          "block": "chipped:dusty_bookshelf"
-        }
-      ]
-      },
       {
         "char": "⊠",
         "block": "chipped:vertical_dark_oak_planks"

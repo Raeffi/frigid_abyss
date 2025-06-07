@@ -6,7 +6,7 @@
   "mincellars": 1,
   "maxcellars": 1,
   "allowDoors": false,
-  "preferslonely":0.5,
+  "preferslonely": 0.5,
   "parts": [
     {
       "cellar": true,
@@ -18,7 +18,7 @@
     },
     {
       "floor": 1,
-      "part": "frigidabyss:empty"
+      "part": "frigidabyss:residential_house_1_1"
     },
     {
       "top": true,
