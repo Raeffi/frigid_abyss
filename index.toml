@@ -987,7 +987,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/buildings/residential1garden_0_1.json"
-hash = "ab8192e8a16cec35be7ac5b55779837b63340c851904c81235ca55d1967c2a17"
+hash = "72abd03e2f25ad72f51483e86b8426030020576ce1aa210b466957642df66e16"
 hash-format = "sha256"
 
 [[files]]
@@ -1002,17 +1002,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_commercial.json"
-hash = "79f328616d041d5a538a10d227e2c477de642bdb44e96380ab046d9e741fd671"
+hash = "f05e307743e74137ef1426b2e92bc3437677607fcd48a424aece2d440cbe49e6"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_industrial.json"
-hash = "d42a9ee27a193903a58e6f29fd06e399bea104f58e0268091caa6eee9d6311b4"
+hash = "f05e307743e74137ef1426b2e92bc3437677607fcd48a424aece2d440cbe49e6"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/citystyles/citystyle_residential.json"
-hash = "799f6a282b184b4587bf99d83695d686e8d1a463640051753671bd6c5967e51c"
+hash = "f05e307743e74137ef1426b2e92bc3437677607fcd48a424aece2d440cbe49e6"
 hash-format = "sha256"
 
 [[files]]
@@ -1102,7 +1102,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/parts/empty.json"
-hash = "3de626fadca99bcfb03a639f13ba2faf406887f207e25b1de11896b5a1a8562e"
+hash = "37269b4184ff34939430c9a169966ce29557bbd08f9d48c5bbab345f13bb4714"
 hash-format = "sha256"
 
 [[files]]
@@ -1377,7 +1377,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/variants/lights.json"
-hash = "aee904aa237b7a9a5da8d1afaf9aa2b87a56e6facbc93665ff8c31d9a224c48a"
+hash = "391fa26d38405e237c7a3f48680d3e5f617ababa6f99e4bccc0f180ebf6b8fb3"
 hash-format = "sha256"
 
 [[files]]
