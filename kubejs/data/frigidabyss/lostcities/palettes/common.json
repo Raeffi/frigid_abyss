@@ -1,23 +1,23 @@
 {
     "palette": [
     {
-      "char": "𓎶",
+      "char": "ඏ",
       "variant": "frigidabyss:pots"
     },
     {
-      "char": "𐃢",
+      "char": "℧",
       "variant": "frigidabyss:bigjars"
     },
     {
-      "char": "𐃰",
+      "char": "ၓ",
       "variant": "frigidabyss:smalljars"
     },
     {
-      "char": "𓎩",
+      "char": "⌕",
       "variant": "frigidabyss:cookpot"
     },
     {
-      "char": "🕯",
+      "char": "✧",
       "variant": "frigidabyss:lamps"
     },
     {
@@ -25,19 +25,19 @@
       "variant": "frigidabyss:lights"
     },
     {
-      "char": "𖤓",
+      "char": "❇",
       "variant": "frigidabyss:basementlights"
     },
     {
-      "char": "▣",
+      "char": "⯦",
       "block": "handcrafted:kitchen_hood[waterlogged=false]"
     },
     {
-      "char": "▪",
+      "char": "◦",
       "block": "handcrafted:kitchen_hood_pipe[corner=false,waterlogged=false]"
     },
     {
-      "char": "🗒",
+      "char": "⍯",
       "variant": "frigidabyss:books"
     },
     {
@@ -103,7 +103,7 @@
     },
 
     {
-      "char": "𝈱",
+      "char": "⌴",
       "blocks": 
       [
         {
@@ -135,7 +135,7 @@
     },
 
     {
-      "char": "𐃡",
+      "char": "⚱",
       "blocks": 
       [
         {
@@ -204,15 +204,15 @@
       "block": "minecraft:structure_void"
     },
     {
-      "char": "🄶",
+      "char": "☲",
       "variant": "frigidabyss:gravel"
     },
     {
-      "char": "⩸",
+      "char": "☱",
       "block": "minecraft:grass_block"
     },
     {
-      "char": "🄳",
+      "char": "☷",
       "block": "minecraft:dirt"
     },
 

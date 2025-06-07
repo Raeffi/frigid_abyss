@@ -21,6 +21,12 @@
     [
       {
         "factor": 1.0,
+        "palette": "lostcities:bricks_standard"
+      }
+    ],
+    [
+      {
+        "factor": 1.0,
         "palette": "frigidabyss:loot"
       }
     ],

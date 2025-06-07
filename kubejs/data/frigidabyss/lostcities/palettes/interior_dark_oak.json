@@ -37,7 +37,7 @@
         }
       },
       {
-        "char": "𖢫",
+        "char": "ᛥ",
         "block": "chipped:cornered_red_carpet"
       },
 
@@ -473,7 +473,7 @@
       },   
 
       {
-        "char": "🁛",
+        "char": "↤",
         "block": "minecraft:command_block[conditional=false,facing=east]",
         "tag": {
           "Command": "",
@@ -482,7 +482,7 @@
         }
       },
       {
-        "char": "🀷",
+        "char": "↦",
         "block": "minecraft:command_block[conditional=false,facing=west]",
         "tag": {
           "Command": "",
@@ -491,7 +491,7 @@
         }      
       },
       {
-        "char": "🁩",
+        "char": "↧",
         "block": "minecraft:command_block[conditional=false,facing=north]",
         "tag": {
           "Command": "",
@@ -500,7 +500,7 @@
         }      
       },
       {
-        "char": "🂍",
+        "char": "↥",
         "block": "minecraft:command_block[conditional=false,facing=south]",
         "tag": {
           "Command": "setbed handcrafted:dark_oak_fancy_bed[color=white,facing=west,occupied=false,part=head,shape=right] white red",

@@ -1,5 +1,5 @@
 {
-  "outsidestyle": "outside",
+  "outsidestyle": "frigidabyss:outside_style",
   "settings": {
     "railwayavoidance": "ignore"
   },
@@ -62,37 +62,71 @@
   ],
   "parts":{
     "railways":{
-      "stationunderground":["frigidabyss:station_underground"
+      "stationunderground":[
+        "frigidabyss:station_underground"
       ],
-      "stationopen":["frigidabyss:station_open"
+      "stationopen":[
+        "frigidabyss:station_open"
       ],
-      "stationopenroof":["frigidabyss:station_openroof"
+      "stationopenroof":[
+        "frigidabyss:station_openroof"
       ],
-      "stationundergroundstairs":["frigidabyss:station_underground_stairs"
+      "stationundergroundstairs":[
+        "frigidabyss:station_underground_stairs"
       ],
-      "stationstaircase":["frigidabyss:station_staircase"
+      "stationstaircase":[
+        "frigidabyss:station_staircase"
       ],
-      "stationstaircasesurface":["frigidabyss:station_staircase_surface"
+      "stationstaircasesurface":[
+        "frigidabyss:station_staircase_surface"
       ],
-      "railshorizontal":["frigidabyss:rails_horizontal"
+      "railshorizontal":[
+        "frigidabyss:rails_horizontal"
       ],
-      "railshorizontalwater":["frigidabyss:rails_horizontal_water"
+      "railshorizontalwater":[
+        "frigidabyss:rails_horizontal_water"
       ],
-      "railsvertical":["frigidabyss:rails_vertical"
+      "railsvertical":[
+        "frigidabyss:rails_vertical"
       ],
-      "railsverticalwater":["frigidabyss:rails_vertical_water"
+      "railsverticalwater":[
+        "frigidabyss:rails_vertical_water"
       ],
-      "rails3split":["frigidabyss:rails_3split"
+      "rails3split":[
+        "frigidabyss:rails_3split"
       ],
-      "railsbend":["frigidabyss:rails_bend"
+      "railsbend":[
+        "frigidabyss:rails_bend"
       ],
-      "railsflat":["frigidabyss:rails_flat"
+      "railsflat":[
+        "frigidabyss:rails_flat"
       ],
-      "railsdown1":["frigidabyss:rails_down1"
+      "railsdown1":[
+        "frigidabyss:rails_down1"
       ],
-      "railsdown2":["frigidabyss:rails_down2"
+      "railsdown2":[
+        "frigidabyss:rails_down2"
       ]
     },
-    "highways":{}
+    "highways":{
+      "bridge":[
+        "frigidabyss:highway_bridge"
+      ],
+      "bridge_bi":[
+        "frigidabyss:highway_bridge_bi"
+      ],
+      "tunnel":[
+        "frigidabyss:highway_tunnel"
+      ],
+      "tunnel_bi":[
+        "frigidabyss:highway_tunnel_bi"
+      ],
+      "open":[
+        "frigidabyss:highway_open"
+      ],
+      "open_bi":[
+        "frigidabyss:highway_open_bi"
+      ]
+    }
   }
 }

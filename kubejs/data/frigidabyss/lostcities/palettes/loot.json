@@ -17,7 +17,7 @@
             "loot": "chestloot"
         },
         {
-            "char": "🛠",
+            "char": "⚒",
             "block": "minecraft:barrel",
             "loot": "chestloot"
         },
@@ -28,6 +28,11 @@
         },
         {
             "char": "⛏",
+            "block": "minecraft:barrel",
+            "loot": "chestloot"
+        },
+        {
+            "char": "⛨",
             "block": "minecraft:barrel",
             "loot": "chestloot"
         }
