@@ -23,35 +23,75 @@
     },
     {
       "char": "⇁",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=east,half=bottom,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=east,half=bottom,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "↽",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=west,half=bottom,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=west,half=bottom,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "↿",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=north,half=bottom,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=north,half=bottom,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "⇃",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=south,half=bottom,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=south,half=bottom,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "⇀",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=east,half=top,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=east,half=top,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "↼",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=west,half=top,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=west,half=top,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "↾",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=north,half=top,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=north,half=top,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "⇂",
-      "block": "immersiveengineering:stairs_concrete_brick[facing=south,half=top,waterlogged=false]"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "setblock ~ ~ ~ immersiveengineering:stairs_concrete_brick[facing=south,half=top,waterlogged=false]",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "◇",

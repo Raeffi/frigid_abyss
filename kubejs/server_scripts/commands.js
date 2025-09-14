@@ -1,57 +1,57 @@
-let setDoor = (block, block_tall, facing, tall, doubledoor, positionX, positionY, positionZ, offsetX, offsetZ, ctx) => {
+let setDoor = (block, block_tall, facing, tall, doubledoor, positionX, positionY, positionZ, offsetX, offsetZ, dimension, ctx) => {
 
     if(tall)
     {
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY+2} ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=upper,waterlogged=false]`)
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY+1} ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=middle,waterlogged=false]`)
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY  } ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=lower,waterlogged=false]`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY+2} ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=upper,waterlogged=false]`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY+1} ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=middle,waterlogged=false]`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY  } ${positionZ} ${block_tall}[facing=${facing},hinge=left,open=false,powered=false,third=lower,waterlogged=false]`)
 
         if(doubledoor)
         {
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY+2} ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=upper,waterlogged=false]`)
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY+1} ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=middle,waterlogged=false]`)
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY  } ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=lower,waterlogged=false]`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY+2} ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=upper,waterlogged=false]`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY+1} ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=middle,waterlogged=false]`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY  } ${positionZ+offsetZ} ${block_tall}[facing=${facing},hinge=right,open=false,powered=false,third=lower,waterlogged=false]`)
         }
 
     }
     else
     {
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY+1} ${positionZ} ${block}[facing=${facing},hinge=left,open=false,powered=false,half=upper,waterlogged=false] replace`)
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY  } ${positionZ} ${block}[facing=${facing},hinge=left,open=false,powered=false,half=lower,waterlogged=false] replace`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY+1} ${positionZ} ${block}[facing=${facing},hinge=left,open=false,powered=false,half=upper,waterlogged=false] replace`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY  } ${positionZ} ${block}[facing=${facing},hinge=left,open=false,powered=false,half=lower,waterlogged=false] replace`)
 
         if(doubledoor)
         {
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY+1} ${positionZ+offsetZ} ${block}[facing=${facing},hinge=right,open=false,powered=false,half=upper,waterlogged=false]`)
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY  } ${positionZ+offsetZ} ${block}[facing=${facing},hinge=right,open=false,powered=false,half=lower,waterlogged=false]`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY+1} ${positionZ+offsetZ} ${block}[facing=${facing},hinge=right,open=false,powered=false,half=upper,waterlogged=false]`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY  } ${positionZ+offsetZ} ${block}[facing=${facing},hinge=right,open=false,powered=false,half=lower,waterlogged=false]`)
         }
     }
 
 }
 
-let setBed = (bed, facing, doublebed, positionX, positionY, positionZ, offsetX, offsetZ, direction, pillowcolor, bedcolor, ctx) => {
+let setBed = (bed, facing, doublebed, positionX, positionY, positionZ, offsetX, offsetZ, direction, pillowcolor, bedcolor, dimension, ctx) => {
 
     if(offsetX!=0)
     {
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY} ${positionZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY} ${positionZ+direction} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY} ${positionZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY} ${positionZ+direction} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)
     }
     else
     {
-        ctx.source.server.runCommandSilent(`setblock ${positionX} ${positionY} ${positionZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
-        ctx.source.server.runCommandSilent(`setblock ${positionX+direction} ${positionY} ${positionZ} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)       
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX} ${positionY} ${positionZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
+        ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+direction} ${positionY} ${positionZ} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)       
     }
 
     if(doublebed)
     {
         if(offsetX!=0)
         {
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ+direction} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ+direction} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)
         }
         else
         {
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
-            ctx.source.server.runCommandSilent(`setblock ${positionX+offsetX+direction} ${positionY} ${positionZ+offsetZ} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)       
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX} ${positionY} ${positionZ+offsetZ} ${bed}[color=${pillowcolor},facing=${facing},part=head] replace`)
+            ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${positionX+offsetX+direction} ${positionY} ${positionZ+offsetZ} ${bed}[color=${bedcolor},facing=${facing},part=foot] replace`)       
         }
     }
 
@@ -64,9 +64,18 @@ ServerEvents.commandRegistry(e => {
         Commands.literal("spawnRandomCar")
 		.requires(src => src.hasPermission(2))
 		.executes(ctx => {
+            let dimension = level.dimensionKey.namespace + ":" + level.dimensionKey.path
 			const sourcePosition = ctx.source.position;
-			ctx.source.server.runCommandSilent(`summon car:car ${sourcePosition.x()} ${sourcePosition.y()} ${sourcePosition.z()}`);
-            ctx.source.server.runCommandSilent(`setblock ${sourcePosition.x() - 0.5} ${sourcePosition.y() - 0.5} ${sourcePosition.z() - 0.5} minecraft:air`) ;
+            try {
+                
+    			ctx.source.server.runCommandSilent(`execute in ${dimension} run summon car:car ${sourcePosition.x()} ${sourcePosition.y()} ${sourcePosition.z()}`);
+                ctx.source.server.runCommandSilent(`execute in ${dimension} run setblock ${sourcePosition.x() - 0.5} ${sourcePosition.y() - 0.5} ${sourcePosition.z() - 0.5} minecraft:air`) ;
+                
+            } catch (error) {
+
+                console.log("spawnRandomCar command: " + error)
+
+            }
 			return 1;
 		})
     ) 
@@ -91,7 +100,7 @@ ServerEvents.commandRegistry(e => {
             let z = position.z()-0.5
 
             let level = ctx.source.level
-
+            let dimension = level.dimensionKey.namespace + ":" + level.dimensionKey.path
 
             let blockpos_cmd = new BlockPos(x,y,z)
             let commandBlock = level.getBlock(blockpos_cmd);
@@ -100,6 +109,8 @@ ServerEvents.commandRegistry(e => {
 
             let offsetX = 0;
             let offsetZ = 0;
+
+            let frontBackX;
 
             if(facing == "south")
             {
@@ -115,11 +126,13 @@ ServerEvents.commandRegistry(e => {
             {
                 offsetX = 0;
                 offsetZ = -1;
+                frontBackX : true;
             }
             else
             {
                 offsetX = 0;
                 offsetZ = 1;
+                frontBackX : true;
             }
 
             let blockpos_up1 = new BlockPos(x,y+2,z)
@@ -150,15 +163,18 @@ ServerEvents.commandRegistry(e => {
 
             let doubledoor = ( block_over1.id == "minecraft:air" && block_over1_fb1.id == "minecraft:air" && block_over1_fb2.id == "minecraft:air" )
 
-            if( doubledoor )
-            {
-                setDoor(block, block_tall, facing ,tall, doubledoor, x, y, z, offsetX, offsetZ, ctx)
+            try {
+                if( doubledoor )
+                {
+                    setDoor(block, block_tall, facing ,tall, doubledoor, x, y, z, offsetX, offsetZ, dimension, ctx)
+                }
+                else
+                {
+                    setDoor(block_single, block_single_tall, facing ,tall, doubledoor, x, y, z, offsetX, offsetZ, dimension, ctx)
+                }                
+            } catch (error) {
+                console.log("setdoor command: " + error)
             }
-            else
-            {
-                setDoor(block_single, block_single_tall, facing ,tall, doubledoor, x, y, z, offsetX, offsetZ, direction, ctx)
-            }
-
             return 1;
         })
         ))))
@@ -184,6 +200,7 @@ ServerEvents.commandRegistry(e => {
             let z = position.z()-0.5
 
             let level = ctx.source.level
+            let dimension = level.dimensionKey.namespace + ":" + level.dimensionKey.path
 
             let blockpos_cmd = new BlockPos(x,y,z)
             let commandBlock = level.getBlock(blockpos_cmd);
@@ -230,8 +247,14 @@ ServerEvents.commandRegistry(e => {
 
             let doublebed = ( block_over1.id == "minecraft:air" )
 
-            setBed(bed, bedfacing, doublebed, x, y, z, offsetX, offsetZ, direction, pillowcolor.getName(), bedcolor.getName(), ctx)
+            
+            try {
 
+                setBed(bed, bedfacing, doublebed, x, y, z, offsetX, offsetZ, direction, pillowcolor.getName(), bedcolor.getName(), dimension, ctx)
+            
+            } catch (error) {
+                console.log("setbed command: " + error)
+            }
             return 1;
         })
         )))

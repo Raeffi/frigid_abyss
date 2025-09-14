@@ -26,7 +26,12 @@
     },
     {
       "char": "❇",
-      "variant": "frigidabyss:basementlights"
+      "block": "minecraft:command_block[conditional=false]",
+      "tag": {
+        "Command": "randomcommand 1 50 setblock ~ ~ ~ framedblocks:framed_slab[glowing=true,propagates_skylight=false,solid=true,top=true,waterlogged=false]{ForgeCaps:{},camo:{state:{Name:\"chipped:ornate_white_redstone_lamp\",Properties:{lit:\"true\"}},type:\"framedblocks:block\"},glowing:0b,intangible:0b,reinforced:0b,updated:3b}; 50 setblock ~ ~ ~ framedblocks:framed_slab[glowing=true,propagates_skylight=false,solid=true,top=true,waterlogged=false]{ForgeCaps:{},camo:{state:{Name:\"chipped:ornate_white_redstone_lamp\",Properties:{lit:\"false\"}},type:\"framedblocks:block\"},glowing:0b,intangible:0b,reinforced:0b,updated:3b}",
+        "auto": 1,
+        "conditionMet": 1
+      }
     },
     {
       "char": "⯦",

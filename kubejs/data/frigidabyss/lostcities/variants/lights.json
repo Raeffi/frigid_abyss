@@ -9,6 +9,10 @@
       "block": "tfmg:light_bulb[facing=down,level=0,waterlogged=false]"
     },
     {
+      "random": 46,
+      "block": "bellsandwhistles:headlight[face=ceiling]"
+    },
+    {
       "random": 1000,
       "block": "createaddition:small_light_connector[facing=up,mode=none,powered=false,rotation=none,variant=default]"
     }

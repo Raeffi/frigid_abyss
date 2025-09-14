@@ -301,11 +301,11 @@
 		"idas:wizard_tower",
 		"towns_and_towers:wreckage_ocean"]
 	#If true then also avoid generating the structures mentioned in 'avoidStructures' in chunks adjacent to the chunk with the structure
-	avoidStructuresAdjacent = false
+	avoidStructuresAdjacent = true
 	#If true then also avoid generating cities in chunks adjacent to the chunks with villages
 	avoidVillagesAdjacent = false
 	#If true then avoid generating cities in chunks with villages
 	avoidVillages = true
 	#If true then avoid flattening the terrain around the city in case there was a structure that was avoided
-	avoidFlattening = true
+	avoidFlattening = false
 

@@ -6,7 +6,7 @@
   "mincellars": 1,
   "maxcellars": 1,
   "allowDoors": false,
-  "preferslonely": 0.5,
+  "preferslonely": 0.3,
   "parts": [
     {
       "cellar": true,

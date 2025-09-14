@@ -1,0 +1,95 @@
+const BANNED_PROPERTIES = ["shape", "north", "south", "east", "west"];
+const LOST_CITIES_DIM = "lostcities:lostcity";
+
+let blockToString = (block) => {
+    let id = block.id;
+    let props = block.properties;
+    let blockStr = id;
+
+    if (!props.isEmpty()) {
+        let entries = [];
+        for (let key of props.keySet()) {
+            if (!BANNED_PROPERTIES.includes(key)) {
+                entries.push(`${key}=${props.get(key)}`);
+            }
+        }
+        blockStr += `[${entries.join(",")}]`;
+    }
+
+    return blockStr;
+};
+
+const Y_MIN = 40;
+const Y_MAX = 140;
+
+ServerEvents.tick(event => {
+    let pendingChunks = Utils.server.persistentData.get("pendingChunks");
+
+    if (!pendingChunks || pendingChunks.length === 0) return;
+
+    let { x, z } = pendingChunks.shift();
+    let level = Utils.server.getLevel(LOST_CITIES_DIM);
+    if (!level) return;
+
+    let chunk = level.getChunk(x, z);
+    if (!chunk) {
+        // Re-queue if the chunk isn't loaded yet
+        pendingChunks.push({
+            x: chunk.getPos().x,
+            z: chunk.getPos().z,    
+        });
+        console.log("chunk is null, requeue")
+        return;
+    }
+
+    let chunkPos = chunk.getPos();
+    let chunkKey = chunkPos.x + "_" + chunkPos.z;
+    let regionKey = chunkPos.getRegionX() + "_" + chunkPos.getRegionZ();
+
+    let data = Utils.server.persistentData;
+
+    if (!data.hasOwnProperty("regions")) {
+        data.put("regions", {});
+        console.log("!!! INITIALIZE regions !!!");
+    }
+
+    let regions = data.get("regions");
+
+    if (!regions.hasOwnProperty(regionKey)) {
+        regions[regionKey] = {};
+        console.log("!!! ADDED NEW REGION" + regionKey + "!!!");
+    }
+    if (!regions[regionKey].hasOwnProperty(chunkKey)) {
+        regions[regionKey][chunkKey] = false;
+    }
+
+    console.log("processing chunk:",regionKey,chunkKey);
+
+    if (regions[regionKey][chunkKey] == false) {
+
+        
+        let maxX = chunkPos.getMaxBlockX();
+        let minX = maxX - 15;
+        let maxZ = chunkPos.getMaxBlockZ();
+        let minZ = maxZ - 15;
+
+        console.log("Chunk from:" + minX, + "," + minZ + " to:" + maxX + "," + maxZ)
+
+        for (let x = minX; x <= maxX; x++) {
+            for (let z = minZ; z <= maxZ; z++) {
+                for (let y = Y_MIN; y <= Y_MAX; y++) {
+
+                    let block = level.getBlock(x, y, z);
+                    if (block.hasTag("minecraft:stairs")) {
+
+                        level.setBlock(x, y, z, blockToString(block));
+                        console.log(`Block replaced at ${x}, ${y}, ${z}`);
+
+                    }
+                }
+            }
+        }
+
+        regions[regionKey][chunkKey] = true;
+    }
+});

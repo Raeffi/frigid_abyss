@@ -460,7 +460,7 @@
         "char": "↤",
         "block": "minecraft:command_block[conditional=false,facing=east]",
         "tag": {
-          "Command": "",
+          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=east,occupied=false,part=head,shape=right] white red",
           "auto": 1,
           "conditionMet": 1
         }
@@ -469,7 +469,7 @@
         "char": "↦",
         "block": "minecraft:command_block[conditional=false,facing=west]",
         "tag": {
-          "Command": "",
+          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=west,occupied=false,part=head,shape=right] white red",
           "auto": 1,
           "conditionMet": 1
         }      
@@ -478,7 +478,7 @@
         "char": "↧",
         "block": "minecraft:command_block[conditional=false,facing=north]",
         "tag": {
-          "Command": "",
+          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=north,occupied=false,part=head,shape=right] white red",
           "auto": 1,
           "conditionMet": 1
         }      
@@ -487,7 +487,7 @@
         "char": "↥",
         "block": "minecraft:command_block[conditional=false,facing=south]",
         "tag": {
-          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=west,occupied=false,part=head,shape=right] white red",
+          "Command": "setbed handcrafted:oak_fancy_bed[color=white,facing=south,occupied=false,part=head,shape=right] white red",
           "auto": 1,
           "conditionMet": 1
         }

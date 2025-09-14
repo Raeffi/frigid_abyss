@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lost Cities Part Replacer</title>
+  <style>
+    body { font-family: sans-serif; margin: 20px; background: #f8f8f8; }
+    h2 { margin-top: 0; }
+    .box { border: 2px dashed #ccc; padding: 20px; background: white; margin-bottom: 20px; cursor: pointer; }
+    textarea { width: 100%; height: 300px; font-family: monospace; margin-top: 10px; }
+    button { padding: 10px 20px; margin-right: 10px; }
+  </style>
+</head>
+<body>
+
+<h2>🧱 Lost Cities Part Replacer</h2>
+
+<div class="box" id="dropZone">
+  <strong>Drop JSON files here</strong> (Parts, Palettes, and Variants)
+</div>
+
+<div>
+  <label>Select Part File:
+    <select id="partSelect"></select>
+  </label>
+</div>
+<div>
+  <label>Select Palette Files (Multi):
+    <select id="paletteSelect" multiple></select>
+  </label>
+</div>
+
+<button onclick="process()">🔄 Replace</button>
+
+<h3>Output:</h3>
+<textarea id="output" readonly></textarea>
+<br>
+<button onclick="copyToClipboard()">📋 Copy to Clipboard</button>
+<button onclick="downloadOutput()">💾 Download as JSON</button>
+
+<h3>Slice Preview:</h3>
+<pre id="preview" style="background:#fff;padding:10px;border:1px solid #ccc;overflow:auto;max-height:400px;"></pre>
+
+<script>
+let files = {};
+let variants = {};
+
+document.getElementById("dropZone").addEventListener("dragover", e => e.preventDefault());
+document.getElementById("dropZone").addEventListener("drop", async (e) => {
+  e.preventDefault();
+  for (const file of e.dataTransfer.files) {
+    const text = await file.text();
+    try {
+      files[file.name] = JSON.parse(text);
+    } catch (err) {
+      alert(`❌ Failed to parse ${file.name}`);
+    }
+  }
+  populateSelectors();
+});
+
+function populateSelectors() {
+  const partSel = document.getElementById("partSelect");
+  const paletteSel = document.getElementById("paletteSelect");
+  partSel.innerHTML = "";
+  paletteSel.innerHTML = "";
+  variants = {};
+
+  for (const name in files) {
+    const file = files[name];
+
+    if (file.slices) {
+      partSel.innerHTML += `<option value="${name}">${name}</option>`;
+    } else if (file.palette) {
+      paletteSel.innerHTML += `<option value="${name}">${name}</option>`;
+    } else if (file.blocks && !file.palette && !file.slices) {
+      variants[name] = file.blocks;
+    }
+  }
+}
+
+function parseBlockStates(blockStr) {
+  const match = blockStr.match(/^(.*?)\[(.*?)]$/);
+  if (!match) return { name: blockStr, states: {} };
+  const [, name, stateStr] = match;
+  const states = {};
+  for (const pair of stateStr.split(",")) {
+    const [key, value] = pair.split("=");
+    states[key.trim()] = value.trim();
+  }
+  return { name: name.trim(), states };
+}
+
+function matchBlock(partBlock, paletteBlock) {
+  const part = parseBlockStates(partBlock.block);
+  const target = parseBlockStates(paletteBlock.block);
+
+  if (part.name !== target.name) return false;
+
+  // Blockstates: every key in target must match part
+  for (const k in target.states) {
+    if (part.states[k] !== target.states[k]) return false;
+  }
+
+  // Tags (optional): every key in palette must exist in part
+  const aTags = partBlock.tags || {};
+  const bTags = paletteBlock.tags || {};
+
+  for (const k in bTags) {
+    if (aTags[k] === undefined || String(aTags[k]) !== String(bTags[k])) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
+function process() {
+  const partName = document.getElementById("partSelect").value;
+  const paletteOptions = Array.from(document.getElementById("paletteSelect").selectedOptions);
+  const paletteNames = paletteOptions.map(opt => opt.value);
+  if (!partName || paletteNames.length === 0) {
+    alert("❗ Please select a part file and at least one palette file.");
+    return;
+  }
+
+  const part = JSON.parse(JSON.stringify(files[partName]));
+  const allEntries = [];
+
+  // Inline variant entries in palettes
+  for (const name of paletteNames) {
+    const raw = files[name];
+    for (const entry of raw.palette) {
+      if (entry.variant && files[`${entry.variant}.json`]) {
+        const blocks = files[`${entry.variant}.json`].blocks || [];
+        allEntries.push({ char: entry.char, blocks });
+      } else if (entry.blocks) {
+        allEntries.push({ char: entry.char, blocks: entry.blocks });
+      } else if (entry.block) {
+        allEntries.push({ char: entry.char, blocks: [ { block: entry.block } ] });
+      }
+    }
+  }
+
+  // Support nested or flat part palette
+  const rawPalette = part.palette;
+  const localPalette = Array.isArray(rawPalette)
+    ? rawPalette
+    : Array.isArray(rawPalette?.palette)
+      ? rawPalette.palette
+      : [];
+
+  const charReplacementMap = {};
+
+  for (const local of localPalette) {
+    const partBlocks = local.blocks || [{ block: local.block }];
+    for (const partBlock of partBlocks) {
+      const matchEntry = allEntries.find(e =>
+        e.blocks.some(palBlock => matchBlock(partBlock, palBlock))
+      );
+      if (matchEntry) {
+        charReplacementMap[local.char] = matchEntry.char;
+        break;
+      }
+    }
+  }
+
+  const newPalette = localPalette.filter(p => !(p.char in charReplacementMap));
+  part.palette = newPalette;
+
+  // Replace characters in slices
+  if (part.slices) {
+    for (let i = 0; i < part.slices.length; i++) {
+      const slice = part.slices[i];
+      const data = Array.isArray(slice.data) ? slice.data : Array.isArray(slice) ? slice : null;
+      if (!data) {
+        console.warn("⚠️ Unexpected slice format at index", i, slice);
+        continue;
+      }
+      part.slices[i] = {
+        data: data.map(row =>
+          Array.from(row).map(c => charReplacementMap[c] || c).join("")
+        )
+      };
+    }
+  }
+
+  // ✅ Cleanup unused palette entries
+  if (part.slices) {
+    const usedChars = new Set();
+    for (const slice of part.slices) {
+      const data = slice.data || [];
+      for (const row of data) {
+        for (const c of row) {
+          usedChars.add(c);
+        }
+      }
+    }
+    part.palette = part.palette.filter(entry => usedChars.has(entry.char));
+  }
+
+  const out = JSON.stringify(part, null, 2);
+  document.getElementById("output").value = out;
+
+  // Slice preview
+  let previewText = "";
+  if (part.slices && part.slices.length > 0) {
+    for (const [i, slice] of part.slices.entries()) {
+      previewText += `Slice ${i}:\n`;
+      if (slice.data && slice.data.length > 0) {
+        previewText += slice.data.join("\n") + "\n\n";
+      } else {
+        previewText += "[no data]\n\n";
+      }
+    }
+  } else {
+    previewText = "⚠ No slices found in this part file.";
+  }
+  document.getElementById("preview").textContent = previewText;
+
+  if (Object.keys(charReplacementMap).length === 0) {
+    alert("ℹ No blocks from the part's palette matched the selected global palettes.\nNothing was replaced.");
+  }
+}
+
+function copyToClipboard() {
+  const text = document.getElementById("output").value;
+  navigator.clipboard.writeText(text).then(() => {
+    alert("📋 Copied to clipboard!");
+  });
+}
+
+function downloadOutput() {
+  const text = document.getElementById("output").value;
+  const blob = new Blob([text], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "replaced_part.json";
+  a.click();
+  URL.revokeObjectURL(url);
+}
+</script>
+</body>
+</html>

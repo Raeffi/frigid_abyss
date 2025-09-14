@@ -3,7 +3,6 @@
   "rubble": "}",
   "minfloors": 2,
   "maxfloors": 2,
-  "mincellars": 0,
   "maxcellars": 0,
   "allowDoors": false,
   "parts": [

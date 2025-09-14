@@ -58,7 +58,11 @@
     "buildings": [
 		{
 			"factor": 1,
-			"value": "frigidabyss:residential_1"
+			"value": "frigidabyss:residential_house_1"
+		},
+		{
+			"factor": 1,
+			"value": "frigidabyss:residential_house_1"
 		},
 		{
 			"factor": 1,
@@ -97,7 +101,7 @@
     ],
     "parks": [
       {
-        "factor": 1.0,
+        "factor": 0.0,
         "value": "lostcities:park_pool"
       }
     ],

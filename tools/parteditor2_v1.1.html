@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Slice JSON Editor</title>
+    <style>
+		body {
+			font-family: sans-serif;
+			margin: 20px;
+			user-select: none;
+		}
+
+        table {
+            border-collapse: collapse;
+        }
+
+        td {
+            width: 24px;
+            height: 24px;
+            text-align: center;
+            vertical-align: middle;
+            border: 1px solid #ccc;
+            padding: 0;
+        }
+
+        td input {
+            width: 100%;
+            height: 100%;
+            border: none;
+            text-align: center;
+            background: transparent;
+        }
+
+        .palette-list {
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 100px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            margin-bottom: 5px;
+        }
+
+        td.selected {
+            background-color: rgba(0, 128, 255, 0.4) !important;
+            outline: 1px solid #007bff;
+        }
+		td,
+		td input,
+		td[contenteditable="true"] {
+			user-select: text; /* Allow text selection in cells */
+		}
+    </style>
+</head>
+
+<body>
+<div style="display: flex; max-height: 90vh;">
+  <!-- First Section: Lost Cities Part Editor -->
+  <div style="width: 880px;">
+		<div style="background-color: gray; border-bottom: 2px solid black; padding: 20px; overflow: hidden;">
+			<h1>Lost Cities Part Editor</h1>
+			<div style="background-color: gray; border-bottom: 2px solid black; padding: 20px; display: flex; gap: 10px;">
+				<label for="fileInput" style="flex: 1; display: inline-block; padding: 12px 24px; font-size: 16px; border-radius: 5px; background-color: #4caf50; color: white; cursor: pointer; border: none; outline: none; text-align: center;">
+					🔎 Open Part
+					<input type="file" id="fileInput" style="display: none;" onchange="handleFileSelect(event)" />
+				</label>
+				<button onclick="downloadJSON()" style="flex: 1; padding: 12px 24px; font-size: 16px; border-radius: 5px; background-color: #4caf50; color: white; cursor: pointer; border: none; outline: none; text-align: center;">
+					💾 Download
+				</button>
+				<button onclick="copyJSONToClipboard()" style="flex: 1; padding: 12px 24px; font-size: 16px; border-radius: 5px; background-color: #2196f3; color: white; cursor: pointer; border: none; outline: none; text-align: center;">
+					📋 To Clipboard
+				</button>
+			</div>
+		</div>
+
+		<div style="background-color: WhiteSmoke; height: 410px; width: 100%;">
+			<div id="sliceEditor" style="float: left; width: 394px; height: 394px;"></div>
+
+			<div style="float: left; height: 100%; width: 200px;">
+				<div style="height: 33%; display: flex; flex-direction: column; justify-content: space-between;">
+					<!-- Top section with navigation buttons -->
+					<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; height: 33%; padding: 0;">
+						<button onclick="prevSlice()" style="width: 80%; height: 100%;">← Prev</button>
+						<div style="text-align: center; width: 50%;">
+							<strong>
+								<span id="currentSliceNumber" style="font-size: 24px;">1</span> /
+								<span id="totalSlices" style="font-size: 24px;">1</span>
+							</strong>
+						</div>
+						<button onclick="nextSlice()" style="width: 80%; height: 100%;">Next →</button>
+					</div>
+
+					<!-- Bottom section with action buttons -->
+					<div style="display: flex; flex-direction: column; gap: 10px; width: 100%; flex-grow: 1;">
+						<button onclick="addSlice()" style="flex-grow: 1;">➕ Add Slice</button>
+						<button onclick="removeCurrentSlice()" style="flex-grow: 1;">🗑️ Remove Slice</button>
+					</div>
+				</div>
+
+				<div style="height: 33%; display: flex; flex-direction: column; justify-content: space-between;">
+					<strong style="width: 100%;">Find Replace</strong>
+
+					<div style="width: 100%; height: 30px;">
+						<label>
+							Find (All Slices):
+							<input id="searchChar" type="text" maxlength="1" style="width: 30%; float: right;" />
+						</label>
+					</div>
+
+					<div style="width: 100%; height: 30px;">
+						<label>
+							Replace with:
+							<input id="replaceChar" type="text" maxlength="1" style="width: 30%; float: right;" />
+						</label>
+					</div>
+
+					<div style="width: 100%; flex-grow: 1;">
+						<button onclick="replaceCharacters()" style="width: 100%; height: 100%;">🔁 Replace</button>
+					</div>
+				</div>
+
+				<div style="height: 33%; display: flex; flex-direction: column; justify-content: space-between;">
+					<strong style="width: 100%;">Selection (Current Slice)</strong>
+
+					<div style="width: 100%; height: 30px;">
+						<label>
+							Fill Selection with:
+							<input type="text" id="multiCharInput" maxlength="1" style="width: 30%; float: right;" />
+						</label>
+					</div>
+
+					<div style="display: flex; flex-direction: column; gap: 10px; width: 100%; flex-grow: 1;">
+						<button onclick="applyToSelected(document.getElementById('multiCharInput').value)" style="flex-grow: 1;">Set Selected</button>
+						<button onclick="clearSelection()" style="flex-grow: 1;">Clear Selection</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+  <!-- Second Section: Refpalette and Palette -->
+  <div style="background-color: gray; width: 100%; heigth: 100%; box-sizing: border-box; overflow-y: auto;">
+    <!-- Refpalette -->
+    <div style="margin-bottom: 20px;width: 100%;">
+      <label style="display: inline-block;">Refpalette: </label>
+      <input id="refpaletteInput" type="text" onchange="updateRefPalette()" style="width: 100%; box-sizing: border-box;" />
+    </div>
+
+    <!-- Palette -->
+    <div style="width: 100%;">
+      <label>
+        Palette
+        <div id="paletteContainer" class="palette-list"></div>
+        <button onclick="addPaletteEntry()" style="padding: 10px 20px;">Add Palette Entry</button>
+      </label>
+    </div>
+  </div>
+</div>
+
+    <script>
+        let jsonData = {
+            xsize: 16,
+            zsize: 16,
+            slices: [],
+            palette: {
+                palette: []
+            }
+        };
+
+        let currentSliceIndex = 0;
+        let charColors = {};
+		
+		charColors[' '] = `rgb(255,255,255)`;
+		charColors['⬚'] = `rgb(255,255,255)`;
+
+		let sliceSelections = {}; // key: sliceIndex, value: Set of "z-x"
+
+        document.getElementById('fileInput').addEventListener('change', e => {
+            const reader = new FileReader();
+            reader.onload = evt => {
+                try {
+                    jsonData = JSON.parse(evt.target.result);
+                    currentSliceIndex = 0;
+                    render();
+                } catch {
+                    alert('Invalid JSON');
+                }
+            };
+            reader.readAsText(e.target.files[0]);
+        });
+
+        function updateRefPalette() {
+            const val = document.getElementById('refpaletteInput').value.trim();
+            if (val === '') delete jsonData.refpalette;
+            else jsonData.refpalette = val;
+        }
+
+        function getColorForChar(char) {
+            if (!charColors[char]) {
+                const hash = char.charCodeAt(0);
+                const r = (hash * 123) % 256;
+                const g = (hash * 321) % 256;
+                const b = (hash * 231) % 256;
+                charColors[char] = `rgb(${r}, ${g}, ${b})`;
+            }
+            return charColors[char];
+        }
+
+        function render() {
+            document.getElementById('refpaletteInput').value = jsonData.refpalette || '';
+            renderPalette();
+            renderSliceEditor();
+        }
+
+        function renderPalette() {
+            const container = document.getElementById('paletteContainer');
+            container.innerHTML = '';
+            jsonData.palette = jsonData.palette || {
+                palette: []
+            };
+            jsonData.palette.palette.forEach((entry, index) => {
+                const textareaId = `palette-json-${index}`;
+                const div = document.createElement('div');
+                div.innerHTML = `
+      <textarea id="${textareaId}" onchange="updatePaletteEntry(${index})">${JSON.stringify(entry, null, 2)}</textarea>
+      <button onclick="removePaletteEntry(${index})">Remove</button>
+      <hr />
+    `;
+                container.appendChild(div);
+            });
+        }
+
+        function updatePaletteEntry(index) {
+            const textarea = document.getElementById(`palette-json-${index}`);
+            try {
+                const parsed = JSON.parse(textarea.value);
+                jsonData.palette.palette[index] = parsed;
+                renderSliceEditor(); // update colors
+            } catch {
+                alert('Invalid JSON in palette entry.');
+            }
+        }
+
+        function addPaletteEntry() {
+            jsonData.palette.palette.push({
+                char: '?',
+                block: 'minecraft:stone'
+            });
+            renderPalette();
+        }
+
+        function removePaletteEntry(index) {
+            jsonData.palette.palette.splice(index, 1);
+            renderPalette();
+            renderSliceEditor();
+        }
+
+        function renderSliceEditor() {
+            const container = document.getElementById('sliceEditor');
+            container.innerHTML = ''; // Clear previous content
+
+            const slice = jsonData.slices[currentSliceIndex];
+            const table = document.createElement('table');
+            document.getElementById('currentSliceNumber').textContent = currentSliceIndex + 1;
+            document.getElementById('totalSlices').textContent = jsonData.slices.length;
+            table.classList.add('slice-table');
+
+            for (let z = 0; z < jsonData.zsize; z++) {
+                const row = document.createElement('tr');
+                for (let x = 0; x < jsonData.xsize; x++) {
+                    const td = document.createElement('td');
+                    td.contentEditable = true;
+                    td.setAttribute('spellcheck', 'false');
+                    td.addEventListener('mousedown', cellMouseDown);
+                    td.addEventListener('mousemove', cellMouseMove);
+                    td.addEventListener('mouseup', cellMouseUp);
+                    td.innerText = slice[z][x] || ' ';
+                    td.dataset.z = z;
+                    td.dataset.x = x;
+
+                    // Set cell background color (optional based on palette)
+                    const char = slice[z][x];
+                    const color = getColorForChar(char);
+                    if (color) td.style.backgroundColor = color;
+
+                    // Selection handlers
+                    td.addEventListener('mousedown', cellMouseDown);
+                    td.addEventListener('mousemove', cellMouseMove);
+                    td.addEventListener('mouseup', cellMouseUp);
+
+                    // Input event to store edits directly
+                    td.addEventListener('input', e => {
+                        const newChar = e.target.innerText[0] || ' ';
+                        jsonData.slices[currentSliceIndex][z] =
+                            jsonData.slices[currentSliceIndex][z].substring(0, x) +
+                            newChar +
+                            jsonData.slices[currentSliceIndex][z].substring(x + 1);
+                    });
+					
+					td.addEventListener('dblclick', () => {
+						const char = td.innerText.trim() || ' ';
+						navigator.clipboard.writeText(char).then(() => {
+							console.log(`Copied '${char}' to clipboard.`);
+						}).catch(err => {
+							console.error("Failed to copy character: ", err);
+						});
+					});
+					
+					const key = `${z}-${x}`;
+					const selectionSet = getCurrentSelectionSet();
+					if (selectionSet.has(key)) {
+						td.classList.add('selected');
+					}
+
+                    row.appendChild(td);
+                }
+                table.appendChild(row);
+            }
+
+            container.appendChild(table);
+        }
+
+
+		function addSlice() {
+			const size = jsonData.xsize || 16;
+			const newSlice = Array(size).fill(' '.repeat(size));
+
+			// Insert the new slice at the currentSliceIndex
+			jsonData.slices.splice(currentSliceIndex, 0, newSlice);
+
+			// Update the currentSliceIndex to point to the newly added slice
+			currentSliceIndex = currentSliceIndex;
+
+			renderSliceEditor();
+		}
+
+        function removeCurrentSlice() {
+            if (jsonData.slices.length <= 1) {
+                alert("Cannot remove the last slice.");
+                return;
+            }
+            jsonData.slices.splice(currentSliceIndex, 1);
+            if (currentSliceIndex >= jsonData.slices.length) {
+                currentSliceIndex = jsonData.slices.length - 1;
+            }
+            renderSliceEditor();
+        }
+
+        function prevSlice() {
+            if (currentSliceIndex > 0) {
+                currentSliceIndex--;
+                renderSliceEditor();
+            }
+        }
+
+        function nextSlice() {
+            if (currentSliceIndex < jsonData.slices.length - 1) {
+                currentSliceIndex++;
+                renderSliceEditor();
+            }
+        }
+
+        // function downloadJSON() {
+        //   const blob = new Blob([JSON.stringify(jsonData, null, 2)], { type: 'application/json' });
+        //   const url = URL.createObjectURL(blob);
+        //   const a = document.createElement('a');
+        //   a.href = url;
+        //   a.download = 'edited_structure.json';
+        //   a.click();
+        //   URL.revokeObjectURL(url);
+        // }
+
+        async function downloadJSON() {
+            const jsonString = JSON.stringify(jsonData, null, 2);
+
+            // Check if File System Access API is supported
+            if ('showSaveFilePicker' in window) {
+                try {
+                    const handle = await window.showSaveFilePicker({
+                        suggestedName: 'edited_structure.json',
+                        types: [{
+                            description: 'JSON file',
+                            accept: {
+                                'application/json': ['.json']
+                            },
+                        }],
+                    });
+
+                    const writable = await handle.createWritable();
+                    await writable.write(jsonString);
+                    await writable.close();
+                    console.log("File saved using File System Access API.");
+                    return;
+                } catch (err) {
+                    console.warn("File save cancelled or failed:", err);
+                }
+            }
+
+            // Fallback: prompt for filename and trigger download
+            const filename = prompt("Enter a filename", "edited_structure.json");
+            if (!filename) return; // User cancelled
+
+            const blob = new Blob([jsonString], {
+                type: 'application/json'
+            });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a); // Firefox requires it in DOM
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            console.log("File downloaded via fallback method.");
+        }
+		
+		function copyJSONToClipboard() {
+			const jsonString = JSON.stringify(jsonData, null, 2);
+
+			navigator.clipboard.writeText(jsonString).then(() => {
+				alert("JSON copied to clipboard!");
+			}).catch(err => {
+				console.error("Failed to copy JSON to clipboard: ", err);
+				alert("Failed to copy JSON. See console for details.");
+			});
+		}
+
+        function replaceCharacters() {
+            const searchChar = document.getElementById('searchChar').value;
+            const replaceChar = document.getElementById('replaceChar').value;
+
+            if (searchChar.length !== 1 || replaceChar.length !== 1) {
+                alert('Please enter one character for both search and replace.');
+                return;
+            }
+
+            jsonData.slices.forEach((slice, sliceIndex) => {
+                for (let z = 0; z < slice.length; z++) {
+                    const line = slice[z];
+                    if (line.includes(searchChar)) {
+                        slice[z] = line.split(searchChar).join(replaceChar);
+                    }
+                }
+            });
+
+            renderSliceEditor();
+        }
+
+        let isDragging = false;
+        let selectedCells = new Set();
+
+		function cellMouseDown(e) {
+			if (e.button !== 0) return; // Only left click
+
+			// Allow native selection if user is selecting text
+			const selection = window.getSelection();
+			if (selection && selection.toString().length > 0) return;
+
+			e.preventDefault();
+			clearSelection();
+			isDragging = true;
+			toggleCellSelection(e.target);
+		}
+
+		function cellMouseMove(e) {
+			if (!isDragging) return;
+
+			// Don't interfere if user is selecting text
+			const selection = window.getSelection();
+			if (selection && selection.toString().length > 0) return;
+
+			if (e.target.tagName !== 'TD') return;
+			e.preventDefault();
+			toggleCellSelection(e.target);
+		}
+
+        function cellMouseUp(e) {
+            e.preventDefault();
+            isDragging = false;
+        }
+
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+        });
+
+		function toggleCellSelection(cell) {
+			const z = cell.dataset.z;
+			const x = cell.dataset.x;
+			if (z == null || x == null) return;
+
+			const key = `${z}-${x}`;
+			const selectionSet = getCurrentSelectionSet();
+
+			if (!selectionSet.has(key)) {
+				selectionSet.add(key);
+				cell.classList.add('selected');
+			}
+		}
+
+		function clearSelection() {
+			const selectionSet = getCurrentSelectionSet();
+			selectionSet.forEach(k => {
+				const [z, x] = k.split('-');
+				const td = document.querySelector(`td[data-z="${z}"][data-x="${x}"]`);
+				if (td) td.classList.remove('selected');
+			});
+			selectionSet.clear();
+		}
+
+		function applyToSelected(char) {
+			const selectionSet = getCurrentSelectionSet();
+
+			selectionSet.forEach(k => {
+				const [z, x] = k.split('-').map(Number);
+				jsonData.slices[currentSliceIndex][z] =
+					jsonData.slices[currentSliceIndex][z].substring(0, x) +
+					char +
+					jsonData.slices[currentSliceIndex][z].substring(x + 1);
+			});
+			renderSliceEditor();
+		}
+		
+		function getCurrentSelectionSet() {
+			if (!sliceSelections[currentSliceIndex]) {
+				sliceSelections[currentSliceIndex] = new Set();
+			}
+			return sliceSelections[currentSliceIndex];
+		}
+		
+		
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,126 @@
+const LOST_CITIES_DIM = "lostcities:lostcity";
+const $CHUNK_LOAD = Java.loadClass("net.minecraftforge.event.level.ChunkDataEvent$Load");
+
+/*
+ForgeEvents.onEvent($CHUNK_LOAD, (e) => {
+
+    let level = Utils.server.getLevel(LOST_CITIES_DIM);
+    //console.log(level);
+
+    if( level != null){
+
+        let chunk = e.getChunk();
+        let regionKey = chunk.getPos().getRegionX() + "_" + e.getChunk().getPos().getRegionZ();
+        let chunkKey = chunk.getPos().x + "_" + e.getChunk().getPos().z;
+        let data = Utils.server.persistentData;
+        
+        // add regions to data
+        if (!data.hasOwnProperty("regions")) {
+            data.put("regions", {});
+        }
+        let regions = data.get("regions");
+        // check if chunk exits
+        if (!regions.hasOwnProperty(regionKey)) {
+            regions[regionKey] = {};
+        }
+        // Initialize chunk if not present
+        if (!regions[regionKey].hasOwnProperty(chunkKey)) {
+            
+            regions[regionKey][chunkKey] = false;
+        }
+
+        // only edit unmarked chunks
+        if ( regions[regionKey][chunkKey] == false )
+        {
+
+            console.log("New Chunk Loaded at" + chunkKey );
+
+            let minX = chunk.getPos().getMinBlockX();
+            let maxX = chunk.getPos().getMaxBlockX();
+            let minZ = chunk.getPos().getMinBlockZ();
+            let maxZ = chunk.getPos().getMaxBlockZ();
+
+            let toReplace = [];
+
+            for (let x = minX; x <= maxX; x++) {
+                for (let z = minZ; z <= maxZ; z++) {
+                    for (let y = Y_MIN; y <= Y_MAX; y++) {
+                        let block = level.getBlock(x, y, z);
+
+                        if (block.hasTag("minecraft:stairs")) {
+                            toReplace.push({ x: x, y: y, z: z, block: block });
+                        }
+                    }
+                }
+            }
+
+            // Mark the chunk as processed BEFORE doing anything else
+            regions[regionKey][chunkKey] = true;
+
+            // Now safely modify blocks 1 tick later
+            Utils.server.scheduleInTicks(1, () => {
+                for (let entry of toReplace) {
+                    let { x, y, z, block } = entry;
+                    level.setBlock(x, y, z, blockToString(block));
+                }
+            });
+
+            
+        }
+    
+    }
+    else
+    {
+        console.log("ChunkDataEvent.Load received with null level", e);
+    }
+});
+*/
+
+ForgeEvents.onEvent($CHUNK_LOAD, (e) => {
+
+    if (!Utils.server.persistentData.hasOwnProperty("pendingChunks")) {
+        Utils.server.persistentData.put("pendingChunks", []);
+        console.log("!!! INITIALIZE pendingChunks !!!");
+    }
+
+    let pendingChunks = Utils.server.persistentData.get("pendingChunks");
+
+    let level = e.getLevel();
+    if (!level || level.dimension !== "lostcities:lostcity") return;
+
+    let chunk = e.getChunk();
+    let chunkKey = chunk.getPos().x + "_" + chunk.getPos().z;
+    let regionKey = chunk.getPos().getRegionX() + "_" + chunk.getPos().getRegionZ();
+
+    let data = Utils.server.persistentData;
+
+    if (!data.hasOwnProperty("regions")) {
+        data.put("regions", {});
+        console.log("!!! INITIALIZE regions !!!");
+    }
+        
+    let regions = data.get("regions");
+
+    if (!regions.hasOwnProperty(regionKey)){
+        regions[regionKey] = {};
+        console.log("!!! ADDED NEW REGION" + regionKey + "!!!");
+    }
+
+    if (!regions[regionKey][chunkKey]) {
+        
+        // Just schedule the chunk to be processed later
+        console.log("New Chunk Loaded at" + chunkKey );
+        pendingChunks.push({
+            x: chunk.getPos().x,
+            z: chunk.getPos().z,
+        });
+        regions[regionKey][chunkKey] = false;
+    }
+});
+
+
+// const $CHUNK_GENERATE = Java.loadClass("net.minecraft.util.profiling.jfr.event.ChunkGenerationEvent");
+
+// StartupEvents.onEvent($CHUNK_GENERATE, (e) => {
+//     console.log("Chunk Generated", e);
+// });
