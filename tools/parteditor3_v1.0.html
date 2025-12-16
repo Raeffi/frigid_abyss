@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>LostCities Slice Editor — Dockable (GoldenLayout, dark)</title>
+
+<!-- GoldenLayout v2 CSS (base) -->
+<link rel="stylesheet" href="https://unpkg.com/golden-layout@2.6.0/dist/css/goldenlayout-base.css">
+
+<style>
+  /* --- App-wide dark theming and basic resets --- */
+  :root{
+    --bg: #0f1115;
+    --panel-bg: #111316;
+    --panel-quiet:#0b0c0f;
+    --muted: #9aa3b2;
+    --accent: #00b4ff;
+    --accent2:#ff9800;
+    --card: #151719;
+    --border: #222529;
+    --text: #e6eef5;
+  }
+  html,body { height:100%; margin:0; background:var(--bg); color:var(--text); font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+  #topbar {
+    height:44px;
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:6px 10px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.06));
+    border-bottom:1px solid rgba(255,255,255,0.03);
+  }
+  #topbar .group { display:flex; align-items:center; gap:6px; margin-right:8px; }
+  button, input[type="file"], input[type="text"], select { background: #0d0f12; color:var(--text); border:1px solid var(--border); padding:6px 8px; border-radius:6px; font-size:13px; }
+  button:hover { box-shadow:0 0 0 3px rgba(0,180,255,0.06); }
+  label.small { color:var(--muted); font-size:13px; margin-left:8px; }
+  #layoutRoot { position: absolute; inset:44px 0 0 0; } /* leave room for topbar */
+
+  /* Panel content area common */
+  .panel-content { padding:8px; box-sizing:border-box; height:100%; overflow:auto; color:var(--text); background:var(--panel-bg); }
+
+  /* Slice editor styling */
+  .slice-wrapper { display:flex; height:100%; gap:10px; align-items:stretch; }
+  .slice-left-controls { width:72px; min-width:72px; background:transparent; display:flex; flex-direction:column; gap:6px; padding:6px; box-sizing:border-box; }
+  .slice-left-controls button { writing-mode:vertical-rl; transform:rotate(180deg); white-space:nowrap; height:36px; padding:6px; font-size:12px; }
+  .slice-canvas { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-start; overflow:auto; padding:10px; box-sizing:border-box; }
+  .slice-toolbar { display:flex; gap:8px; align-items:center; margin-bottom:8px; }
+  .slice-grid { background:var(--card); padding:6px; border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6); overflow:auto; max-width: calc(100% - 12px); }
+  .slice-grid table { border-collapse:collapse; }
+  .slice-grid td { width:28px; height:28px; text-align:center; vertical-align:middle; border:1px solid rgba(255,255,255,0.03); color:#fff; font-weight:600; user-select:none; }
+  .slice-grid td[contenteditable="true"] { outline: none; }
+  .slice-grid td.selected { outline:2px solid rgba(0,180,255,0.25); background: rgba(0,180,255,0.06); }
+  /* marker triangle (B3) top-right */
+  .slice-grid td.interior-marker::after {
+    content:"";
+    position:absolute;
+    top:0; right:0;
+    width:0; height:0;
+    border-style:solid;
+    border-width:0 8px 8px 0;
+    border-color:transparent var(--accent2) transparent transparent;
+    opacity:0.65;
+    pointer-events:none;
+  }
+  .slice-grid td { position: relative; }
+
+  /* Palette bottom panel */
+  .palette-list { max-height: 260px; overflow:auto; background:var(--panel-quiet); padding:10px; border-radius:6px; border:1px solid var(--border); }
+  .palette-list textarea { width:100%; height:90px; background:#0b0d10; color:var(--text); border:1px solid #1d2226; padding:8px; border-radius:6px; resize:vertical; }
+
+  /* compact controls */
+  .compact { font-size:13px; padding:6px 8px; }
+
+  /* golden-layout dark tweaks (tab headers / background) */
+  .lm-root { background: linear-gradient(180deg, #0b0d10, #0a0b0d); }
+  .lm_title { color:var(--muted); font-weight:600; }
+  .lm_tab { background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(0,0,0,0.1)); color:var(--muted); }
+  .lm_controls { color:var(--muted); }
+  .lm_content { background: transparent; }
+
+  /* topbar compact items */
+  .top-buttons { display:flex; gap:6px; align-items:center; }
+  .badge { padding:4px 8px; border-radius:6px; background:#111318; color:var(--muted); border:1px solid var(--border); font-weight:600; }
+
+  /* small responsive */
+  @media (max-width:900px){
+    .slice-left-controls { display:none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Top bar (compact) -->
+<div id="topbar">
+  <div class="group top-buttons">
+    <input id="mainFileInput" type="file" title="Load main part (JSON)">
+    <input id="interiorFileInputTop" type="file" title="Load interior part (JSON)">
+    <button class="compact" id="saveMainBtn">Save Main</button>
+    <button class="compact" id="saveInteriorBtn">Save Interior</button>
+  </div>
+
+  <div style="flex:1"></div>
+
+  <div class="group">
+    <div class="badge" id="activeLayerBadge">Editing: Main</div>
+    <label style="margin-left:8px;">
+      <input id="layerSwitch" type="checkbox"> Edit Interior
+    </label>
+    <label style="margin-left:12px;">
+      <input id="overlayToggleTop" type="checkbox"> Overlay (interior → main)
+    </label>
+    <div style="width:10px"></div>
+    <button id="prevSliceCompact" class="compact">◀</button>
+    <button id="nextSliceCompact" class="compact">▶</button>
+    <div style="width:8px"></div>
+    <span class="small" id="slicePosCompact">Slice 1 / 1</span>
+  </div>
+</div>
+
+<!-- GoldenLayout root -->
+<div id="layoutRoot"></div>
+
+<!-- GoldenLayout script (v2) -->
+<script src="https://unpkg.com/golden-layout@2.6.0/dist/golden-layout.min.js"></script>
+
+<script>
+/* ============================
+   Docking + Layout bootstrap
+   ============================ */
+
+const defaultLayout = {
+  content: [{
+    type: 'column',
+    content:[{
+      type: 'row',
+      content: [
+        {
+          type: 'component',
+          componentName: 'slice-controls',
+          title: 'Slice Controls',
+          width: 12
+        },
+        {
+          type: 'component',
+          componentName: 'slice-editor',
+          title: 'Slice Editor',
+          flex: 1
+        }
+      ]
+    },
+    {
+      type: 'component',
+      componentName: 'palette',
+      title: 'Palette',
+      height: 22
+    }]
+  }]
+};
+
+/* Create layout */
+const layout = new GoldenLayout( defaultLayout, document.getElementById('layoutRoot') );
+
+/* Register components -> we will inject HTML containers and then initialize the editor logic onto them */
+layout.registerComponent( 'slice-editor', function( container, state ){
+  const el = document.createElement('div');
+  el.style.height = '100%';
+  el.style.display = 'flex';
+  el.style.flexDirection = 'column';
+  el.innerHTML = `
+    <div class="panel-content" style="height:100%; padding:6px;">
+      <div class="slice-wrapper" style="height:100%;">
+        <div class="slice-left-controls" id="sliceControlsPanel"></div>
+        <div class="slice-canvas">
+          <div class="slice-toolbar" id="sliceToolbar"></div>
+          <div class="slice-grid" id="sliceGridContainer"></div>
+        </div>
+      </div>
+    </div>
+  `;
+  container.element.append(el);
+} );
+
+layout.registerComponent( 'slice-controls', function( container, state ){
+  const el = document.createElement('div');
+  el.className = 'panel-content';
+  el.style.display = 'flex';
+  el.style.flexDirection = 'column';
+  el.style.gap = '8px';
+  el.innerHTML = `
+    <div style="display:flex;flex-direction:column;gap:8px">
+      <button id="btnPrev" class="compact">← Prev</button>
+      <button id="btnNext" class="compact">Next →</button>
+      <button id="btnAdd" class="compact">Add Slice</button>
+      <button id="btnRemove" class="compact">Remove Slice</button>
+      <hr style="opacity:0.06;border-color:var(--border)"/>
+      <div>
+        <div class="small">Search & Replace</div>
+        <div style="display:flex;gap:6px;margin-top:6px">
+          <input id="srFind" placeholder="Find" maxlength="1" style="width:48px"/>
+          <input id="srReplace" placeholder="Replace" maxlength="1" style="width:48px"/>
+          <button id="srBtn" class="compact">Replace</button>
+        </div>
+      </div>
+      <hr style="opacity:0.06;border-color:var(--border)"/>
+      <div>
+        <div class="small">Selection</div>
+        <input id="multiChar" maxlength="1" style="width:48px; margin-top:6px"/>
+        <div style="margin-top:6px">
+          <button id="applySelected" class="compact">Apply</button>
+          <button id="clearSel" class="compact">Clear</button>
+        </div>
+      </div>
+    </div>
+  `;
+  container.element.append(el);
+} );
+
+layout.registerComponent( 'palette', function( container, state ){
+  const el = document.createElement('div');
+  el.className = 'panel-content';
+  el.innerHTML = `
+    <div>
+      <div style="display:flex;gap:8px;align-items:center;margin-bottom:8px">
+        <button id="addPaletteBtn" class="compact">Add Palette Entry</button>
+        <button id="savePaletteBtn" class="compact">Export Palette</button>
+        <div style="flex:1"></div>
+        <span class="small">Palette (scrollable)</span>
+      </div>
+      <div id="paletteContainerEL" class="palette-list"></div>
+    </div>
+  `;
+  container.element.append(el);
+} );
+
+/* Initialize */
+layout.init();
+
+/* ============================
+   Editor core logic (adapted from previous version)
+   We attach UI elements created inside GoldenLayout to existing functions.
+   ============================ */
+
+/* ---------- State ---------- */
+const EMPTY_CHARS = new Set([' ', '⬚']);
+
+let jsonDataMain = {
+  xsize: 16,
+  zsize: 16,
+  slices: [ Array(16).fill(" ".repeat(16)) ],
+  palette: { palette: [] }
+};
+
+let jsonDataInterior = null;
+let activeLayer = "main"; // 'main' or 'interior'
+let overlayEnabled = false;
+let currentSliceIndex = 0;
+
+let charColors = {};
+let isDragging = false;
+let selectedCells = new Set();
+
+/* ---------- Helpers ---------- */
+function getActiveData(){ return activeLayer === 'main' ? jsonDataMain : jsonDataInterior; }
+function updateActiveBadge(){
+  document.getElementById('activeLayerBadge').textContent = 'Editing: ' + (activeLayer === 'main' ? 'Main' : 'Interior');
+  // update the layer switch checkbox (top)
+  document.getElementById('layerSwitch').checked = (activeLayer === 'interior');
+}
+function safeGet(data, slice, z, x){
+  if (!data || !data.slices || slice < 0 || slice >= data.slices.length) return ' ';
+  const row = data.slices[slice][z];
+  return (row && row[x]) ? row[x] : ' ';
+}
+function getColorForChar(c){
+  if (!charColors[c]) {
+    const code = (c && c.length) ? c.charCodeAt(0) : 32;
+    const r = (code * 123) % 256;
+    const g = (code * 321) % 256;
+    const b = (code * 231) % 256;
+    charColors[c] = `rgb(${r},${g},${b})`;
+  }
+  return charColors[c];
+}
+
+/* ---------- Wire topbar events ---------- */
+document.getElementById('mainFileInput').addEventListener('change', e => {
+  const r = new FileReader();
+  r.onload = ev => {
+    try{
+      jsonDataMain = JSON.parse(ev.target.result);
+      // ensure defaults
+      jsonDataMain.xsize = jsonDataMain.xsize || 16;
+      jsonDataMain.zsize = jsonDataMain.zsize || 16;
+      if (!jsonDataMain.slices || jsonDataMain.slices.length===0) jsonDataMain.slices=[ Array(jsonDataMain.zsize).fill(" ".repeat(jsonDataMain.xsize)) ];
+      activeLayer='main'; currentSliceIndex = 0; updateActiveBadge(); renderAll();
+    }catch(e){ alert('Invalid main JSON'); }
+  };
+  r.readAsText(e.target.files[0]);
+});
+document.getElementById('interiorFileInputTop').addEventListener('change', e=>{
+  const r = new FileReader();
+  r.onload = ev => {
+    try{
+      jsonDataInterior = JSON.parse(ev.target.result);
+      jsonDataInterior.xsize = jsonDataInterior.xsize || jsonDataMain.xsize || 16;
+      jsonDataInterior.zsize = jsonDataInterior.zsize || jsonDataMain.zsize || 16;
+      activeLayer='interior'; currentSliceIndex = 0; updateActiveBadge(); renderAll();
+    }catch(e){ alert('Invalid interior JSON'); }
+  };
+  r.readAsText(e.target.files[0]);
+});
+
+document.getElementById('saveMainBtn').addEventListener('click', ()=> saveAs(jsonDataMain,'main_structure.json') );
+document.getElementById('saveInteriorBtn').addEventListener('click', ()=>{
+  if (!jsonDataInterior) return alert('No interior loaded');
+  saveAs(jsonDataInterior,'interior_structure.json');
+});
+
+document.getElementById('layerSwitch').addEventListener('change', (ev)=>{
+  activeLayer = ev.target.checked ? 'interior' : 'main';
+  updateActiveBadge();
+  renderAll();
+});
+
+document.getElementById('overlayToggleTop').addEventListener('change', (ev)=>{
+  overlayEnabled = ev.target.checked;
+  renderAll();
+});
+
+document.getElementById('prevSliceCompact').addEventListener('click', ()=>{ prevSlice(); });
+document.getElementById('nextSliceCompact').addEventListener('click', ()=>{ nextSlice(); });
+
+/* ---------- Save helper ---------- */
+async function saveAs(json, suggested){
+  const txt = JSON.stringify(json,null,2);
+  if ('showSaveFilePicker' in window) {
+    try {
+      const handle = await window.showSaveFilePicker({ suggestedName: suggested, types:[{description:'JSON', accept:{'application/json':['.json']}}]});
+      const w = await handle.createWritable();
+      await w.write(txt);
+      await w.close();
+      return;
+    } catch(e){}
+  }
+  // fallback
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([txt],{type:'application/json'}));
+  a.download = suggested;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
+
+/* ---------- Palette panel wiring ---------- */
+function renderPalette(){
+  const box = document.getElementById('paletteContainerEL');
+  if (!box) return;
+  box.innerHTML = '';
+  const data = getActiveData();
+  data.palette = data.palette || { palette: [] };
+  data.palette.palette.forEach((entry, idx)=>{
+    const div = document.createElement('div');
+    div.style.marginBottom = '8px';
+    div.innerHTML = `
+      <textarea id="pal-${idx}">${JSON.stringify(entry,null,2)}</textarea>
+      <div style="display:flex;gap:8px;margin-top:6px">
+        <button id="palrm-${idx}" class="compact">Remove</button>
+      </div>
+    `;
+    box.appendChild(div);
+    document.getElementById(`palrm-${idx}`).addEventListener('click', ()=>{
+      data.palette.palette.splice(idx,1); renderPalette(); renderAll();
+    });
+  });
+}
+document.getElementById('addPaletteBtn').addEventListener('click', ()=>{
+  const d = getActiveData();
+  d.palette = d.palette || { palette:[] };
+  d.palette.palette.push({ char:'?', block:'minecraft:stone' });
+  renderPalette();
+});
+
+/* ---------- Slice Controls wiring (left) ---------- */
+function wireControls(){
+  // left controls may be recreated by goldenlayout, so we attach events by id globally
+  const attachIf = (id, cb) => { const el = document.getElementById(id); if (el) { el.onclick = cb; } };
+
+  attachIf('btnPrev', ()=> prevSlice());
+  attachIf('btnNext', ()=> nextSlice());
+  attachIf('btnAdd', ()=> addSlice());
+  attachIf('btnRemove', ()=> removeCurrentSlice());
+  attachIf('srBtn', ()=> {
+    const f = document.getElementById('srFind').value;
+    const r = document.getElementById('srReplace').value;
+    if (f.length!==1 || r.length!==1) return alert('Enter single chars');
+    const d = getActiveData();
+    d.slices.forEach((s,si)=>{ for(let z=0; z<s.length; z++){ s[z] = s[z].split(f).join(r); }});
+    renderAll();
+  });
+  attachIf('applySelected', ()=> {
+    const ch = document.getElementById('multiChar').value || ' ';
+    applyToSelected(ch);
+  });
+  attachIf('clearSel', ()=> { clearSelection(); });
+}
+
+/* call once and also on each render */
+wireControls();
+
+/* ---------- Slice grid rendering ---------- */
+
+function renderSliceGrid(){
+  const container = document.getElementById('sliceGridContainer');
+  if (!container) return;
+  container.innerHTML = ''; // rebuild
+
+  // compute sizes (prefer main)
+  const w = (jsonDataMain && jsonDataMain.xsize) ? jsonDataMain.xsize : 16;
+  const h = (jsonDataMain && jsonDataMain.zsize) ? jsonDataMain.zsize : 16;
+  const dataActive = getActiveData();
+
+  // update compact slice text
+  const total = (dataActive && dataActive.slices) ? dataActive.slices.length : 0;
+  document.getElementById('slicePosCompact').textContent = `Slice ${currentSliceIndex+1} / ${total}`;
+
+  // create table
+  const table = document.createElement('table');
+  for (let z=0; z<h; z++){
+    const tr = document.createElement('tr');
+    for (let x=0; x<w; x++){
+      const td = document.createElement('td');
+      td.setAttribute('contenteditable','true');
+      td.dataset.z = z; td.dataset.x = x;
+
+      const mainChar = safeGet(jsonDataMain, currentSliceIndex, z, x);
+      const intrChar = safeGet(jsonDataInterior, currentSliceIndex - 1, z, x); // alignment A
+      
+      let visible = mainChar;
+      if (overlayEnabled && jsonDataInterior) {
+        if (!EMPTY_CHARS.has(intrChar)) visible = intrChar;
+      } else {
+        // show active data char when not overlay
+        const viewData = getActiveData() || jsonDataMain;
+        visible = safeGet(viewData, currentSliceIndex, z, x);
+      }
+
+      td.innerText = visible;
+      td.style.background = getColorForChar(visible);
+      // marker B3: top-right triangle when on main view, overlay off, interior has non-empty
+      if (activeLayer === 'main' && !overlayEnabled && jsonDataInterior && (currentSliceIndex - 1) >= 0 && !EMPTY_CHARS.has(intrChar)) {
+        td.classList.add('interior-marker');
+      }
+
+      td.addEventListener('mousedown', cellMouseDown);
+      td.addEventListener('mousemove', cellMouseMove);
+      td.addEventListener('mouseup', cellMouseUp);
+      td.addEventListener('input', e => {
+        const newChar = e.target.innerText[0] || ' ';
+        const d = getActiveData();
+        if (!d || !d.slices) return;
+        // ensure slice exists
+        while (d.slices.length <= currentSliceIndex) {
+          d.slices.push(Array(h).fill(" ".repeat(w)));
+        }
+        const row = d.slices[currentSliceIndex][z] || " ".repeat(w);
+        d.slices[currentSliceIndex][z] = row.substring(0,x) + newChar + row.substring(x+1);
+        renderAll();
+      });
+
+      tr.appendChild(td);
+    }
+    table.appendChild(tr);
+  }
+  container.appendChild(table);
+}
+
+/* ---------- Selection handlers ---------- */
+function cellMouseDown(e){
+  if (e.button !== 0) return;
+  e.preventDefault();
+  clearSelection();
+  isDragging = true;
+  toggleCellSelection(e.target);
+}
+function cellMouseMove(e) {
+  if (!isDragging) return;
+  const t = e.target;
+  if (!t || t.tagName !== 'TD') return;
+  toggleCellSelection(t);
+}
+function cellMouseUp(e){ isDragging = false; }
+document.addEventListener('mouseup', ()=> isDragging=false);
+
+function toggleCellSelection(cell){
+  if (!cell) return;
+  const z = cell.dataset.z, x = cell.dataset.x;
+  if (z==null||x==null) return;
+  const key = `${z}-${x}`;
+  if (!selectedCells.has(key)){
+    selectedCells.add(key);
+    cell.classList.add('selected');
+  }
+}
+function clearSelection(){
+  selectedCells.forEach(k=>{
+    const [z,x] = k.split('-');
+    const td = document.querySelector(`td[data-z="${z}"][data-x="${x}"]`);
+    if (td) td.classList.remove('selected');
+  });
+  selectedCells.clear();
+}
+function applyToSelected(char){
+  const d = getActiveData();
+  const h = d.zsize || 16, w = d.xsize || 16;
+  selectedCells.forEach(k=>{
+    const [z,x] = k.split('-').map(Number);
+    while (d.slices.length <= currentSliceIndex) d.slices.push(Array(h).fill(" ".repeat(w)));
+    const row = d.slices[currentSliceIndex][z] || " ".repeat(w);
+    d.slices[currentSliceIndex][z] = row.substring(0,x) + char + row.substring(x+1);
+  });
+  renderAll();
+}
+
+/* ---------- Slice controls ---------- */
+function addSlice(){ 
+  const d = getActiveData();
+  const h = d.zsize || 16, w = d.xsize || 16;
+  d.slices.push(Array(h).fill(" ".repeat(w)));
+  currentSliceIndex = d.slices.length - 1;
+  renderAll();
+}
+function removeCurrentSlice(){
+  const d = getActiveData();
+  if (!d || d.slices.length <= 1) return alert("Cannot remove last slice.");
+  d.slices.splice(currentSliceIndex,1);
+  if (currentSliceIndex >= d.slices.length) currentSliceIndex = d.slices.length - 1;
+  renderAll();
+}
+function prevSlice(){
+  if (currentSliceIndex > 0) currentSliceIndex--;
+  renderAll();
+}
+function nextSlice(){
+  const d = getActiveData();
+  if (currentSliceIndex < d.slices.length - 1) currentSliceIndex++;
+  renderAll();
+}
+
+/* ---------- Search & Replace ---------- */
+/* done in wireControls above */
+
+/* ---------- Render all UI parts ---------- */
+function renderAll(){
+  updateActiveBadge();
+  renderPalette();
+  renderSliceGrid();
+  wireControls(); // re-attach if panel re-created
+}
+
+/* ---------- init ---------- */
+renderAll();
+
+</script>
+</body>
+</html>
