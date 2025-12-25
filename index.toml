@@ -2470,12 +2470,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/alexsmobs-1.22.8.pw.toml"
-hash = "933c7c157c516d9dc7166378d83ff0ce289f5ac31db977864f10be7bc2dd37f3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "4cd6809fbe7df73d6527e5d27f7a2658f21d32041bbb668d5243816990736945"
 hash-format = "sha256"
@@ -2723,12 +2717,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/citadel-2.5.4-1.20.1.pw.toml"
-hash = "81ddad60970f7c52009a063a3928d84237a184b577e630d2afffc266f0ea6c43"
 hash-format = "sha256"
 metafile = true
 
@@ -4095,7 +4083,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-2.pw.toml"
-hash = "5d86ce8089d611154029666ebc6b0eba8562b94830756c4ee0ed1c6e89506944"
+hash = "41e909363a2b565605b23ea883582c986f3dda6732eb214bae4045ead34aedb9"
 hash-format = "sha256"
 metafile = true
 
@@ -4605,6 +4593,31 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "serve.bat"
+hash = "93046cf57b2a40de3662af499ecd50ae2370cd6338ac9b7af4dcfdf34abfa908"
+hash-format = "sha256"
+
+[[files]]
+file = "tools/atlasfullbiomes.gpl.gpl"
+hash = "658d02618f34cda6a4dfc6a5c3edd56b338e2d82718af821b9fe98a88880b24c"
+hash-format = "sha256"
+
+[[files]]
+file = "tools/palette.txt"
+hash = "f4a99b0e9f1c72b3f6da2cb8ba05c32a02800b788df7c98f952a7f3a3dbe96f2"
+hash-format = "sha256"
+
+[[files]]
+file = "tools/palettereplacer1_v1.1.html"
+hash = "85c644c18398ed4b95900d0d004c8262470d316c26631f34882d88ec88041b4b"
+hash-format = "sha256"
+
+[[files]]
 file = "tools/parteditor2_v1.1.html"
 hash = "69a5d974c21b3230952404db4887d6fb50589a0bda965b04c4c4209c5a4ff3a4"
+hash-format = "sha256"
+
+[[files]]
+file = "tools/parteditor3_v1.0.html"
+hash = "14c7c25fa38eee7ef1e5ae17aabeee511e67c9a4a109b8c918e51376ecbe5ca1"
 hash-format = "sha256"

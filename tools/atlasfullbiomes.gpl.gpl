@@ -1,0 +1,86 @@
+GIMP Palette
+Name: atlasfullbiomes.gpl
+Columns: 7
+#
+221 221 238	minecraft:snowy_plains
+180 220 220	minecraft:ice_spikes
+ 49  85  74	minecraft:snowy_taiga
+250 240 192	minecraft:snowy_beach
+138 173 136	minecraft:grove
+160 160 160	minecraft:snowy_slopes
+255 255 255	minecraft:jagged_peaks
+238 238 255	minecraft:frozen_peaks
+102 119 102	minecraft:windswept_hills
+136 136 136	minecraft:windswept_gravelly_hills
+ 34  85  28	minecraft:windswept_forest
+ 11 102  89	minecraft:taiga
+ 89 102  81	minecraft:old_growth_pine_taiga
+129 142 121	minecraft:old_growth_spruce_taiga
+162 162 132	minecraft:stony_shore
+141 179  96	minecraft:plains
+181 219 136	minecraft:sunflower_plains
+  5 102  33	minecraft:forest
+ 45 142  73	minecraft:flower_forest
+ 48 116  68	minecraft:birch_forest
+ 88 156 108	minecraft:old_growth_birch_forest
+ 64  81  26	minecraft:dark_forest
+  7 249 178	minecraft:swamp
+ 30 217 156	minecraft:mangrove_swamp
+ 83 123   9	minecraft:jungle
+ 98 139  23	minecraft:sparse_jungle
+118 142  20	minecraft:bamboo_jungle
+250 222  85	minecraft:beach
+127 196  88	minecraft:meadow
+147 147 147	minecraft:stony_peaks
+250 148  24	minecraft:desert
+189 178  95	minecraft:savanna
+167 157 100	minecraft:savanna_plateau
+229 218 135	minecraft:windswept_savanna
+217  69  21	minecraft:badlands
+176 151 101	minecraft:wooded_badlands
+255 109  61	minecraft:eroded_badlands
+  0   0 255	minecraft:river
+160 160 255	minecraft:frozen_river
+  0   0 172	minecraft:warm_ocean
+  0   0 144	minecraft:lukewarm_ocean
+  0   0  64	minecraft:deep_lukewarm_ocean
+  0   0 112	minecraft:ocean
+  0   0  48	minecraft:deep_ocean
+ 32  32 112	minecraft:cold_ocean
+ 32  32  56	minecraft:deep_cold_ocean
+112 112 214	minecraft:frozen_ocean
+ 64  64 144	minecraft:deep_frozen_ocean
+255   0 255	minecraft:mushroom_fields
+ 11  44  59	minecraft:deep_dark
+ 62  44  40	minecraft:dripstone_caves
+ 16  54  26	minecraft:lush_caves
+186 188 134	minecraft:small_end_islands
+217 219 163	minecraft:end_barrens
+225 227 171	minecraft:end_midlands
+245 247 190	minecraft:end_highlands
+159 161 108	minecraft:the_end
+  0   0   0	minecraft:the_void
+ 73 144 123	minecraft:warped_forest
+ 94  56  48	minecraft:soul_sand_valley
+221   8   8	minecraft:crimson_forest
+ 64  54  54	minecraft:basalt_deltas
+191  59  59	minecraft:nether_wastes
+255 184 253	minecraft:cherry_grove
+255  76  36	volcano_biome:volcano
+149 235  52	biomesoplenty:tropics
+173  88  88	biomesoplenty:snowy_maple_woods
+217  28 255	biomesoplenty:auroral_garden
+196 255 213	biomesoplenty:snowy_fir_clearing
+139 181 151	biomesoplenty:snowy_coniferous_forest
+ 97 184 122	biomesoplenty:coniferous_forest
+135 222 160	biomesoplenty:fir_clearing
+194 123  66	biomesoplenty:pumpkin_patch
+194 173  66	biomesoplenty:seasonal_forest
+240 204  60	biomesoplenty:seasonal_orchard
+ 99 163  98	biomesoplenty:field
+ 74 166  73	biomesoplenty:forested_field
+ 95 186 147	biomesoplenty:highland
+110 145 130	biomesoplenty:crag
+161  42  42	biomesoplenty:maple_woods
+105  41   1	biomesoplenty:redwood_forest
+199 199 109	biomesoplenty:dune_beach
