@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-forge-1.20.1-1.0.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/qGNcCoKJ/car-forge-1.20.1-1.0.45.jar"
+hash-format = "sha512"
+hash = "90813562801c2006bb4c2b7ba0145e891bb6f84cba4eaca22addae010785a0d5142ecfa963be5e1794c413e04c0c372d7809ca2ae6d62163c0cd81d16909ce74"
+
+[update]
+[update.modrinth]
+mod-id = "DCPUF5Rv"
+version = "qGNcCoKJ"

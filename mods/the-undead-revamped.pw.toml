@@ -1,0 +1,13 @@
+name = "The Undead Revamped"
+filename = "THEUNDEADREVAMPED_1.9J_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hhfNpvRV/versions/5qBzgVwr/THEUNDEADREVAMPED_1.9J_1.20.1.jar"
+hash-format = "sha512"
+hash = "8b763c75d853daa577f1f655a6867bb9ee3a54a5d93ace4837f380ac9b5a874c51d2a2137d708c5c1407d5aa5ba7e6177b75b1dcf3a0bd81313209bd1ff9ba70"
+
+[update]
+[update.modrinth]
+mod-id = "hhfNpvRV"
+version = "5qBzgVwr"

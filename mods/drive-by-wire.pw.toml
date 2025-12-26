@@ -1,0 +1,13 @@
+name = "Drive-By-Wire"
+filename = "drivebywire-1.20.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a47229a5ba20249763afad9714a21c354795446"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7377590
+project-id = 1192722

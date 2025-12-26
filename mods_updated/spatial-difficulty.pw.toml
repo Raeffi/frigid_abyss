@@ -1,0 +1,13 @@
+name = "Spatial Difficulty"
+filename = "spatialdifficulty-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rpuJzZ7q/versions/vRlNvrnY/spatialdifficulty-1.0.0.jar"
+hash-format = "sha512"
+hash = "3d82b649a8c76a8a58e7d939e758b6616f4a0d557e6d2153d210833fbd4cc1d4529292873bdc1d71aeeacff0519d9c6c17366858cf05ba83d3e74072387c49ce"
+
+[update]
+[update.modrinth]
+mod-id = "rpuJzZ7q"
+version = "vRlNvrnY"

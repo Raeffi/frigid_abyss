@@ -1,0 +1,13 @@
+name = "Clockwork"
+filename = "clockwork-forge-0.5.0-[MELTING_POINT]-HOTFIX-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/84USeAvk/versions/oFVIH04d/clockwork-forge-0.5.0-%5BMELTING_POINT%5D-HOTFIX-1.jar"
+hash-format = "sha512"
+hash = "3c2b5baf0fba62a70001ada4b1a1cec187780c47fcf21d994e57f977dd1ba06a8f3395f19f77cef25500f260a85aea976473ba7e4df47cb5c7745a3715b4e16d"
+
+[update]
+[update.modrinth]
+mod-id = "84USeAvk"
+version = "oFVIH04d"

@@ -1,0 +1,13 @@
+name = "Create: Portal Integration"
+filename = "createportalintegration-forge-0.0.1+6.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2f4ngcAb/versions/KDuwHprL/createportalintegration-forge-0.0.1%2B6.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "eda7a612f24cc4f1e51b03f0bbd002dcbf8f621e00f74e960a372535c48a6c66429aaee5b19d29c4269122274e02cc6acad2a1f8e38afbc4d583e6c75f4ed910"
+
+[update]
+[update.modrinth]
+mod-id = "2f4ngcAb"
+version = "KDuwHprL"

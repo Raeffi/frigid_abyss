@@ -1,0 +1,13 @@
+name = "Lost Souls"
+filename = "lostsouls-1.20-4.1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Unrx5yh/versions/byobHJ3L/lostsouls-1.20-4.1.5.jar"
+hash-format = "sha512"
+hash = "e7794d0392d1ed78c09751124ca1d7a0ad80134649bcc3cc964af0988de5fbc6a221d0ff99ad8e10529e7dacdd9fb0f126411d7aa298b82f00b1116779078337"
+
+[update]
+[update.modrinth]
+mod-id = "3Unrx5yh"
+version = "byobHJ3L"

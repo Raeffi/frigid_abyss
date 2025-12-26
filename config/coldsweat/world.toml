@@ -408,42 +408,6 @@
 		"F",
 	],
 	[
-		"creatingspace:venus",
-		450,
-		480,
-		"C",
-	],
-	[
-		"creatingspace:venus_hellground",
-		450,
-		480,
-		"C",
-	],
-	[
-		"creatingspace:mars_plains",
-		-63,
-		20,
-		"C",
-	],
-	[
-		"creatingspace:moon_plains",
-		-173,
-		127,
-		"C",
-	],
-	[
-		"creatingspace:moon_cave",
-		0,
-		20,
-		"C",
-	],
-	[
-		"creatingspace:space",
-		-157,
-		120,
-		"C",
-	],
-	[
 		"sgjourney:cavum_tenebrae_shattered_crust",
 		-15,
 		50,

@@ -1,0 +1,13 @@
+name = "Nether Zombies"
+filename = "netherzombies(1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itJQWbJV/versions/mxmj3F4v/netherzombies%281.20.1%29.jar"
+hash-format = "sha512"
+hash = "b208eaddaac5c46dd955e2f6f9a1e9a8246fc7b4682c1b17f124f0086413961519967c26f12c5d9c0a11f6736a15548caa556ae5a9b5b9d9f3470667f0b04b83"
+
+[update]
+[update.modrinth]
+mod-id = "itJQWbJV"
+version = "mxmj3F4v"

@@ -1,0 +1,13 @@
+name = "Ipla"
+filename = "ipla-mc1.20.1-forge-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7dLiTaTa/versions/Q6TkCv4y/ipla-mc1.20.1-forge-5.0.0.jar"
+hash-format = "sha512"
+hash = "64f359c9fe9066350e372b557409b25ce0352e0af62b458b1f69809855f89c5118f7d720226c898aede4a9494850bd977a52cd29e8647cd665bc9957783dc296"
+
+[update]
+[update.modrinth]
+mod-id = "7dLiTaTa"
+version = "Q6TkCv4y"

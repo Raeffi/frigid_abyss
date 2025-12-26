@@ -1,0 +1,13 @@
+name = "VS Addition continue"
+filename = "vs_addition_continue-1.20.1-forge-0010.7-create6+20251117204413.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e1UAtbAo/versions/P8p0etvs/vs_addition_continue-1.20.1-forge-0010.7-create6%2B20251117204413.jar"
+hash-format = "sha512"
+hash = "fedbc0152e6ef740f76b1721bba41dee2e4c670d312e651ec941bc0172879e086cbdb3371dc949ef2ba5222cc985aebf73426810559eefeaf610d186a8e200c9"
+
+[update]
+[update.modrinth]
+mod-id = "e1UAtbAo"
+version = "P8p0etvs"

@@ -1,0 +1,13 @@
+name = "atlas-1.3.1imagefix+1.20"
+filename = "atlas-1.3.1imagefix-1.20.jar"
+side = "server"
+
+[option] 
+optional = true
+default = true
+description = "DO NOT ENABLE, only for testing"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/1s04a6ws8hbrplyu98edt/atlas-1.3.1imagefix-1.20.jar?rlkey=webbf9dgt262xwthb2rgkf7oc&st=f3zk9r5r&dl=1"
+hash-format = "sha256"
+hash = "c8ac0e4ef76687183467eb0be8783aa988181129c6832e77779fc2ccf7999d04"

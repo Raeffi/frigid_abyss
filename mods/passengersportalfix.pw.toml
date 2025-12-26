@@ -1,0 +1,13 @@
+name = "Passengers Portal Fix"
+filename = "passengersportalfix-forge-0.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LI0BrUQA/versions/SKDIzGMy/passengersportalfix-forge-0.0.2.jar"
+hash-format = "sha512"
+hash = "fd3d48b3eca2c8dd3712e661fe6e64d879e73dd38d727d0fd6d3ad58448b83a7a7084df811f2be64e40f19c7f6ac39ffd3c1721c3865d64872f169142c388d2e"
+
+[update]
+[update.modrinth]
+mod-id = "LI0BrUQA"
+version = "SKDIzGMy"

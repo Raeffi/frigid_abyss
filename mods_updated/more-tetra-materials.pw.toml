@@ -1,0 +1,13 @@
+name = "More Tetra Materials"
+filename = "mtetm-1.3.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mgLuaGhI/versions/Jc3IEMmu/mtetm-1.3.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "6ab26afa001ecf9ac6ea1eab3037ea894396f97ceb17a615cd3e9d65063757e7d10490f72fc81e35f98300e711f987719ce7eeb9a353556630faa0326f59f821"
+
+[update]
+[update.modrinth]
+mod-id = "mgLuaGhI"
+version = "Jc3IEMmu"

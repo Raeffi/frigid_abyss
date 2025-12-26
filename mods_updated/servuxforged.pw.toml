@@ -1,0 +1,13 @@
+name = "ServuxForged"
+filename = "servuxforged-0.1.1-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H9LzoDgA/versions/tLNxDvhN/servuxforged-0.1.1-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "c3ff4a09e7f99dd2bd33a8d8d48d82f9c5c82b16"
+
+[update]
+[update.modrinth]
+mod-id = "H9LzoDgA"
+version = "tLNxDvhN"

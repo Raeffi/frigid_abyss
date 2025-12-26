@@ -1,0 +1,11 @@
+name = "1.1.0"
+filename = "1_irradium-begone!-1.1.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQ4KrMAG/versions/GnkwIYS0/1_irradium-begone%21-1.1.0.jar"
+hash-format = "sha512"
+hash = "169331e7ea2a571da1106130221c60f5bd8643c8f1ab898efcf23e1e2c5f565aa46eec61777086932c48c7a6502ab550c025ca6bda75fef32273a73a906b7eee"
+
+[update.modrinth]
+mod-id = "QQ4KrMAG"
+version = "GnkwIYS0"

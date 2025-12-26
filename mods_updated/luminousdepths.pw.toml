@@ -1,0 +1,13 @@
+name = "Luminous Depths"
+filename = "luminous_depths-0.3.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8KTuZ4yp/versions/XzIP9nbn/luminous_depths-0.3.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f5c4dc4aadab3969cd26ec5314eb10d47936d38504e2603f5251781587df1e34abb81a300bb1ac3635b290466be9d2f45ab58222c81afb7dfca64006dc5320a7"
+
+[update]
+[update.modrinth]
+mod-id = "8KTuZ4yp"
+version = "XzIP9nbn"

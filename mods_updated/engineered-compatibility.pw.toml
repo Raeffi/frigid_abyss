@@ -1,0 +1,13 @@
+name = "Engineered Compatibility"
+filename = "engineeredcompatibility-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WlumywmT/versions/bTv1C7jq/engineeredcompatibility-2.3.1.jar"
+hash-format = "sha1"
+hash = "ce11444c21d59bbe0174f981aa8d87af61414afd"
+
+[update]
+[update.modrinth]
+mod-id = "WlumywmT"
+version = "bTv1C7jq"
