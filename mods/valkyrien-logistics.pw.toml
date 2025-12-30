@@ -1,0 +1,13 @@
+name = "Create: Valkyrien Logistics"
+filename = "valkyrien_logistics-1.20.1-forge-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fHLjVVl4/versions/3JDG62oG/valkyrien_logistics-1.20.1-forge-1.1.2.jar"
+hash-format = "sha512"
+hash = "3f172c7eb2ffafb32ac0299df7691f878adb4df73ebf68cbae956eea3ac28b4a68f88a19cf5075c796ae077c44af8a6dbb91e82aee9a2be6dbc8c09d8cbe8171"
+
+[update]
+[update.modrinth]
+mod-id = "fHLjVVl4"
+version = "3JDG62oG"

@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Error rendering overlay","Detected setBlock in a far chunk"]
+	regex = ["Error rendering overlay","Detected setBlock in a far chunk"]
+

@@ -1,10 +1,10 @@
 {
   "logbegone": {
     "phrases": [
-      "Error rendering overlay 'create:goggle_info'"
+      "Error rendering overlay"
     ],
     "regex": [
-      "Error rendering overlay 'create:goggle_info'"
+      ".Error rendering overlay."
     ]
   }
 }

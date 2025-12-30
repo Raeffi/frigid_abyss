@@ -1,0 +1,13 @@
+name = "Mapper Base"
+filename = "mapperbase-1.20.1-6.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAUIloQw/versions/peVfNJIN/mapperbase-1.20.1-6.0.0.0.jar"
+hash-format = "sha512"
+hash = "58e1d1d50385075c39f7a8d98524121efd244a480ee5cd9a77bba6dcbfad1235f05b7bce92f2f36039975321bba27147f19221a7725e489b792f065bdb4a95bb"
+
+[update]
+[update.modrinth]
+mod-id = "IAUIloQw"
+version = "peVfNJIN"

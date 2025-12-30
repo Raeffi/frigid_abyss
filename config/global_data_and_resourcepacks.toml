@@ -19,7 +19,8 @@ required = [
     "resourcepacks/04_Create Guns 1.2.1 - 1.20.1.zip",
     "resourcepacks/03_Create+Simple+Storage+2.1.zip",
     "resourcepacks/02_Eureka+Create+1.0.zip",
-    "resourcepacks/01_UltimateCarsReskin.zip"
+    "resourcepacks/01_UltimateCarsReskin.zip",
+	"resourcepacks/00_Scary Spider 1.20+.zip"
 ]
 
 [datapacks]

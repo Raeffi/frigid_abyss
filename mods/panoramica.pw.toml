@@ -1,0 +1,13 @@
+name = "Panoramica"
+filename = "panoramica_forge_1.2.1_MC_1.19-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/10h3GvwQ/versions/16FLrObj/panoramica_forge_1.2.1_MC_1.19-1.19.2.jar"
+hash-format = "sha512"
+hash = "3f77f70d2bfe89aa7487f14f4165a7f216f7a8ab2e5c5237f1e707f4d6754132b56509aedf38327c7498e61c0feaa9eb71c9c44d36932b9bd8e36e74dc116a97"
+
+[update]
+[update.modrinth]
+mod-id = "10h3GvwQ"
+version = "16FLrObj"

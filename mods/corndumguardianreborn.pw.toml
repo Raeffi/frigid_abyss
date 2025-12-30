@@ -1,0 +1,13 @@
+name = "CorndumGuardianReborn"
+filename = "corundumguardian-2.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6jGQw8H/versions/aOGFZL0f/corundumguardian-2.2.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "614fbb9c70caf032f2b638b4dee8bb43ea41e05112782069af0a51d79afcc51fa4c6a24a183fcf34258a715050ef5d44ade429b9be86e0c9ca88ee77b0c944ed"
+
+[update]
+[update.modrinth]
+mod-id = "x6jGQw8H"
+version = "aOGFZL0f"

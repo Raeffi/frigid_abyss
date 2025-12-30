@@ -3,11 +3,11 @@ filename = "drivebywire-1.20.1-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a47229a5ba20249763afad9714a21c354795446"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/I9AkDJzr/versions/BaodQBiU/drivebywire-1.20.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "be09aa07c0b2e4f4506439e57cc49a818552eccddb3ebed82c84e84261f8f8e81d8ebba4573353ac6052f1f6c277d736acb3e5ca5c215c92832ae3baba7b3314"
 
 [update]
-[update.curseforge]
-file-id = 7377590
-project-id = 1192722
+[update.modrinth]
+mod-id = "I9AkDJzr"
+version = "BaodQBiU"

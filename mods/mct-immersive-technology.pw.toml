@@ -1,0 +1,13 @@
+name = "Immersive Technology"
+filename = "MCTImmersiveTechnology-1.20.1-2.0.1-b4094-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvaEUke2/versions/Ds1tA8uo/MCTImmersiveTechnology-1.20.1-2.0.1-b4094-beta.jar"
+hash-format = "sha512"
+hash = "d262df684d4238168d1b64e6269a9c7214bceb33093398ffa7222e44465dbf21ccfa5bab5ee888de0784c4f71795f121153df9ff67bcecf2a55e4298bd8061a2"
+
+[update]
+[update.modrinth]
+mod-id = "DvaEUke2"
+version = "Ds1tA8uo"
