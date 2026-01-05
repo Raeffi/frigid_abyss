@@ -69,7 +69,7 @@
         },
         {
           "char": "ц",
-          "block": "tfmg:asphalt"
+          "block": "immersivepetroleum:asphalt"
         },
         {
           "char": "Б",
@@ -213,7 +213,7 @@
             "id": "engineersdecor:tet_fluid_barrel",
             "tank": {
               "Amount": 8000,
-              "FluidName": "tfmg:liquid_asphalt"
+              "FluidName": "createdieselgenerators:black_cement"
             }
           }
         },

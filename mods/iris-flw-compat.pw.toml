@@ -11,8 +11,3 @@ hash = "efa8b7fbc5b37b4ec3542d1594d69970adc48fc18e6d84c956265e2a0f63428c566f0864
 [update.modrinth]
 mod-id = "ndHYMY2K"
 version = "dE1A45cG"
-
-[option]
-optional = true
-description = "ENABLE OCULUS TOO (required), improves performance"
-default = true

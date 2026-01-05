@@ -6,7 +6,11 @@
     },
     {
       "random": 46,
-      "block": "tfmg:light_bulb[facing=down,level=0,waterlogged=false]"
+      "block": "hbm_m:flood_lamp[facing=down]"
+    },
+    {
+      "random": 46,
+      "block": "pneumaticcraft:wall_lamp_inverted_white[facing=down,lit=true,waterlogged=false]"
     },
     {
       "random": 46,

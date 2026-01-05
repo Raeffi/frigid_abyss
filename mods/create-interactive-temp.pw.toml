@@ -1,0 +1,7 @@
+name = "create-interactive-temp"
+filename = "create_interactive-1.1.1-beta.4_1.20.1-forge.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1327007036998680688/1453922309248253972/create_interactive-1.1.1-beta.4_1.20.1-forge.jar?ex=695524eb&is=6953d36b&hm=09464966f343e1b0b914d5f28465db31d4f414f615b74f7cf38bba92ac0df53c&"
+hash-format = "sha256"
+hash = "d55f54cdb26bddae171038df4d4a68ad9d4408b871216e8443b3260dd6f571f4"

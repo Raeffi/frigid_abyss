@@ -1,0 +1,13 @@
+name = "VS2 for Complete Config"
+filename = "valkyrienskies-120-2.4.0+9d64f4005c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QU4TYCaL/versions/eITxXCq9/valkyrienskies-120-2.4.0%2B9d64f4005c.jar"
+hash-format = "sha512"
+hash = "d86bb569c47e2a8919afa1869a23acac0397ef30c5244d771720ec96254f7cf6883f7ee3d5637b8c6b5ea6113733e4328d65f57149fc8ed1b1eb1e75ce1bff5e"
+
+[update]
+[update.modrinth]
+mod-id = "QU4TYCaL"
+version = "eITxXCq9"

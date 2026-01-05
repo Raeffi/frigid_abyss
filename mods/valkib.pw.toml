@@ -1,13 +1,7 @@
-name = "Valkyrien Ice Breakers"
-filename = "valkib-1.1.0.jar"
-side = "both"
+name = "valkib"
+filename = "valkib-1.0.0r.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/O9zmDvr4/versions/PIuROoPL/valkib-1.1.0.jar"
-hash-format = "sha512"
-hash = "b86f78c188a2fba1da91e44a1152eb699d74d0c6f16e550837c746214e0cdeadc47561610c880735d91263fabf29b8e3cfcc9fd8c6c9376cd178235301068899"
-
-[update]
-[update.modrinth]
-mod-id = "O9zmDvr4"
-version = "PIuROoPL"
+url = "https://www.dropbox.com/scl/fi/zsksai4clflg3eqr96kka/valkib-1.0.0r.jar?rlkey=jzpcqo43y0r0vzqtnluk2qzuw&st=6oxptjkn&dl=1"
+hash-format = "sha256"
+hash = "533a20fa7ca6657726402985c1cce7ff4dd575733280e2ea2cfba882e114f6b5"
