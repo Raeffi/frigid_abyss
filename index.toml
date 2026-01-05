@@ -37,7 +37,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "8bcccd0605a7ea27a64106beb8ecf68275bfa3c9530c802328b5b9409998949b"
+hash = "4dc127c842fd741d8f205d661a048713f7bb32abb4fc6caf5ffad6b5a591497e"
 hash-format = "sha256"
 
 [[files]]
@@ -106,8 +106,93 @@ hash = "74a00b06b1089b09b83ffdc17fc185f3443efb994d796a0c0c03692cfd560262"
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/buttonrectangle.png"
+hash = "525d6420d8cec2f2b85c387f10851bc3ca17778b951d578659d2a2e5d52f8be5"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/buttonrectangle_aktive.png"
+hash = "9052b671619e827070c379c7e4d384f616a84105f473501ad93dbf209b701616"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/buttonsquare.png"
+hash = "d7f60bcbd324c70950bb96e5e9af5b38e6d7ea5edd8fb017af2711c59a42264a"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/buttonsquare_aktive.png"
+hash = "ecdac2908be800c1da8cddad1176d2836bf6294f9979e1df8d772e9084ac28b3"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/packicon.png"
+hash = "62c11f2eb254423842434ac122d46782ec997747071dd2bd287af287b02a462e"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "228b8866df66909a60041ec40af3691378097a87306cea53f61ca42f2b7883e8"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "b0d723b83da81e6f3e704b08c2bf191218014bc7cc730569522da14ed22057db"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "10c50f8f7cca29629cdc2f848a4277da3979a93a9f8c16c03c37f46a1f18a5d0"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "2bff1a5a5a1ed6ee6f26193a2a3f8beba58cf331d5f8312a2c43ed162b08cca1"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "5e98e5e83cbcb82714a62bb448ca82c80b4b547120bf9152bfddda732113f54e"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d62f37b33bc976f18dac3da5786cc7e3ad01b77f36b6e33afe3a57b0a5ffa427"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "f63cdebba858c61bc79cfbf269ef41a2c86bb6f1f5eead2a2cac24faf8bd5534"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash-format = "sha256"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "439f81706cc54084e4c7f432bcdc3d7def496f5598380111401f90cc1eb5b9fa"
+hash = "54536a3100fdb46058f3f77ea3afb044250c5fdccb72891f6a2da6a06cbe211e"
 hash-format = "sha256"
 
 [[files]]
@@ -136,13 +221,23 @@ hash = "cea039749f22bdb8abb20eac27fba94a7f6694728dfd3eabb2fb58f87e49877c"
 hash-format = "sha256"
 
 [[files]]
+file = "config/kawaii-dishes-common.toml"
+hash = "9a5976cc76d68850a557cc7a8626a2f16d75f2d7c9cb522394163eea9d55e0fc"
+hash-format = "sha256"
+
+[[files]]
 file = "config/logbegone.json"
-hash = "d92f7ead5405441fb6bfbba7f0e1338788e22eb2cc34f85a54adab3c5960c85e"
+hash = "8706596acfc2c6b99ec774d575da88295bbc2bd210bb765a3a9a8aea99ac55eb"
+hash-format = "sha256"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "e4f3d3eb24492ae353538886a442c78554ea08c6155e9febb7f85d078935d7bf"
 hash-format = "sha256"
 
 [[files]]
 file = "config/lostcities/common.toml"
-hash = "d8e3502b24347597b03e712ab43e5ecda241de02ae7ae54d4286ff6384ba2b3f"
+hash = "c7e175cd69d7c26e8600d97fe209756ef17198fac1852244f7bd3aee5f6527c3"
 hash-format = "sha256"
 
 [[files]]
@@ -246,6 +341,11 @@ hash = "c2570b86bab66213bc993911763dbb9e4c68a7bf115e08071f4f1f0c82787e40"
 hash-format = "sha256"
 
 [[files]]
+file = "config/panoramica/config.txt"
+hash = "79fe44c58e1d7e6e7a36cf5d5edf97c41578a40802b5d0d5c1e23abe439514c6"
+hash-format = "sha256"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 hash-format = "sha256"
@@ -303,6 +403,16 @@ hash-format = "sha256"
 [[files]]
 file = "config/world-gen.json"
 hash = "27b44460e3a254a28f2816b74a1bdea80ee06eea8874d2b6d0905956003ed3a9"
+hash-format = "sha256"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "af2e3b489db8c74066afb3cd1e3235d8734ddda1904b32a2304c9176a737148c"
+hash-format = "sha256"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "65dfc1737611f627a746f33582a79edc1ca1a6700fec414b2be9d6c17f4b501d"
 hash-format = "sha256"
 
 [[files]]
@@ -1027,7 +1137,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/palettes/default.json"
-hash = "ad063383b3519b4b0a935932175c5a6fe01a92f90cf7f5c9df5c554b581b87ae"
+hash = "8c55ed18ef09dc94eb2270632b9a0d9824402b5c00dca0e933e4432e19672e8b"
 hash-format = "sha256"
 
 [[files]]
@@ -1057,7 +1167,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/palettes/rails_custom.json"
-hash = "977f75c70e3e97c233fd8b3aa87bcdd9b53ed60fe6b0315abc69006738d78bbd"
+hash = "1f250603ccbd2cac91e7d227d71103fdf0da1f04f3be161fd383e41356b3ada3"
 hash-format = "sha256"
 
 [[files]]
@@ -1302,7 +1412,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/parts/street_straight3.json"
-hash = "0479c5ca6b4f323bee91e5b638ec6745ed747d200fb2e63120d376bb7698a5fc"
+hash = "02f8f01a6569ff11182e15a32d10399740b6d0955d449ed429d8e98dfdee63fe"
 hash-format = "sha256"
 
 [[files]]
@@ -1372,7 +1482,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/variants/lights.json"
-hash = "004a0b923316226ebb3ff2d2da0d3eb1a42e56d215193f456b46fdc7bd504bc0"
+hash = "6e010d7e5b8e38d62ec591814395299ea1256c69de7a19b57c991876f9ff8852"
 hash-format = "sha256"
 
 [[files]]
@@ -2208,7 +2318,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons.pw.toml"
-hash = "572625f6de3b8eeeaebe72becfe34026f2ce7726e4d57f229ff4d4d202b641b5"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 hash-format = "sha256"
 metafile = true
 
@@ -2273,14 +2383,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/Jade-1.20.1-forge-11.7.1.pw.toml"
-hash = "57fa1775b9d426f7f9764dfa224e42d34e069ab2b08d6b373875bea0ea7bbfc8"
+file = "mods/Jade.pw.toml"
+hash = "0415f715c7a9bceb393599ced977773f57e56b122d22b1f835700c94e49afaae"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/JadeAddons-1.20.1-forge-5.2.2.pw.toml"
-hash = "770ae749cc56201513aba92ddf453742cd5f149f8cf71f68b957d8ece3dab67e"
+file = "mods/JadeAddons.pw.toml"
+hash = "24cfde391a1b6ef98c9cf5d047ed8ac9cbab7f5ee06496f79af3343d6713d750"
 hash-format = "sha256"
 metafile = true
 
@@ -2359,12 +2469,6 @@ metafile = true
 [[files]]
 file = "mods/Recipes For Create.pw.toml"
 hash = "bf2d7f7e5e6155b7cbb340f5d732d92de4131b67a0d5d3a84b7dfbe32dfa111d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/Rrls-3.2.0-1.20.1-forge.pw.toml"
-hash = "26d52bebc1ff24c4604fc8482710a37e05c0a5ae6d02bb4dfc0c95a4c5c01ed5"
 hash-format = "sha256"
 metafile = true
 
@@ -2520,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-tetra.pw.toml"
-hash = "7abf3cf41d86d8755f45054c0225058a531482d52cd76217f778fc2b07c0dda6"
+hash = "77ce2b2e228a4561e2793d58a294ab26086840ed2b6d2098a4641ca7caa6ba93"
 hash-format = "sha256"
 metafile = true
 
@@ -2602,6 +2706,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "028ff66b700318886b8d975b2a76f5ec6d1dafba8d2aa70b8a830862a4701199"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 hash-format = "sha256"
@@ -2646,6 +2756,12 @@ metafile = true
 [[files]]
 file = "mods/carryon-forge-1.20.1-2.1.2.7.pw.toml"
 hash = "44eb0505c062eac77426723c7adeca16cb4e3c7722368dc7a4a108544ff39e15"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "efe89d7d8e4a9f6b91b9f88c3f99b842d744f07207cb89e8107f28dff8b14580"
 hash-format = "sha256"
 metafile = true
 
@@ -2704,6 +2820,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "2ec895f34f33ad639dc6e9781c5450e7eeff746ea932d0309c6786f7ccda70e0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 hash-format = "sha256"
@@ -2717,7 +2845,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 hash-format = "sha256"
 metafile = true
 
@@ -2806,8 +2934,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/corndumguardianreborn.pw.toml"
+hash = "8aa0dbe3dab7d6569d1e96d8339fed1801a48c32ea3ac18036ad1e0bfc79af1f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cosmic-horizons-cosmos.pw.toml"
+hash = "828e4ab1af30805e7e2f1c715dd276cf51289538af3bdefde07dcbad85adffc6"
 hash-format = "sha256"
 metafile = true
 
@@ -2819,7 +2959,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "b9b97be64d4b4d1fdc07c496308b8359890cba4baf53f35cfa718af8503c4da2"
+hash = "5e02a73f787d876c971bd4dc34848ed0fb4c87b4ac0c49cbeda9abdc76fa48cf"
 hash-format = "sha256"
 metafile = true
 
@@ -2830,15 +2970,44 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "6539be34ce1c1142910690b42dd243672ca0a2d64a2e15b70ad5a863e0ec06ee"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml.disabled"
 hash = "69eaf1c17c535ac4e9343516ff6904479f5dfccd4af7472802859e8a9c28f3e3"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/create-interactive-temp.pw.toml"
+hash = "10aa0e8536c3d9bef0b59ffa0de00120dae8687fce43f0712b96474087a2ea71"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "1ee1dd15de83e9fa3fa46ec6f3e78688bb7d72e8a89388bfa1afb282d8603871"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml.disabled"
+hash = "4f9f1cfd707718640a5cd2aa63147506929b574864eabafb1f81078b853ee869"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/create-ratatouille.pw.toml"
@@ -2859,8 +3028,13 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg.pw.toml"
+file = "mods/create-tfmg.pw.toml.disabled"
 hash = "66bf2a2a06e915ebc25324b342fa9702c8cdd31783abb25e0a8322c94d562cbf"
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "3c7aa1e213def089a6eaa89a8c4c51eade5ae89e1a674c03181a46690c340764"
 hash-format = "sha256"
 metafile = true
 
@@ -3074,6 +3248,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "6dafd9732de5f9c11f6e4293d4c600d2564b5879392aa2d046dad8b01c08c483"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ctov-chefs-delight-compat-2.0.pw.toml"
 hash = "19fb9ca1325992027c348c956b63a5f1c3fc837e2799dde826012f7c4e0036ee"
 hash-format = "sha256"
@@ -3140,7 +3320,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/decorative_blocks-forge-1.20.1-4.1.3.pw.toml"
+file = "mods/decorative-blocks.pw.toml"
 hash = "97da81059641c591fc7ca85f19d2f401fdf6726b93a44d9cfc80668c16619e16"
 hash-format = "sha256"
 metafile = true
@@ -3190,13 +3370,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-wire.pw.toml"
-hash = "4400bbc65bd0096efcebdc8a4786916303650bfacc1005779ab1e7ea4391f3c6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/drivebywire.pw.toml"
-hash = "1bc2f2f385be95f34b9ca75ce96329b8b81d02abcc8d20956260bfaf11c4fabd"
+hash = "0660a4f8e5ea24c70144aec20b47e8f39e9340b6576421650cc71ddcdee0cf4c"
 hash-format = "sha256"
 metafile = true
 
@@ -3207,8 +3381,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dustrial-decor-forge.pw.toml"
+hash = "e62daf76e0dba30f64ebb044a1cc5a08d7b13c4dad6f1a1b931be6b180db9727"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps-3.4.2_minecraft-1.20.4-forge.pw.toml"
 hash = "5d854695657e02203345a5e36f9523554b6fa06e3333d4722b4f3d4f44040af1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 hash-format = "sha256"
 metafile = true
 
@@ -3292,19 +3478,25 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+hash = "29d15104839a28c3441b8c9e4cffbb6647460ad77cdb91ba96aee50c142dc161"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "43101636762df8cbe9180587aa0eaf3c7234da8e5bcbf1e6e0a7dbcd58dca40b"
 hash-format = "sha256"
 metafile = true
 
@@ -3332,8 +3524,26 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "edb1ddea9ee012f7dffd5c4bf9b3f6b9d33a08bdd029bbf30352ce07a80c5a4c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "81132c550e1fbd5d93252799117e24ebb902c733432f9c764336be560af34a8a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2023ed56ff0d7566f898a1be5e542bcde94fbc252264dface9cd9dacc0883c38"
 hash-format = "sha256"
 metafile = true
 
@@ -3357,13 +3567,13 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-6.0.1-forge.pw.toml"
-hash = "404517707006a1de8885562b6d32a1750a1c14e848b3033c793a1db84dc48bda"
+file = "mods/ffs-fancy-fluid-storage.pw.toml"
+hash = "f69d25a5b864ae427cb20cb4afb167a58ed3b53374b4c76724851c8d9071262e"
 hash-format = "sha256"
 metafile = true
 
@@ -3470,6 +3680,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "ee278d545996d7c2c29cc58aa451160cec6b93e0bb57f14aa2d2fd49d9058174"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted-forge-1.20.1-3.0.6.pw.toml"
 hash = "d3f1bacc4e17827b46f7b14a944147ba392d15c16c8d8c8e9a065970ba0aaefe"
 hash-format = "sha256"
@@ -3488,6 +3704,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/hbms-nuclear-tech-modernized.pw.toml"
+hash = "474bd55da2c0f21b4c7441350f6e9ae665f5304b093be3337f8b9c970cd69800"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/hearth_and_home-forge-1.20.1-2.0.1.pw.toml"
 hash = "73f071a7bd93860868a52d9266aec1ff47208966d57ac4ebe193bdfa1955e63d"
 hash-format = "sha256"
@@ -3500,8 +3722,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/huge-structure-blocks.pw.toml"
 hash = "6d37fbabd68d615695289e04fe7f1454fb42e7bd411e1f49ab1e58935682d311"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "296754fb71a9d02cacc9f1baf3efb1bd8c2405fa3ad7cd2710a32ad8e3a53a53"
 hash-format = "sha256"
 metafile = true
 
@@ -3519,7 +3753,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e9a32db9e2f859c0c5647ca2ca0b521c0e27cb6785a7e0b90ae99f92fc69ce6a"
+hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
 hash-format = "sha256"
 metafile = true
 
@@ -3530,8 +3764,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/immersive-fixes.pw.toml"
+hash = "2e36b6b750d7de2d2e21dc8bcf7704eeff3ed51dff67caf3f904e583a9bc7073"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/immersive-geology.pw.toml"
 hash = "e9d2c857a406cc12e7259cfe754b662b6fc97b25b0318f4d5832f0adaf096acd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "334e597eaac9fa803b898b976ee6dff066c424ac343788bf055ac8ba20601d32"
 hash-format = "sha256"
 metafile = true
 
@@ -3615,7 +3861,7 @@ metafile = true
 
 [[files]]
 file = "mods/incompatible/eureka.pw.toml"
-hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
+hash = "efb71d9842d26ee82c813e95e2648a445b1ebc4d2de8491df6b6438603130856"
 hash-format = "sha256"
 metafile = true
 
@@ -3674,6 +3920,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ipla.pw.toml"
 hash = "d81f497c6227fea65b792644b78e05805f17620df2c430831f251cf4340d27b3"
 hash-format = "sha256"
@@ -3681,13 +3933,13 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "ab72c48f6e101d238a2a9d07ba407cb6ea5f1ae8ac8be2bdad52c84f8c424ac1"
+hash = "e9b05dcf29f12335bcbf61bbbc019cee3d5b983c49433e3fc23fcf4afe12e9d1"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/irons_spellbooks-1.20.1-3.1.3.pw.toml"
-hash = "0756ce0f97faf53cba122901b87e062d81e158a183bea3ffcdfc7e1b961b16ee"
+file = "mods/irons_spellbooks.pw.toml"
+hash = "dd5c321ebacfb9dde9475cb726390c74792f7ad6295c77695824cef6a0523b92"
 hash-format = "sha256"
 metafile = true
 
@@ -3772,6 +4024,12 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs-forge-1.20-15.0.0.pw.toml"
 hash = "4d845c011e2d1d47f558a89e1316cde79830ae8e6ae6b1df004f189e317c523d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 hash-format = "sha256"
 metafile = true
 
@@ -3861,7 +4119,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "67da636765b37f5ff941af776c9e50bfb7441529c2eb07dceef5643af175f281"
+hash = "e57ad3496f6185470581e5a3ec1a6ceb09d8cf88ccde6305c5e464332d0fe867"
 hash-format = "sha256"
 metafile = true
 
@@ -3885,13 +4143,25 @@ metafile = true
 
 [[files]]
 file = "mods/luminous-monsters.pw.toml"
-hash = "562100511d350e90516cd7bebfaa36a0c44ad4975e3f562fe6e61c20bc9487f5"
+hash = "a79c221c0ff5fa3d8613ce6f5d7f4bf96c756d237cc4b6313751a35403dbb57f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/luminousdepths.pw.toml"
 hash = "9f644a332120787d2e60caaafc4a92e7644ac39e9049d4bb10971368f530da4a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/macabre.pw.toml"
+hash = "c402b3210761ab838fd4e3f7851c56db17446b227e0d5b1b9741ee932dd9d7a5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
 hash-format = "sha256"
 metafile = true
 
@@ -3926,8 +4196,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/mct-immersive-technology.pw.toml"
+hash = "1ca7af4a19ed9ca9ac563c2329dfe21fb89e621cc9df02f25b76dfb768e84237"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 hash-format = "sha256"
 metafile = true
 
@@ -3951,13 +4233,19 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c441afa4e473eee72726ff9348a151c87214eafc461848744bbfd742f896614a"
+hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b6fc45590287f4c7f7879886538a2d2437fc96091b405adb5b28b7c94424e814"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 hash-format = "sha256"
 metafile = true
 
@@ -4016,8 +4304,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/mutil-1.20.1-6.1.1.pw.toml"
-hash = "cb7011ba8b2682e6ea49005fb6e423052d25aef5958c5e1c23b8ce43a467a9d3"
+file = "mods/mutil.pw.toml"
+hash = "d4f34c57ae6e8653cafb66e50d79edae80b629d7fb504915d9ca2be65abe2f95"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
 hash-format = "sha256"
 metafile = true
 
@@ -4077,7 +4371,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
 hash-format = "sha256"
 metafile = true
 
@@ -4089,7 +4383,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "a7f9df11de5c6d207f4de048002315410ea268b0a3fab08755c8144cbd7bdfab"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 hash-format = "sha256"
 metafile = true
 
@@ -4106,6 +4400,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "1cb5ba542a089c3831e8661e0b4a088ffa0a7b3ca5e4962d77e9529962810d95"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/panoramica.pw.toml"
+hash = "69922b5a8b4b6bf6d8b6651ebcabdc2d9fac4856ba40ff67b2fba2fae129c06e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/passengersportalfix.pw.toml"
 hash = "87400b21a3fe492040ebc8e73d66fb5093b3a272037eb58980fd261d8b985ef3"
 hash-format = "sha256"
@@ -4116,6 +4422,11 @@ file = "mods/personality!.pw.toml"
 hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/pfm.json"
+hash = "96014f97ade673df14e69c0c1f986da77211226dc51dbe2249454bfa84055363"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/philips-biome-features.pw.toml"
@@ -4232,14 +4543,32 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/rotted.pw.toml"
+hash = "03081bd0fbb8a8c1185f3892ef34a07474875b66fcbf31fb7f72118224e5d3e8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "3a759e3b7d39a8b2a2074c15cdcb56ef755570db9e931b88da09fdbb7d1c519d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/save-and-load-inventories.pw.toml"
+hash = "405a65c60152db4f036df936b4ffa8f0ca0791e35acc6037c4fcf55042957bfd"
 hash-format = "sha256"
 metafile = true
 
@@ -4288,6 +4617,12 @@ metafile = true
 [[files]]
 file = "mods/sliceanddice-forge-3.2.0.pw.toml"
 hash = "440869b7632695d2809edc5ec3df37c7f024bcc919ffa19288aed41acd48dfee"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 hash-format = "sha256"
 metafile = true
 
@@ -4413,7 +4748,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "1ea93de5929b045f8afd5acb78bb73da08f2e75315d519717b1c3e9397a17c38"
+hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
 hash-format = "sha256"
 metafile = true
 
@@ -4491,7 +4826,7 @@ metafile = true
 
 [[files]]
 file = "mods/trackwork.pw.toml"
-hash = "5c9aa20f7356f9a5fb43f689d839899a50deb8d8645f1515422da6fa97629f17"
+hash = "70fd63c64e9d2e530ee5dc87f71c1bef0253299848515e8ad4057e715cc3ffea"
 hash-format = "sha256"
 metafile = true
 
@@ -4510,6 +4845,12 @@ metafile = true
 [[files]]
 file = "mods/transparent-forge-8.0.1_1.20.1.pw.toml"
 hash = "ea6b02dc6ffde35cbf45da7ddc0b230171118d8698b86dad6faea4f33c71b9fa"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/trotting-wagons.pw.toml"
+hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
 hash-format = "sha256"
 metafile = true
 
@@ -4562,8 +4903,26 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml"
+hash = "04f89529acbb5c248b8774e1e9d1b0ab2c346ca58217533061706a8558a84d71"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-logistics.pw.toml"
+hash = "9b5935b1f90bfafaa59aac9fe8c45a5d272db31c1afd4b5c508742c0220c2725"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "7ef2adf5e4d511ebf2e134095cc47cb01838d63f4b9dccd41675178189c4f5d5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "8945945bff0435e4b0978d92e4784d009f827ac4f6f0d5cad743a08d17e83fd5"
+hash = "74b316fd6a4d1efa917e7037d98b7b79c2d296f793adb528cbba4d35df5630de"
 hash-format = "sha256"
 metafile = true
 
@@ -4592,8 +4951,26 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/vlib.pw.toml"
+hash = "bf329320b5ba7fd501bc27a9973f86a4c44f85903e29cdc5e0e914cb158e1fa2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/volcanobiomemod.pw.toml"
 hash = "b9e807e103bc26d0ea86090c371e2ff586b07ef94180af639957ef785daeb10b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vs-ship-in-a-bottle.pw.toml"
+hash = "0e8889b088bf37d79d21f52dac7d6be17187138809a7a886b0e84ca8ed16152d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vs2-completeconfig.pw.toml"
+hash = "70d82cf75dc3dfb9b2942fbe8ca6f070255841c67f95bb28630ce8b890c809f8"
 hash-format = "sha256"
 metafile = true
 
@@ -4629,13 +5006,13 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+hash = "f39ad4c0c8eee03b9b4b9082bf47c18502159c4a987f1eff1dc04c657e23cca9"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
+hash = "2bb8c65e92264ca78b851a7e04461d9ef2c1e0bfab532ece8cefed5330680653"
 hash-format = "sha256"
 metafile = true
 
@@ -5270,7 +5647,7 @@ metafile = true
 
 [[files]]
 file = "mods_updated/cold-sweat.pw.toml"
-hash = "26223ef0026b65395b251937b3a2731fa84b49af363301875b526c4106f58633"
+hash = "f908b067476b78b86c84f6ecb5c8211ee345582dac96899a33e8c538fe1e6bc6"
 hash-format = "sha256"
 metafile = true
 
@@ -5336,7 +5713,7 @@ metafile = true
 
 [[files]]
 file = "mods_updated/create-clockwork.pw.toml"
-hash = "8b3576c1a9af9449473f5eef2b979ee0ce3d32a396ca292f50e933d03e537a78"
+hash = "5e02a73f787d876c971bd4dc34848ed0fb4c87b4ac0c49cbeda9abdc76fa48cf"
 hash-format = "sha256"
 metafile = true
 
@@ -5467,13 +5844,13 @@ metafile = true
 
 [[files]]
 file = "mods_updated/create6incompatible/entity-model-features.pw.toml"
-hash = "3b5b7d833a2dd0a0064371036ab1da338cbbf82fb42d84dc8078dc9f48a3b63c"
+hash = "29d15104839a28c3441b8c9e4cffbb6647460ad77cdb91ba96aee50c142dc161"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods_updated/create6incompatible/entitytexturefeatures.pw.toml"
-hash = "c7dfdcddf32a63084e0b54679e33378769bc4f48bd97f006008405da5e6df2ba"
+hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
 hash-format = "sha256"
 metafile = true
 
@@ -6992,7 +7369,7 @@ metafile = true
 
 [[files]]
 file = "mods_updated/valkyrien-skies.pw.toml"
-hash = "8945945bff0435e4b0978d92e4784d009f827ac4f6f0d5cad743a08d17e83fd5"
+hash = "d51c317ce1c22c238638b678910a6e2a505f3613f8fbc4a57dddb1ab633999fe"
 hash-format = "sha256"
 metafile = true
 
@@ -7112,6 +7489,66 @@ hash = "c61bab6ec41aaaf57fef94e65f18e4f97f4050c60a0aee53195abfcf437e86f5"
 hash-format = "sha256"
 
 [[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "e47a024c631171dff2326a237c1ce4accee300421f7770616631f7e0557caedc"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d7254d3ad0d22ab38d030e05920cb9fde424e43cd170765f5029d905d744227e"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "3944922dcd01ae7f6ae37956acbb87604b60990da7012a39dfd7baac5f137e64"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "b5899c4b760841fe02771984c0741e63fdc25695caf3cf1cb938377bd6ec28d2"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "dfc0db344957fbe37ff26be3e9a4e390063acf6f705af2c609dbe83bc23d32c9"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "eae84911dc0159d576adf853839448e0ba96bd81bac51420df7e20cb7c81f8d8"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/pack.mcmeta"
+hash = "6453cd31a984b72f967d2c7e75838280eebcd0957813d7d2ef6efde54d7f9282"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/00_FrigidAbyss/pack.png"
+hash = "62c11f2eb254423842434ac122d46782ec997747071dd2bd287af287b02a462e"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/08_RaeffiSpider/assets/minecraft/optifine/cem/cave_spider.jem"
+hash = "e3b3dbdb43be992ae59d5a39a996713d81848c112686ecb8a4abc24ed366ffb5"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/08_RaeffiSpider/assets/minecraft/optifine/cem/spider.jem"
+hash = "e3b3dbdb43be992ae59d5a39a996713d81848c112686ecb8a4abc24ed366ffb5"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/08_RaeffiSpider/pack.mcmeta"
+hash = "6453cd31a984b72f967d2c7e75838280eebcd0957813d7d2ef6efde54d7f9282"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/08_RaeffiSpider/pack.png"
+hash = "79254292e5422ad2737ffb8f95b826e36681d39d180d6ed9ee663f816f0e9602"
+hash-format = "sha256"
+
+[[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "16ea5234fdf3bd38bb876a0a55935befd98a8a513d3379d6edafc9b47dfad0ce"
 hash-format = "sha256"
@@ -7148,12 +7585,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "resourcepacks/scary-spider.pw.toml"
-hash = "0d35374d0e591fd56068efcc61125fdf8bd0b7455ea5c50a359a68f69ee532c3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "resourcepacks/toms-better-create-storage.pw.toml"
 hash = "38e5dd894973d075ff71add6eef30506d059356b6b61aaa7f9a5a42886155d90"
 hash-format = "sha256"
@@ -7175,6 +7606,24 @@ metafile = true
 file = "serve.bat"
 hash = "93046cf57b2a40de3662af499ecd50ae2370cd6338ac9b7af4dcfdf34abfa908"
 hash-format = "sha256"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "tools/atlasfullbiomes.gpl.gpl"

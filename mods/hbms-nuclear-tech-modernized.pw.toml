@@ -1,0 +1,13 @@
+name = "HBM's Nuclear Tech Modernized"
+filename = "hbm_m-0.1.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5YPeUFlb/versions/PYUJq7DU/hbm_m-0.1.1-alpha.jar"
+hash-format = "sha512"
+hash = "778ccf004aa07cb31e5c334e705d9b3ed9c8f70f70e0b1cb903b249d00bc706094cad5a112f21d3f0e5f43f0c673dfaf809910a228745312659c4e3fca7ed051"
+
+[update]
+[update.modrinth]
+mod-id = "5YPeUFlb"
+version = "PYUJq7DU"
