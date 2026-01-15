@@ -1,5 +1,6 @@
 name = "create-propulsion"
 filename = "createpropulsion-0.3.0.jar"
+side = "both"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/1428561074751406080/1455232109814878301/createpropulsion-0.3.0.jar?ex=6953fa03&is=6952a883&hm=56658f8e1b20ef718d47cb22fef652aea8530f0107f4e0e06c338602206010ae&"
