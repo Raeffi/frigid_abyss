@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IE Recipe → KubeJS Converter</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #1e1e1e;
+      color: #ddd;
+      padding: 20px;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    textarea {
+      width: 100%;
+      height: 250px;
+      background: #111;
+      color: #eee;
+      border: 1px solid #444;
+      padding: 10px;
+      font-family: monospace;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+
+    input {
+      width: 100%;
+      padding: 8px;
+      margin: 10px 0;
+      background: #111;
+      color: #eee;
+      border: 1px solid #444;
+      font-family: monospace;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 14px;
+      background: #3a82f7;
+      color: white;
+      border: none;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+
+    button:hover {
+      background: #2f6bd1;
+    }
+
+    .error {
+      color: #ff6b6b;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Immersive Engineering → KubeJS Converter</h1>
+
+<p>Input recipe JSON:</p>
+<textarea id="input">
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "tag": "forge:dusts/coal_coke"
+    }
+  ],
+  "energy": 204800,
+  "input": {
+    "tag": "forge:ingots/iron"
+  },
+  "results": [
+    {
+      "tag": "forge:ingots/steel"
+    }
+  ],
+  "slag": {
+    "tag": "forge:slag"
+  },
+  "time": 400
+}
+</textarea>
+
+<p>KubeJS recipe ID:</p>
+<input id="recipeId" value="kubejs:ie_example_arc_furnace">
+
+<button onclick="convert()">Convert</button>
+
+<p>Output:</p>
+<textarea id="output" readonly></textarea>
+
+<div id="error" class="error"></div>
+
+<script>
+function isValidJsIdentifier(key) {
+  return /^[A-Za-z_$][A-Za-z0-9_$]*$/.test(key);
+}
+
+function toJs(value, indent = 2, depth = 0) {
+  const pad = " ".repeat(indent * depth);
+  const nextPad = " ".repeat(indent * (depth + 1));
+
+  if (Array.isArray(value)) {
+    if (value.length === 0) return "[]";
+    return "[\n" +
+      value.map(v => nextPad + toJs(v, indent, depth + 1)).join(",\n") +
+      "\n" + pad + "]";
+  }
+
+  if (value && typeof value === "object") {
+    const entries = Object.entries(value).map(([key, val]) => {
+      const outKey = isValidJsIdentifier(key) ? key : `"${key}"`;
+      return `${nextPad}${outKey}: ${toJs(val, indent, depth + 1)}`;
+    });
+
+    if (entries.length === 0) return "{}";
+
+    return "{\n" + entries.join(",\n") + "\n" + pad + "}";
+  }
+
+  return JSON.stringify(value);
+}
+
+function convert() {
+  const input = document.getElementById("input").value;
+  const recipeId = document.getElementById("recipeId").value.trim();
+  const output = document.getElementById("output");
+  const error = document.getElementById("error");
+
+  error.textContent = "";
+  output.value = "";
+
+  try {
+    const data = JSON.parse(input);
+
+    const jsObject = toJs(data);
+
+    output.value =
+`e.custom(${jsObject}).id("${recipeId}");`;
+
+  } catch (e) {
+    error.textContent = "Invalid JSON: " + e.message;
+  }
+}
+</script>
+
+
+</body>
+</html>
