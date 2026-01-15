@@ -5157,18 +5157,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
-hash = "7f5edf993a1f3ea71a249dd5aef9428e443034dd784efed8610866a4400efaa8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-guns.pw.toml"
-hash = "b7b7afeea46d18852931c22c0917767f6ef91ca176b9decde3cfc6d5cd373e11"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "resourcepacks/create-simple-storage-recipes-datapack.pw.toml"
 hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
 hash-format = "sha256"
@@ -5188,7 +5176,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/toms-better-create-storage.pw.toml"
-hash = "38e5dd894973d075ff71add6eef30506d059356b6b61aaa7f9a5a42886155d90"
+hash = "6c5728ec0c725a2ce21cd7a5fc9d93b13130f440a69f4620e844577379474715"
 hash-format = "sha256"
 metafile = true
 
@@ -5200,7 +5188,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ultimatecarreskin.pw.toml"
-hash = "08cab6b5a9fc1eaf0f0e87a9db760c76d808a4add3eb554bc81282fe6e9ff008"
+hash = "9fa2d786cc9b2889c433a232510d96d33a2133a61b44eff6b9394fe8fdff8609"
 hash-format = "sha256"
 metafile = true
 

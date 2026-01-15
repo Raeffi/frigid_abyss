@@ -1,5 +1,6 @@
 name = "UltimateCarReskin"
 filename = "01_UltimateCarsReskin.zip"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/4qm04l9blqla7malm1pni/UltimateCarsReskin.zip?rlkey=2ufpte8ot1ptzmduwh1n295e1&dl=1"
