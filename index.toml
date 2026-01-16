@@ -192,7 +192,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "54536a3100fdb46058f3f77ea3afb044250c5fdccb72891f6a2da6a06cbe211e"
+hash = "995be90c80067cbde01b3be3003e43eb668e858c71bfc7e8c97d42548628540f"
 hash-format = "sha256"
 
 [[files]]
@@ -3351,31 +3351,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/disabled/atlas.pw.toml.disabled"
-hash = "4ba02f153542fd4652a3dc788841940a1f125f4aca41cf6fe07b9bbc336976d7"
-hash-format = "sha256"
-
-[[files]]
-file = "mods/disabled/interactive.pw.toml.DISABLED"
-hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
-hash-format = "sha256"
-
-[[files]]
-file = "mods/disabled/limitmyinventory.pw.toml.disabled"
-hash = "61354e104919a85b04458eb8fde1e78f6f95ebf4ea834d43b6b328038fd35648"
-hash-format = "sha256"
-
-[[files]]
-file = "mods/disabled/the-lost-cities.pw.toml.disabled"
-hash = "0728b4dd8b5135b3b161f4ed8311a511016887c54431da28934519e7029bdb3d"
-hash-format = "sha256"
-
-[[files]]
-file = "mods/disabled/valkib.pw.toml.disabled"
-hash = "9c7ea837fe01d7c49c6606259444ff4eb765ba12298bde8ef1497ebfde60cf40"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
 hash-format = "sha256"
@@ -3568,7 +3543,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2023ed56ff0d7566f898a1be5e542bcde94fbc252264dface9cd9dacc0883c38"
+hash = "e1b1dee9a6cfa4075902f9466304a315ec248ea4666fc1a4377cd1e301836a7a"
 hash-format = "sha256"
 metafile = true
 
@@ -3813,10 +3788,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/immersive_paintings-0.6.7_1.20.1-forge.pw.toml"
+file = "mods/immersive_paintings-0.6.7_1.20.1-forge.pw.toml.disabled"
 hash = "40c5f9815cc60c2b2da49ab80048a0b2ee1f2dbdca6b9fc5787e845174d3abf5"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
@@ -3833,90 +3807,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/bulletfix.pw.toml"
-hash = "b769897aab97e80d35b67612f7c7d92956c1eb7ffb652f6ca4a2b786de15be8f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/chisels-and-bits-forge-1.4.148.pw.toml"
-hash = "8b70de305933765b22769060a5828ea375782e54499985628ed0b383d90d102b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/create-dreams-and-desires.pw.toml"
-hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/create-trains-and-customportalapi-compability.pw.toml"
-hash = "225e8c79aee83ec0ebcee605cb60e14c676d8f20f6bb39e8668be70030fb2a89"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/createdoener-0.1.2.1.pw.toml"
-hash = "4b29d7602bdffcaae32b8de4a865060a6ab62d0bd987a9b972df85faeaa35d87"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/createeureka.pw.toml"
-hash = "0ad1e9478215126f175a8a9dda7cbfdd380254a3a940490df913fcf459b45d47"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/design_decor-0.2a-1.20.1.pw.toml"
-hash = "0a82a5cb95f7c6d73df8c53fd8c69cf535b01af69b285ab8aef04459b857d4d6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/dimthreads.pw.toml"
-hash = "7dc1b43c1f9620d00d12b778dd56124c55341b30df3c93b9045ea14a3cececd0"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/eureka.pw.toml"
-hash = "efb71d9842d26ee82c813e95e2648a445b1ebc4d2de8491df6b6438603130856"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/extended-bogeys.pw.toml"
-hash = "0de9ce59a8a610db1040c5f1f6e7c26b9ec115f25ecfee5e4550a991dd234bb2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/sgtrain.pw.toml"
-hash = "4ae660cb9bdfb12cedf969100a67d71e5dfa6181c4cc66d850ace21c1739bea0"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/valkib.pw.toml"
-hash = "04f89529acbb5c248b8774e1e9d1b0ab2c346ca58217533061706a8558a84d71"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/vs-addition-continue.pw.toml"
-hash = "302b54d4995399a3386b9cfeca12d5d2a24f15739576f7a19382eda263a22368"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/incompatible/vs-addition.pw.toml"
-hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
 hash-format = "sha256"
 metafile = true
 
@@ -4431,10 +4321,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/paladins-furniture.pw.toml"
+file = "mods/paladins-furniture.pw.toml.disabled"
 hash = "1cb5ba542a089c3831e8661e0b4a088ffa0a7b3ca5e4962d77e9529962810d95"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/panoramica.pw.toml"
@@ -4630,6 +4519,12 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/serializerdebug.pw.toml"
+hash = "50945feaab8d8a5e9b4c5134ac3c247d7b635d0168b1e5df74b2b4b7b20cb6ea"
 hash-format = "sha256"
 metafile = true
 
