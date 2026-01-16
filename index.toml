@@ -3848,7 +3848,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons_spellbooks.pw.toml"
-hash = "dd5c321ebacfb9dde9475cb726390c74792f7ad6295c77695824cef6a0523b92"
+hash = "60a585def314d748a8832bfd42149ce48c159e64c1fdcf52297f348bb88c82c5"
 hash-format = "sha256"
 metafile = true
 
