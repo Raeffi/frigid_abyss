@@ -1,5 +1,6 @@
 name = "Cull Less Leaves Reforged 1.20.1-1.0.5"
 filename = "CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"

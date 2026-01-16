@@ -2325,7 +2325,7 @@ metafile = true
 
 [[files]]
 file = "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.pw.toml"
-hash = "4a6674eb0d5d22e64a4941368ec53e2b6e51559d2d749ebee6a8c5c524bd5fd5"
+hash = "2ac0c412d379b526ea64892329aa80fc8ce5e2c9015a3b8af8f2bbbbaa97a153"
 hash-format = "sha256"
 metafile = true
 
@@ -2494,12 +2494,6 @@ metafile = true
 [[files]]
 file = "mods/Recipes For Create.pw.toml"
 hash = "bf2d7f7e5e6155b7cbb340f5d732d92de4131b67a0d5d3a84b7dfbe32dfa111d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/SereneSeasons-1.20.1-9.0.0.46.pw.toml"
-hash = "ce610a904870c10eff4a8b5cc4567f90ee80f90918b9ea53a6faf8012bb3ee81"
 hash-format = "sha256"
 metafile = true
 
@@ -4268,7 +4262,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughanimations-forge-1.7.1-mc1.20.1.pw.toml"
-hash = "b1bc01a686349467b81d42905f66aaf87c1b09331def007c2723a8f98cd0147c"
+hash = "6a1d4c728c75fc16eb285b35dff730c94c0702692295433dad3928a8d62e356f"
 hash-format = "sha256"
 metafile = true
 
@@ -4356,7 +4350,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1_1.20.pw.toml"
-hash = "92be9dc4c8f4f2f1c1c495cc1275d73a10d69a047a59a70f404752f19d47072f"
+hash = "3b5efe10ab619c8e8e5103c753de8d3dc832832d79154483e66a3a471b397be1"
 hash-format = "sha256"
 metafile = true
 
@@ -4914,7 +4908,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+hash = "ead92f49287323cc9ede408a50cd7e39f4b39046f59906a810e111dfae358419"
 hash-format = "sha256"
 metafile = true
 
