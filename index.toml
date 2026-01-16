@@ -3381,12 +3381,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps-3.4.2_minecraft-1.20.4-forge.pw.toml"
-hash = "5d854695657e02203345a5e36f9523554b6fa06e3333d4722b4f3d4f44040af1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 hash-format = "sha256"
@@ -3406,7 +3400,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears-forge-1.19.4-1.4.6.pw.toml"
-hash = "f5c85969007830279139e6cf040d8c515157997e6f85d299a639c13290518648"
+hash = "b32b4e750fb298d52465e7e2f59f0fd7ef1d58bd5eeaa58050bf5e0507e84e1e"
 hash-format = "sha256"
 metafile = true
 
@@ -3663,7 +3657,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalnarrationtoggle-1.20.1-1.2.pw.toml"
-hash = "98e34ac526e297e4e02a863ab2e54cd954e3cbd087d7fb02d34865eb6277d5fd"
+hash = "07565e03ff0f8802616b6f012242fdf8b7abcd004fa4a001964d3f3a5e06afc2"
 hash-format = "sha256"
 metafile = true
 
@@ -4226,7 +4220,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "c79f6c0d7d1bdc68eb202bf7288efd21730a343b3477a5412df1911b6dc3c187"
+hash = "ed071a6d50eed17dedf9d3b240ba9f5dff8c76e10c234022c68e85650f68dcb2"
 hash-format = "sha256"
 metafile = true
 
@@ -4350,7 +4344,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1_1.20.pw.toml"
-hash = "3b5efe10ab619c8e8e5103c753de8d3dc832832d79154483e66a3a471b397be1"
+hash = "92be9dc4c8f4f2f1c1c495cc1275d73a10d69a047a59a70f404752f19d47072f"
 hash-format = "sha256"
 metafile = true
 
@@ -4908,7 +4902,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ead92f49287323cc9ede408a50cd7e39f4b39046f59906a810e111dfae358419"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 hash-format = "sha256"
 metafile = true
 

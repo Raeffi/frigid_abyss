@@ -1,5 +1,6 @@
 name = "[FORGE 1.19.4/20] v1.4.6"
 filename = "ears-forge-1.19.4-1.4.6.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/J2bf7xnn/ears-forge-1.19.4-1.4.6.jar"
