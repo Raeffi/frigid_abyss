@@ -157,7 +157,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "c85e4e7fcd50f27f6a3a6388dbfbacdac74d3726ce3ba1f0e9967d2c6e4be93f"
+hash = "75fa9a373373fbe36e7d77c536e2ec55c6ac3ad42e087ce78d2c4551da0f74af"
 hash-format = "sha256"
 
 [[files]]
@@ -2421,7 +2421,7 @@ metafile = true
 
 [[files]]
 file = "mods/JustEnoughBeacons-Forge-1.20.4-1.2.0.pw.toml"
-hash = "8164e7fab933f80699714b715bdc502e5e7957c167f033257b2521295eabeec6"
+hash = "273a6e89e93dcad1fdb92ecfd7925992d32dff5a6e4c6dd066dda1a89b01cc95"
 hash-format = "sha256"
 metafile = true
 
@@ -3848,13 +3848,13 @@ metafile = true
 
 [[files]]
 file = "mods/jearchaeology-1.20.1-1.0.3.pw.toml"
-hash = "751a879a5ec8993ae9bfbec5a9f767bc31bd3adaca4fcdd469f3453a99266004"
+hash = "34ad2ee9ccb2e893d147a44b8f6967e33e051d3cb333d73885a4a1746c1d54f4"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/jeed-1.20-2.1.12.pw.toml"
-hash = "0e2cb0668701fd5cabe8e691de4cb57fcfc99819b3d24c111e4be2d134885f4d"
+hash = "7dcd0343f78dd09c5c52cb5866eca3aeff0dc92e3729adf8c42c40be63152fbf"
 hash-format = "sha256"
 metafile = true
 
@@ -3866,13 +3866,13 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "95b4603dbcc552d0c19972afafacbed425d7c294e983bc46ab06ae66c05f1aae"
+hash = "fff7ad7d94bce243ddb38e7db31b0ca89c6cf71dbc7b1f1c11b183c56b35cdf3"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-archaeology.pw.toml"
-hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
+hash = "3590e485cd58fd010779418cb2397972116dfeb2d686fcfac1c7a6097cda80a5"
 hash-format = "sha256"
 metafile = true
 
@@ -3884,7 +3884,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
+hash = "39b758976dbb1e357b8186a34a5f94033a2597aa7716e6e5790c8d8301448ea8"
 hash-format = "sha256"
 metafile = true
 
@@ -3902,7 +3902,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding-forge-1.20.x-1.2.1.pw.toml"
-hash = "6929acd83ab3d1847faf0ee355e37b2da813ee399f8f7fc4e25ef608b82e3b97"
+hash = "affab5cbe3f274c2ac926950c26b1283db1a566c5458c7dada86ca6198688b5e"
 hash-format = "sha256"
 metafile = true
 
@@ -4330,11 +4330,6 @@ file = "mods/personality!.pw.toml"
 hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "mods/pfm.json"
-hash = "96014f97ade673df14e69c0c1f986da77211226dc51dbe2249454bfa84055363"
-hash-format = "sha256"
 
 [[files]]
 file = "mods/philips-biome-features.pw.toml"
@@ -4879,12 +4874,6 @@ metafile = true
 [[files]]
 file = "mods/vs-ship-in-a-bottle.pw.toml"
 hash = "0e8889b088bf37d79d21f52dac7d6be17187138809a7a886b0e84ca8ed16152d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/vs2-completeconfig.pw.toml"
-hash = "70d82cf75dc3dfb9b2942fbe8ca6f070255841c67f95bb28630ce8b890c809f8"
 hash-format = "sha256"
 metafile = true
 
