@@ -4338,7 +4338,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-lib-forge-1.0.2-rc1_1.20.pw.toml"
+file = "mods/player-animation-lib.pw.toml"
 hash = "92be9dc4c8f4f2f1c1c495cc1275d73a10d69a047a59a70f404752f19d47072f"
 hash-format = "sha256"
 metafile = true
