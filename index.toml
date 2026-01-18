@@ -3872,7 +3872,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-archaeology.pw.toml"
-hash = "3590e485cd58fd010779418cb2397972116dfeb2d686fcfac1c7a6097cda80a5"
+hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
 hash-format = "sha256"
 metafile = true
 
