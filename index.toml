@@ -3847,12 +3847,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/jearchaeology-1.20.1-1.0.3.pw.toml"
-hash = "34ad2ee9ccb2e893d147a44b8f6967e33e051d3cb333d73885a4a1746c1d54f4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/jeed-1.20-2.1.12.pw.toml"
 hash = "7dcd0343f78dd09c5c52cb5866eca3aeff0dc92e3729adf8c42c40be63152fbf"
 hash-format = "sha256"
