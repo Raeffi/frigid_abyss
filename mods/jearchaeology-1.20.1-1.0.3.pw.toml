@@ -1,5 +1,6 @@
 name = "Just Enough Archaeology 1.20.1-1.0.3"
 filename = "jearchaeology-1.20.1-1.0.3.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/K0LQpdmm/versions/NXJEYn9H/jearchaeology-1.20.1-1.0.3.jar"

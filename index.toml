@@ -2984,7 +2984,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "5e02a73f787d876c971bd4dc34848ed0fb4c87b4ac0c49cbeda9abdc76fa48cf"
+hash = "4d7a5d021162ecbcb6edacf2d297c56ad0ed7ff4f164d1624291a891583e51a1"
 hash-format = "sha256"
 metafile = true
 
@@ -4836,7 +4836,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "f83faab011dd9f472522e7849829df90167b0f438e6d50e45e634d310b6c69a0"
+hash = "2e5532264f8edd0562e42ad732be309a4c76f9e4f0109463bab3f4fc90c853d6"
 hash-format = "sha256"
 metafile = true
 

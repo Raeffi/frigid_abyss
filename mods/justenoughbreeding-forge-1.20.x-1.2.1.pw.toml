@@ -1,5 +1,6 @@
 name = "justenoughbreeding-forge-1.20.x-1.2.1"
 filename = "justenoughbreeding-forge-1.20.x-1.2.1.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/96ywZ7No/justenoughbreeding-forge-1.20.x-1.2.1.jar"

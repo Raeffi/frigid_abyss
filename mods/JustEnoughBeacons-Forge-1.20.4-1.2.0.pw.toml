@@ -1,5 +1,6 @@
 name = "JustEnoughBeacons-Forge-1.20.4-1.2.0"
 filename = "JustEnoughBeacons-Forge-1.20.4-1.2.0.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgqpjvEk/versions/NNJrYjz6/JustEnoughBeacons-Forge-1.20.4-1.2.0.jar"

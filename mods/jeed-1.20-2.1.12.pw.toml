@@ -1,5 +1,6 @@
 name = "1.20-2.1.12"
 filename = "jeed-1.20-2.1.12.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EO27GKs1/versions/rONG0iY3/jeed-1.20-2.1.12.jar"
