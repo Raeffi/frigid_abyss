@@ -37,12 +37,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "4dc127c842fd741d8f205d661a048713f7bb32abb4fc6caf5ffad6b5a591497e"
+hash = "9f5deec4f123ee614813c101e6a07f41a4ae0f0a86622243d3009cddc92f445d"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/entity.toml"
-hash = "12df55328e91ffa91918cc672bafc59fd3a25b35cafaaf98c0d3c8687c4dae26"
+hash = "183cef8599b192d2758d91b79a882dfaee4ac49bf9f74438251d9eb843b57e37"
 hash-format = "sha256"
 
 [[files]]
@@ -52,7 +52,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "b8ada7b50b12ad3db6a0babeb16e71b9c6be7e3699272c8bda848ffb6165df3b"
+hash = "a0b980a4a617d52d36ba534088ab43507b62fc26482c351ac4c3c8a5eb4a4683"
 hash-format = "sha256"
 
 [[files]]
@@ -152,7 +152,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "2bff1a5a5a1ed6ee6f26193a2a3f8beba58cf331d5f8312a2c43ed162b08cca1"
+hash = "fd31567a23c2d0a31324b625c2c2cbb9d57c9525be69a6e97f96b7ae94b596e9"
 hash-format = "sha256"
 
 [[files]]
@@ -2719,10 +2719,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/beyond-oxygen.pw.toml"
+file = "mods/beyond-oxygen.pw.toml.disabled"
 hash = "dc7e7e38618a8dfe1d228bd2d14fdb0dc66bb2bee4aa9d4a70a688e0d073e92c"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/bigcontraptions-1.0.pw.toml"
