@@ -1,0 +1,13 @@
+name = "Hybrid Birds"
+filename = "[1.20.1] Hybrid Birds Forge 1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/txgXquyE/versions/zVCC9udg/%5B1.20.1%5D%20Hybrid%20Birds%20Forge%201.1.0.jar"
+hash-format = "sha512"
+hash = "3a9f08c067189704570dc991868d5352a17e72c9eb0f5c5ace2590e69da888d902a9ae4652f493546dc530392e95cc5fa19acd3f1bb0c1dad7c743796e1c136b"
+
+[update]
+[update.modrinth]
+mod-id = "txgXquyE"
+version = "zVCC9udg"

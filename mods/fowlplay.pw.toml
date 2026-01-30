@@ -1,0 +1,13 @@
+name = "Fowl Play"
+filename = "fowlplay-1.1.2+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpXfePbg/versions/bFaRIH6B/fowlplay-1.1.2%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "bb46336c9a3a8823e484d9a02385dc173ee679de93467083c136118626c13bd7a728e7b3e9637b692b722d3a7012a663a0dda7256c93ed2ef5e321681a069c07"
+
+[update]
+[update.modrinth]
+mod-id = "WpXfePbg"
+version = "bFaRIH6B"

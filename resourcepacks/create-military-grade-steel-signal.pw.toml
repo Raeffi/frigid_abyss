@@ -1,0 +1,13 @@
+name = "CMG:SS"
+filename = "04_CMG Steel Signal 1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qKfTn3kW/versions/ecS89ord/CMG%20Steel%20Signal%201.0.2.zip"
+hash-format = "sha512"
+hash = "8963ac7bcdd01efa45e653d63b79e00d8591ea36754a9a7f7f357ea410868601068e1af93d89a85753aab8126b65488cd98c88011376ca54c12de4d88a71cbff"
+
+[update]
+[update.modrinth]
+mod-id = "qKfTn3kW"
+version = "ecS89ord"

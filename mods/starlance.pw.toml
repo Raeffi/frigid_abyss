@@ -1,0 +1,13 @@
+name = "Starlance"
+filename = "Starlance 1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dSMrdNMg/versions/KxsYltth/Starlance%201.5.0.jar"
+hash-format = "sha512"
+hash = "e41efd36d3d20cba3b394ffb30e5776c90e181d3f99790cdcdc0c2cbfc111348525adc2c516b292b06c4440364b176c282ee148f0c703d1f5d715b492ac33113"
+
+[update]
+[update.modrinth]
+mod-id = "dSMrdNMg"
+version = "KxsYltth"

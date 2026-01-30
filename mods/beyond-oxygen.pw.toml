@@ -1,0 +1,13 @@
+name = "Beyond Oxygen"
+filename = "beyond_oxygen-0.12.6-vs2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2T6G6FBO/versions/SujDA6su/beyond_oxygen-0.12.6-vs2.4.jar"
+hash-format = "sha512"
+hash = "c53446d191dd9ba3c9611d663d1d35a394009d267564b88251235b39d3eb958202373d14a0a9e03c0058a641bf331e16df8438fd217ebc2977d5c5361816a325"
+
+[update]
+[update.modrinth]
+mod-id = "2T6G6FBO"
+version = "SujDA6su"

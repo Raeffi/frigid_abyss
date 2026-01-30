@@ -1,0 +1,13 @@
+name = "VS: Ship Retrieval Service"
+filename = "ShipRetrievalService-Forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GWY9Ldvz/versions/UsaXRK9A/ShipRetrievalService-Forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "f4da3618c8560f256a0f2f0c07a187924fef8e5da515343ca666db8b6836025d188ef20cd6a1d93b1ac45b840376567c53a871496f1a20ec88121989d6cc7fb1"
+
+[update]
+[update.modrinth]
+mod-id = "GWY9Ldvz"
+version = "UsaXRK9A"

@@ -1,0 +1,13 @@
+name = "Kiwi Boi"
+filename = "kiwiboi-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4lShBFYg/versions/Oz5beJE3/kiwiboi-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "6e9cbc2df400cb03ad8fdc1c6ff94f1dd955c14ed66deb7430fdcf02524a60e5bed96455fb677877172d4b73c8d47230205204102c80d7cc9e39ad5d10cb6b75"
+
+[update]
+[update.modrinth]
+mod-id = "4lShBFYg"
+version = "Oz5beJE3"

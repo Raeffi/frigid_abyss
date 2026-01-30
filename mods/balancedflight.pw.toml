@@ -1,0 +1,13 @@
+name = "Create: BalancedFlight"
+filename = "create-balancedflight-1.20.1_v2.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pBBeKStC/versions/uLPQUyjq/create-balancedflight-1.20.1_v2.4.5.jar"
+hash-format = "sha512"
+hash = "b5a3fb6636d02a4be334a3ab56332beb5cc9607b0515e3092806a5603950263ab4ee740c0d964f3848ef0760dba79a1793d5ea2adb27242895cbaeccc7047a27"
+
+[update]
+[update.modrinth]
+mod-id = "pBBeKStC"
+version = "uLPQUyjq"

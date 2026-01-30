@@ -1,0 +1,13 @@
+name = "Furniture Expanded"
+filename = "furnitureexpanded-forge-1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1ACi6eg/versions/52REfgdO/furnitureexpanded-forge-1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6c35d836596427b4796dd501f9a505597b650a5c4e4f4476dca54bdad51a81e27bfe866835bf46e1a056753721aeba2fa491f49e4bf515ad1e36a3de517d4b00"
+
+[update]
+[update.modrinth]
+mod-id = "U1ACi6eg"
+version = "52REfgdO"
