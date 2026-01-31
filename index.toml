@@ -1502,7 +1502,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/lostcities/variants/lights.json"
-hash = "6e010d7e5b8e38d62ec591814395299ea1256c69de7a19b57c991876f9ff8852"
+hash = "874ce1e2b9d55b9612ee5a7cb2e51e641a3a62245c74fcb295ea29ed3cc3e102"
 hash-format = "sha256"
 
 [[files]]
@@ -4715,7 +4715,7 @@ metafile = true
 
 [[files]]
 file = "mods/tellme.pw.toml"
-hash = "1ee64cf2c7d5f6cd479fc85550d6f772a9e614916a6b4002858112a8816872ce"
+hash = "71453be06f5c6c2df34b465d0f9e6fcaf602814ea51d1a64e6a31449ea62829e"
 hash-format = "sha256"
 metafile = true
 
@@ -4889,7 +4889,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkib.pw.toml"
-hash = "04f89529acbb5c248b8774e1e9d1b0ab2c346ca58217533061706a8558a84d71"
+hash = "9ab505bec49c7f131fc42842280129a6b5b9e2d0da4ee63202a98bbd77b59a85"
 hash-format = "sha256"
 metafile = true
 

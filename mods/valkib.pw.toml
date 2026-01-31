@@ -1,5 +1,6 @@
 name = "valkib"
 filename = "valkib-1.0.0r.jar"
+side = "both"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/zsksai4clflg3eqr96kka/valkib-1.0.0r.jar?rlkey=jzpcqo43y0r0vzqtnluk2qzuw&st=6oxptjkn&dl=1"

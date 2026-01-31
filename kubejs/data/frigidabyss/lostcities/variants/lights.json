@@ -6,7 +6,7 @@
     },
     {
       "random": 46,
-      "block": "hbm_m:flood_lamp[facing=down]"
+      "block": "bits_n_bobs:headlamp[facing=down,forced_on=true,power=0]"
     },
     {
       "random": 46,
