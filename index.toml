@@ -3356,6 +3356,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dimthreads.pw.toml"
+hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
 hash-format = "sha256"
@@ -4564,6 +4570,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/servuxforged.pw.toml"
 hash = "64d7d38bf66b2df528bdad61843b03d473de18d45bdb8a22480b6fb932792c2f"
 hash-format = "sha256"
@@ -4818,6 +4830,12 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "94d5f66174065bab0d04690c1f217a13388c71975e39ced5872e3679ffa7234d"
 hash-format = "sha256"
 metafile = true
 
