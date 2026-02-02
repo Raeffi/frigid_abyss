@@ -3793,13 +3793,13 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-geology.pw.toml"
-hash = "e9d2c857a406cc12e7259cfe754b662b6fc97b25b0318f4d5832f0adaf096acd"
+hash = "54db969a2df87daf4d83d41bc362267d1177bc9d77777ba98d7278b8ac0213cf"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
-hash = "334e597eaac9fa803b898b976ee6dff066c424ac343788bf055ac8ba20601d32"
+hash = "4550431d436af712c10bd486ab1271828a73318112fb895f0150c5ffa15a1796"
 hash-format = "sha256"
 metafile = true
 
@@ -4152,7 +4152,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "e9a2812093b87a08ba972ca9553192c4545ee11d715e9433d199159b3304304d"
+hash = "0e507f719278ce800eb24e017bc45c8b551d6987559811d4de9339d3194f5f5f"
 hash-format = "sha256"
 metafile = true
 
