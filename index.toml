@@ -2594,6 +2594,18 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "eed03a69cacac3a826fc07806ad069b0ae605fefcedab2b2b8fcfa060eb60ebb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "4cd6809fbe7df73d6527e5d27f7a2658f21d32041bbb668d5243816990736945"
 hash-format = "sha256"
@@ -2707,6 +2719,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/better-foliage-renewed.pw.toml"
 hash = "5fe25c367d5a69db8d9b7cfce15fc1f3d9dc63ca93fd7d47d9c13678b129c9f7"
 hash-format = "sha256"
@@ -2780,6 +2798,12 @@ metafile = true
 [[files]]
 file = "mods/caelus-forge-3.1.0_1.20.pw.toml"
 hash = "f016231fd7f7e78f123cdc51d7e51472059159a50e400e818931c2400e02e7df"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 hash-format = "sha256"
 metafile = true
 
@@ -2858,6 +2882,12 @@ metafile = true
 [[files]]
 file = "mods/chloride.pw.toml"
 hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 hash-format = "sha256"
 metafile = true
 
@@ -3410,6 +3440,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_asset_generator.pw.toml"
 hash = "6b8053bc7343659665925625e947a2f79a786cf2e14b67934b3091b04bd6a624"
 hash-format = "sha256"
@@ -3549,6 +3585,12 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "e1b1dee9a6cfa4075902f9466304a315ec248ea4666fc1a4377cd1e301836a7a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
 hash-format = "sha256"
 metafile = true
 
@@ -3985,6 +4027,12 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge.pw.toml"
 hash = "79bbfcb88cf41112a6bf49ab1dbdfd4a350b8982f2acdd29f64d7c400775cbd4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "4ff8a3b2534e1baddb070511dc8208aa26fba2baf7a17ec2bbf066e8d762eef6"
 hash-format = "sha256"
 metafile = true
 
@@ -4668,6 +4716,12 @@ metafile = true
 [[files]]
 file = "mods/starlance.pw.toml"
 hash = "9efd40a139a9a8db0d39653aae71db9aecc336c733ad0b7e7caee9473e10a70c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 hash-format = "sha256"
 metafile = true
 
