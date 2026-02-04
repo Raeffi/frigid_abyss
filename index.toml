@@ -2802,12 +2802,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/carryon-forge-1.20.1-2.1.2.7.pw.toml"
 hash = "44eb0505c062eac77426723c7adeca16cb4e3c7722368dc7a4a108544ff39e15"
 hash-format = "sha256"
