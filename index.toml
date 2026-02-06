@@ -4546,12 +4546,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/rotted.pw.toml"
-hash = "03081bd0fbb8a8c1185f3892ef34a07474875b66fcbf31fb7f72118224e5d3e8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
 hash-format = "sha256"
