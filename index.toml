@@ -4804,6 +4804,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ticktact.pw.toml"
+hash = "26ffe23459ab2dc7f05076031509a3e486e812ef6a5049db37e4aee860325101"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/tiered.pw.toml"
 hash = "e43da40d6a838276c581adb2a6a62e7b0c8f8badb154775d2d2f0902c093f0ef"
 hash-format = "sha256"
