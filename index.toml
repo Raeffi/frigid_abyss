@@ -232,7 +232,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "e4f3d3eb24492ae353538886a442c78554ea08c6155e9febb7f85d078935d7bf"
+hash = "19ea0ff422f4e925933dc6324be82d3b9598f55f3322fb8679dedb010bac9f5e"
 hash-format = "sha256"
 
 [[files]]
@@ -2796,6 +2796,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/c2mef.pw.toml"
+hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/caelus-forge-3.1.0_1.20.pw.toml"
 hash = "f016231fd7f7e78f123cdc51d7e51472059159a50e400e818931c2400e02e7df"
 hash-format = "sha256"
@@ -4061,6 +4067,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/lazyfluids.pw.toml"
+hash = "b162b2f7ee0bf10310fa7691aedbc6cf0b0b410c51e0fd14cf682be0430ea41b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "b96504b85a5193250bbdd3fedf4434b503c6aa135d563adccfc562cf1104109b"
 hash-format = "sha256"
@@ -5040,6 +5052,12 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "4d949b696cb80dea8ffa799fae89b3d20b62503386e8e4067224689f79b7b695"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/world-pre-generator.pw.toml"
+hash = "dc221d04e1c85980af3836c43c5f3620a92c933755fab67cd981835324b74398"
 hash-format = "sha256"
 metafile = true
 

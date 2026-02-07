@@ -1,0 +1,13 @@
+name = "LazyFluids"
+filename = "LazyFluids-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3rX30v6/versions/FGUnphFL/LazyFluids-1.0.jar"
+hash-format = "sha512"
+hash = "711ad8d911d42d8b1bac0d184f6e4239b2a2fed76c44f0d1a94d6c3e726549884e8584756f4d7c6fbcf9c7d3caf53f1810574cb57b7d10e54e454f2c55933e4e"
+
+[update]
+[update.modrinth]
+mod-id = "G3rX30v6"
+version = "FGUnphFL"
