@@ -4371,6 +4371,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/normal-damage.pw.toml"
 hash = "57a9794d70eed80e2d43c8b591be7e87760a177540be9ee7e6f3c26c3c277fc3"
 hash-format = "sha256"
@@ -4516,6 +4522,12 @@ metafile = true
 [[files]]
 file = "mods/random-commands.pw.toml"
 hash = "75f2f252bd1b0ddb83495c6ae53cd97f6242a43c7c8babd020fdf73820384c3c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/random-optimization.pw.toml"
+hash = "c837ba91d863ddcbaa9b2d0c5bd1268a211286d3a80b9524d703c4cae881e41c"
 hash-format = "sha256"
 metafile = true
 
