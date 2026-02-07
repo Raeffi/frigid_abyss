@@ -3834,6 +3834,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "1d6bcd5085d3a9e43b26f1d1396e04927787503a3423194bfebd7e022a08f659"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "4550431d436af712c10bd486ab1271828a73318112fb895f0150c5ffa15a1796"
 hash-format = "sha256"
@@ -4800,12 +4806,6 @@ metafile = true
 [[files]]
 file = "mods/the-undead-revamped.pw.toml"
 hash = "ad848ec15a5ab066a34640fc532a668db56e9f5022c7299994bbffa621f72b7d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/ticktact.pw.toml"
-hash = "26ffe23459ab2dc7f05076031509a3e486e812ef6a5049db37e4aee860325101"
 hash-format = "sha256"
 metafile = true
 
