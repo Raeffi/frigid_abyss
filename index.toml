@@ -726,7 +726,22 @@ hash = "a6c6bdc641478f1a705e74a792e32720c71dc88339fe7849e5fcf8ea29b9328d"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/aquamirae/worldgen/structure/structure_set/ice_maze.json"
+file = "kubejs/data/aquamirae/worldgen/structure/outpost.json"
+hash = "f39de030ad82de1a8507196e499433d993da2c64f954157d7f9f01346a29e083"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/shelter.json"
+hash = "fc9e74debb49207dc1ff3667a8801770d520bb8a01ae0df103ab56857825b5c8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure/ship.json"
+hash = "1cf1bac58a446a2cbbdbb380c552065006f3260126b55d0b4a1a01f0c21a7d3c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure_set/ice_maze.json"
 hash = "471183f82df28c41ae8453353ca58ee25cf413772af434c74b44a6ffacc3a9ba"
 hash-format = "sha256"
 
