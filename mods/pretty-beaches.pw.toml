@@ -1,0 +1,13 @@
+name = "Pretty Beaches"
+filename = "prettybeaches-forge-1.20-11.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/BYB6xiNY/prettybeaches-forge-1.20-11.0.1.jar"
+hash-format = "sha512"
+hash = "a4ef63142f852e6b6d20f8de9d7318ce983c32e52faba37ce27935b02189db5c57385618821222d7cc7a34c826d0fed60ce42c30655ea1a28466832d6ab88042"
+
+[update]
+[update.modrinth]
+mod-id = "IAJe5m4X"
+version = "BYB6xiNY"

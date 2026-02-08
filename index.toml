@@ -726,18 +726,8 @@ hash = "a6c6bdc641478f1a705e74a792e32720c71dc88339fe7849e5fcf8ea29b9328d"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/aquamirae/worldgen/structure/outpost.json"
-hash = "f39de030ad82de1a8507196e499433d993da2c64f954157d7f9f01346a29e083"
-hash-format = "sha256"
-
-[[files]]
-file = "kubejs/data/aquamirae/worldgen/structure/shelter.json"
-hash = "fc9e74debb49207dc1ff3667a8801770d520bb8a01ae0df103ab56857825b5c8"
-hash-format = "sha256"
-
-[[files]]
-file = "kubejs/data/aquamirae/worldgen/structure/ship.json"
-hash = "1cf1bac58a446a2cbbdbb380c552065006f3260126b55d0b4a1a01f0c21a7d3c"
+file = "kubejs/data/aquamirae/worldgen/structure/structure_set/ice_maze.json"
+hash = "471183f82df28c41ae8453353ca58ee25cf413772af434c74b44a6ffacc3a9ba"
 hash-format = "sha256"
 
 [[files]]
@@ -4480,6 +4470,12 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/pretty-beaches.pw.toml"
+hash = "5af5cc36121c60c0fed6fee851c5e23d1a8fa2a97c79e9ff40f0d8a76682b5f9"
 hash-format = "sha256"
 metafile = true
 
