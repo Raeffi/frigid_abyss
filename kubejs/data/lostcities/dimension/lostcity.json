@@ -6,8 +6,95 @@
     "settings": "minecraft:overworld",
     "biome_source": {
       "type": "minecraft:multi_noise",
-      "preset": "overworld"
+      "biomes": [
+        {
+          "biome": "biomesoplenty:wasteland",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland",
+          "parameters": {
+            "temperature": 1,
+            "humidity": 1,
+            "continentalness": 1,
+            "erosion": 1,
+            "weirdness": 1,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland",
+          "parameters": {
+            "temperature": -1,
+            "humidity": -1,
+            "continentalness": -1,
+            "erosion": -1,
+            "weirdness": -1,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:dead_forest",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0.8,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:dead_forest",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 1,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland_steppe",
+          "parameters": {
+            "temperature": 1,
+            "humidity": -0.5,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland_steppe",
+          "parameters": {
+            "temperature": 1,
+            "humidity": 0,
+            "continentalness": 0.5,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+
+      ]
     }
   },
+
   "forge:use_server_seed": true
 }

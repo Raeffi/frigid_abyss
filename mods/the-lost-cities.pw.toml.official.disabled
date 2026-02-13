@@ -1,0 +1,13 @@
+name = "The Lost Cities"
+filename = "lostcities-1.20-7.4.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VDCUS3b/versions/D43m5aav/lostcities-1.20-7.4.11.jar"
+hash-format = "sha512"
+hash = "e84ff9a0e0346afef170722f81e505c0a17a8745877620c7bcf0499c1d9603ff6edd79160f5616d9e280c39affefb9696dca2cded8ea0b6e6f5224fc614d2205"
+
+[update]
+[update.modrinth]
+mod-id = "8VDCUS3b"
+version = "D43m5aav"

@@ -1,6 +1,11 @@
 hash-format = "sha512"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "b8f918aa5bcd2d2aaeda01c1e2774ca9bc7d643b10adf8c7e60f15ba717b0c80"
+hash-format = "sha256"
+
+[[files]]
 file = "config/ImmersiveAtmosphere.json"
 hash = "e3b7767f39d711c304a7894fbe824b3d90a8dce5737a5cf70a7d88c07208c67a"
 hash-format = "sha256"
@@ -1547,12 +1552,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/dimension/lostcity.json"
-hash = "babe0d302e418d0dc75b3d6e0b50e1003f0c84cbd3dc80fc098cb35af407e829"
+hash = "00529334a55e9b9ae68240cd03d9be51bb5cbbb429a70e5d61ded40d890c20db"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/lostcities/dimension_type/lostcity.json"
-hash = "0f1198e9e847ba3f20c6a96cce4f73887c46548737df929ba636c5351e35611f"
+hash = "9d8cc6039e5f26888a503a46fc04dca3ee83cee1bb24047039a96d38a9e74134"
 hash-format = "sha256"
 
 [[files]]
@@ -2073,6 +2078,21 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/nickel_ore.json"
 hash = "5764e32e06eee3552db09a9183635352d13eec9da622bb15800827335c34bf8c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/underground_bunkers/tags/worldgen/biome/has_structure/underground_bunker_biomes.json"
+hash = "ea5263a8001fd515233826be6105354bf5ed61148814f0e05ed9d622a018b7b7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/underground_bunkers/worldgen/structure/underground_bunker.json"
+hash = "f5f1ba69c442d8b29c7730545cbf753254c6d06dcc09bf9177023a41974727e4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/underground_bunkers/worldgen/structure_set/minor_structures.json"
+hash = "8591fd1f8b8fe4b9420d0c9bd4453a7f3dfc77f80c7585ff4a7d2c580c393643"
 hash-format = "sha256"
 
 [[files]]
@@ -3395,10 +3415,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
+file = "mods/dimthreads.pw.toml.disabled"
 hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
@@ -4160,7 +4179,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lostcities.pw.toml"
+file = "mods/lostcities-special.pw.toml"
 hash = "9e7af3c292ab33f0e5deae8e6c819e721e33203f6b2cae097bafb6b5a37e01a5"
 hash-format = "sha256"
 metafile = true
@@ -4841,6 +4860,11 @@ file = "mods/tetrasdelight-1.20.1-1.pw.toml"
 hash = "055103e6d89352ac39aa7fd423f85536244440c4719f6f185aaee846816d9e5d"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml.official.disabled"
+hash = "7e99d8373d845907d6795f4ab15a3760144cfe5101d8c4c55a7be87fd1ee3f0f"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/the-undead-revamped.pw.toml"
