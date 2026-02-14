@@ -2663,8 +2663,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/amendments-1.20-1.1.18.pw.toml"
-hash = "c470be8dbe70889a4d4dedeb2319e226f5aad1380cb0f0b9089bd3995b84f017"
+file = "mods/amendments.pw.toml"
+hash = "ebc1784afc2e1ee508668902f0e65c3d245ea820a74394204d1b5393474af961"
 hash-format = "sha256"
 metafile = true
 
@@ -3155,16 +3155,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map-1.4_mc1.20.1-neoforge.pw.toml"
+file = "mods/create-track-map.pw.toml.disabled"
 hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
 hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "1aa7d8e422bf16465ee95701d8e547f2405a8ffb8d691afe8268696801ba340f"
-hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
