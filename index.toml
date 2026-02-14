@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b8f918aa5bcd2d2aaeda01c1e2774ca9bc7d643b10adf8c7e60f15ba717b0c80"
+hash = "e8d66aa0c084e63d12299ac59f78d0448e1858254a649876030eac5225ecfc11"
 hash-format = "sha256"
 
 [[files]]
@@ -42,7 +42,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "8d2c9fe0fabab50f67ec09fb34945bb68fc85d63422b91b2b4d20f0ae814a474"
+hash = "40a24f6107041d8b1f509e866600276df485e0b977774795009d7f18e8e13df7"
 hash-format = "sha256"
 
 [[files]]
@@ -641,18 +641,33 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item - Kopie.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unfinished_advanced_bullet.png"
+file = "kubejs/assets/kubejs/textures/item/old/unfinished_advanced_bullet.png"
 hash = "59de446b992fed21fd8d6b54f0fc26b055292fad4fd3ca9db0953d9aade12bca"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unfinished_basic_bullet.png"
+file = "kubejs/assets/kubejs/textures/item/old/unfinished_basic_bullet.png"
 hash = "a41305fff25c8b5bae2c2d20381593f8c880e1d2a23d94e48682051ecfe28cf5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/old/unfinished_shell.png"
+hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_hastelloy_component.png"
+hash = "7ef4911659d4f3d612137ec29aa18e93116e16dbd6f84f22b6cb21b2639ee1d4"
 hash-format = "sha256"
 
 [[files]]
@@ -661,13 +676,13 @@ hash = "110f8f32fc42752c71e384ac3c4ff28fcf24c1de7d68cdc47cdf24364f1b12a4"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unfinished_shell.png"
-hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
+file = "kubejs/assets/kubejs/textures/item/unfinished_steel_component.png"
+hash = "399ef27101470d19078fa95136e1a64b4b65d691e67ba83e618cd1fbe642e12a"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unfinished_steel_component.png"
-hash = "399ef27101470d19078fa95136e1a64b4b65d691e67ba83e618cd1fbe642e12a"
+file = "kubejs/assets/kubejs/textures/item/unfinished_tungsten_component.png"
+hash = "fd48a57c9445ca7e6afa379be04c8a8d8f98cecb77fc500be8c74afe899e8610"
 hash-format = "sha256"
 
 [[files]]
