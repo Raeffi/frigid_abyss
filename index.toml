@@ -2930,12 +2930,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 hash-format = "sha256"
@@ -3015,7 +3009,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "2fa7f1247609acc945edbb8415f03e798d29aaa3a248939bd168efd135e60553"
+hash = "bf47e99d9ec07a4402e59f41ac64328900bb3ab4ba8110b084af5b69f64c1cee"
 hash-format = "sha256"
 metafile = true
 
@@ -3621,12 +3615,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "e1b1dee9a6cfa4075902f9466304a315ec248ea4666fc1a4377cd1e301836a7a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
 hash-format = "sha256"
 metafile = true
 
