@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "c30afb73f0e092291756ae447ddb9d7d239f53f39a61000e1e056f2900fcdff9"
+hash = "cb4ae53284c25e6f8145a94641f4f90af7dabe96da4471a8e6640f37a2884977"
 hash-format = "sha256"
 
 [[files]]
@@ -641,11 +641,6 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item - Kopie.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-hash-format = "sha256"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 hash-format = "sha256"
@@ -663,6 +658,11 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/old/unfinished_shell.png"
 hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tx_mechanical_component.pdn"
+hash = "7d6580970707cbdba766991f94e8b62a6d864184d2796a91974bb5cd075f3ce2"
 hash-format = "sha256"
 
 [[files]]
@@ -4116,6 +4116,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/lc2h.pw.toml"
+hash = "578cd25249f0f58f58e065d6156f59d9b95bc5060d0ae8250c6d7c1079a88609"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "b96504b85a5193250bbdd3fedf4434b503c6aa135d563adccfc562cf1104109b"
 hash-format = "sha256"
@@ -4194,10 +4200,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lostcities-special.pw.toml"
+file = "mods/lostcities-special.pw.toml.disabled"
 hash = "9e7af3c292ab33f0e5deae8e6c819e721e33203f6b2cae097bafb6b5a37e01a5"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/luminous-monsters.pw.toml"
@@ -4565,6 +4570,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/quantified-api.pw.toml"
+hash = "af83a1b92a020cdbaf9839f4c1dd36ce740e089f8d27573adeeeffa2c248ee03"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/random-commands.pw.toml"
 hash = "75f2f252bd1b0ddb83495c6ae53cd97f6242a43c7c8babd020fdf73820384c3c"
 hash-format = "sha256"
@@ -4873,6 +4884,12 @@ metafile = true
 [[files]]
 file = "mods/tetrasdelight-1.20.1-1.pw.toml"
 hash = "055103e6d89352ac39aa7fd423f85536244440c4719f6f185aaee846816d9e5d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "46cc5956867ff7af36f8c46be1d058cdeb9ad9d118a2a3e4d71f2eb129128b5a"
 hash-format = "sha256"
 metafile = true
 
