@@ -34,7 +34,7 @@ globalExecutorParallelism = "default"
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	midTickChunkTasksInterval = -1
+	midTickChunkTasksInterval = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = "default"

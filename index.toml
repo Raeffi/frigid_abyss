@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e8d66aa0c084e63d12299ac59f78d0448e1858254a649876030eac5225ecfc11"
+hash = "c30afb73f0e092291756ae447ddb9d7d239f53f39a61000e1e056f2900fcdff9"
 hash-format = "sha256"
 
 [[files]]
@@ -42,7 +42,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "40a24f6107041d8b1f509e866600276df485e0b977774795009d7f18e8e13df7"
+hash = "3dca00b5d67a6a7cd8319572a4ec7971783f719e451e70ab56a8fa4ad83d5ff3"
 hash-format = "sha256"
 
 [[files]]
