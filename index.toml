@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "cb4ae53284c25e6f8145a94641f4f90af7dabe96da4471a8e6640f37a2884977"
+hash = "c30afb73f0e092291756ae447ddb9d7d239f53f39a61000e1e056f2900fcdff9"
 hash-format = "sha256"
 
 [[files]]
@@ -3423,9 +3423,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml.disabled"
+file = "mods/dimthreads.pw.toml"
 hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
@@ -4404,12 +4405,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry-1.8.0.pw.toml"
 hash = "f023d921975e4fbc8cc56def2f7eea3439b44635da0bf6f54020f7a5eff0eda5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 hash-format = "sha256"
 metafile = true
 

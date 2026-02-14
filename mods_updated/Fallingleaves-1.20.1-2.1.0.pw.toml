@@ -1,6 +1,8 @@
 name = "FallingLeaves-1.20.1-2.1.0"
 filename = "fallingleaves-1.20.1-2.1.2.jar"
 
+side = "client"
+
 [download]
 url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/j5eND1ZA/fallingleaves-1.20.1-2.1.2.jar"
 hash-format = "sha512"
