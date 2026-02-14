@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "c30afb73f0e092291756ae447ddb9d7d239f53f39a61000e1e056f2900fcdff9"
+hash = "cb4ae53284c25e6f8145a94641f4f90af7dabe96da4471a8e6640f37a2884977"
 hash-format = "sha256"
 
 [[files]]
@@ -42,7 +42,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "3dca00b5d67a6a7cd8319572a4ec7971783f719e451e70ab56a8fa4ad83d5ff3"
+hash = "72248d6b1d10effc0bca2c4a4004dda609f21478fc5d40a406ea9bba02239008"
 hash-format = "sha256"
 
 [[files]]
@@ -3423,10 +3423,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
+file = "mods/dimthreads.pw.toml.disabled"
 hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
@@ -5032,7 +5031,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "24332be98ab9c9250af31714c85785b6790bddc2def491e1ba6d249defa714ae"
+hash = "0848e3eeb6d87316ce67b487da8f3494c18932a4de054b29ccd9f861406d7a9c"
 hash-format = "sha256"
 metafile = true
 

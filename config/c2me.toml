@@ -70,11 +70,11 @@ globalExecutorParallelism = "default"
 	# It is generally not recommended to disable this settings unless you know what you are doing  
 	# 
 	# 
-	enforceSafeWorldRandomAccess = "default"
+	enforceSafeWorldRandomAccess = "false"
 
 [threadedWorldGen]
 	# (Default: false) Whether to enable this feature
-	enabled = "default"
+	enabled = "true"
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = "default"
