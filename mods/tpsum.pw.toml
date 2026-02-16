@@ -1,0 +1,13 @@
+name = "Tpsum"
+filename = "tpsum-1.20.1-0.0.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QYtbfoMj/versions/SdytJhIQ/tpsum-1.20.1-0.0.10.jar"
+hash-format = "sha512"
+hash = "7ff3889bae5b6f6746741f2040e0ec4985be1bc56ab8a9989282da777cf9b4905a6dd4de44bc4cb851c9799e24800e23d63bac952e58a55c5469070d6bde1f67"
+
+[update]
+[update.modrinth]
+mod-id = "QYtbfoMj"
+version = "SdytJhIQ"

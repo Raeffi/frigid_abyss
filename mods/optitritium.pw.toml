@@ -1,0 +1,13 @@
+name = "Tritium"
+filename = "tritium-forge-1.20.1-26.10-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AyzF4cmc/versions/Gn2Y7NeF/tritium-forge-1.20.1-26.10-hotfix.jar"
+hash-format = "sha512"
+hash = "ff18016b1dcad8229c1caf4de931bd8dc35af4771da92ae9d8c7a320001b794aa78c8250216cf7f3660cd7369dd86eff602e95a43e98f055ebee2e0ffba12b1f"
+
+[update]
+[update.modrinth]
+mod-id = "AyzF4cmc"
+version = "Gn2Y7NeF"

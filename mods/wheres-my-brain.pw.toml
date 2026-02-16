@@ -1,0 +1,13 @@
+name = "Where's my Brain (WMB)"
+filename = "wmb-forge-1.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nxidmR9/versions/8RmW9Q9a/wmb-forge-1.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "650f7c4c96c44d3cf4ac49b4bb2324ee3cea5140f0a3e6fae4a4aee1c69dc9383865383fc0ac568037d78fdef9f946fd20a01895b909d7774f9c5c0f94ce048c"
+
+[update]
+[update.modrinth]
+mod-id = "1nxidmR9"
+version = "8RmW9Q9a"

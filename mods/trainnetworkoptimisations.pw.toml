@@ -1,0 +1,13 @@
+name = "Train Network Optimisations"
+filename = "trainnetworkoptimisations-1.0.0+1.20.1-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oeCO1sXl/versions/igzIfOmD/trainnetworkoptimisations-1.0.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "abc3028500ec5b07f46d6e786ce8c15f65f4e51c3c84d135ef3e173c405c64e5caecf6c67f38ff75503895b32c9433bae5269c966d84f1573b16a9ae8a2d6452"
+
+[update]
+[update.modrinth]
+mod-id = "oeCO1sXl"
+version = "igzIfOmD"
