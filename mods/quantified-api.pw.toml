@@ -1,13 +1,13 @@
 name = "Quantified API"
-filename = "quantified api-forge-1.20.1-1.2.0.jar"
+filename = "quantified api-forge-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ca9da5254b1f5947e2fd5c37d472ebe40fa833c6"
+hash = "8e184e31311a16a9e90a97295080411ad5e39dc8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7615340
+file-id = 7638609
 project-id = 1397967

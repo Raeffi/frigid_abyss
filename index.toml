@@ -4095,6 +4095,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/lc2h.pw.toml"
+hash = "578cd25249f0f58f58e065d6156f59d9b95bc5060d0ae8250c6d7c1079a88609"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/lc2h.pw.toml.disabled"
 hash = "578cd25249f0f58f58e065d6156f59d9b95bc5060d0ae8250c6d7c1079a88609"
 hash-format = "sha256"
@@ -4543,7 +4549,7 @@ metafile = true
 
 [[files]]
 file = "mods/quantified-api.pw.toml"
-hash = "af83a1b92a020cdbaf9839f4c1dd36ce740e089f8d27573adeeeffa2c248ee03"
+hash = "56aeb7ea34156d43b826868b60c8eb2654ddda50af82204102d703a980d35366"
 hash-format = "sha256"
 metafile = true
 
@@ -4584,10 +4590,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/redirector.pw.toml"
+file = "mods/redirector.pw.toml.disabled"
 hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
@@ -4930,10 +4935,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/tpsum.pw.toml"
+file = "mods/tpsum.pw.toml.disabled"
 hash = "5792cd9d92231859573c57d67120adba288bad5eb7a53bb1aebe8a4638735c10"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/trackwork.pw.toml"
@@ -5128,10 +5132,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/wheres-my-brain.pw.toml"
+file = "mods/wheres-my-brain.pw.toml.disabled"
 hash = "cabdb54c9eca4de3bf35518a22a9ba22a7461db46d1528978e3bc535a5f8b45a"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/witheringboon-1.8.1.pw.toml"
