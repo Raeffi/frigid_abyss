@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "5c0623f62f19b6128945921c9377f0b8cdf537b15a30857f6e0b63f29f24b27b"
+hash = "3714840058e3cdc42242e4ba30dcc7a9020d2a24f94b7a8035082b26cb696185"
 hash-format = "sha256"
 
 [[files]]
@@ -42,7 +42,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "076f0774ed81e1a02de66d3b6c46fb20d5399cbe06070ed1dceb92ce0f936925"
+hash = "d567eee1b14c56c19f31f1d78ae94b84da2ae083626e3623e850ea0e9ea7c1c2"
 hash-format = "sha256"
 
 [[files]]
@@ -2388,7 +2388,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons.pw.toml"
-hash = "b8973dec5c378727ef26cec7b775722fedaeaaa36b98912eed1c5898196e6e9e"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 hash-format = "sha256"
 metafile = true
 
@@ -2834,9 +2834,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/c2mef.pw.toml.disabled"
+file = "mods/c2mef.pw.toml"
 hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/caelus-forge-3.1.0_1.20.pw.toml"
@@ -4099,11 +4100,6 @@ file = "mods/lc2h.pw.toml"
 hash = "578cd25249f0f58f58e065d6156f59d9b95bc5060d0ae8250c6d7c1079a88609"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "mods/lc2h.pw.toml.disabled"
-hash = "578cd25249f0f58f58e065d6156f59d9b95bc5060d0ae8250c6d7c1079a88609"
-hash-format = "sha256"
 
 [[files]]
 file = "mods/ldlib.pw.toml"

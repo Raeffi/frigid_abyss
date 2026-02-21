@@ -19,7 +19,7 @@ version = 3
 #  Available variables: is_windows, is_j9vm, is_client, cpus, mem_gb
 # 
 defaultGlobalExecutorParallelismExpression = "default"
-# (Default: 1) Configures the parallelism of global executor
+# (Default: 3) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 [generalOptimizations]
@@ -34,7 +34,7 @@ globalExecutorParallelism = "default"
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	midTickChunkTasksInterval = "default"
+	midTickChunkTasksInterval = -1
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = "default"
@@ -70,11 +70,11 @@ globalExecutorParallelism = "default"
 	# It is generally not recommended to disable this settings unless you know what you are doing  
 	# 
 	# 
-	enforceSafeWorldRandomAccess = "true"
+	enforceSafeWorldRandomAccess = true
 
 [threadedWorldGen]
-	# (Default: false) Whether to enable this feature
-	enabled = "true"
+	# (Default: true) Whether to enable this feature
+	enabled = true
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = "default"
@@ -88,7 +88,7 @@ globalExecutorParallelism = "default"
 	asyncScheduling = "default"
 
 [ioSystem]
-	# (Default: false) Whether to use the optimized implementation of IO system
+	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
 	# (Default: true) Whether to use async chunk loading & unloading
 	async = "default"
@@ -122,7 +122,7 @@ globalExecutorParallelism = "default"
 [noTickViewDistance]
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
+	# (Default: 4) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = 8
 	# (Default: true) Whether to use compatibility mode to send chunks 
@@ -137,7 +137,7 @@ globalExecutorParallelism = "default"
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 126) Max render distance allowed in game options
+		# (Default: 100) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [vanillaWorldGenOptimizations]
