@@ -34,7 +34,7 @@ const OPPOSITE_FACING = {
 
 ServerEvents.tick(event => {
   // Run this every 20 ticks (1 second) or adjust timing as needed
-  if (event.server.getTickCount() % 1 !== 0) return;
+  if (event.server.getTickCount() % 20 !== 0) return;
 
   const level = event.server.getLevel(LOST_CITIES_DIM); // or get main level reference
   const players = event.server.getPlayerList().getPlayers();
