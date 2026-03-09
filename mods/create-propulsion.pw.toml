@@ -1,8 +1,13 @@
-name = "create-propulsion"
-filename = "createpropulsion-0.3.0.jar"
+name = "Create: Propulsion"
+filename = "createpropulsion-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1428561074751406080/1455232109814878301/createpropulsion-0.3.0.jar?ex=6953fa03&is=6952a883&hm=56658f8e1b20ef718d47cb22fef652aea8530f0107f4e0e06c338602206010ae&"
-hash-format = "sha256"
-hash = "6e697ec686048f41230bdd4ff318214eb52cedac5ca3e3fd24b1402ccc147398"
+url = "https://cdn.modrinth.com/data/fmudhH0S/versions/lb48ICBc/createpropulsion-0.3.1.jar"
+hash-format = "sha512"
+hash = "f7fed1e4a913136652a5146fcd5ac257bb41fa947e833e1a47d51498b4a92724c2048d8abdae0011739b99401b73ca5146db4a7a8fc9956c75f2cf26ee34ceb9"
+
+[update]
+[update.modrinth]
+mod-id = "fmudhH0S"
+version = "lb48ICBc"

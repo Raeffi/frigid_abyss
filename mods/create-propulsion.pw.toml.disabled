@@ -1,7 +1,0 @@
-name = "create-propulsion"
-filename = "createpropulsion-0.3.0.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1428903536128954388/1454341769985523773/createpropulsion-0.3.0.jar?ex=69516592&is=69501412&hm=d5aacae00ea8156d8536d947add54450c56ef59d96d3c2ac55ae9892996fc2b5&"
-hash-format = "sha256"
-hash = "f5a61721ce812cb4b5d79041480719b9f2e7ab2c91f0384a3f6864482db4a7ec"

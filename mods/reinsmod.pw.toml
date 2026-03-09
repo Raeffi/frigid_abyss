@@ -1,0 +1,13 @@
+name = "ReinsMod"
+filename = "reinsmod-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nYuCQjkO/versions/bkndxFgC/reinsmod-1.1.0.jar"
+hash-format = "sha512"
+hash = "9589d1847083c0f17893b45bd1ad49e2103ca32645c9f6592bd17b2f6ce577c0ec9791f198d7b8e1137d3b6600a19094ca63c96aa20b9ff5cd1607ea677d8ecc"
+
+[update]
+[update.modrinth]
+mod-id = "nYuCQjkO"
+version = "bkndxFgC"

@@ -1,6 +1,12 @@
 ServerEvents.tags('block', e => {
 
     //Tags for temperatures
+    e.add('frigid_abyss:lava', 'minecraft:lava')
+    e.add('frigid_abyss:lava', 'createbigcannons:molten_bronze')
+    e.add('frigid_abyss:lava', 'createbigcannons:molten_cast_iron')
+    e.add('frigid_abyss:lava', 'createbigcannons:molten_nethersteel')
+    e.add('frigid_abyss:lava', 'createbigcannons:molten_steel')
+
     e.add('frigid_abyss:campfire', 'decorative_blocks:brazier')
     e.add('frigid_abyss:campfire', 'valhelsia_structures:brazier')
     e.add('frigid_abyss:campfire', 'minecraft:campfire')

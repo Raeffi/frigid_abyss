@@ -56,18 +56,13 @@ hash = "183cef8599b192d2758d91b79a882dfaee4ac49bf9f74438251d9eb843b57e37"
 hash-format = "sha256"
 
 [[files]]
-file = "config/coldsweat/item.toml"
-hash = "c67792a9cbaf1cd3621216e9eedc86c52158d43dc216a780fe1eb60c096342f2"
-hash-format = "sha256"
-
-[[files]]
 file = "config/coldsweat/main.toml"
 hash = "a0b980a4a617d52d36ba534088ab43507b62fc26482c351ac4c3c8a5eb4a4683"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "53f80e56167745a836e3111d6371690a4e3918ff4271a205ee91a47558e0a060"
+hash = "c255db88069fa390410f6f668cc41fd873751d8c9f08f179ee60e6a22da19c26"
 hash-format = "sha256"
 
 [[files]]
@@ -218,6 +213,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/incontrol/spawn.json"
 hash = "1b23cf3c7ccf28c77ddd93ef1162945ed485ddea250bd63b3c5fad61a99c36bd"
+hash-format = "sha256"
+
+[[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "7550fc1e3ee49474252724ca2bff1cb574586cdc9e797cdf19b0b3d00410af0e"
 hash-format = "sha256"
 
 [[files]]
@@ -641,6 +641,21 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/crystal_computing_card.png"
+hash = "47dbdb8871e1e57232d8ae79c4a8e28ed38c94542336376ff524c9d84387de9f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crystal_memory_card.png"
+hash = "a2712ec4c880d8bba2bcf955698c8da54bbe5e0f29e205b8d7656dce489bf8b8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crystal_storage_card.png"
+hash = "5f993bdcc864b075d24aa1f93e11198360826da15084479aaaef9a3bbf3c8d61"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 hash-format = "sha256"
@@ -661,8 +676,108 @@ hash = "614607dd33cce7b2b56e56e91b6133097d1d2e01e2d45dbb1a156a84ee73ac99"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/t1_computing_component.png"
+hash = "dd7452e195289733e3b432bdad97dc36909b459053a8047952ab0e290007d641"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t1_electrical_component.png"
+hash = "0d6893dbb0c4f0d60875f5ef0c9121ba04f83a22a79275439adb1919466ffbeb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t1_mechanical_component.png"
+hash = "e0e79ad52fca8857c762773719d79d6a36ec79b08ce06e270a8b3c6689c40e1d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t2_computing_component.png"
+hash = "64906d670f1ef834374174a46db875b3e2b91fd8efec0c34c3965498ab4f0bc2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t2_electrical_component.png"
+hash = "a062d5cb0a053b1b824581485b7e1557ce0e5794e11b1b3dc570b1c39be4f255"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t2_mechanical_component.png"
+hash = "d6529e97bb6ab1488714d257286ddd5bc722a48e95ee09690ad37ef201a9363c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t3_computing_component.png"
+hash = "5b310e363d88a8bf02b24a0c023429d191dd540d29ebb69b4eedc064a1274a53"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t3_electrical_component.png"
+hash = "93a993885cd42d41cd9fa610a950a49590991785c101eb66351fdfdc8086b985"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t3_mechanical_component.png"
+hash = "06c1093f3e3ddb1eaeb824d3478776aa8447a998001bda08a7ade0d75b67b082"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t4_computing_component.png"
+hash = "6def34f8c8fdd22090f6b843557f1e5a8f74dd9c8e681ac7e984db84a1a8ef37"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t4_electrical_component.png"
+hash = "b7c83ec962e789c6680ba5d2f63ccfb2f98095613ecf7c2383e4541483e72143"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t4_mechanical_component.png"
+hash = "56d33ea58b0de85b947b9903e17ea318dac4966a9126afeed5f541da00f07d04"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t5_computing_component.png"
+hash = "c258a4326ed11b6f73025133d7c71c898297c6e963f0b7090ee84a9f4f1cbe4e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t5_electrical_component.png"
+hash = "7a34f5f02655291a97adbf10423d4f1acd268c147a0c6844399472c1a71e0736"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t5_mechanical_component.png"
+hash = "fed87cc63945ce26577acca68b8537f99c59cb2cc710d2cba9b5d47f796a5bb4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t6_computing_component.png"
+hash = "4fa80f70d7b469d0a79e68689c73da6214a02d16a3759a8a0cbe6768a95d6b68"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t6_electrical_component.png"
+hash = "ce4894f6a16729c503f7ed544603df147c31c168b1f3ffdb7b514ff7410539b7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t6_mechanical_component.png"
+hash = "205711f687aaab773684b12bea95d17f31586f92d5bdf5c246fce52f39c11f83"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tx_computing_component.pdn"
+hash = "34779009de716ac0558452ce740f33dfec89ea6b6ba6495fe15a6e172667bb57"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tx_electrical_component.pdn"
+hash = "81260fb120d964e00f5b0fa292e5ef4666f20c5ee40fe014dd25d2d9420b08a4"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/tx_mechanical_component.pdn"
-hash = "7d6580970707cbdba766991f94e8b62a6d864184d2796a91974bb5cd075f3ce2"
+hash = "3e748c83c876e14d966a99640fc81049e765a65d4807d5967d6bb677b5d0cba3"
 hash-format = "sha256"
 
 [[files]]
@@ -2227,7 +2342,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/blockstateupdater.js"
-hash = "869cfa16fe4b4a10e29c65d2596efc76dbba0429b3e88429105578cf7ed5cb36"
+hash = "0b2a6bbb96538440465f244612bcdc1cccb333cfe603d1ff4c259668fcd52271"
 hash-format = "sha256"
 
 [[files]]
@@ -2236,8 +2351,28 @@ hash = "83981c0bdd6734d58c505bcbec44fafd0b6029b99c92aa415dd00ef1b7a5216b"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat.js"
+file = "kubejs/server_scripts/coldsweat_blocks.js"
 hash = "80464d9b550d8c60fb82b01d81739d7b63ef682a3e4071ee3ece7b03a8a20ed7"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/coldsweat_food.js"
+hash = "0e7d1f50c220f23673b542dbd5d4b1bb5ea9d1eff7c2723df2a235c68f124c5f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/coldsweat_fuel.js"
+hash = "08d89dc12ee70e791a338ad5c782047e9e8ed8d604ef1989e4748c218a937a6d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/coldsweat_items.js"
+hash = "817620d18d0562ea3aa12272a838cba51947bb02072aaa04a9a2ac0a61c044ac"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/coldsweat_world.js"
+hash = "5d9a4c46650fccaf2bf0c905d88b2e23c2f9417953d8d05b59754361b2d68ae1"
 hash-format = "sha256"
 
 [[files]]
@@ -2277,7 +2412,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/startup_scripts/customitems.js"
-hash = "ad2fcd696aade0bbe3f62698aadb1efa724deabe8eb7123262a8f1f64d23d9b5"
+hash = "e975f7392899c54ac4c0601ecc70a1885e91f04a64409cb81f496eef1001d870"
 hash-format = "sha256"
 
 [[files]]
@@ -2967,7 +3102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "6586f2577b814b562d0c8b9c08e33cc1e6f5ddc8f01f2122c70df18561772294"
+hash = "a62d470f5952103cf48987c58c24c0b946479d943498efebc5592d2edc438f9e"
 hash-format = "sha256"
 metafile = true
 
@@ -3104,14 +3239,9 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion.pw.toml"
-hash = "024bdefe1b5c6cc9365e23c35feca89f18eff4ada15c3af8006a0c05571f969e"
+hash = "e84be96b25cef4304078e26240d32dc72a7ef69f2203aa0c230ad48d25b483e8"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "mods/create-propulsion.pw.toml.disabled"
-hash = "4f9f1cfd707718640a5cd2aa63147506929b574864eabafb1f81078b853ee869"
-hash-format = "sha256"
 
 [[files]]
 file = "mods/create-radars.pw.toml"
@@ -4589,6 +4719,12 @@ metafile = true
 file = "mods/redirector.pw.toml.disabled"
 hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/reinsmod.pw.toml"
+hash = "98f8e7d9687c321048aef66e912280ccf112fd2515fd733e0f95004651d78579"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
