@@ -1,8 +1,19 @@
-let addDimension = (temp, dimension) => {
-    e["addDimensionOffset(double,double,java.lang.String,java.lang.String[])"](
+let addDimensionOffset = (temp, dimension, units) => {
+    if (units == null) units = "mc"
+    e["addDimensionOffset(double min, double max, String units, String[] dimensions)"](
         temp,
         temp,
-        "mc",
+        units,
+        [dimension]
+    )
+}
+
+let addDimensionTemperature = (maxTemp, minTemp, dimension, units) => {
+    if (units == null) units = "mc"
+    e["addDimensionTemperature(double min, double max, String units, String[] dimensions)"](
+        minTemp,
+        maxTemp,
+        units,
         [dimension]
     )
 }
@@ -21,12 +32,15 @@ let addBiomeTemperature = (maxTemp, minTemp, biome, units) => {
 
 ColdSweatEvents.registries(e => {
 
-    addDimension(0.6,"minecraft:the_nether")
-    addDimension(-0.1,"minecraft:the_end")
-    addDimension(-0.3,"minecraft:overworld")
-    addDimension(0.3,"lostcities:lostcity")
-    addDimension(0.3,"sgjourney:lantea")
-    addDimension(0.3,"luminous_depths:luminous_depth")
+    addDimensionOffset(0.6,"minecraft:the_nether")
+    addDimensionOffset(-0.1,"minecraft:the_end")
+    addDimensionOffset(-0.3,"minecraft:overworld")
+    addDimensionOffset(0.3,"lostcities:lostcity")
+    addDimensionOffset(0.3,"sgjourney:lantea")
+    addDimensionOffset(0.3,"luminous_depths:luminous_depth")
+
+    addDimensionTemperature(-60,-60,"genesis:great_unknown","C")
+    addBiomeTemperature(-60,-60,"genesis:great_unknown","C")
 
     addBiomeTemperature(53,53,"minecraft:soul_sand_valley","F")
     addBiomeTemperature(58,72,"minecraft:old_growth_birch_forest","F")

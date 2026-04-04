@@ -1,0 +1,13 @@
+name = "Immersive Convergence"
+filename = "ImmersiveConvergence-1.20.1-1.0.0-b31-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qb6tndiJ/versions/tB08ui56/ImmersiveConvergence-1.20.1-1.0.0-b31-beta.jar"
+hash-format = "sha512"
+hash = "3611d9f36d4b1a0fcfe21c9bf6ac7674b7a520b6c0a50066ab14b9b60354d5166bb50472430d7ffaeccd0766e67b75f53098db107eaedb45bff5addd67aa0b02"
+
+[update]
+[update.modrinth]
+mod-id = "qb6tndiJ"
+version = "tB08ui56"

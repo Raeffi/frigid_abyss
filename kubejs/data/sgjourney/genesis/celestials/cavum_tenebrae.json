@@ -1,0 +1,22 @@
+{
+  "type": "genesis:body",
+  "size": 96,
+  "gravity": 0.5,
+  "transformProvider": {
+    "type": "genesis:orbiting",
+    "parentID": "sgjourney:cavum_tenebrae_sun",
+    "seed": 2,
+    "orbitDistance": 8000,
+    "orbitTime": 4600000,
+    "dayLength": 24000
+  },
+  "properties": {
+    "atmosphere": {
+      "density": 0.0,
+      "thickness": 0.0,
+      "precipitation": false,
+      "isBreathable": false,
+      "color": { "type": "genesis:rgb", "r": 194, "g": 125, "b": 40 }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "genesis",
+    "dimension-names": [
+        "great_unknown",
+        "moon",
+        "malachite"
+    ],
+    "biome-selector": {
+        "always": false
+    },
+    "regions": [
+        {
+            "name": "dark",
+            "volume": 0.2,
+            "sound-collections": [
+                "suspense"
+            ]
+        }
+    ]
+}

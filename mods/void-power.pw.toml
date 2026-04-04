@@ -1,0 +1,7 @@
+name = "void_power"
+filename = "void_power-1.2.9.no_vs-all.jar"
+
+[download]
+url = "https://github.com/dfdyz/VoidPowerMod/releases/download/V1.2.9/void_power-1.2.9.no_vs-all.jar"
+hash-format = "sha256"
+hash = "4b32d4ba6d284903441ccf218e9ad4121d48c89bd936628ce348f27064d95714"

@@ -1,0 +1,21 @@
+{
+  "type": "genesis:star",
+  "size": 1440,
+  "gravity": 2.0,
+  "transformProvider": {
+    "type": "genesis:orbiting",
+    "parentID": "sgjourney:chulak_sun_anchor",
+    "seed": 153,
+    "orbitDistance": 7000,
+    "orbitTime": 4600000,
+    "dayLength": 24000
+  },
+  "properties": {
+    "r0": 255,
+    "g0": 0,
+    "b0": 0,
+    "r1": 255,
+    "g1": 204,
+    "b1": 38
+  }
+}

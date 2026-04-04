@@ -1,0 +1,13 @@
+name = "The Abandoned World"
+filename = "abandonedworld-0.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmkVHxrZ/versions/t25Z3TsQ/abandonedworld-0.0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "950edbbe50533d725790623a267bc4cb740df573463d9bef3c811f9d7db791ec55ecfe9666384d1d837eac34a4af8f42bd73d7bd0c98298c5c6b3a5174eb1b56"
+
+[update]
+[update.modrinth]
+mod-id = "LmkVHxrZ"
+version = "t25Z3TsQ"

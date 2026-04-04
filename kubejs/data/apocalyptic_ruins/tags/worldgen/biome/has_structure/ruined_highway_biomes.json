@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "abandonedworld:the_wasteland",
+      "required": false
+    },
+        {
+      "id": "abandonedworld:dying_land",
+      "required": false
+    }
+  ]
+}

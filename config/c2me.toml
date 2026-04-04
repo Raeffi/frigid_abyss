@@ -124,7 +124,7 @@ globalExecutorParallelism = "default"
 	enabled = "default"
 	# (Default: 4) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = 8
+	maxConcurrentChunkLoads = 6
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
 	compatibilityMode = "default"

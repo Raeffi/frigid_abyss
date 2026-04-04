@@ -1,0 +1,13 @@
+name = "Create: Compact Transmission"
+filename = "create_compact_transmission-1.0.0(LE).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qBkvR8oH/versions/rGx8wId8/create_compact_transmission-1.0.0%28LE%29.jar"
+hash-format = "sha512"
+hash = "3d455b6bc75b214243acc31126b326a0cfbf8d752ed4a6af9537407f7ea65dcf945390fd138ccd217614ac7469d9cbf8823404f4efa6916efcbffcd13e334665"
+
+[update]
+[update.modrinth]
+mod-id = "qBkvR8oH"
+version = "rGx8wId8"

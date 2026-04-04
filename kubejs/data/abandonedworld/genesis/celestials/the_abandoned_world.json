@@ -1,0 +1,22 @@
+{
+  "type": "genesis:body",
+  "size": 96,
+  "gravity": 1.0,
+  "transformProvider": {
+    "type": "genesis:orbiting",
+    "parentID": "sgjourney:abydos_sun",
+    "seed": 1561,
+    "orbitDistance": 20000,
+    "orbitTime": 4600000,
+    "dayLength": 24000
+  },
+  "properties": {
+    "atmosphere": {
+      "density": 3.0,
+      "thickness": 2.0,
+      "precipitation": true,
+      "isBreathable": false,
+      "color": { "type": "genesis:rgb", "r": 0, "g": 0, "b": 0 }
+    }
+  }
+}

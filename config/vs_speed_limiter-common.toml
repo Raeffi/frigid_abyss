@@ -1,0 +1,6 @@
+#Debug mode (Enabling will spam logs)
+debug_mode = false
+#Max ship speed in blocks/second (going above 200 may cause bugs and performance issues) 
+#Range: > 1
+maxshipspeed = 32
+

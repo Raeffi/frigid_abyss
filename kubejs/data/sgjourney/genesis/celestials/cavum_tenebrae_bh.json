@@ -1,0 +1,11 @@
+{
+  "type": "genesis:blackhole",
+  "size": 1500,
+  "gravity": 8,
+  "transformProvider": {
+    "type": "genesis:static",
+    "x": 500000.0,
+    "y": 0.0,
+    "z": 250000.0
+  }
+}

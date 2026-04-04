@@ -1,0 +1,13 @@
+name = "Valkyrien Speed Limiter"
+filename = "vs_speed_limiter-0.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nauSaQie/versions/uDtB3msd/vs_speed_limiter-0.1.0-beta.jar"
+hash-format = "sha512"
+hash = "9be9638bba388082754cac5410c24b8a0478d500966fd27ceecd38619a36f39ed502207205ae741c2e3678d0ec17ba51a223fae73fd851b3935ae1f56e0b2123"
+
+[update]
+[update.modrinth]
+mod-id = "nauSaQie"
+version = "uDtB3msd"

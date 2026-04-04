@@ -318,7 +318,7 @@ _version = 3
 				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
-				overdrawPrevention = "0.3"
+				overdrawPrevention = "0.0"
 				#
 				# If enabled caves won't be rendered. 
 				# 
@@ -393,7 +393,7 @@ _version = 3
 				# Note:
 				# Some DH settings will be disabled and/or changed to improve 
 				# visuals when DH rendering is disabled.
-				ignoredDimensionCsv = ""
+				ignoredDimensionCsv = "genesis:great_unknown,genesis:wormhole,abandonedworld:the_abandoned_world"
 
 		[client.advanced.multiplayer]
 			#

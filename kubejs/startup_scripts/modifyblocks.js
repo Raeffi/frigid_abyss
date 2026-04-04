@@ -1,0 +1,21 @@
+// BlockEvents.modification(e => {
+//     e.modify('abandonedworld:cobbled_eroded_rock',          block => {block.material('rock')})
+//     e.modify('abandonedworld:eroded_rock',                  block => {block.material('rock')})
+//     e.modify('abandonedworld:cracked_eroded_rock_bricks',   block => {block.material('rock')})
+//     e.modify('abandonedworld:eroded_rock_bricks',           block => {block.material('rock')})
+//     e.modify('abandonedworld:rotting_log',                  block => {block.material('wood')})
+//     e.modify('abandonedworld:scrapyard_mud',                block => {block.material('dirt')})
+//     e.modify('abandonedworld:scrap_metal_ore',              block => {block.material('metal')})
+//     e.modify('abandonedworld:dead_scrapyard_grass',         block => {block.material('grass')})
+// })
+
+// BlockEvents.modification(e => {
+//     e.modify('abandonedworld:cobbled_eroded_rock', block => {block.mapColor(0x3c352a)})
+//     e.modify('abandonedworld:eroded_rock', block => {block.mapColor(0x2c231e)})
+//     e.modify('abandonedworld:cracked_eroded_rock_bricks', block => {block.mapColor(0x3d3225)})
+//     e.modify('abandonedworld:eroded_rock_bricks', block => {block.mapColor(0x3d3225)})
+//     e.modify('abandonedworld:rotting_log', block => {block.mapColor(0x211b14)})
+//     e.modify('abandonedworld:scrapyard_mud', block => {block.mapColor(0x1a120d)})
+//     e.modify('abandonedworld:scrap_metal_ore', block => {block.mapColor(0x150d0a)})
+//     e.modify('abandonedworld:dead_scrapyard_grass', block => {block.mapColor(0x332c26)})
+// })

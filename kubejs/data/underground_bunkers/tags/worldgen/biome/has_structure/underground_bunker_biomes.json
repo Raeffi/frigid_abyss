@@ -1,8 +1,6 @@
 {
   "replace": true,
   "values": [
-    "biomesoplenty:wasteland",
-    "biomesoplenty:wasteland_steppe",
-    "biomesoplenty:dead_forest"
+    "abandonedworld:rotting_forest"
   ]
 }

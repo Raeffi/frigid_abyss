@@ -1,0 +1,13 @@
+name = "Gelaria"
+filename = "gelaria-3.78.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkWTDWYp/versions/rCgmi9uf/gelaria-3.78.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "5777d8f3b8b3d76ee50b2f70ccca0eea00a91dea01ae26fa48dd8b6b6f56396bf755939ce0641095338395579b2d21dfe16609035378baa2c578cf4592701690"
+
+[update]
+[update.modrinth]
+mod-id = "EkWTDWYp"
+version = "rCgmi9uf"

@@ -1,0 +1,13 @@
+name = "Zero Point Labs"
+filename = "zpl-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQkrchcm/versions/8BDw1hzr/zpl-1.20.1-1.5.0.jar"
+hash-format = "sha512"
+hash = "083d4316ca77d8adacc9ebf87aaf9774791f860d9b42076459149411d3cb9f2ec96681d5e4915bd2cce4d35ee8f855f032520ee746f00004c64add18ab17677d"
+
+[update]
+[update.modrinth]
+mod-id = "oQkrchcm"
+version = "8BDw1hzr"

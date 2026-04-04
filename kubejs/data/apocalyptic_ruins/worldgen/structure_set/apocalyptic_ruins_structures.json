@@ -1,0 +1,21 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spread_type": "triangular",
+    "salt": 88261595,
+    "separation": 5,
+    "spacing": 15,
+    "frequency_reduction_method": "legacy_type_2",
+    "frequency": 0.8
+  },
+  "structures": [
+    {
+      "structure": "apocalyptic_ruins:ruined_car",
+      "weight": 8
+    },
+    {
+      "structure": "apocalyptic_ruins:ruined_highway",
+      "weight": 1
+    }
+  ]
+}

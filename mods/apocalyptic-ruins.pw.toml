@@ -1,0 +1,13 @@
+name = "Apocalyptic Ruins: Cars"
+filename = "ApocalypticRuinsCars-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d411f1a516c8b9e993ea5629b7a2511b02c663aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7539355
+project-id = 1447023

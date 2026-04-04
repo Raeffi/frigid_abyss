@@ -1,0 +1,7 @@
+name = "sgjcompat"
+filename = "sgjcompat-0.1.1.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/c1v5mdlc411l6oppmwf2t/sgjcompat-0.1.1.jar?rlkey=lz43y9t3blsczlsastqst0qtu&st=a9kuiq5i&dl=1"
+hash-format = "sha256"
+hash = "af7f34f8100af0c37a86f1288b173faa2484ffdabe79308a4bf37e1d8c66a7f8"

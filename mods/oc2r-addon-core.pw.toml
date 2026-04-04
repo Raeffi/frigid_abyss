@@ -1,0 +1,13 @@
+name = "OC2R: Addon Core"
+filename = "oc2rcore-1.20.1-forge-1.0.3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QvTXtGc8/versions/AE8Ng9xB/oc2rcore-1.20.1-forge-1.0.3-all.jar"
+hash-format = "sha512"
+hash = "31549a6b9081b70edee64c7715c01fa1819fcde9cdbe30d0e32d7006b36394d66eb18af3fc6016de0fba009cc11f3c97035d0769c3b54dbc08cca05d10d93918"
+
+[update]
+[update.modrinth]
+mod-id = "QvTXtGc8"
+version = "AE8Ng9xB"

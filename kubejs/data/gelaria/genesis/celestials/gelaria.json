@@ -1,0 +1,22 @@
+{
+  "type": "genesis:body",
+  "size": 96,
+  "gravity": 1.0,
+  "transformProvider": {
+    "type": "genesis:orbiting",
+    "parentID": "sgjourney:unitas_sun",
+    "seed": 1515,
+    "orbitDistance": 30000,
+    "orbitTime": 4600000,
+    "dayLength": 24000
+  },
+  "properties": {
+    "atmosphere": {
+      "density": 3.0,
+      "thickness": 2.0,
+      "precipitation": true,
+      "isBreathable": true,
+      "color": { "type": "genesis:rgb", "r": 180, "g": 180, "b": 198 }
+    }
+  }
+}
