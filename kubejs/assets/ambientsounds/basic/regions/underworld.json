@@ -1,0 +1,27 @@
+{
+    "name": "underworld",
+    "absolute-height": {
+        "max": -64,
+        "fade": 5
+    },
+    "bad-biomes": [
+        "great_unknown",
+        "moon_barrens",
+        "moon_highlands",
+        "moon_lowlands",
+        "malachite_barrens",
+        "malachite_bramble",
+        "malachite_crags",
+        "cavum_tenebrae_shattered_crust"
+    ],
+    "sounds": [
+        {
+            "name": "underworld",
+            "category": "cave",
+            "files": [
+                "ambientsounds:cave.underworld"
+            ],
+            "volume": 0.4
+        }
+    ]
+}

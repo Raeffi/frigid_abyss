@@ -651,13 +651,18 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/ambientsounds/basic/dimensions/genesis.json"
-hash = "c410ca727136f9512f9ae0d6c0e186ac759006ff43eaa4c8bd8bc5aed6299463"
+file = "kubejs/assets/ambientsounds/basic/dimensions/genesis_space.json"
+hash = "a900c5888a198056ea74cd7dae1a885527e958aefc5512c2f7a78d814fafe371"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/ambientsounds/basic/dimensions/sgjourney.json"
-hash = "598e7e7dc68a128f778e2071b6135cc701c2dbbf583c49d37c4cffe24cbfd7f5"
+file = "kubejs/assets/ambientsounds/basic/regions/genesis_space.json"
+hash = "9e6a3684cc359245d85e07e4f2723bc0fc06acd79d282ae09e91989a64bd40ea"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/ambientsounds/basic/regions/underworld.json"
+hash = "9ae60e94e01b610f44b0ee92be2fedb89731dac121e78a5a247438feff52adde"
 hash-format = "sha256"
 
 [[files]]
