@@ -662,7 +662,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/assets/ambientsounds/basic/regions/underworld.json"
-hash = "9ae60e94e01b610f44b0ee92be2fedb89731dac121e78a5a247438feff52adde"
+hash = "42dba4e707a160b4fcdcbfda45f6eb223dd8aae369bb069a661360cf7f278464"
 hash-format = "sha256"
 
 [[files]]
@@ -1796,6 +1796,16 @@ hash = "ad52f877a558f41d76fa89f7e8da1a58a9809164d4bfc1498c660ee2a6399ea7"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/friendsandfoes/tags/worldgen/biome/has_structure/illusioner_shack.json"
+hash = "8dfd934d7c080de1cdfb74e427544d3995d72515211ea0801fc3cd2b5348dc83"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/friendsandfoes/tags/worldgen/biome/has_structure/illusioner_training_grounds.json"
+hash = "8dfd934d7c080de1cdfb74e427544d3995d72515211ea0801fc3cd2b5348dc83"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/functions/rails_3split.mcfunction"
 hash = "2c1a6df6c45aa122b443b8dc9fa8c6a78c5c622364bdc0f81e71dd5a07f97be9"
 hash-format = "sha256"
@@ -2321,6 +2331,246 @@ hash = "49d4b99bfce3ba8b76dadf5de8d4eedfc5494ec972aab586d07fb69a6763c598"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/abandonedhouse_biomes.json"
+hash = "93cdc0a2d9bb73cd2d990bf19b463e04a508297b9ed7cefe248aa3340cf5c3d6"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "27f317b350f6d80f931072695d0b423923f11d5b361500eb9afe76d25eb7a832"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/ancient_mines_biomes.json"
+hash = "78c4f8042d6948627c3abb2bbc2abd24927e80809ef59d2c1b396f8153aef9b2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/ancient_portal_biomes.json"
+hash = "9c8892f22ea80e84a65c83263a986c927fdc43888e2ab78686ba62ad5e961c87"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/apothecary_abode_biomes.json"
+hash = "68c38ea6f45859e7eaa8a06772a2bc16eaa35b947c6561523adbce05ca9acd70"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bazaar_biomes.json"
+hash = "d12d3e0521089119e748141461f27a13ca538823271db67a3613c629fe9621f0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bearclaw_inn_biomes.json"
+hash = "68c38ea6f45859e7eaa8a06772a2bc16eaa35b947c6561523adbce05ca9acd70"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/beekeepers_house_biomes.json"
+hash = "46f3d7148a4cc0ef58cb589276a656ad1a4d025d28a68da7c243cf2f255f9e02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "8d6f83347d3a1d49831dd0cbcb53002d90754de5264168e02f09921faeb95572"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/black_desert_biomes.json"
+hash = "d926084f6a721efcd304929a950872c0a84a7e46deaacb6e8a410bc4aa4c52e8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bopmohogany_biomes.json"
+hash = "503956416a7d5f54624a089dca9fab04058c355a1ef28b8f4bfb6407d9b35e77"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bopredwood_biomes.json"
+hash = "0a516e42773556b3eed2457e5c99a203fed7851f96afd782de6d784fd7898690"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/byg_redwood_biomes.json"
+hash = "b81fb8c99d75c661f4dbcc1baa6c45b4d9565454bb405e0eb07bb5a3ec27ac13"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bygmohogany_biomes.json"
+hash = "a0b19e0aa3ab61eaa6bcce651de61f2012753d2f6473e0269836c95a3aafd850"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "8722bd8c1022ce705301fb7df64504c73cbc845ec35c0ffe0281a2ab7f3c892e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/desert_biomes.json"
+hash = "4890dc5e964fa4161000efe2a6b3d590f100ff4563f8979ff5168c9b20de590b"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/dread_citadel_biomes.json"
+hash = "8bfe2be08b8c513773514f287c55bbfb5148f65a0ac1f5e273f61ac69d4a158d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/farmhouse_biomes.json"
+hash = "46f3d7148a4cc0ef58cb589276a656ad1a4d025d28a68da7c243cf2f255f9e02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/fishermans_lodge_biomes.json"
+hash = "81ec4156768b15862a4c85bfc370eb46c81b6eb97eec9a18883b27d81da0cb8f"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/floral.json"
+hash = "ed82afb7cf3ed954a366717aec42088dd8931f882796d936cfa2757573ec09c4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/forest_biomes.json"
+hash = "1674fdd0235aa575b3ca4e8d93a0c05c29400637ea91f6060956a7d40dcc1ea0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/frozen_crypt_biomes.json"
+hash = "73dc5b9e1b1dc91afdd928f807d004eb6f64f314a047b5334d88bd43d05b847c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/hauntedhouse_biomes.json"
+hash = "05923f1a43e481254c63ae5f855668236641fdd0605fa6529f91b8420ae95d74"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/hermits_hollow_biomes.json"
+hash = "68c38ea6f45859e7eaa8a06772a2bc16eaa35b947c6561523adbce05ca9acd70"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/hunters_cabin_biomes.json"
+hash = "aa834186e939aef4e279ba434b3a5e50cb665579ea052193576c25913e075ae1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/jungle_biomes.json"
+hash = "ec8960cbb53f62800215358457072283269a9f647bc0d02216410223daecba56"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/necromancers_spire_biomes.json"
+hash = "4758757fe1c14c9e383d0cbb1a81cc51c816356b16955af0b3d54c6d392d7b0d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/nether_biomes.json"
+hash = "4758757fe1c14c9e383d0cbb1a81cc51c816356b16955af0b3d54c6d392d7b0d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "17ddcd9a11f3cdf6ff93fd1b0982b8b167dca49e36d599d3b5faf83164991ee0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/orange_desert_biomes.json"
+hash = "6ece7fa3f1925f4c44286fbb938a83a13f73d5ce1f74950e585a981dfe162821"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/pillager_fortress_biomes.json"
+hash = "aa834186e939aef4e279ba434b3a5e50cb665579ea052193576c25913e075ae1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/polar_bear_den_biomes.json"
+hash = "c74fad4d9ff18a657300823106380ebb1573f6bbb1c20c9ff3f0c89ffb125521"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/red_desert_biomes.json"
+hash = "a30a6decdaef9e19efec65a685024d60c905e86d2da7b2a38fb4bea66f020c72"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/redhorn_guild_biomes.json"
+hash = "46f3d7148a4cc0ef58cb589276a656ad1a4d025d28a68da7c243cf2f255f9e02"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/ruins_of_the_deep_biomes.json"
+hash = "68c38ea6f45859e7eaa8a06772a2bc16eaa35b947c6561523adbce05ca9acd70"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/spruce_biomes.json"
+hash = "d4488f8b9e22ed84d02939f70c8dfe60715f3b6ba1d550753f9e80c40f213561"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/sunken_ship_biomes.json"
+hash = "c86d6bb60824cb000f1c1c17dd6d126f09b2c8106681737e017df62e07b054c1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/sunken_ship_coral_biomes.json"
+hash = "c280f9d46d6b36ee792b23468ca4e7ee1331524e542d1b5ea97f6575117183cb"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/tinkers_workshop_biomes.json"
+hash = "557612ccea60a10f6e6ab24aa200fec4e0578bda1060e86328834c69a5a1415a"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/train_ruins_biomes.json"
+hash = "b96c91917b5ec1d248caae2f110a6fee4ae3a693f9e653638e2a15c588a5a9a9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/tree_of_wisdom_biomes.json"
+hash = "8c5ff8096316e64be04b3955ced8838183061c717b47247c643aea6c4cf14763"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/treetop_tavern_biomes.json"
+hash = "ec8960cbb53f62800215358457072283269a9f647bc0d02216410223daecba56"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/vanilla_desert_biomes.json"
+hash = "f2e381dbcfa9bf42705397333a35ac88e8e9be977571db1277aa5d0efb0f5580"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/vanilla_jungle_biomes.json"
+hash = "ec8960cbb53f62800215358457072283269a9f647bc0d02216410223daecba56"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/windswept_desert_biomes.json"
+hash = "3110284cd5e30144e3759ef7221c7b4f66acaedc699f0fe981899c08725d5338"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/winter_wagon_biomes.json"
+hash = "7da4d5de1fc6cabb47c7cbd96fedc051825937215fc77968375357ea344a6ef8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/witches_treestump_biomes.json"
+hash = "9afb6b90d8f3abf16eb030870a89583bf67c92cadfe886866c5237ce8e8b7489"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/wizardtower_biomes.json"
+hash = "292bbda404942fd997a630cbd6f9ac4a551d705974bf6bb5c88f753aaaf88fe2"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/immersivegeology/worldgen/structure/large_ruined_factory.json"
 hash = "f96113b098bbb84c15399134048cc195610c8917d6ac2963dbfadb11a8d31cf2"
 hash-format = "sha256"
@@ -2418,6 +2668,26 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/minecraft/tags/blocks/replaceable_by_trees.json"
 hash = "45d3f530efeb2a43cb5f6ac9d4904af018dea2e11edfd64b26bd0c4261b8ac29"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/desert_pyramid.json"
+hash = "5be2b8d21659fd1089f3c80551987740c259d2737de22976e2eeb9a7ac0972cf"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json"
+hash = "f01ad798761de8c9d1ba8c3fd680af01c920e970b85fa8661996a48fa9c6a066"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/trail_ruins.json"
+hash = "1b6b983d1a2096ffe1e0ba403def4022994ce9eca65d858b59f486eba6aa76d4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_desert.json"
+hash = "5be2b8d21659fd1089f3c80551987740c259d2737de22976e2eeb9a7ac0972cf"
 hash-format = "sha256"
 
 [[files]]
@@ -3128,6 +3398,71 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/spyglass.json"
 hash = "8f6a5bb805f1d7c6e2112a0048129d031020b473469b91c944d654d9a180dcc5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_desert.json"
+hash = "2c662e4dea088df9117288a4549933386ae563798e1eb62eb8437a8da3d83c98"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_flower_forest.json"
+hash = "531b322f785c6b5b7ac80eef7ff7e368dc11856f736c717b55946faae357ca29"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_forest.json"
+hash = "4a4613c341c094c2ea85b292b7968b6f9f86161915f72aa61441406c5f206d44"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_grove.json"
+hash = "16ca488a80ca29f042fd10e0a9a39c720d2b2561be79c44eabfc9ed6b25a8bba"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_meadow.json"
+hash = "200de464067b56a6270d228510b0f434531cf8390ae6c29700f8099857a38a71"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_old_growth_taiga.json"
+hash = "a6edc9320d767d0de1ab146b3d9ea21c3b18318e7764be289e2212dfc313b921"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sunflower_plains.json"
+hash = "8ff28cb73c3ef7af99eecc615942fb101da8fb696494226c9a259df4cd07e06e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_taiga.json"
+hash = "d7264c68f41ac908e848d92782dd3af7b34e4306e7a1af9bdb71671f7b7634e3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/village_forest_ruins.json"
+hash = "b54c783b161d3c4d22795f0d6c06d11e1bf4e1fee9f417010485e30ca0652570"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/village_grove_villager_outpost.json"
+hash = "a37a1b156a957314eb6b5c8a0f806c21ce8c9d28790621555d0a9ebb89eb231c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/village_meadow_swiss.json"
+hash = "e1eb5e5fa1cd47ba0db280591dbae33f03aeee3c1619addedb98d88b1569318e"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/village_old_growth_taiga_polish.json"
+hash = "92af1e3eb372b6147088e74c34c9a3dcb66f62b576bcc6a5de49eb058286b99c"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sunflower_plains_farm.json"
+hash = "8ff28cb73c3ef7af99eecc615942fb101da8fb696494226c9a259df4cd07e06e"
 hash-format = "sha256"
 
 [[files]]

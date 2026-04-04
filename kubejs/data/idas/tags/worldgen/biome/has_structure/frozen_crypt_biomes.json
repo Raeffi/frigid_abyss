@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#idas:collections/idassnowy_forests",
+    "#idas:collections/idassnowy_plains",
+    "gelaria:gelarian_plains"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#idas:collections/idasmeadows",
+    "#idas:collections/idasregular_forests",
+    "sgjourney:chulak_forest"
+  ]
+}

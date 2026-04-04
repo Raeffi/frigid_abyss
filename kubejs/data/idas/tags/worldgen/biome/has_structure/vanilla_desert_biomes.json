@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#idas:collections/idasvanilla_deserts",
+    "sgjourney:abydos_desert"
+  ]
+}

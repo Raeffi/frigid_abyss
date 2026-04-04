@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:desert",
+    "#idas:collections/idasdeserts",
+    "sgjourney:abydos_desert",
+    "sgjourney:abydos_oasis"
+  ]
+}
