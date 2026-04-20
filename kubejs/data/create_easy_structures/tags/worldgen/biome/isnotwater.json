@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#is_forest",
+    "plains",
+    "meadow",
+    "savanna",
+    "savanna_plateau",
+    "wooded_badlands",
+    "#minecraft:is_hill",
+    "#minecraft:is_savanna",
+    "#minecraft:is_taiga",
+    "sgjourney:athos_forest"
+  ]
+}

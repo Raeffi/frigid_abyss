@@ -1,0 +1,15 @@
+//[df-editor]:{"pos":[900,425],"collapsed":false}
+{
+  //[df-editor]:{"pos":[650,550],"collapsed":false}
+  "type": "flat_cache",
+  "argument": {
+    //[df-editor]:{"pos":[400,550],"collapsed":false}
+    "type": "shifted_noise",
+    "noise": "minecraft:ridge",
+    "xz_scale": 0.9999999999999992,
+    "y_scale": 0,
+    "shift_x": "minecraft:shift_x", //[df-editor]:{"pos":[150,400],"collapsed":true}
+    "shift_y": 0, //[df-editor]:{"pos":[150,550],"collapsed":true}
+    "shift_z": "minecraft:shift_z" //[df-editor]:{"pos":[150,700],"collapsed":true}
+  }
+}

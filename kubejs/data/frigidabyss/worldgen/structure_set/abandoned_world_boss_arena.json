@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "frigidabyss:abandoned_world_boss_arena",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 54562,
+    "spacing": 20,
+    "separation": 17,
+    "type": "integrated_api:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 2,
+      "other_set": "#idas:common_avoid"
+    }
+  }
+}

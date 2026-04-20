@@ -1,0 +1,13 @@
+name = "vstuff"
+filename = "vstuff-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/voOBl6iP/versions/TFkzBmfd/vstuff-0.3.0.jar"
+hash-format = "sha512"
+hash = "4ca81de153a31ed01b82cd0ad22cbb5279391ad9f58a26aa19c851aa37c867b3c9eddd6aaffc89b890cf09d8f3ab8aa5712a50fddaa3641fd0e020ea6584f8d1"
+
+[update]
+[update.modrinth]
+mod-id = "voOBl6iP"
+version = "TFkzBmfd"

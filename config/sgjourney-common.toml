@@ -31,13 +31,13 @@
 			zpm_energy_per_level_of_entropy = 100000000000
 			#Maximum amount of energy that can be transferred from the ZPM Hub in one tick
 			#Range: 1 ~ 9223372036854775807
-			zpm_hub_max_transfer = 100000000000
+			zpm_hub_max_transfer = 5000000000
 			#If true, it will be possible to power Stargates (and by extension Interfaces) with energy from ZPMs
 			stargates_use_zero_point_energy = true
 			#If true, it will be possible to power Stargate Journey technology with energy from ZPMs
 			tech_uses_zero_point_energy = true
 			#If true, it will be possible to power technology and cables from other mods with energy from ZPMs
-			other_mods_use_zero_point_energy = true
+			other_mods_use_zero_point_energy = false
 
 	["Stargate Journey Common Config"."DHD Config"]
 

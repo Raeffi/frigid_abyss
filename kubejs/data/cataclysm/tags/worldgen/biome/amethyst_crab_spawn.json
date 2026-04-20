@@ -1,6 +1,7 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
-    "minecraft:lush_caves"
+    "minecraft:lush_caves",
+    "sgjourney:rima_cracks"
   ]
 }

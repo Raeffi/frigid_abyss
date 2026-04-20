@@ -1,0 +1,72 @@
+[
+  {
+    "mob": "cataclysm:the_watcher",
+    "persecond": 0.05,
+    "attempts": 20,
+    "amount": { "minimum": 1, "maximum": 3 },
+    "conditions": {
+        "dimension": "sgjourney:athos",
+        "mindist": 40,
+        "maxdist": 100,
+        "minheight": 10,
+        "maxheight": 200,
+        "maxthis": 3,
+        "and": {
+            "biome": ["sgjourney:athos_forest"]
+        },
+        "not": {
+            "structure": ["big_lost_city:power_plant"]
+        }
+    }
+  },
+  {
+    "mob": "cataclysm:the_prowler",
+    "persecond": 0.05,
+    "attempts": 5,
+    "amount": { "minimum": 1, "maximum": 1 },
+    "conditions": {
+        "dimension": "sgjourney:athos",
+        "mindist": 40,
+        "maxdist": 100,
+        "minheight": 10,
+        "maxheight": 200,
+        "maxthis": 1,
+        "and": {
+            "biome": ["sgjourney:athos_forest"]
+        },
+        "not": {
+            "structure": ["big_lost_city:power_plant"]
+        }
+    }
+  },
+  {
+    "mob": ["scguns:cog_minion","scguns:supply_scamp"],
+    "weights": [1, 1],
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": { "minimum": 1, "maximum": 3 },
+    "conditions": {
+        "dimension": "abandonedworld:the_abandoned_world",
+        "mindist": 40,
+        "maxdist": 100,
+        "minheight": 10,
+        "maxheight": 200,
+        "maxthis": 5
+    }
+  },
+  {
+    "mob": ["scguns:cog_knight","scguns:scampler","scguns:sky_carrier","scguns:trauma_unit"],
+    "weights": [1, 1, 1, 1],
+    "persecond": 0.1,
+    "attempts": 10,
+    "amount": { "minimum": 1, "maximum": 2 },
+    "conditions": {
+        "dimension": "abandonedworld:the_abandoned_world",
+        "mindist": 40,
+        "maxdist": 100,
+        "minheight": 10,
+        "maxheight": 200,
+        "maxthis": 3
+    }
+  }
+]

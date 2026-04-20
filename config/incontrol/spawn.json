@@ -13,6 +13,7 @@
                 "undead_revamp2:thewolf",
                 "undead_revamp2:slaveman",
                 "undead_revamp2:thebeartamer"],
+        "when": "onjoin",
         "mincount": {
                     "amount": 1,
                     "perplayer": true
@@ -29,6 +30,7 @@
                 "undead_revamp2:therod",
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
+        "when": "onjoin",
         "mincount": {
                     "amount": 2,
                     "perplayer": true
@@ -40,6 +42,7 @@
                 "undead_revamp2:the_somnolence",
                 "undead_revamp2:thegliter",
                 "undead_revamp2:theswarmer"],
+        "when": "onjoin",
         "mincount": {
                     "amount": 3,
                     "perplayer": true
@@ -73,6 +76,7 @@
                 "undead_revamp2:therod",
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
+        "when": "onjoin",
         "mincount": {
                         "amount": 4,
                         "perplayer": true
@@ -80,6 +84,7 @@
         "result": "deny"
     },
     {
+        "dimension": "minecraft:overworld",
         "mob": ["undead_revamp2:bomber",
                 "undead_revamp2:clogger",
                 "undead_revamp2:invisiclogger",
@@ -113,6 +118,20 @@
         "hostile": true,
         "area": "spawn",
         "result": "deny"
-      }
-
+    },
+    {
+        "dimension": "abandonedworld:the_abandoned_world",
+        "mob": "minecraft:zombie",
+        "customevent": "cog_instead",
+        "when": "onjoin",
+        "result": "deny_with_actions"
+    },
+    {
+        "dimension": "sgjourney:athos",
+        "mob": "minecraft:zombie",
+        "spawner": true,
+        "customevent": "watcher_instead",
+        "when": "onjoin",
+        "result": "deny_with_actions"
+    }
 ]

@@ -1,0 +1,13 @@
+name = "Razor Tyrant : the Reign of Terror"
+filename = "razor_tyrant-1.3.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9q3AErtZ/versions/jS5MKpzT/razor_tyrant-1.3.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7f9098bb15484432aaaa42462592bcc7e45af2c1bd6015baa0d20021982578982f13e6ed92dd50b6d50d735425a26822e13d5609b991fd412cec539dea7e048b"
+
+[update]
+[update.modrinth]
+mod-id = "9q3AErtZ"
+version = "jS5MKpzT"

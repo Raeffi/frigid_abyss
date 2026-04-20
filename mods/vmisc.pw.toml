@@ -1,0 +1,13 @@
+name = "vmisc"
+filename = "vmisc-1.0.0+dc8543cc22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U6jmbB7e/versions/SoJHzy8A/vmisc-1.0.0%2Bdc8543cc22.jar"
+hash-format = "sha512"
+hash = "a28a787053d6ff981559456427fa38f6e86fd7573c84ebd5e264fecf645bcb6b231c4c72bf4608a29a076cb919911e52e4392fe9cde38eaaeb8cb528f232a498"
+
+[update]
+[update.modrinth]
+mod-id = "U6jmbB7e"
+version = "SoJHzy8A"

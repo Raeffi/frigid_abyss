@@ -1,0 +1,11 @@
+#Priority for consuming oxygen from held items. Use -2147483648 to disable.
+heldItemsOxygenPriority = 3000
+#Priority for consuming oxygen from items in the player inventory. Use -2147483648 to disable.
+playerInventoryOxygenPriority = 2000
+#Priority for consuming oxygen from armor items. Use -2147483648 to disable.
+armorOxygenPriority = 1000
+#Max amount of oxygen that oxygen tank can contain (in mb)
+oxygenTankCapacity = 2000
+#How many blocks vent can fill with 1 oxygen unit
+ventConsumption = 20
+

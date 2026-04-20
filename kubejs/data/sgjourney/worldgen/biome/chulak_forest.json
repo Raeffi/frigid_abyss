@@ -31,7 +31,10 @@
     [
       "minecraft:amethyst_geode"
     ],
-    [],
+    [
+      "minecraft:monster_room",
+      "minecraft:monster_room_deep"
+    ],
     [],
     [],
     [
@@ -78,7 +81,10 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "biomesoplenty:trees_fir_clearing",
+      "biomesoplenty:trees_field",
+      "biomesoplenty:trees_dead_forest"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -7,9 +7,8 @@
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "start_height": {
-    "absolute": 0
+    "absolute": 62
   },
-  "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "biomes": [
     "sgjourney:athos_forest"
   ],

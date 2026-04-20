@@ -1,13 +1,13 @@
 name = "The Undead Revamped"
-filename = "THEUNDEADREVAMPED_1.5b_1.20.1(another fixes).jar"
+filename = "THEUNDEADREVAMPED_1.7_1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hhfNpvRV/versions/hDZ95Qx3/THEUNDEADREVAMPED_1.5b_1.20.1%28another%20fixes%29.jar"
+url = "https://cdn.modrinth.com/data/hhfNpvRV/versions/PrDHsCGf/THEUNDEADREVAMPED_1.7_1.20.1.jar"
 hash-format = "sha512"
-hash = "cafb23a242fa17fd2a1d487b184c211c789afa101275f9b81939ba76f4c1eae8c20c793c5f438344db4b6a1f3b03557f22a1a9e7bf8a6736cbaacb43158a367a"
+hash = "b20cd2c562e612046f0d636fb122a6ad1e6b5cf66e08edc44bc07413ec303f46f32c20fe3b9d894a289ead454d7a4149cab280f70a921633d861774e2cd970f1"
 
 [update]
 [update.modrinth]
 mod-id = "hhfNpvRV"
-version = "hDZ95Qx3"
+version = "PrDHsCGf"

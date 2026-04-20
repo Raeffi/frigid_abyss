@@ -1,13 +1,13 @@
 name = "L_Ender's Cataclysm(Cataclysm)"
-filename = "L_Enders_Cataclysm-3.25.jar"
+filename = "L_Enders_Cataclysm-3.26-enchant-fix.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/W1C5bAx2/L_Enders_Cataclysm-3.25.jar"
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/iEhAqVUZ/L_Enders_Cataclysm-3.26-enchant-fix.jar"
 hash-format = "sha512"
-hash = "9fc4356d5297f4cca3a54d5d76af86824863139ac822602262daebfdcb9d63acd15ddc39f3ecea17e1c6c5836d8ab095d3320038fb978b4067c3f35f4b3113be"
+hash = "1dd62a3cf8437f3ce83bf370f592fdbb7cc79ec2aa875ae20828086b85c6e34d807da3104c4eb650757e3a6a5ec9eb250989fe07275db9d50d5357f57f04c588"
 
 [update]
 [update.modrinth]
 mod-id = "46KJle7n"
-version = "W1C5bAx2"
+version = "iEhAqVUZ"

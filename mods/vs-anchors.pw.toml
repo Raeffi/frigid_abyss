@@ -1,0 +1,13 @@
+name = "VS: Anchors"
+filename = "vsanchors-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UF1mE8jL/versions/A2iueP8l/vsanchors-1.2.jar"
+hash-format = "sha512"
+hash = "1d15b808a646b2d675cbc562b1de537a832c10d30d9a923b71f63d1a2c5460e2dc6d407a1e08ea2bcec82aea9c55624ed4d70874a9f737399369b9ef66a692db"
+
+[update]
+[update.modrinth]
+mod-id = "UF1mE8jL"
+version = "A2iueP8l"

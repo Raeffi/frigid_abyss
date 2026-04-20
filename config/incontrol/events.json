@@ -1,0 +1,39 @@
+[
+    {
+        "on": "custom",
+        "parameters": {
+            "name": "cog_instead"
+        },
+        "spawn": {
+        "mob": [
+            "scguns:cog_knight","scguns:trauma_unit","scguns:sky_carrier","scguns:cog_minion"
+        ],
+        "weights": [
+            5,1,2,3
+        ],
+        "mindistance": 1,
+        "maxdistance": 2,
+        "mincount": 1,
+        "maxcount": 1,
+        "attempts": 20,
+        "inair": true,
+        "notcolliding": true
+        }
+    },
+    {
+        "on": "custom",
+        "parameters": {
+            "name": "watcher_instead"
+        },
+        "spawn": {
+        "mob": "cataclysm:the_watcher",
+        "mindistance": 1,
+        "maxdistance": 2,
+        "mincount": 1,
+        "maxcount": 1,
+        "attempts": 20,
+        "inair": true,
+        "notcolliding": true
+        }
+    }
+]

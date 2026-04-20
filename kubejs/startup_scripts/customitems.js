@@ -65,10 +65,10 @@ StartupEvents.registry('item', e => {
 
   StartupEvents.registry('fluid', e => {
 
-    e.create('steam')
+    e.create('oxygen')
     .thinTexture(0xf2f2f2)
-    .displayName('Steam')
-    .noBucket()
+    .displayName('Liquid Oxygen')
+    //.noBucket()
     .noBlock()
     .gaseous()
     

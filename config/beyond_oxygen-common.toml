@@ -1,0 +1,33 @@
+#Max range of vent, high value CAN AND WILL cause lag.
+ventRange = 2048
+#Enables baby mode (Also known as ZAVODCHANIN mode, turns off oxygen requirements for vents)
+enableBabyMode = false
+#How many oxygen units in 1 mb
+oxygenConsumption = 1
+#Maximum radius of bubble generators
+#Range: 5 ~ 20
+bubbleMaxRadius = 5
+#How many ticks (1 second ~ 20 ticks) for someone to IMPLODE from lack of air? Do not set lower than 15, or you may experience flicker.
+timeToImplode = 20
+#Enable Beyond Oxygen unbreathable dimensions
+unbreathable_dimensions = true
+#Enable Beyond Oxygen cold dimensions
+cold_dimensions = false
+#Enable Beyond Oxygen hot dimensions
+hot_dimensions = false
+#The approximate density of a ships to use in buoyancy calculations. Set to 0 to disable buoyancy.
+#Range: 0.0 ~ 1.7976931348623157E308
+shipDensity = 600.0
+#Dimensions that should be considered unbreathable. Adds to the list already defined by the tag "beyond_oxgyen:unbreathable".
+unbreathableDimensionsWhitelist = ["abandonedworld:the_abandoned_world", "genesis:great_unknown", "genesis:malachite", "genesis:moon", "sgjourney:cavum_tenebrae"]
+#Dimensions that should not be considered unbreathable. Removes from the list already defined by the tag "beyond_oxgyen:unbreathable", and the "unbreathableDimensionsWhitelist" config option.
+unbreathableDimensionsBlacklist = ["minecraft:the_end"]
+#Dimensions that should be considered cold. Adds to the list already defined by the tag "beyond_oxgyen:cold".
+coldDimensionsWhitelist = ["minecraft:the_end"]
+#Dimensions that should not be considered cold. Removes from the list already defined by the tag "beyond_oxgyen:cold", and the "coldDimensionsWhitelist" config option.
+coldDimensionsBlacklist = []
+#Dimensions that should be considered hot. Adds to the list already defined by the tag "beyond_oxgyen:cold".
+hotDimensionsWhitelist = ["minecraft:the_nether"]
+#Dimensions that should not be considered hot. Removes from the list already defined by the tag "beyond_oxgyen:hot", and the "hotDimensionsWhitelist" config option.
+hotDimensionsBlacklist = []
+

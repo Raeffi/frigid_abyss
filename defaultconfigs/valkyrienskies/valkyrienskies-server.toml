@@ -32,6 +32,12 @@ saveMobsPositionOnShip = true
 teleportReconnectedPlayers = true
 #If true, teleportation into the shipyard is redirected to the ship it belongs to instead.
 transformTeleports = true
+#Buoyancy factor added per cubic meter of air pocket inside a ship
+buoyancyFactorPerPocketVolume = 0.05
+#If true, enables buoyancy from serverside air pockets.
+enablePocketBuoyancy = true
+#If true, prevents vines from growing beyond the ship's bounding box.
+preventVinesEscapingShip = true
 
 [CBC]
 	#Should cannon shots apply a recoil force to ships
@@ -56,6 +62,8 @@ transformTeleports = true
 	setStaticShipCommandPerms = 2
 	#The permission level required to use the /vs teleport command. Must be 0 <= x <= 4
 	teleportShipCommandPerms = 2
+	#The permission level required to use the /vs get-air and /vs get-gravity command. Must be 0 <= x <= 4
+	getAirValuesPerms = 0
 
 [ComputerCraft]
 	#Turtles leaving scaled up/down ship may cause issuesEnable/Disable Turtles Leaving Scaled Ships?

@@ -1,13 +1,13 @@
 name = "Genesis"
-filename = "genesis-1.20.1-0.7.1.jar"
+filename = "genesis-1.20.1-0.7.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Fc1VCJT5/versions/bDf6zdmU/genesis-1.20.1-0.7.1.jar"
+url = "https://cdn.modrinth.com/data/Fc1VCJT5/versions/fRHc3JrV/genesis-1.20.1-0.7.3.jar"
 hash-format = "sha512"
-hash = "b4ba93902015a2abd7a38c70476ca9afd0c836ded0c4eaee79c19c671b0f4e1bc163814f6b5ca20e5e65423a3ca5b22373a30eee49699e23867a63dde12931ee"
+hash = "fcc764f8d1a87663d07d0470d9c1753d79a16f900edb4d27020f107b49103cb4c9dce395fb5443a6b7015c8ff7762faeda8442d8375e0f7636c654d0bc1bcea1"
 
 [update]
 [update.modrinth]
 mod-id = "Fc1VCJT5"
-version = "bDf6zdmU"
+version = "fRHc3JrV"

@@ -1,0 +1,13 @@
+name = "Analog Lever Tweak"
+filename = "analog_lever_tweak-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QBP9mC8Q/versions/47UgIzb2/analog_lever_tweak-0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "7148cd6b5de11e70d265ffdc3f899698285c24a0dbd1572497ec691657d182fb83318121e214967f6a8a4431ac8615a327aac33ae48c25848ca1b0b4cf4020b4"
+
+[update]
+[update.modrinth]
+mod-id = "QBP9mC8Q"
+version = "47UgIzb2"

@@ -1,0 +1,15 @@
+{
+  "name": "frigidabyss:abandoned_world_boss_arena",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "frigidabyss:abandoned_world_boss_arena",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

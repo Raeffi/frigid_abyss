@@ -28,6 +28,10 @@ ServerEvents.tags('block', e => {
     e.add("minecraft:stairs","/.*:.*stairs.*/")
 })
 
+ServerEvents.tags('fluid', e => {
+    e.add("forge:oxygen", "kubejs:oxygen")
+})
+
 ServerEvents.tags('worldgen/biome', e => {
     e.add("finitewater:has_infinite_water", "minecraft:river")
     e.add("finitewater:has_infinite_water", "minecraft:frozen_river")
@@ -60,4 +64,28 @@ ServerEvents.tags('worldgen/biome', e => {
     e.removeAll("ae2:has_meteorites")
     //e.add("ae2:has_meteorites", "#minecraft:")
 
+})
+
+ServerEvents.tags('entity_type', e => {
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:buddy")
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:grazer")
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:roach")
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:survey")
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:utility")
+    e.add("beyond_oxygen:survives_vacuum", "abandonedworld:watcher")
+
+    e.add("beyond_oxygen:survives_vacuum", "scguns:cog_knight")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:cog_minion")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:scamp_rocket")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:scamp_tank")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:scampler")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:signal_beacon")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:sky_carrier")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:supply_scamp")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:trauma_unit")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:trauma_hook")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:raid_flare")
+    e.add("beyond_oxygen:survives_vacuum", "scguns:beacon_projectile")
+
+    e.add("beyond_oxygen:survives_vacuum", "corundumguardian:corundum_guardian")
 })

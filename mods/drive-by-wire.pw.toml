@@ -1,13 +1,13 @@
 name = "Drive-By-Wire"
-filename = "drivebywire-1.20.1-0.1.0.jar"
+filename = "drivebywire-1.20.1-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/I9AkDJzr/versions/BaodQBiU/drivebywire-1.20.1-0.1.0.jar"
-hash-format = "sha512"
-hash = "be09aa07c0b2e4f4506439e57cc49a818552eccddb3ebed82c84e84261f8f8e81d8ebba4573353ac6052f1f6c277d736acb3e5ca5c215c92832ae3baba7b3314"
+hash-format = "sha1"
+hash = "5c4aaf3147fe677b44fd7de102bc148ce0e32a87"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "I9AkDJzr"
-version = "BaodQBiU"
+[update.curseforge]
+file-id = 7714757
+project-id = 1192722

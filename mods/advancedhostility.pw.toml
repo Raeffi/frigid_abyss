@@ -1,0 +1,13 @@
+name = "Advanced Hostility"
+filename = "advancedhostility-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDA9kiCJ/versions/CHHuNAhG/advancedhostility-0.1.jar"
+hash-format = "sha512"
+hash = "17bd82895a03372223705e4f350e8a014b37c435fce4574204453d842a23a044f641a21dbb48ad79afcba57dd912c03101111700737fe9e7ddfc7d2a5d980600"
+
+[update]
+[update.modrinth]
+mod-id = "xDA9kiCJ"
+version = "CHHuNAhG"

@@ -2,6 +2,7 @@
     "replace": true,
     "values": [
         "minecraft:meadow",
+        "sgjourney:chulak_plains",
         {
             "id": "terralith:blooming_plateau",
             "required": false
