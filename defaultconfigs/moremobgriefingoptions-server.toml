@@ -1501,51 +1501,6 @@
 	#guardvillagers:guard mobGriefing
 	#Allowed Values: DEFAULT, TRUE, FALSE
 	"guardvillagers:guard" = "DEFAULT"
-	#gelaria:black_snowball_projectile mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:black_snowball_projectile" = "DEFAULT"
-	#gelaria:ijsentoef mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:ijsentoef" = "DEFAULT"
-	#gelaria:ijsenmand mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:ijsenmand" = "DEFAULT"
-	#gelaria:kronenvisk mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:kronenvisk" = "DEFAULT"
-	#gelaria:placeholder_mammoth mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:placeholder_mammoth" = "DEFAULT"
-	#gelaria:placeholder_stray mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:placeholder_stray" = "DEFAULT"
-	#gelaria:wanenmand_placeholder mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:wanenmand_placeholder" = "DEFAULT"
-	#gelaria:penguin mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:penguin" = "DEFAULT"
-	#gelaria:water_penguin mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:water_penguin" = "DEFAULT"
-	#gelaria:yeti mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:yeti" = "DEFAULT"
-	#gelaria:lazur_yeti mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:lazur_yeti" = "DEFAULT"
-	#gelaria:rijm_yeti mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:rijm_yeti" = "DEFAULT"
-	#gelaria:rijm_yeti_trident mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:rijm_yeti_trident" = "DEFAULT"
-	#gelaria:projectile_rijm_yeti_trident mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:projectile_rijm_yeti_trident" = "DEFAULT"
-	#gelaria:rijmfraukt_spawner mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"gelaria:rijmfraukt_spawner" = "DEFAULT"
 	#scguns:primed_powder_keg mobGriefing
 	#Allowed Values: DEFAULT, TRUE, FALSE
 	"scguns:primed_powder_keg" = "DEFAULT"

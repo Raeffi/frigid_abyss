@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "sgjourney:lantean_deep_ocean"
+  ],
+  "spawners": {
+    "type": "myths_of_the_sea:leviathan",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 2
+  }
+}

@@ -30,4 +30,9 @@ coldDimensionsBlacklist = []
 hotDimensionsWhitelist = ["minecraft:the_nether"]
 #Dimensions that should not be considered hot. Removes from the list already defined by the tag "beyond_oxgyen:hot", and the "hotDimensionsWhitelist" config option.
 hotDimensionsBlacklist = []
+#Should water creatures (such as fish) suffocate in water in unbreathable dimensions
+suffocateWaterCreatures = true
+#How much air an entity should lose each tick from being in a vacuum. Set to -1 to being suffocating instantly.
+#Range: > -1
+vacuumAirConsumption = 0.5
 

@@ -1,0 +1,39 @@
+
+[general]
+
+	#Brown Scorpion
+	[general.brown_scorpion]
+		#Poison duration
+		#Range: > 0
+		duration = 20
+		#Health points
+		#Range: > 1
+		hp = 30
+		#Damage
+		#Range: > 1
+		damage = 4
+
+	#Emperor Scorpion
+	[general.emperor_scorpion]
+		#Poison duration
+		#Range: > 0
+		duration = 5
+		#Health points
+		#Range: > 1
+		hp = 35
+		#Damage
+		#Range: > 1
+		damage = 6
+
+	#Nether Scorpion
+	[general.nether_scorpion]
+		#Poison duration
+		#Range: > 0
+		duration = 8
+		#Health points
+		#Range: > 1
+		hp = 50
+		#Damage
+		#Range: > 1
+		damage = 7
+

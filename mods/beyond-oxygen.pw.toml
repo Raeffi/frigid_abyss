@@ -1,13 +1,13 @@
 name = "Beyond Oxygen"
-filename = "beyond_oxygen-0.12.7-all.jar"
+filename = "beyond_oxygen-0.12.8-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2T6G6FBO/versions/ceXOz6Mn/beyond_oxygen-0.12.7-all.jar"
+url = "https://cdn.modrinth.com/data/2T6G6FBO/versions/h01vLYMF/beyond_oxygen-0.12.8-all.jar"
 hash-format = "sha512"
-hash = "dc5c3d40f5409f86843e8be6d2dfbe62bfff0015299889ea48c1a51588ee02849edf0ef4dd498fc336f6901ab2f5e832c6d1699eab413e5031f8127dda274da6"
+hash = "05160964284c881e66e5438556ecb1e9797e98662529742c27a5497ac4dee20f5eab2fca321b74fd847378626206fb25c0326375b55675db8ebd754c5e11604f"
 
 [update]
 [update.modrinth]
 mod-id = "2T6G6FBO"
-version = "ceXOz6Mn"
+version = "h01vLYMF"

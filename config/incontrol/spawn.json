@@ -133,5 +133,13 @@
         "customevent": "watcher_instead",
         "when": "onjoin",
         "result": "deny_with_actions"
+    },
+        {
+        "dimension": "sgjourney:lantea",
+        "mob": "minecraft:drowned",
+        "spawner": true,
+        "customevent": "deepling_instead",
+        "when": "onjoin",
+        "result": "deny_with_actions"
     }
 ]

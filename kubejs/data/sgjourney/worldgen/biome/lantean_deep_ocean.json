@@ -25,9 +25,7 @@
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
     ],
-    [
-      "minecraft:amethyst_geode"
-    ],
+    [],
     [],
     [],
     [],
@@ -77,7 +75,13 @@
       "minecraft:patch_pumpkin",
       "minecraft:seagrass_deep",
       "minecraft:seagrass_simple",
-      "minecraft:kelp_cold"
+      "minecraft:kelp_cold",
+      "hybrid-aquatic:anemones",
+      "hybrid-aquatic:thermal_vent_patch",
+      "hybrid-aquatic:red_algae_patch",
+      "hybrid-aquatic:bull_kelp",
+      "hybrid-aquatic:giant_clam_patch",
+      "hybrid-aquatic:sponge_patch"
     ],
     [
       "minecraft:freeze_top_layer"

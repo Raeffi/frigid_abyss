@@ -41,8 +41,8 @@
   },
   {
     "mob": ["scguns:cog_minion","scguns:supply_scamp"],
-    "weights": [1, 1],
-    "persecond": 0.5,
+    "weights": [1, 2],
+    "persecond": 0.8,
     "attempts": 20,
     "amount": { "minimum": 1, "maximum": 3 },
     "conditions": {
@@ -51,14 +51,18 @@
         "maxdist": 100,
         "minheight": 10,
         "maxheight": 200,
-        "maxthis": 5
+        "maxthis": 6,
+        "not": {
+            "hasstructure":false,
+            "structure": ["frigidabyss:abandoned_world_boss_arena"]
+        }
     }
   },
   {
     "mob": ["scguns:cog_knight","scguns:scampler","scguns:sky_carrier","scguns:trauma_unit"],
-    "weights": [1, 1, 1, 1],
-    "persecond": 0.1,
-    "attempts": 10,
+    "weights": [3, 1, 1, 2],
+    "persecond": 0.4,
+    "attempts": 15,
     "amount": { "minimum": 1, "maximum": 2 },
     "conditions": {
         "dimension": "abandonedworld:the_abandoned_world",
@@ -66,7 +70,11 @@
         "maxdist": 100,
         "minheight": 10,
         "maxheight": 200,
-        "maxthis": 3
+        "maxthis": 4,
+        "not": {
+            "hasstructure":false,
+            "structure": ["frigidabyss:abandoned_world_boss_arena"]
+        }
     }
   }
 ]

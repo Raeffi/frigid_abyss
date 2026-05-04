@@ -1,0 +1,13 @@
+name = "Blue Skies No Nerf"
+filename = "blue_skies_no_nerf-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZL4BKBZt/versions/F8y3aFfg/blue_skies_no_nerf-1.0.0.jar"
+hash-format = "sha512"
+hash = "ff97958546d1c17725e3f26d89cff3812cb70559e4336b755613390d5854fc9571a3a166852a2bfb18fe1d4a77979a20c12f0587860dc0c790b4b845d26c43d5"
+
+[update]
+[update.modrinth]
+mod-id = "ZL4BKBZt"
+version = "F8y3aFfg"

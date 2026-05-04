@@ -1,5 +1,20 @@
 
 [logbegone]
-	phrases = ["Error rendering overlay","Detected setBlock in a far chunk","Client does not have access to this information","shipObjectWorld is null","Missing textures in model"]
-	regex = ["Error rendering overlay","Detected setBlock in a far chunk","Client does not have access to this information","shipObjectWorld is null","Missing textures in model"]
+	phrases = [	"Error rendering overlay",
+				"Detected setBlock in a far chunk",
+				"Client does not have access to this information",
+				"shipObjectWorld is null","Missing textures in model",
+				"Couldn't find Direction BlockPos",
+				"moved while colliding with unloaded ships!",
+				"controller, but no keyframe handler registered",
+				"java.lang.IllegalStateException: shipObjectWorld is null"
+			]
+	regex = [	"Error rendering overlay",
+				"Detected setBlock in a far chunk",
+				"Client does not have access to this information",
+				"shipObjectWorld is null","Missing textures in model",
+				"Missing textures in model","Couldn't find Direction BlockPos",
+				"moved while colliding with unloaded ships!",
+				"controller, but no keyframe handler registered",
+				"java.lang.IllegalStateException: shipObjectWorld is null"]
 

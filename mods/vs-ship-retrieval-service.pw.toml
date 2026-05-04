@@ -3,11 +3,11 @@ filename = "ShipRetrievalService-Forge-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GWY9Ldvz/versions/UsaXRK9A/ShipRetrievalService-Forge-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/GWY9Ldvz/versions/2GjJDWeQ/ShipRetrievalService-Forge-1.0.0.jar"
 hash-format = "sha512"
-hash = "f4da3618c8560f256a0f2f0c07a187924fef8e5da515343ca666db8b6836025d188ef20cd6a1d93b1ac45b840376567c53a871496f1a20ec88121989d6cc7fb1"
+hash = "c0f49058c8505cd54d4a9fbb27460294d250fe2eebb8728785798c18c3ad64ffd5b992f7b3f440a0eea0032480165ac57df2014728505aacf97c0e41ab304394"
 
 [update]
 [update.modrinth]
 mod-id = "GWY9Ldvz"
-version = "UsaXRK9A"
+version = "2GjJDWeQ"

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:deep_cold_ocean",
+    {
+      "id": "still_life:cold_deep_ocean",
+      "required": false
+    },
+    "sgjourney:lantean_deep_ocean"
+  ]
+}

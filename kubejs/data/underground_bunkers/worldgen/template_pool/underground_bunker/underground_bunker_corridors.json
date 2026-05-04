@@ -1,0 +1,249 @@
+{
+  "name": "underground_bunkers:underground_bunker/underground_bunker_corridors",
+  "fallback": "underground_bunkers:underground_bunker/underground_bunker_terminators",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_corridor_0",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_corridor_1",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_corridor_2",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_corridor_3",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_corridor_4",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_0",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_1",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_2",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_3",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_passage_0",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_0",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_1",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_2",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_3",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_4",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_5",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_6",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_7",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_8",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_room_9",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_2",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_3",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+        {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_4",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_4_cont",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_5_cont",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "underground_bunkers:underground_bunker/underground_bunkers_large_room_6_cont",
+        "processors": "underground_bunkers:underground_bunker_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

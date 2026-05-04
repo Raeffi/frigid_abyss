@@ -1,0 +1,7 @@
+name = "Control-Engineering"
+filename = "ControlEngineering-0.2.0.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/neenh53uv1m5n5hany66t/ControlEngineering-0.2.0.jar?rlkey=azjewrzsxo8lypou3l2g3n56z&st=r506azgc&dl=1"
+hash-format = "sha256"
+hash = "a072c60bb63e1356423dd86cafbdf889b13d7f294bb0b4ec7da8fb8a9e8ed3da"

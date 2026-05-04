@@ -13,7 +13,7 @@
   },
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "start_height": {
-    "absolute": -90
+    "absolute": -88
   },
   "use_bounding_box_hack": true,
   "spawn_overrides": {}

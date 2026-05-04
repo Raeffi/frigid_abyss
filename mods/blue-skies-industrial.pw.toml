@@ -1,0 +1,13 @@
+name = "Blue Skies Industrial"
+filename = "blue_skies_industrial-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRBoPBKs/versions/sEHgiIj2/blue_skies_industrial-0.9.1.jar"
+hash-format = "sha512"
+hash = "54d457cc11a051371da999d7bf0e37bdacf78f10beb3a6e7349505c124e96f50ee072c9552d84f4750fd5c02cfc054051e08fbe846bd6181d088ac66a3698b78"
+
+[update]
+[update.modrinth]
+mod-id = "PRBoPBKs"
+version = "sEHgiIj2"

@@ -9,7 +9,7 @@
             "scguns:cog_knight","scguns:trauma_unit","scguns:sky_carrier","scguns:cog_minion"
         ],
         "weights": [
-            5,1,2,3
+            2,1,1,20
         ],
         "mindistance": 1,
         "maxdistance": 2,
@@ -27,6 +27,27 @@
         },
         "spawn": {
         "mob": "cataclysm:the_watcher",
+        "mindistance": 1,
+        "maxdistance": 2,
+        "mincount": 1,
+        "maxcount": 1,
+        "attempts": 20,
+        "inair": true,
+        "notcolliding": true
+        }
+    },
+    {
+        "on": "custom",
+        "parameters": {
+            "name": "deepling_instead"
+        },
+        "spawn": {
+        "mob": [
+            "cataclysm:deepling","cataclysm:deepling_angler","cataclysm:deepling_brute","cataclysm:deepling_priest","cataclysm:deepling_warlock"
+        ],
+        "weights": [
+            20,2,1,1,2
+        ],
         "mindistance": 1,
         "maxdistance": 2,
         "mincount": 1,

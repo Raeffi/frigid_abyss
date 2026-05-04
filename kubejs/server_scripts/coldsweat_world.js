@@ -1,45 +1,29 @@
-let addDimensionOffset = (temp, dimension, units) => {
-    if (units == null) units = "mc"
-    e["addDimensionOffset(double min, double max, String units, String[] dimensions)"](
-        temp,
-        temp,
-        units,
-        [dimension]
-    )
-}
-
-let addDimensionTemperature = (maxTemp, minTemp, dimension, units) => {
-    if (units == null) units = "mc"
-    e["addDimensionTemperature(double min, double max, String units, String[] dimensions)"](
-        minTemp,
-        maxTemp,
-        units,
-        [dimension]
-    )
-}
-
-let addBiomeTemperature = (maxTemp, minTemp, biome, units) => {
-    if (units == null) units = "mc"
-
-    e["addBiomeTemperature(double minTemp, double maxTemp, String units, String[] biomes, double waterTemp)"](
-        maxTemp,
-        minTemp,
-        units,
-        [biome],
-        temp - 10
-    )
-}
-
 ColdSweatEvents.registries(e => {
 
-    addDimensionOffset(0.6,"minecraft:the_nether")
-    addDimensionOffset(-0.1,"minecraft:the_end")
-    addDimensionOffset(-0.3,"minecraft:overworld")
-    addDimensionOffset(0.3,"lostcities:lostcity")
-    addDimensionOffset(0.3,"sgjourney:lantea")
-    addDimensionOffset(0.3,"luminous_depths:luminous_depth")
+    let addDimensionOffset = (temp, dimension, units) => {
+        if (units == null) units = "mc"
+        e["addDimensionOffset(double,double,java.lang.String,java.lang.String[])"](
+            temp, temp, units, [dimension]
+        )
+    }
+
+    let addDimensionTemperature = (maxTemp, minTemp, dimension, units) => {
+        if (units == null) units = "mc"
+        e["addDimensionTemperature(double,double,java.lang.String,java.lang.String[])"](
+            minTemp, maxTemp, units, [dimension]
+        )
+    }
+
+    let addBiomeTemperature = (maxTemp, minTemp, biome, units) => {
+        if (units == null) units = "mc"
+        let waterTemp = (minTemp + maxTemp) / 2 - 10
+        e["addBiomeTemperature(double,double,java.lang.String,java.lang.String[],double)"](
+            minTemp, maxTemp, units, [biome], waterTemp
+        )
+    }
 
     addDimensionTemperature(-60,-60,"genesis:great_unknown","C")
+    
     addBiomeTemperature(-60,-60,"genesis:great_unknown","C")
 
     addBiomeTemperature(53,53,"minecraft:soul_sand_valley","F")
@@ -106,5 +90,15 @@ ColdSweatEvents.registries(e => {
     addBiomeTemperature(78,95,"biomesoplenty:wooded_wasteland","F")
 
     addBiomeTemperature(-15,50,"sgjourney:cavum_tenebrae_shattered_crust","C")
+
+    addDimensionOffset(0.6,"minecraft:the_nether")
+    addDimensionOffset(-0.1,"minecraft:the_end")
+    addDimensionOffset(-0.3,"minecraft:overworld")
+    addDimensionOffset(0.3,"lostcities:lostcity")
+    addDimensionOffset(0.3,"sgjourney:lantea")
+    addDimensionOffset(0.3,"luminous_depths:luminous_depth")
+
+    addDimensionOffset(-20.0,"blue_skies:everbright","C")
+    addDimensionOffset(20.0,"blue_skies:everdawn","C")
 })
 

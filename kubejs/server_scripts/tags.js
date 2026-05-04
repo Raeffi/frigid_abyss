@@ -62,7 +62,18 @@ ServerEvents.tags('worldgen/biome', e => {
     e.add("tetra:has_structure/forged_ruins", "#forge:is_mountain")
 
     e.removeAll("ae2:has_meteorites")
-    //e.add("ae2:has_meteorites", "#minecraft:")
+    //e.add("ae2:has_meteorites", "sgjourney:lantean_deep_ocean")
+
+    e.add("naturalist:has_snake", "sgjourney:rima_cracks")
+    e.add("naturalist:has_lizard", "sgjourney:rima_cracks")
+    e.add("naturalist:has_firefly", "sgjourney:rima_cracks")
+    e.add("naturalist:has_dragonfly", "sgjourney:rima_cracks")
+    e.add("naturalist:has_canary", "sgjourney:rima_cracks")
+    e.add("naturalist:has_butterfly", "sgjourney:rima_cracks")
+    e.add("naturalist:has_alligator", "sgjourney:rima_cracks")
+
+    e.add("scorpions:has_emperor_scorpions", "sgjourney:rima_cracks")
+    e.add("scorpions:has_brown_scorpions", "sgjourney:rima_cracks")
 
 })
 
@@ -89,3 +100,29 @@ ServerEvents.tags('entity_type', e => {
 
     e.add("beyond_oxygen:survives_vacuum", "corundumguardian:corundum_guardian")
 })
+
+// const BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
+
+// ServerEvents.tags('entity_type', e => {
+//     BuiltInRegistries.ENTITY_TYPE.keySet().forEach(resourceLocation => {
+//         e.add('forge:cold_creatures', resourceLocation.toString())
+//     })
+// })
+
+// const MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
+// const BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
+// const ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
+
+// ServerEvents.tick(event => {
+//     if (event.server.tickCount % 80 !== 0) return
+
+//     // Look up the modded effect from the registry
+//     const effect = BuiltInRegistries.MOB_EFFECT.get(new ResourceLocation('gelaria', 'cold_resistance'))
+//     if (!effect) return // safety check in case the mod isn't loaded
+
+//     event.server.getAllLevels().forEach(level => {
+//         level.getEntities(null, level.getWorldBorder()).forEach(entity => {
+//             entity.addEffect(new MobEffectInstance(effect, 100, 0, false, false, false))
+//         })
+//     })
+// })

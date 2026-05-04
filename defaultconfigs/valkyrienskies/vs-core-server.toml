@@ -1,5 +1,5 @@
 #Is udp enabled? If not, the server will only use TCP
-enableUdp = false
+enableUdp = true
 #Ship load distance in blocks
 shipLoadDistance = 128.0
 #Ship unload distance in blocks
@@ -18,7 +18,7 @@ udpPort = 25565
 	#Allowed Values: KRUNCH_CLASSIC, KRUNCH_PHYSX, KRUNCH_JOLT
 	physicsBackend = "KRUNCH_PHYSX"
 	#How fast the physics is running. 1.0 is full speed, 0.5 is 50% speed, etc.
-	physicsSpeed = 1.0
+	physicsSpeed = 1.1
 	#Sets number of sub-steps used by Krunch
 	physicsSubSteps = 20
 	#How many threads are used by Krunch physics. When set to 0 Krunch will run everything on 1 thread, the same thread that executed krunch
@@ -32,7 +32,7 @@ udpPort = 25565
 
 ["Physics Thread Settings"]
 	#default is 3, for 60 phys ticks per second
-	physicsTicksPerGameTick = 3
+	physicsTicksPerGameTick = 4
 	#Synchronize the physics thread and the game thread
 	synchronizePhysics = false
 	#Thread priority of terrain baking threads. 5 is default priority, higher is higher priority, lower is lower priority.

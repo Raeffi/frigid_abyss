@@ -3,6 +3,8 @@
   "values": [
     "#idas:collections/idassnowy_forests",
     "#idas:collections/idassnowy_plains",
-    "gelaria:gelarian_plains"
+    "blue_skies:snow_covered_pines",
+    "blue_skies:frostbitten_forest_clearing",
+    "blue_skies:frostbitten_forest"
   ]
 }
