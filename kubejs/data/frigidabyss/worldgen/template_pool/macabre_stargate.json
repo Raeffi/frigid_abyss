@@ -1,0 +1,19 @@
+{
+	"name": "frigidabyss:macabre_stargate",
+	
+	"fallback": "minecraft:empty",
+	
+	"elements":
+	[
+		{
+			"weight": 1,
+			"element":
+			{
+				"location": "frigidabyss:stargate_pedestal_flesh",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}
+	]
+}

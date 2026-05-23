@@ -1,0 +1,13 @@
+name = "Small Tetra Additions"
+filename = "smalltetraadditions-1.19-6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7wGwPZ3T/versions/trV4yEtd/smalltetraadditions-1.19-6.1.jar"
+hash-format = "sha512"
+hash = "326a956a3636439a10714a40f9670cdd277cad04e8a2dd960fcf9b342f94d31fe3289e77aa0546a8777f91d13f860d72c03bc8c555bbcf13baf978a94e076b74"
+
+[update]
+[update.modrinth]
+mod-id = "7wGwPZ3T"
+version = "trV4yEtd"

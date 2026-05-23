@@ -237,7 +237,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/incontrol/events.json"
-hash = "dab826bc1227647de2fabacb7aba5ce9d67b8328b9be74de220d884390b1daef"
+hash = "42f8f52b80cdf0fb2c66ccd3edae1ddfd25b31867225017856089112ed14e700"
 hash-format = "sha256"
 
 [[files]]
@@ -247,7 +247,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "46c820946f35be4bf29043b812a0c561fefc60c421faa439331c88ee9b8451f7"
+hash = "a273e26e352d8c2db6b60521713aaae3b0b256cff84902a50023cd547b8c6c5d"
 hash-format = "sha256"
 
 [[files]]
@@ -391,6 +391,11 @@ hash = "c2570b86bab66213bc993911763dbb9e4c68a7bf115e08071f4f1f0c82787e40"
 hash-format = "sha256"
 
 [[files]]
+file = "config/overlapless-common.toml"
+hash = "59dcbc1abe9648e0b07f12e3af50790d1ea07d44cc024e6e02d922faf236a551"
+hash-format = "sha256"
+
+[[files]]
 file = "config/panoramica/config.txt"
 hash = "79fe44c58e1d7e6e7a36cf5d5edf97c41578a40802b5d0d5c1e23abe439514c6"
 hash-format = "sha256"
@@ -432,7 +437,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/sgjourney-common.toml"
-hash = "d59c3dc7ad06e729c204e90675fd0d2a0049ace47ddfa908d8c2e2cb9f8bf7b6"
+hash = "71c307cf81cd5be224bcaf07a44ec3529866110be5ea7cfadec5ff31ab5b5094"
 hash-format = "sha256"
 
 [[files]]
@@ -721,13 +726,58 @@ hash = "42dba4e707a160b4fcdcbfda45f6eb223dd8aae369bb069a661360cf7f278464"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/blueskies.png"
+hash = "16c8f3b3a6b481a831ce0dd82477f314525a01a6c5f82145b963a433bf74c3ae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/lostcity.png"
+hash = "16c8f3b3a6b481a831ce0dd82477f314525a01a6c5f82145b963a433bf74c3ae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/points_of_origin/blueskies.png"
+hash = "d0015196122419031c826b91d6e0484e141d8df981a1cb26c5a1419992283ff4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/points_of_origin/lostcity.png"
+hash = "d0015196122419031c826b91d6e0484e141d8df981a1cb26c5a1419992283ff4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/points_of_origin/the_abandoned_world.png"
+hash = "d0015196122419031c826b91d6e0484e141d8df981a1cb26c5a1419992283ff4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/milky_way/the_abandoned_world.png"
+hash = "16c8f3b3a6b481a831ce0dd82477f314525a01a6c5f82145b963a433bf74c3ae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/pegasus/macabre.png"
+hash = "16c8f3b3a6b481a831ce0dd82477f314525a01a6c5f82145b963a433bf74c3ae"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/frigidabyss/textures/symbols/pegasus/points_of_origin/macabre.png"
+hash = "d0015196122419031c826b91d6e0484e141d8df981a1cb26c5a1419992283ff4"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/assets/genesis/textures/planets/abandonedworld/the_abandoned_world.png"
 hash = "e994c977b490313bb3bf650d460030d4cf989f703c1e882b1776c3f6507c28c2"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/genesis/textures/planets/gelaria/gelaria.png"
-hash = "af725320db1ce211d040c794ef4b3faba388caed8f154f397264a0a4132b83c1"
+file = "kubejs/assets/genesis/textures/planets/blue_skies/everbright.png"
+hash = "6b325547bc3188bcf0c0ba30e7e5701bae8d2ec3284608d6588734b6d174d6b8"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/assets/genesis/textures/planets/blue_skies/everdawn.png"
+hash = "72f0bc191fe0d10c63ef3636b77e9b8843ad0325d31d0757e14a5f2e5da951b2"
 hash-format = "sha256"
 
 [[files]]
@@ -1031,8 +1081,13 @@ hash = "27aef82938d7b8a3c6169d1acb3c59d85db006997eaabf6c1fa02022c0de509c"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/abandonedworld/genesis/celestials/abandonedworld_sun.json"
+hash = "944d29d7194585d5c721bf1b31645c11875a77746c74e8306324250855518b6d"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/abandonedworld/genesis/celestials/the_abandoned_world.json"
-hash = "72405e61fd5a392beb4a903bc91d347a323a79b1387923f74e47d362fa388628"
+hash = "c91645f2c41bdb16598e219972e5818cd4b3b4b7c2b72d003f2c63e676f9ebab"
 hash-format = "sha256"
 
 [[files]]
@@ -1541,6 +1596,21 @@ hash = "7cc8372301c72afccc3b00a1161c8f45a248be61928dd7ebad343b457d461f53"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/blue_skies/genesis/celestials/blue_skies_sun.json"
+hash = "c29bcc19da9a6426b46d1a0ca4c6152d1cc005299e7abfed90e82350b2c25dee"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/blue_skies/genesis/celestials/everbright.json"
+hash = "190972701d1a0b64e21f9ff10f8659be0b0f942679bda2e4ef1de416f113cc89"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/blue_skies/genesis/celestials/everdawn.json"
+hash = "9f205a5b9c48b429e987893866f9bdb0e0a4fdffd32c507f51df62a2cee64063"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/cataclysm/structures/desert_occupied_village_bottom.nbt"
 hash = "c49435ab46b04b75c73509815c58fbaffaeec9b4531d6697371ca47d0565ef24"
 hash-format = "sha256"
@@ -1732,7 +1802,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/cataclysm/worldgen/structure/acropolis.json"
-hash = "91d81b6728c494bacd8e7dc0597c8167e0e68d02f50dc4c0686eeee1d8d11dae"
+hash = "31d19ad1d94f9662b34f4179ae6f7bc1bfe98250ceb3d3cc083a4977c17460ad"
 hash-format = "sha256"
 
 [[files]]
@@ -1783,6 +1853,11 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/cataclysm/worldgen/structure/sunken_city.json"
 hash = "a102ccf2573e1e4fb5d01d6326b993eb8c7b69cf6ffe17e546c095de4fd69d65"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/cataclysm/worldgen/structure_set/acropolis.json"
+hash = "b806f825ec89c25dd8ec1ce3b79ccdecb030e2c084d6958785a8ea2e29117c76"
 hash-format = "sha256"
 
 [[files]]
@@ -2471,8 +2546,73 @@ hash = "1962f3bc79e95046da4cff3abfc827c6929d9c03fd601384cdb934fdb19a2b31"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/sgjourney/point_of_origin/blueskies.json"
+hash = "e1b19e6d803d11653d98916c4f49b5b85f28c4392994ec255fe6a09851f44033"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/point_of_origin/lostcity.json"
+hash = "2124ff84e7698578f6a424b11fb1080c571b66f2394f4af1b7a6ad9c9bccb9b0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/point_of_origin/macabre.json"
+hash = "40103b448759d1aa04a6e5b947b2b68ef4ff8ad445e0a51317207d24ca5ec6be"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/point_of_origin/the_abandoned_world.json"
+hash = "d00fb51d0dcbffd40d1f97a9b4594886d018913ce0cb2e410b85251e5baed146"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/solar_system/abandonedworld.json"
+hash = "88ace0a9e7d6dd1b093eb05683eeaabf4eebfb22aec140bd1dc6dd173d262a55"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/solar_system/blueskies.json"
+hash = "ff3a451efb0e6213c5b12e651bb0fa3deca3057e8fc05edf7df6ad3b7bdb62ad"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/solar_system/lostcity.json"
+hash = "600a35e80488216fbf7f598477c6e542c9df6f548d70e4f09d16b6ebc1b998b4"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/solar_system/macabre.json"
+hash = "c61927dc302b5999eced5a6218c84b2fbe6980cf13acf8b204746e9b1641ff35"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/symbols/blueskies.json"
+hash = "7fd5409ee1700ef25bb1bcc214f1dd73ffb468bba42b2620bf24ccbe281054c0"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/symbols/lostcity.json"
+hash = "72c8ff87e2d812ea17e572fd74860c37d9d51a065c5124db07fee81549bdb120"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/symbols/macabre.json"
+hash = "a3094505c22d1e328af7da8441374b926cbd9eefeac8c8ccb0a13afde868733d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/sgjourney/symbols/the_abandoned_world.json"
+hash = "bcebe1feaa6f2074609a2650e7d45222022eaaf0b6dd4fb36b5e50aefa1cdc1f"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/structures/abandoned_world_boss_arena.nbt"
 hash = "416d3c9af451ec916affd811a36234ad5ba85c3b03837e25bed2ff384b937c54"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/structures/stargate_pedestal_flesh.nbt"
+hash = "1baa3814cc52ec5e99867545fe5b94e1077c3b2be16d235e08c989551255d32e"
 hash-format = "sha256"
 
 [[files]]
@@ -2486,13 +2626,28 @@ hash = "270e00ba123e96b6fc917f0a8d3a7d2a2d80686589700af547e44dc818a5d5a4"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/worldgen/structure/macabre_stargate.json"
+hash = "0b58e4ba18714fd2f1a3111f400f804e5a01371f978b3c8ef55739f747f3e8ca"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/worldgen/structure_set/abandoned_world_boss_arena.json"
 hash = "1109312308ffbfd61be3c04471d4a273279e7356f46db41cb96e3ee557764d48"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/frigidabyss/worldgen/structure_set/custom_stargate_pedestal.json"
+hash = "98b23c406cdff2c166b94142adb9fe5115b1ce5cac4799c3c799a139d12b8caf"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/frigidabyss/worldgen/template_pool/abandoned_world_boss_arena.json"
 hash = "21651e36d527dd532e05914d20625cadf9ae095e9cc9575ad374b7d5ab3ba044"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/frigidabyss/worldgen/template_pool/macabre_stargate.json"
+hash = "27d58e9eec971f2d8e4a7a950e73a7e32a07fe682dd4ff6dd6d96ff016c9c3b4"
 hash-format = "sha256"
 
 [[files]]
@@ -2946,8 +3101,13 @@ hash = "9d8cc6039e5f26888a503a46fc04dca3ee83cee1bb24047039a96d38a9e74134"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/lostcities/genesis/celestials/lostcities_sun.json"
+hash = "f27db26677832c07502fa42bcce2af928e8f24781ca77a940d35aa2ed693a8c3"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/lostcities/genesis/celestials/lostcity.json"
-hash = "c6488f0afaca436621ed9b164639f1475257a961a79bdd81b5886db279a1591e"
+hash = "65aadfd01e45a2cc9d09e4d9b30279ba2b239827cdb1773bbc80d6d41b4cb1ae"
 hash-format = "sha256"
 
 [[files]]
@@ -2986,8 +3146,13 @@ hash = "da8a77bd3bdc80d18a4b08e39da873d4eb871851ace833ee750d09f6fb631dae"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/macabre/genesis/celestials/macabre_sun.json"
+hash = "ab07a871e2ae428721f9a5d8cf8c7e48688d5ccedf99a110475815683648b7cc"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/macabre/genesis/celestials/the_pit.json"
-hash = "ca4cb517863d4329c3ce049acbc0b31b37ddef28a3fbc97734db58e1bd842cf7"
+hash = "764d5734d56f7c57f1ee88c4537e9f306bbf9c760d76c3dc34e4ce3da1439322"
 hash-format = "sha256"
 
 [[files]]
@@ -3681,6 +3846,11 @@ hash = "5f081b9ee53276a8ce11400af4e5b33e78428ff2c11a79c282ba4a8a46a4c19c"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/sgjourney/sgjourney/solar_system/terra.json"
+hash = "3b9359ce98ebacc80941a99ce447d8556ccf50c00d2f6918ad9db7e03133bad8"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/sgjourney/worldgen/biome/abydos_desert.json"
 hash = "0de6046122f52d90f77fb2542b0491af5ed777cff5e4c46af05e0be41eca42d3"
 hash-format = "sha256"
@@ -4167,7 +4337,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "669e52b3abcf33abe611daa19bbbf131a82ad7fafad1e4dcd8dc626b13bfd4d3"
+hash = "56c79e36149f5a9ad9500f1b10a93a67c42a735d23a8939a0ee8a491acfb8a58"
 hash-format = "sha256"
 
 [[files]]
@@ -4651,13 +4821,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/atlas-1-3-1imagefix-1-20.pw.toml.disabled"
-hash = "9fd28a19f8f98a43f9f2299b93a99b7b728877c958cdf7d6618d2fa167616c56"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/atlas-fix.pw.toml"
-hash = "99a49f688cb1d588926669ba63e3f8fe76837aaa50d87e84311711532d42a2ca"
+hash = "19d5b649714d1205a229e64d94fd152bcceddf74138a6d641b259611117dbcf9"
 hash-format = "sha256"
 metafile = true
 
@@ -4949,7 +5114,7 @@ metafile = true
 
 [[files]]
 file = "mods/collection-of-fixes.pw.toml"
-hash = "f043b00c44dd7730f11a902f6b868ad503e239bdda4b33e80a53cbb59c88cb82"
+hash = "6085bf5c49550a1dba3c75c29a85f033057fe2af9afefceb952468ab1d8616ff"
 hash-format = "sha256"
 metafile = true
 
@@ -5972,6 +6137,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "33f67d830cd166c132f6eb5a0015d681923ff93b3d42df97e3d9fd7b42898d97"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "66e31f260f763f9643e4efd3af083fb2b9810c49cbc221cec82caf82ec19222a"
 hash-format = "sha256"
@@ -6457,7 +6628,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "d4f34c57ae6e8653cafb66e50d79edae80b629d7fb504915d9ca2be65abe2f95"
+hash = "848f36838fbd244add0c4a18feb91976d56a40fac0909dd9dfbbb31a623cef22"
 hash-format = "sha256"
 metafile = true
 
@@ -6486,7 +6657,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/nethersdelight-1.20.1-4.0.pw.toml"
+file = "mods/nethersdelight.pw.toml"
 hash = "71624b36dd9182aa5015555082130c6e912cddff1cb6ef900192caca3036eab6"
 hash-format = "sha256"
 metafile = true
@@ -6730,6 +6901,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.24.pw.toml"
 hash = "f5fdfb9fd7dbd7a7213225b5891d121046377b5a1af950f20a52780c749fe58c"
 hash-format = "sha256"
@@ -6833,6 +7010,12 @@ metafile = true
 [[files]]
 file = "mods/sliceanddice-forge-3.2.0.pw.toml"
 hash = "440869b7632695d2809edc5ec3df37c7f024bcc919ffa19288aed41acd48dfee"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/small-tetra-additions.pw.toml"
+hash = "182a39cd36b8f36993adb3ec7a52d5912c3e7b2094db17ad87db84e4786e4b51"
 hash-format = "sha256"
 metafile = true
 
@@ -6949,6 +7132,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "241ccb7944dc0ff00adc6f1ad88d7f6896be51f4a808e18dad92109733dcfe67"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/structure_gel-1.20.1-2.16.1.pw.toml"
 hash = "4ed0aa8e92d630506de304b05a180535ba9447b8fcbdf9e9a36d273b0a153d1f"
 hash-format = "sha256"
@@ -6999,6 +7188,12 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "daef032d7a31fe047da98d779457a9d794940ff79a5315855da6c578be0795f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/tetra-loopback.pw.toml"
+hash = "69ce93d631fc62af0b8b83e0c68554f5c3a0ca76f33f0f47a698331127842e00"
 hash-format = "sha256"
 metafile = true
 
@@ -7421,7 +7616,7 @@ metafile = true
 
 [[files]]
 file = "mods/zps.pw.toml"
-hash = "ba20f07af9968ad4a5edba019e8723848c2355739f544ea34b4b071a3629fde8"
+hash = "ef40cea227ef213525c03bcaefcfeb38f996860ed1e92881475a6ab1c63cafd4"
 hash-format = "sha256"
 metafile = true
 

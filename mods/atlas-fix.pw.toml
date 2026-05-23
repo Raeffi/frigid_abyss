@@ -2,6 +2,6 @@ name = "atlas-fix"
 filename = "atlas-1.3.0-1.20.jar"
 
 [download]
-url = "https://www.dropbox.com/scl/fi/vxxgn3w2zyb8b5s1djjis/atlas-1.3.0-1.20.jar?rlkey=8hug54b4xkk902gznbac6aq3l&st=r2pzxfav&dl=1"
+url = "https://www.dropbox.com/scl/fi/vxxgn3w2zyb8b5s1djjis/atlas-1.3.0-1.20.jar?rlkey=8hug54b4xkk902gznbac6aq3l&st=67fk9aek&dl=1"
 hash-format = "sha256"
-hash = "a38894642c90dfc89a1981903c5340eb0799f6c0fbc2b425f3c38de857d26b45"
+hash = "e71b196677ffed48c3b470ab1d11cec057275d132e8925ba22a7ef1925d1a8c1"

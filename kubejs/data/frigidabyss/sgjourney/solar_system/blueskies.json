@@ -1,0 +1,18 @@
+{
+	"name": "solar_system.frigidabyss.blueskies",
+	"symbols": "frigidabyss:blueskies",
+	"symbol_prefix": 1,
+	"extragalactic_address": {"address": [1, 33, 4, 9, 27, 17, 22], "randomizable": true},
+	"addresses":
+	[
+		{"galaxy": "sgjourney:milky_way", "address": {"address": [2, 4, 34, 22, 33, 9], "randomizable": true}}
+	],
+
+	"point_of_origin": "frigidabyss:blueskies",
+
+	"dimensions":
+	[
+		"blue_skies:everbright",
+		"blue_skies:everdawn"
+	]
+}

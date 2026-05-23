@@ -4,7 +4,7 @@
   "gravity": 1.0,
   "transformProvider": {
     "type": "genesis:orbiting",
-    "parentID": "sgjourney:abydos_sun",
+    "parentID": "abandonedworld:abandonedworld_sun",
     "seed": 1561,
     "orbitDistance": 20000,
     "orbitTime": 4600000,

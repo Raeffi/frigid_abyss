@@ -4,11 +4,11 @@
   "gravity": 1.0,
   "transformProvider": {
     "type": "genesis:orbiting",
-    "parentID": "macabre:macabre_sun",
+    "parentID": "blue_skies:blue_skies_sun",
     "seed": 212,
     "orbitDistance": 25000,
     "orbitTime": 4600000,
-    "dayLength": 24000
+    "dayLength": 0
   },
   "properties": {
     "atmosphere": {

@@ -75,6 +75,38 @@ ServerEvents.tags('worldgen/biome', e => {
     e.add("scorpions:has_emperor_scorpions", "sgjourney:rima_cracks")
     e.add("scorpions:has_brown_scorpions", "sgjourney:rima_cracks")
 
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "abandonedworld:dying_land")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "abandonedworld:eroded_expanse")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "abandonedworld:rotting_forest")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "abandonedworld:the_wasteland")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "biomesoplenty:wasteland")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_deepslate_biomes", "biomesoplenty:wasteland_steppe")
+
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:calming_skies")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:brightlands")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:slushlands")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:frostbitten_forest")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:peeking_ocean")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:midday_shore")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:snow_covered_pines")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:deep_peeking_ocean")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:brisk_meadow")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:polar_highland")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:frostbitten_forest_clearing")
+    e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_snow_biomes", "blue_skies:brumble_forest")
+
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:unorthodox_valley")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:shaded_woodlands")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:crystal_dunes")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:sunset_maple_forest")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:rising_creek")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:moonlit_reservoir")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:crystal_roughs")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:searing_grassland")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:crescent_orchard")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:crescent_orchard_lake")
+    // e.add("sgjourney:has_structure/stargate_pedestal/stargate_pedestal_biomes", "blue_skies:crystal_dunes_spikes")
+
 })
 
 ServerEvents.tags('entity_type', e => {

@@ -1,0 +1,5 @@
+{
+	"name": "point_of_origin.frigidabyss.macabre",
+	"texture": "frigidabyss:pegasus/points_of_origin/macabre.png",
+	"generates_randomly": false
+}

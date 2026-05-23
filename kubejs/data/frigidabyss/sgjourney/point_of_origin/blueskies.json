@@ -1,0 +1,5 @@
+{
+	"name": "point_of_origin.frigidabyss.blueskies",
+	"texture": "frigidabyss:milky_way/points_of_origin/blueskies.png",
+	"generates_randomly": false
+}

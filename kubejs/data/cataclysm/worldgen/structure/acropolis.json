@@ -1,6 +1,6 @@
 {
   "type": "cataclysm:cataclysm_jigsaw",
-  "biomes": "#cataclysm:has_structure/acropolis_biomes",
+  "biomes": "#minecraft:is_overworld",
   "step": "surface_structures",
   "start_pool": "cataclysm:acropolis/start_pool",
   "size": 33,

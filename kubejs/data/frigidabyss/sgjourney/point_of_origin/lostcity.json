@@ -1,0 +1,5 @@
+{
+	"name": "point_of_origin.frigidabyss.lostcity",
+	"texture": "frigidabyss:milky_way/points_of_origin/lostcity.png",
+	"generates_randomly": false
+}

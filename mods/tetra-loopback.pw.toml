@@ -1,0 +1,13 @@
+name = "Tetra Loopback"
+filename = "tetra_loopback-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c4EkDJ39/versions/VTyZtJcV/tetra_loopback-1.0.1.jar"
+hash-format = "sha512"
+hash = "a449e40385b93f7ac8d9d0d6304cd888b4e443ae165788f5f9d864c7b5cb6a1f5d8888bec9e1f48bd472f2536e2e036cc4ce1c9cde99e95b7edde6c23f13fb66"
+
+[update]
+[update.modrinth]
+mod-id = "c4EkDJ39"
+version = "VTyZtJcV"

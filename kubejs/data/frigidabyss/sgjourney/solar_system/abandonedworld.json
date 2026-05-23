@@ -1,0 +1,17 @@
+{
+	"name": "solar_system.frigidabyss.the_abandoned_world",
+	"symbols": "frigidabyss:the_abandoned_world",
+	"symbol_prefix": 1,
+	"extragalactic_address": {"address": [7, 32, 9, 11, 28, 1, 3], "randomizable": true},
+	"addresses":
+	[
+		{"galaxy": "sgjourney:milky_way", "address": {"address": [5, 7, 23, 33, 14, 24], "randomizable": true}}
+	],
+
+	"point_of_origin": "frigidabyss:the_abandoned_world",
+
+	"dimensions":
+	[
+		"abandonedworld:the_abandoned_world"
+	]
+}

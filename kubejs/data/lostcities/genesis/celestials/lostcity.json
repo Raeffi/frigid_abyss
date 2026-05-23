@@ -4,7 +4,7 @@
   "gravity": 1.0,
   "transformProvider": {
     "type": "genesis:orbiting",
-    "parentID": "sgjourney:rima_sun",
+    "parentID": "lostcities:lostcities_sun",
     "seed": 213,
     "orbitDistance": 12000,
     "orbitTime": 4600000,
