@@ -1,0 +1,13 @@
+name = "Oculus Unofficial"
+filename = "oculus-mc1.20.1-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "715c4b34e1f479c2cd2e7f895e7daefd71dcdcad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7702781
+project-id = 1476003

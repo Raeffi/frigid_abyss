@@ -2612,7 +2612,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/frigidabyss/structures/stargate_pedestal_flesh.nbt"
-hash = "1baa3814cc52ec5e99867545fe5b94e1077c3b2be16d235e08c989551255d32e"
+hash = "07155569d352bdad23d3704ec039db65e8d00d11bdbd1bd29c25529a09be14c3"
 hash-format = "sha256"
 
 [[files]]
@@ -5066,7 +5066,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
+hash = "52bd19e369b21423c960992c0750e630fa9166b27b049cdca523399d342affd5"
 hash-format = "sha256"
 metafile = true
 
@@ -5279,7 +5279,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion.pw.toml"
-hash = "2f1529c5f80957687462c0870ef4233ea85dc55a77b93a9802e9a43cbe27f72a"
+hash = "2ea69599549c90fe1524cf954bf704d883d7187884a39575fef575f9eab1bf17"
 hash-format = "sha256"
 metafile = true
 
@@ -5610,7 +5610,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "a7bcd625886fcb580a2f85bb43f3e58362a546c31ec0880b97c138c753313199"
+hash = "1439222e7d3648fca827e69ab15788a71926323f933db2d2f6d6c1dd4782fcf7"
 hash-format = "sha256"
 metafile = true
 
@@ -5949,6 +5949,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/g3-doors.pw.toml"
+hash = "a0052e6e8a5de2c01df48ddad832bb7cf83e8b4541b386f3ddbedd73c24c6389"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/gardens-of-the-dead-forge-4.0.1.pw.toml"
 hash = "4b2d40927f9c5bfaa547e351fd4ca203b840f3fe860f3569440daf6eb221598d"
 hash-format = "sha256"
@@ -6196,10 +6202,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/ipla.pw.toml"
-hash = "d81f497c6227fea65b792644b78e05805f17620df2c430831f251cf4340d27b3"
+file = "mods/ipla.pw.toml.disabled"
+hash = "6c344a0e5dc1787cec845755b8c240b2ee82c6ddca551e5246e3230a4221b769"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/irons_spellbooks.pw.toml"
@@ -6717,14 +6722,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "56590ee947cf04fddacf149a415dba840fd27d98e12d5cd36c2978ff121dd371"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/optitritium.pw.toml"
-hash = "b35f4ffce58e7a1d410d1ce623eb4d7f969046ce3e82886f7f542dc0b8c85865"
+file = "mods/oculus-unofficial.pw.toml"
+hash = "63791ba7236f530a2c7883447b4bf5683d8771c276d686cbbd2f2f2be19df274"
 hash-format = "sha256"
 metafile = true
 
@@ -7057,19 +7056,19 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks.pw.toml"
-hash = "1abd27aa185c9b2719bf95c12b10413dd5076f4a8cb5640e414982f7bd739053"
+hash = "256495f243e8edd16ed92c7889bda02855355aa42727f3583f9ef7714db3dea5"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/sophisticatedcore.pw.toml"
-hash = "626651d08c0bb98c40e80cc69ca618d84f90a7b1a34fb2de24f278e2dbd33591"
+hash = "579fbff2079d03f5a2f0b1660eff7a2baf23e68d9a97ec601b0a8f8892f456f6"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedstorage-1.20.1-0.10.20.778.pw.toml"
-hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
+file = "mods/sophisticatedstorage.pw.toml"
+hash = "b577fd2e9fd2dbf606f5fb1f138f181f3f5f4f63fd255612d72a3c199b735d78"
 hash-format = "sha256"
 metafile = true
 
@@ -7323,7 +7322,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "4ce2a6511d2d511baea6bc75be4ce4ee9ecf1d2b8ec0c4cf7121b72bfe440162"
+hash = "dfaefcbe175772bed180771dbc0907bd77f8514408f984bb81c05c78ca5b7fff"
 hash-format = "sha256"
 metafile = true
 
@@ -7344,6 +7343,11 @@ file = "mods/transparent-forge-8.0.1_1.20.1.pw.toml"
 hash = "ea6b02dc6ffde35cbf45da7ddc0b230171118d8698b86dad6faea4f33c71b9fa"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/tritium.pw.toml.disabled"
+hash = "b35f4ffce58e7a1d410d1ce623eb4d7f969046ce3e82886f7f542dc0b8c85865"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
@@ -7533,7 +7537,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "f08392a46a358be2ef15216943496053069411c45a8ff2d6ac7926a90b665dd4"
+hash = "1ba4c82c38b018652fd1cad9f1af946e4e7ef602fce965fe3f6756854898da43"
 hash-format = "sha256"
 metafile = true
 
