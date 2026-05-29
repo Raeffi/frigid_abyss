@@ -4713,6 +4713,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "22023046d65c5c9c0cee0c575c44129414c8a702b06f2f0129ac918a4180495e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
 hash-format = "sha256"
@@ -6723,7 +6729,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus-unofficial.pw.toml"
-hash = "63791ba7236f530a2c7883447b4bf5683d8771c276d686cbbd2f2f2be19df274"
+hash = "2be8151aa2464523d512baf12bfe7e932cabc8bf76cbdb8928c1b6d350f6cd3e"
 hash-format = "sha256"
 metafile = true
 
@@ -7345,9 +7351,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/tritium.pw.toml.disabled"
+file = "mods/tritium.pw.toml"
 hash = "b35f4ffce58e7a1d410d1ce623eb4d7f969046ce3e82886f7f542dc0b8c85865"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
@@ -7482,10 +7489,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/void-power.pw.toml"
+file = "mods/void-power.pw.toml.disabled"
 hash = "7b316c788efe0f92881413b0fdba03976efc20176ef2b5117da89111d0c13a2a"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/volcanobiomemod.pw.toml"

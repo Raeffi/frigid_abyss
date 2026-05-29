@@ -1,6 +1,11 @@
 name = "Oculus Unofficial"
 filename = "oculus-mc1.20.1-1.8.1.jar"
-side = "both"
+side = "client"
+
+[option] 
+optional = true
+default = true
+description = "shader mod"
 
 [download]
 hash-format = "sha1"
