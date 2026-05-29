@@ -7114,6 +7114,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/stargate-journey-vs2-compat.pw.toml"
+hash = "ff16990736bfcccc4f6f56d3d2839c3a5ccdd7382ad120474b2d4f03da1f8097"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/starlance.pw.toml.disabled"
 hash = "9efd40a139a9a8db0d39653aae71db9aecc336c733ad0b7e7caee9473e10a70c"
 hash-format = "sha256"
