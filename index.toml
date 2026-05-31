@@ -7115,7 +7115,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-journey-vs2-compat.pw.toml"
-hash = "ff16990736bfcccc4f6f56d3d2839c3a5ccdd7382ad120474b2d4f03da1f8097"
+hash = "fe166b03f90aa435bdd59a3ef3b0c31607c776b19c26feb87f1cc36d4c428c75"
 hash-format = "sha256"
 metafile = true
 
