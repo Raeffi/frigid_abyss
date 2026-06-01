@@ -1,0 +1,13 @@
+name = "GrappleVS"
+filename = "grapplevs-1.20.1-1.0.1-VS_2.4_compat.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/giJrElv4/versions/c6csw7Nl/grapplevs-1.20.1-1.0.1-VS_2.4_compat.jar"
+hash-format = "sha512"
+hash = "23df5a1db7451faac74253fd92786ba4022b82d745304596c9b5527ceef3fc76ace71dd7486c1d7b7c8b405681a903018223057aea5c6d6ddb3f26e4cce48b81"
+
+[update]
+[update.modrinth]
+mod-id = "giJrElv4"
+version = "c6csw7Nl"

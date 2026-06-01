@@ -187,7 +187,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "2b9400d6f03135ab255dce66d2f51922d5619319b8e4c510ead75ec58c89c139"
+hash = "842111fa2bddb1919550ef326008491549db6f5f041c5737de545ff51c906e56"
 hash-format = "sha256"
 
 [[files]]
@@ -4731,6 +4731,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "40bab1828ae2b4d755db64f1c887a2fe06171fad6ab54d4a1863ca5c30ff9b55"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 hash-format = "sha256"
@@ -4827,8 +4833,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/autosaplins.pw.toml"
+hash = "7f23339cfef90863aff2015e24517ade8807c0c44ef12e9a28c281225e39c3b6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 hash-format = "sha256"
 metafile = true
 
@@ -5001,12 +5019,6 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.110.2.pw.toml"
-hash = "1822bec0d322d14ae85405b640984fd5665357bed37f0704959c6736cc57e2dc"
 hash-format = "sha256"
 metafile = true
 
@@ -5729,7 +5741,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+hash = "c9081708402e1fd5e5936c3119a43717c0fd51185f940faa79dbbd8670d55a40"
 hash-format = "sha256"
 metafile = true
 
@@ -5975,6 +5987,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/grapplevs.pw.toml"
+hash = "3929c97dee06cb9123cf52ea77d065a029a7545c7eba22cb8d2afcdd177b5b5d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "ee278d545996d7c2c29cc58aa451160cec6b93e0bb57f14aa2d2fd49d9058174"
 hash-format = "sha256"
@@ -6064,7 +6082,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e5763fe550d18dbbad6fe65d1a008312b022fe7020c985014b36fbfa89edce8"
+hash = "4827e5588f4f3478605956696bc890c2cf1ac92f44108873aa27f33adefcfb4f"
 hash-format = "sha256"
 metafile = true
 
@@ -6289,7 +6307,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
-hash = "4ff8a3b2534e1baddb070511dc8208aa26fba2baf7a17ec2bbf066e8d762eef6"
+hash = "fecdc93dc8498a1418c29e02dd879a50c7afac4b7bb4d82349b2a06f9929693a"
 hash-format = "sha256"
 metafile = true
 
@@ -6527,10 +6545,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
+file = "mods/modernfix.pw.toml.disabled"
+hash = "fc70f2509f3a5d82504637fe781c30d10de0dec31e73a2a0245cf90532879969"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
@@ -6693,6 +6710,11 @@ file = "mods/oculus-unofficial.pw.toml"
 hash = "2be8151aa2464523d512baf12bfe7e932cabc8bf76cbdb8928c1b6d350f6cd3e"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml.disabled"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash-format = "sha256"
 
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
@@ -7075,7 +7097,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-journey-vs2-compat.pw.toml"
-hash = "fe166b03f90aa435bdd59a3ef3b0c31607c776b19c26feb87f1cc36d4c428c75"
+hash = "d9e11c7696e5274354135c179083b26001cc30d3e86b553ec910a44ba57d6d39"
 hash-format = "sha256"
 metafile = true
 
@@ -7508,6 +7530,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/wheres-my-brain.pw.toml.disabled"
 hash = "cabdb54c9eca4de3bf35518a22a9ba22a7461db46d1528978e3bc535a5f8b45a"
 hash-format = "sha256"
@@ -7527,6 +7555,12 @@ metafile = true
 [[files]]
 file = "mods/world-pre-generator.pw.toml"
 hash = "dc221d04e1c85980af3836c43c5f3620a92c933755fab67cd981835324b74398"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "75f919474c56d48d70e8371067ee9bfaa47d2c06876937099108692e943cd404"
 hash-format = "sha256"
 metafile = true
 

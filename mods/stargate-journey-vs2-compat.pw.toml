@@ -1,13 +1,13 @@
 name = "Stargate Journey VS2 Compat"
-filename = "sgjourney_vs2_compat-1.0.6.jar"
+filename = "sgjourney_vs2_compat-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7fB3KEMQ/versions/lihdmTAh/sgjourney_vs2_compat-1.0.6.jar"
+url = "https://cdn.modrinth.com/data/7fB3KEMQ/versions/OtDdq7Yk/sgjourney_vs2_compat-1.0.7.jar"
 hash-format = "sha512"
-hash = "5a4d247043ab7fbf2c3094d72f70351e5cbc5f96434d6c1ed895eb26880e19e9e9f3493be9eab327c0537e4f9f81a7d0c79ad865203d8daf7d79183dc87b8209"
+hash = "c13d66c21ca479be40cff6cf7b24951462b16c2b7471dfd869c2fc77e91cc77b4b14975ca980c1c68db8651d0ae20ad9b4a42eb50265f4fed969853901cd9c4f"
 
 [update]
 [update.modrinth]
 mod-id = "7fB3KEMQ"
-version = "lihdmTAh"
+version = "OtDdq7Yk"
