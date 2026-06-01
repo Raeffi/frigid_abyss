@@ -5319,7 +5319,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
-hash = "aba70a0cd8e2169d87508bcf587b8f59cebd0ea466b2fd873a0ca21f9a02ade3"
+hash = "9f44e3ca0fb7c34a8de416f8b357ef41c2b2c914a8f80e83c55e7e51c230c74d"
 hash-format = "sha256"
 metafile = true
 
