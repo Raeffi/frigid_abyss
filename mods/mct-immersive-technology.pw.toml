@@ -1,13 +1,13 @@
 name = "Immersive Technology"
-filename = "MCT-ImmersiveTechnology-1.20.1-2.0.1-b6037-beta.jar"
+filename = "MCT-ImmersiveTechnology-1.20.1-2.0.1-b6090-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DvaEUke2/versions/ROYQPRvS/MCT-ImmersiveTechnology-1.20.1-2.0.1-b6037-beta.jar"
+url = "https://cdn.modrinth.com/data/DvaEUke2/versions/XqkVAhIm/MCT-ImmersiveTechnology-1.20.1-2.0.1-b6090-beta.jar"
 hash-format = "sha512"
-hash = "11c0bb5f0804e49e9bc20853276bc58271a10bcf239356f2f8608fdbb56e09b875b09e5731f9336318b3b50071970f5be9267c7360392d63df6ea4b1f1167cb2"
+hash = "8e29e20466cfe4759ed1aad40b2bb561286ae8fc7f7801ddc35bf69c2a864d2e0d209c56c9cffd4cee639827e93493bb26670f398c5447c90ca2b70a2189e81c"
 
 [update]
 [update.modrinth]
 mod-id = "DvaEUke2"
-version = "ROYQPRvS"
+version = "XqkVAhIm"

@@ -57,11 +57,11 @@
         },
         {
           "char": "k",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "o",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "d",
@@ -69,27 +69,27 @@
         },
         {
           "char": "r",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "t",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "x",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "y",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "m",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "s",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "n",
@@ -97,19 +97,19 @@
         },
         {
           "char": "w",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "v",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "A",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "u",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "p",

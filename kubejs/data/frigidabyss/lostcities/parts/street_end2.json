@@ -237,11 +237,11 @@
         },
         {
           "char": "ϝ",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+          "block": "quark:oak_hedge[east\u003dtrue,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
         },
         {
           "char": "σ",
-          "block": "everycomp:q/biomesoplenty/flowering_oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+          "block": "quark:oak_hedge[east\u003dfalse,extend\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
         },
         {
           "char": "У",

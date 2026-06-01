@@ -1,5 +1,6 @@
-name = "Create: Wizardry 1.20.1-0.2.0"
+name = "Create: Wizardry"
 filename = "create_wizardry-1.20.1-0.4.2.jar"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/LTOnyKql/create_wizardry-1.20.1-0.4.2.jar"

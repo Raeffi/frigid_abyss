@@ -1,13 +1,13 @@
 name = "Create Ratatouille"
-filename = "create_ratatouille-1.20.1-1.3.6 for Create6.0.7~.jar"
+filename = "create_ratatouille-1.20.1-1.3.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XM0ifg8q/versions/hNuvm0Tj/create_ratatouille-1.20.1-1.3.6%20for%20Create6.0.7~.jar"
+url = "https://cdn.modrinth.com/data/XM0ifg8q/versions/5BLV6OIS/create_ratatouille-1.20.1-1.3.8.jar"
 hash-format = "sha512"
-hash = "7f09654943eb0ff95ce6aba2ff3fe2632846966ba763091da28ff5327c6ff5ed86cdf95790ce942e71335bb72f0410cef760635ed13d5913aaa43fe2dade5d33"
+hash = "264af0a8d5e86b6bee375a76e0f21dc8c9d5338bb4be2cc76c4e1f2041aeeb7552f1c503f1309863d0c5cea4af7a3993706cb89912bdd13f19bfbd754dbc35fc"
 
 [update]
 [update.modrinth]
 mod-id = "XM0ifg8q"
-version = "hNuvm0Tj"
+version = "5BLV6OIS"

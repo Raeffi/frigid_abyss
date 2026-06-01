@@ -2,47 +2,47 @@
   "palette": [
     {
       "char": "⮞",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=east,half=bottom,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=east,half=bottom,waterlogged=false]"
     },
     {
       "char": "⮜",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=west,half=bottom,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=west,half=bottom,waterlogged=false]"
     },
     {
       "char": "⮝",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=north,half=bottom,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=north,half=bottom,waterlogged=false]"
     },
     {
       "char": "⮟",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=south,half=bottom,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=south,half=bottom,waterlogged=false]"
     },
     {
       "char": "⮚",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=east,half=top,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=east,half=top,waterlogged=false]"
     },
     {
       "char": "⮘",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=west,half=top,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=west,half=top,waterlogged=false]"
     },
     {
       "char": "⮙",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=north,half=top,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=north,half=top,waterlogged=false]"
     },
     {
       "char": "⮛",
-      "block": "hearth_and_home:gray_shingle_stairs[facing=south,half=top,waterlogged=false]"
+      "block": "quark:gray_shingles_stairs[facing=south,half=top,waterlogged=false]"
     },
     {
       "char": "◚",
-      "block": "hearth_and_home:gray_shingle_slab[type=top,waterlogged=false]"
+      "block": "quark:gray_shingles_slab[type=top,waterlogged=false]"
     },
     {
       "char": "◛",
-      "block": "hearth_and_home:gray_shingle_slab[type=bottom,waterlogged=false]"
+      "block": "quark:gray_shingles_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "▣",
-      "block": "hearth_and_home:gray_shingles"
+      "block": "quark:gray_shingles"
     }
   ]
 }
