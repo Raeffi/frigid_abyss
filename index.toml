@@ -6545,9 +6545,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml.disabled"
+file = "mods/modernfix.pw.toml"
 hash = "fc70f2509f3a5d82504637fe781c30d10de0dec31e73a2a0245cf90532879969"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
@@ -6684,24 +6685,6 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/oc2r-addon-core.pw.toml"
-hash = "98fb08caf8ab16b88715b23389c1c68bf46afa9657e34c146dfe69e64e302105"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/oc2r-valkyrien-skies.pw.toml"
-hash = "94b3f7d1fd39930cd3588948cb74fafffedd0113b43c8a34c60dd93a9edde736"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/oc2r.pw.toml"
-hash = "ccda1ee94f7c43ba9bb57f1df7bada2dae0059ae25a8d9ed90c9d079bf7313e7"
 hash-format = "sha256"
 metafile = true
 
@@ -7496,6 +7479,12 @@ metafile = true
 [[files]]
 file = "mods/vs-ship-retrieval-service.pw.toml"
 hash = "69b358e218d1bc737048ca9ab62337c77e70bdfd412ff83a53d44b5ffc1a8c07"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/vsails-rope-compat.pw.toml"
+hash = "87ae913cf1457078a953a94934125050820d02c7c3c3eb40c46dfaab4e4ccb3a"
 hash-format = "sha256"
 metafile = true
 

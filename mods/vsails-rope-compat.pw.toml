@@ -1,0 +1,13 @@
+name = "Valkyrien Sails Rope Compat"
+filename = "vsails-rope-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LtKvNwmL/versions/kKq4BkRd/vsails-rope-compat-1.0.jar"
+hash-format = "sha512"
+hash = "cf50e1a8aa0ba9f64e131c400b229d1b4e80ced64652b718504d7b4eb57c884bff0c2c4071fa4c9dd3a0be2cb57b09403bd111731de9b4616d59de86f327f814"
+
+[update]
+[update.modrinth]
+mod-id = "LtKvNwmL"
+version = "kKq4BkRd"
