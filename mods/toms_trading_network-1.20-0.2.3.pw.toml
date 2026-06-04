@@ -1,12 +1,13 @@
 name = "[Forge] Tom's Trading Network 1.20-0.2.3"
-filename = "toms_trading_network-1.20-0.2.3.jar"
+filename = "toms_trading_network-1.20-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/3VM21fbD/toms_trading_network-1.20-0.2.3.jar"
+url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/zSGsUCXZ/toms_trading_network-1.20-0.3.1.jar"
 hash-format = "sha512"
-hash = "80bf7958c04a6f317312d65e620c3f678eeaf9a8c45d88a5d83bedee76f346acb80936e8b1e2281abbe4f55544463b787357a7aa5d653e5ef420508f0e396482"
+hash = "c169eb8a896c07f82fd5bade6a4a18ebf1a86a06c398e85742e8a1678703c7a4d38ad3263f43ac88b1071b7916004cdc7267505a3c3eabbe801aa44a238c9f10"
 
+[update]
 [update.modrinth]
 mod-id = "x5iQ3NM5"
-version = "3VM21fbD"
+version = "zSGsUCXZ"

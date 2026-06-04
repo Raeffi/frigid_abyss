@@ -1,13 +1,13 @@
 name = "Villager Workers 1.7.7 [Forge - 1.20.1]"
-filename = "workers-1.20.1-1.7.9.1.jar"
+filename = "workers-1.20.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pqlv7VM3/versions/BkW6TROB/workers-1.20.1-1.7.9.1.jar"
+url = "https://cdn.modrinth.com/data/Pqlv7VM3/versions/kZGtFFkE/workers-1.20.1-2.0.1.jar"
 hash-format = "sha512"
-hash = "3255dfcd9794c8cc99ac05dbdd691cd001eca35499c23b8daaf35091d1ef98a522edfa2adeff53eb0ed1aadba29370363cce18d0a0ed59f49c8e29c623a06def"
+hash = "64e5861d2f0f9a7b28360ea3d76856781a8507510744c6e8e991e63c39f9bc7aeb4522897c9209b46910790e272cfd71abf56c8add79bd011083da8762a198aa"
 
 [update]
 [update.modrinth]
 mod-id = "Pqlv7VM3"
-version = "BkW6TROB"
+version = "kZGtFFkE"

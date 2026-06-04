@@ -1,11 +1,12 @@
 name = "End's Delight 1.20.1-1.0.1"
-filename = "ends_delight-1.20.1-1.0.1.jar"
+filename = "ends_delight-2.5.1+forge.1.20.1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/yHN0njMr/versions/99a5wEsK/ends_delight-1.20.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/yHN0njMr/versions/GNLxPpR2/ends_delight-2.5.1%2Bforge.1.20.1.jar"
 hash-format = "sha512"
-hash = "f4dc06bae12e416d3a89fb796612c67b3354a0e0d4df4a0dc652d17f41773a38046c307b0b5fc2e6c5c52f2e5f19bcb706f6a7e9339c94b5e9b0a7ddb2f87f76"
+hash = "f79e221b92d565186f77e68173592707a4e591a220b345f989a813fc5e8a59320f60ea29a2cf73c77c084ef7859eb0b3913679e6c1a9f0d39b4120b9c42c8a0f"
 
+[update]
 [update.modrinth]
 mod-id = "yHN0njMr"
-version = "99a5wEsK"
+version = "GNLxPpR2"

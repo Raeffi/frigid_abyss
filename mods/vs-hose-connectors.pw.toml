@@ -1,13 +1,13 @@
 name = "VS Hose Connectors"
-filename = "vsHoseConnector-0.0.7-1.20.1.jar"
+filename = "vsHoseConnectors-0.1.5-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YaZEkFmd/versions/MY8sdBJh/vsHoseConnector-0.0.7-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/YaZEkFmd/versions/OPiae9Cf/vsHoseConnectors-0.1.5-1.20.1.jar"
 hash-format = "sha512"
-hash = "103b01b62eed0f95dea85288138c83394dcb8abdc1890a591607eaaa8a51cd08f6caba15643740cb10c34713e2287dff479f9585470b14becc8de2d9896b03b5"
+hash = "bd884dbee82963bc80867d071ef46aa80520784270f38f77078225cfd396dfac13bec91c3a772998b8ae3fb4b9b6becb25a399101ac65916df328fa3da2b564b"
 
 [update]
 [update.modrinth]
 mod-id = "YaZEkFmd"
-version = "MY8sdBJh"
+version = "OPiae9Cf"

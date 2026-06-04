@@ -1,11 +1,12 @@
 name = "1.0.11 Universal (1.17.X-1.20.X)"
-filename = "BoatBreakFix-Universal-1.0.11.jar"
+filename = "BoatBreakFix-Universal-1.0.2.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVb8ZE5p/versions/O2IGXZu3/BoatBreakFix-Universal-1.0.11.jar"
+url = "https://cdn.modrinth.com/data/OVb8ZE5p/versions/Uf9jCC3m/BoatBreakFix-Universal-1.0.2.jar"
 hash-format = "sha512"
-hash = "558779fce2ac7d1373ab27ba7cec8cd4fe893d30fcc7055fd7b88e8ea81788934d47fb53678165e7e125152f28ea74b275e0ae96fd7d3653aac958d1e1da274a"
+hash = "7dedce72e959a05db469ff7e6175d7bc7189ed012ecb4bbbf299f0ee2b1876c67753731e05928ba8743b294cf5b208da01056d65ca51c27ad14b2313addcea92"
 
+[update]
 [update.modrinth]
 mod-id = "OVb8ZE5p"
-version = "O2IGXZu3"
+version = "Uf9jCC3m"

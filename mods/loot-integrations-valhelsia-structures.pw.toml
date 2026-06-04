@@ -1,13 +1,13 @@
 name = "Loot Integrations: Valhelsia Structures"
-filename = "lootintegrations_valhelsia-1.0.jar"
+filename = "lootintegrations_valhelsia-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f0846c6b2878e69e2cab2f1d6a68b0cb60cf7698"
+hash = "ab6a5c01f4100b5f011fdabf897a8772f1d650f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5958932
+file-id = 7925313
 project-id = 1152735

@@ -1,12 +1,13 @@
 name = "Tom's Storage 1.20-1.6.6"
-filename = "toms_storage-1.20-1.6.6.jar"
+filename = "toms_storage-1.20-1.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/MiLXJHWR/toms_storage-1.20-1.6.6.jar"
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/XELeoPjZ/toms_storage-1.20-1.7.1.jar"
 hash-format = "sha512"
-hash = "033034aac8df1c4303bf14bed58df618eafa173efc8ab56054f7487d55b06218a2befc4277576743b8eb425b0128bee3b12f711b7922498541e00453ff788d6a"
+hash = "ac5a057a9fdafa851fca05be77ba68548082119e0b7ac19f2197e418da703bf60f341e65ec76ddc73003682b89159850f6b9dff65147df3c0c9b8e6f58460ce0"
 
+[update]
 [update.modrinth]
 mod-id = "XZNI4Cpy"
-version = "MiLXJHWR"
+version = "XELeoPjZ"

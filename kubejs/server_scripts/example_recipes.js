@@ -491,7 +491,7 @@ e.recipes.vintage.turning(
 //laser_cutting(output[], input)
 e.recipes.vintage.laser_cutting(
     "vintage:steel_spring",
-    "vintage:steel_rod").energyCost(1000).maxChargeRate(10).id("kubejs:create_laser_cutting");
+    "vintage:steel_rod").energy(1000).maxChargeRate(10).id("kubejs:create_laser_cutting");
 
 //hammering(output[], input[])
 e.recipes.vintage.hammering(

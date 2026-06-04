@@ -10,10 +10,12 @@ ServerEvents.tags('block', e => {
     e.add('frigid_abyss:campfire', 'decorative_blocks:brazier')
     e.add('frigid_abyss:campfire', 'valhelsia_structures:brazier')
     e.add('frigid_abyss:campfire', 'minecraft:campfire')
+    e.add('frigid_abyss:campfire', 'irons_spellbooks:brazier')
 
     e.add('frigid_abyss:coldcampfire', 'decorative_blocks:soul_brazier')
     e.add('frigid_abyss:coldcampfire', 'valhelsia_structures:soul_brazier')
     e.add('frigid_abyss:coldcampfire', 'minecraft:soul_campfire')
+    e.add('frigid_abyss:coldcampfire', 'irons_spellbooks:brazier_soul')
 
     e.add('frigid_abyss:fire', 'minecraft:fire')
     e.add('frigid_abyss:fire', 'cataclysm:altar_of_fire')
@@ -64,28 +66,28 @@ ServerEvents.tags('block', e => {
 })
 
 ColdSweatEvents.registries(e => {
-    e.addBlockTemperature(0.476, "mc",
+    e.addBlockTemperature(0.6, "mc",
         blockTemp =>
             blockTemp.blocks("#frigid_abyss:campfire")
-                .maxEffect(0.8)
+                .maxEffect(1.2)
                 .range(7)
                 .state("lit", true)
 
     )
 
-    e.addBlockTemperature(-0.476, "mc",
+    e.addBlockTemperature(-0.6, "mc",
         blockTemp =>
             blockTemp.blocks("#frigid_abyss:coldcampfire")
-                .maxEffect(0.8)
+                .maxEffect(1.2)
                 .range(7)
                 .state("lit", true)
 
     )
 
-    e.addBlockTemperature(0.476, "mc",
+    e.addBlockTemperature(0.7, "mc",
         blockTemp =>
             blockTemp.blocks("#frigid_abyss:fire")
-                .maxEffect(0.8)
+                .maxEffect(1.2)
                 .range(7)
 
     )

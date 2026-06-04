@@ -1,13 +1,13 @@
 name = "CMG:SS"
-filename = "05_CMGSS Create 6 extension.zip"
+filename = "CMGSS 2.0.0 forge.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qKfTn3kW/versions/xbUYO5um/CMGSS%20Create%206%20extension.zip"
+url = "https://cdn.modrinth.com/data/qKfTn3kW/versions/gfEPqm7P/CMGSS%202.0.0%20forge.zip"
 hash-format = "sha512"
-hash = "d8e719e9c7f92d57aed7e0cadbdbd653b41689bb6871780816649e87f7a4b5627c7b33c321048d7dd1d1f1a4bf3c56bed51153a80b03cbec82ca5f31621156a0"
+hash = "9b6fc53ec11bc5898977c5c6a925545eb22dc0721c767bc2cfa7478a9bbdfe6e15f31176315c95611a7b84e66d252262c7b84bc2624d14c7d0f88e8fc2b04419"
 
 [update]
 [update.modrinth]
 mod-id = "qKfTn3kW"
-version = "xbUYO5um"
+version = "gfEPqm7P"

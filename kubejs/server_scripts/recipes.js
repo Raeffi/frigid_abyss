@@ -4,73 +4,256 @@
 
 ServerEvents.recipes(e => {
     
+//GENERAL RECIPES
+//####################################################################################
+
+e.shaped('minecraft:chest', [
+    'AAA', 
+    'A A',
+    'AAA'  
+  ], {
+    A: '#minecraft:planks'
+  }
+) 
+
+e.shaped('4x minecraft:chest', [
+    'AAA', 
+    'A A',
+    'AAA'  
+  ], {
+    A: '#minecraft:logs'
+  }
+) 
+
+//ORE COMPAT
+//####################################################################################
+
+//remove all ingot smelting and blasting
+e.remove({ output: '#forge:ingots', type: 'minecraft:smelting' });
+e.remove({ output: '#forge:ingots', type: 'minecraft:blasting' });
+
+
+e.forEachRecipe({ output: '#forge:ingots' }, recipe => {
+
+    //filter to keep certain recipes
+    if (
+        recipe.id === 'zps:aluminium_ingot_from_blasting_anorthite_crystal' ||
+        recipe.id === 'zps:aluminium_ingot_from_blasting_anorthite'
+    ) {
+        return;
+    }
+
+    if (
+        recipe.type === 'minecraft:smelting' ||
+        recipe.type === 'minecraft:blasting'
+    ) {
+
+    try {
+        const json = JSON.parse(recipe.json.toString());
+        const ingredient = json.ingredient ?? json.ingredients ?? [];
+        const ingredients = Array.isArray(ingredient) ? ingredient : [ingredient];
+
+        const hasDustInput = ingredients.some(i => i?.tag === 'forge:dusts');
+        const hasGritInput = ingredients.some(i => i?.tag === 'forge:grits');
+
+        if (hasDustInput || hasGritInput) return;
+    } catch (err) {
+        // If we can't parse the recipe, leave it alone
+        return;
+    }
+
+    recipe.remove();
+
+    }
+
+});
+
+e.replaceInput(
+    {input: "create:crushed_raw_iron"},
+    "create:crushed_raw_iron",
+    "immersivegeology:crushed_ore_iron"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_iron"},
+    "create:crushed_raw_iron",
+    "immersivegeology:crushed_ore_hematite"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_hematite', 1), // arg 1: output
+  [
+    ['minecraft:raw_iron', "create:crushed_raw_iron"],
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_copper"},
+    "create:crushed_raw_copper",
+    "immersivegeology:crushed_ore_copper"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_copper"},
+    "create:crushed_raw_copper",
+    "immersivegeology:crushed_ore_copper"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_copper', 1), // arg 1: output
+  [
+    ['minecraft:raw_copper', "create:crushed_raw_copper"],
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_zinc"},
+    "create:crushed_raw_zinc",
+    "immersivegeology:crushed_ore_sphalerite"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_zinc"},
+    "create:crushed_raw_zinc",
+    "immersivegeology:crushed_ore_sphalerite"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_sphalerite', 1), // arg 1: output
+  [
+    'create:raw_zinc',
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_silver"},
+    "create:crushed_raw_silver",
+    "immersivegeology:crushed_ore_silver"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_silver"},
+    "create:crushed_raw_silver",
+    "immersivegeology:crushed_ore_silver"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_silver', 1), // arg 1: output
+  [
+    'create:raw_silver',
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_lead"},
+    "create:crushed_raw_lead",
+    "immersivegeology:crushed_ore_lead"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_lead"},
+    "create:crushed_raw_lead",
+    "immersivegeology:crushed_ore_lead"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_lead', 1), // arg 1: output
+  [
+    'create:raw_lead',
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_aluminum"},
+    "create:crushed_raw_aluminum",
+    "immersivegeology:crushed_ore_bauxite"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_aluminum"},
+    "create:crushed_raw_aluminum",
+    "immersivegeology:crushed_ore_bauxite"
+)
+e.shapeless(
+  Item.of('immersivegeology:crushed_ore_bauxite', 1), // arg 1: output
+  [
+    'create:raw_aluminum',
+  ]
+)
+
+e.replaceInput(
+    {input: "create:crushed_raw_nickel"},
+    "create:crushed_raw_nickel",
+    "immersivegeology:metal_oxide_nickel"
+)
+e.replaceOutput(
+    {output: "create:crushed_raw_nickel"},
+    "create:crushed_raw_nickel",
+    "immersivegeology:metal_oxide_nickel"
+)
+e.shapeless(
+  Item.of('immersivegeology:metal_oxide_nickel', 1), // arg 1: output
+  [
+    'create:raw_nickel',
+  ]
+)
+
+
 //EUREKA RECIPES
 //####################################################################################
 
+// e.remove({output: 'vs_eureka:balloon'})
 
-e.remove({output: 'vs_eureka:balloon'})
 
+// e.shaped('4x vs_eureka:balloon', [
+//     ' A ', 
+//     'ABA',
+//     ' A '  
+//   ], {
+//     A: 'minecraft:leather', 
+//     B: 'enlightened_end:helium_jar',
+//   }
+// ) 
 
-e.shaped('4x vs_eureka:balloon', [
-    ' A ', 
-    'ABA',
-    ' A '  
-  ], {
-    A: 'minecraft:leather', 
-    B: 'enlightened_end:helium_jar',
-  }
-) 
+// e.shaped('16x vs_eureka:balloon', [
+//     ' A ', 
+//     'ABA',
+//     ' A '  
+//   ], {
+//     A: "minecraft:phantom_membrane", 
+//     B: 'enlightened_end:helium_jar',
+//   }
+// ) 
 
-e.shaped('16x vs_eureka:balloon', [
-    ' A ', 
-    'ABA',
-    ' A '  
-  ], {
-    A: "minecraft:phantom_membrane", 
-    B: 'enlightened_end:helium_jar',
-  }
-) 
+// e.shaped('4x vs_eureka:balloon', [
+//     ' A ', 
+//     'ABA',
+//     ' A '  
+//   ], {
+//     A: "#minecraft:wool", 
+//     B: 'enlightened_end:helium_jar',
+//   }
+// ) 
 
-e.shaped('4x vs_eureka:balloon', [
-    ' A ', 
-    'ABA',
-    ' A '  
-  ], {
-    A: "#minecraft:wool", 
-    B: 'enlightened_end:helium_jar',
-  }
-) 
+// e.remove({ output: "vs_eureka:engine" })
 
-e.remove({ output: "vs_eureka:engine" })
+// e.remove({output: "create_eureka:rotation_engine"})
 
-e.remove({output: "create_eureka:rotation_engine"})
+// e.recipes.create.mechanical_crafting("create_eureka:rotation_engine", [
+//     ' TTT ',
+//     'TRRRT',
+//     'SPFPS',
+//     'TTETT',
+//     ' TTT '
+// ], {
+//     S: "create:shaft",
+//     P: "create:precision_mechanism",
+//     F: "create:flywheel",
+//     R: "create:rose_quartz_lamp",
+//     T: "#forge:plates/steel",
+//     E: "create:electron_tube"
+// })
 
-e.recipes.create.mechanical_crafting("create_eureka:rotation_engine", [
-    ' TTT ',
-    'TRRRT',
-    'SPFPS',
-    'TTETT',
-    ' TTT '
-], {
-    S: "create:shaft",
-    P: "create:precision_mechanism",
-    F: "create:flywheel",
-    R: "create:rose_quartz_lamp",
-    T: "#forge:plates/steel",
-    E: "create:electron_tube"
-})
+// e.replaceInput(
+//     {output: "#vs_eureka:ship_helms"},
+//     "#forge:ingots/gold",
+//     "create:precision_mechanism"
+// )
 
-e.replaceInput(
-    {output: "#vs_eureka:ship_helms"},
-    "#forge:ingots/gold",
-    "create:precision_mechanism"
-)
-
-e.replaceInput(
-    {output: "#vs_eureka:ship_helms"},
-    "#forge:fences/wooden",
-    "immersiveengineering:treated_fence"
-)
+// e.replaceInput(
+//     {output: "#vs_eureka:ship_helms"},
+//     "#forge:fences/wooden",
+//     "immersiveengineering:treated_fence"
+// )
 
 //####################################################################################
 
@@ -142,60 +325,62 @@ e.recipes.create.mechanical_crafting( "cold_sweat:hearth", [
 
 //CRAYFISH GUN MOD RECIPES
 
-e.remove({output: "cgm:missile"})
+// e.remove({output: "cgm:missile"})
 
-e.recipes.create.mechanical_crafting( "cgm:missile", [
-    '  H  ',
-    ' APA ',
-    ' APA ',
-    'AAGAA'
-], {
-    H: "createbigcannons:he_shell",
-    A: "#forge:plates/aluminum",
-    G: "minecraft:gunpowder",
-    P: "minecraft:blaze_powder"
+// e.recipes.create.mechanical_crafting( "cgm:missile", [
+//     '  H  ',
+//     ' APA ',
+//     ' APA ',
+//     'AAGAA'
+// ], {
+//     H: "createbigcannons:he_shell",
+//     A: "#forge:plates/aluminum",
+//     G: "minecraft:gunpowder",
+//     P: "minecraft:blaze_powder"
 
-})
+// })
 
-e.remove({output: "cgm:basic_bullet"})
+// e.remove({output: "cgm:basic_bullet"})
 
-let inter = "kubejs:unfinished_basic_bullet"
+// let inter = "kubejs:unfinished_basic_bullet"
 
-e.recipes.create.sequenced_assembly(['8x cgm:basic_bullet'], "#forge:plates/copper", [
-    e.recipes.createPressing(inter, inter),
-    e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"])
-]).transitionalItem(inter).loops(1)
-
-
-e.remove({output: "cgm:advanced_bullet"})
-
-inter = "kubejs:unfinished_advanced_bullet"
-
-e.recipes.create.sequenced_assembly(['4x cgm:advanced_bullet'], "#forge:plates/brass", [
-    e.recipes.createPressing(inter, inter),
-    e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"])
-]).transitionalItem(inter).loops(1)
+// e.recipes.create.sequenced_assembly(['8x cgm:basic_bullet'], "#forge:plates/copper", [
+//     e.recipes.createPressing(inter, inter),
+//     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"])
+// ]).transitionalItem(inter).loops(1)
 
 
-e.remove({output: "cgm:shell"})
+// e.remove({output: "cgm:advanced_bullet"})
 
-inter = "kubejs:unfinished_shell"
+// inter = "kubejs:unfinished_advanced_bullet"
 
-e.recipes.create.sequenced_assembly(['4x cgm:shell'], "#forge:plates/brass", [
-    e.recipes.createDeploying(inter, [inter, "#forge:ingots/plastic"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"]),
-    e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"]),
-    e.recipes.createPressing(inter, inter)
-]).transitionalItem(inter).loops(1)
+// e.recipes.create.sequenced_assembly(['4x cgm:advanced_bullet'], "#forge:plates/brass", [
+//     e.recipes.createPressing(inter, inter),
+//     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"])
+// ]).transitionalItem(inter).loops(1)
+
+
+// e.remove({output: "cgm:shell"})
+
+// inter = "kubejs:unfinished_shell"
+
+// e.recipes.create.sequenced_assembly(['4x cgm:shell'], "#forge:plates/brass", [
+//     e.recipes.createDeploying(inter, [inter, "#forge:ingots/plastic"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:gunpowder"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"]),
+//     e.recipes.createDeploying(inter, [inter, "#forge:nuggets/lead"]),
+//     e.recipes.createPressing(inter, inter)
+// ]).transitionalItem(inter).loops(1)
 
 //####################################################################################
 
 //CREATE RECIPES
+
+let inter
 
 e.recipes.create.compacting( "minecraft:ice" , "8x minecraft:snow_block")
 

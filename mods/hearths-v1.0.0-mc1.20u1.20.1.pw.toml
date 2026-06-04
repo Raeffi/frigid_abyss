@@ -1,12 +1,12 @@
 name = "v1.0.0 Mod for 1.20-1.20.1"
-filename = "hearths-v1.0.0-mc1.20.jar"
+filename = "Hearths v1.0.5.mod.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/FiDmZpT4/hearths-v1.0.0-mc1.20.jar"
-hash-format = "sha1"
-hash = "f582422732771cfadd7dee022c92829a993f7833"
+url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/tu78cSah/Hearths%20v1.0.5.mod.jar"
+hash-format = "sha512"
+hash = "c30f4444e0e844185b75b91f2375d3897dd969f7b90df63276cc1e7553412333a632f86c7b88f97708ed8862922630170e82b45cd08762f43a7ede2ebbea51c7"
 
 [update]
 [update.modrinth]
 mod-id = "XCIMrYn0"
-version = "FiDmZpT4"
+version = "tu78cSah"

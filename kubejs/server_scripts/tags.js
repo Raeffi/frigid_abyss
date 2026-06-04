@@ -13,6 +13,11 @@ ServerEvents.tags('item', e => {
     e.add("minecraft:coals", "tfmg:coal_coke")
 
     e.add("forge:seeds", "create_bic_bit:sunflower_seeds")
+
+    e.add("forge:ores/aluminum", "zps:bauxite")
+    e.add("forge:ores/aluminum", "genesis:anorthite")
+
+    
 })
 
 //Block Tag events

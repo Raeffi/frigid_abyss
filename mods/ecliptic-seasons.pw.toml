@@ -1,13 +1,13 @@
 name = "Ecliptic Seasons"
-filename = "EclipticSeasons-1.20.1-forge-0.13.0-beta-5-0-1-all.jar"
+filename = "EclipticSeasons-1.20.1-forge-0.13.4.2-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/43aaLplI/EclipticSeasons-1.20.1-forge-0.13.0-beta-5-0-1-all.jar"
+url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/CJZCNIKt/EclipticSeasons-1.20.1-forge-0.13.4.2-all.jar"
 hash-format = "sha512"
-hash = "42791fc7d557f647ad1542d052b569bdeb7126de85a6859b2a07df3b422486809559dbe3ce34f84cb30cb0bf7e13777d4118efda506ef492f977d9d2e0c5ea37"
+hash = "b7cde9b2396539369bfe7b804f0e08e15d82a75d835091eb45d178c116bb9733e91fc67a091778511212923f7c66b678f0e95cc4972a7f1011198bdfc34e37c5"
 
 [update]
 [update.modrinth]
 mod-id = "ofdM7yJE"
-version = "43aaLplI"
+version = "CJZCNIKt"

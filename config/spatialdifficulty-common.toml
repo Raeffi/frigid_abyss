@@ -1,0 +1,7 @@
+#Used in the local difficulty formula. Moderate impact.
+#Range: 1.0 ~ 10.0
+numerator = 8.0
+#Used in the local difficulty formula. Major impact.
+#Range: 1.0 ~ 10.0
+exponent = 3.0
+

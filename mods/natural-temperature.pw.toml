@@ -1,0 +1,13 @@
+name = "Natural Temperature"
+filename = "naturaltemperature-1.1.4-FORGE-MC-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QZt2fevq/versions/QswWM3o2/naturaltemperature-1.1.4-FORGE-MC-1.20.1.jar"
+hash-format = "sha512"
+hash = "453b475e810686bc7ae3ed91e6cb0905fffb3f47435ebb9f4dd6c6f5d3eaab139f0e722c10d7423671f2d3562a32189a7011391dbdd11971af35e652a67a3991"
+
+[update]
+[update.modrinth]
+mod-id = "QZt2fevq"
+version = "QswWM3o2"

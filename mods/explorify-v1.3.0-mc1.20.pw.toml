@@ -1,12 +1,12 @@
 name = "v1.3.0 Mod for 1.20-1.20.4"
-filename = "explorify-v1.4.0.jar"
+filename = "Explorify v1.6.5.mod.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/XfMVshu1/explorify-v1.4.0.jar"
-hash-format = "sha1"
-hash = "dd28a037daff1ba5785a482cd714fffa4fa40765"
+url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/CuBdAr31/Explorify%20v1.6.5.mod.jar"
+hash-format = "sha512"
+hash = "9b22adeb1952ec25856e160b93aaa41934fd41e8d1aef985317cb2c9d64aae1012e134e23f52ba39fac3a98b3309b60f0b55b98a4db4de1731960b998117c83e"
 
 [update]
 [update.modrinth]
 mod-id = "HSfsxuTo"
-version = "XfMVshu1"
+version = "CuBdAr31"
