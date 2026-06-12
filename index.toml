@@ -427,7 +427,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "d6843d39df2a16a7afec0de332aa84b5cf659948982ea7a41a39ee5495b2044f"
+hash = "26cbd5e3519c005fd6d4e83f2a5d53d5f3c62d24149ad8f8e7a2521796abab13"
 hash-format = "sha256"
 
 [[files]]
