@@ -82,7 +82,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/item.toml"
-hash = "2dec66ef14d38b4eee18c8310be2aede090b81450292d54f9fb2d0a2242a71d3"
+hash = "372110a4662bf286d7412892231c1a04bd5af89d699b7d2a7c424ae4d86269cc"
 hash-format = "sha256"
 
 [[files]]
@@ -427,7 +427,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "16172341a47b4373a23b52b960ddca21ee7586651c917c859064c92425122f93"
+hash = "5b6910bfdcc8ace3f50b7102d52178529ddbb1b88c17d050697b63b84ada65ac"
 hash-format = "sha256"
 
 [[files]]
