@@ -427,7 +427,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "26cbd5e3519c005fd6d4e83f2a5d53d5f3c62d24149ad8f8e7a2521796abab13"
+hash = "16172341a47b4373a23b52b960ddca21ee7586651c917c859064c92425122f93"
 hash-format = "sha256"
 
 [[files]]
@@ -1353,11 +1353,6 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/big_lost_city/worldgen/structure/house_3.json"
 hash = "d976e7fc80581c41763cbf53f316fd44d08bc23a91883d645aa0d2d53ef054dd"
-hash-format = "sha256"
-
-[[files]]
-file = "kubejs/data/big_lost_city/worldgen/structure/parkinggarage.json"
-hash = "598e1b5f33ef481aeae89001bceb0d59a3b2a07a5b3810b99a64a26281cb82fc"
 hash-format = "sha256"
 
 [[files]]
