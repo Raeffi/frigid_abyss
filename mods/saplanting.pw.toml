@@ -1,0 +1,13 @@
+name = "Saplanting"
+filename = "saplanting-1.20.1-forge-1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vo4uFiz0/versions/eB58rzJT/saplanting-1.20.1-forge-1.3.1.jar"
+hash-format = "sha512"
+hash = "115899400c6bac50ea83f1e6119daf2e9998cacdbb4ba38925edfe39dd9aa6acf0ffc3f33ada31f5f221544baaa5eb1b1c73c5375d30e16a104ac5f6c7153ef5"
+
+[update]
+[update.modrinth]
+mod-id = "Vo4uFiz0"
+version = "eB58rzJT"

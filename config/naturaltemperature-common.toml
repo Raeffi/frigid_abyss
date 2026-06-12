@@ -32,7 +32,7 @@ extra_bands = true
 wave_magnification = 2.0
 #(Range -1.0 , 1.0 ) These parameters are used to customize some of the modes, 1.0 are very hot zones, -1.0 are very cold zone. 8.0 will randomize the zone
 #Range: -1.0 ~ 8.0
-temperature_zone_1 = -0.5
+temperature_zone_1 = -0.44
 #Range: -1.0 ~ 8.0
 temperature_zone_2 = -0.8
 #Range: -1.0 ~ 8.0
@@ -40,9 +40,9 @@ temperature_zone_3 = -1.0
 #Range: -1.0 ~ 8.0
 temperature_zone_4 = -0.5
 #Range: -1.0 ~ 8.0
-temperature_zone_5 = -0.1
+temperature_zone_5 = 1.0
 #Range: -1.0 ~ 8.0
-temperature_zone_6 = 1.0
+temperature_zone_6 = -1.0
 #(Range -1.0 , 1.0 ) These parameters are used to customize some of the modes, 1.0 are very humid zones, -1.0 are very dry zone. 8.0 will randomize the zone
 #Range: -1.0 ~ 8.0
 humidity_zone_1 = 8.0

@@ -17,7 +17,7 @@ ServerEvents.tags('item', e => {
     e.add("forge:ores/aluminum", "zps:bauxite")
     e.add("forge:ores/aluminum", "genesis:anorthite")
 
-    
+    e.add("forge:nuggets", "create_wizardry:mithril_nugget")
 })
 
 //Block Tag events

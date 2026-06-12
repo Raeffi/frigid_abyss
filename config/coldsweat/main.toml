@@ -2,10 +2,10 @@
 [Builtin]
 	#─────────────────────────────────────────────────────────────────────────
 	# This setting doesn't do anything. Change the difficulty using the in-game menu
-	Difficulty = "normal"
+	Difficulty = "custom"
 	#─────────────────────────────────────────────────────────────────────────
 	# The current version of Cold Sweat. This is used by the auto-updater
-	Version = "2.4-b06c"
+	Version = "2.4.1"
 	#─────────────────────────────────────────────────────────────────────────
 	# Allows Cold Sweat's configs to be automatically updated with new additions & formatting changes
 	"Auto Update" = true
@@ -18,7 +18,7 @@
 	#─────────────────────────────────────────────────────────────────────────
 	# Defines the maximum habitable temperature
 	#Range: -Infinity ~ Infinity
-	"Maximum Habitable Temperature" = 1.619047619047619
+	"Maximum Habitable Temperature" = 1.65
 	#─────────────────────────────────────────────────────────────────────────
 	# Rate at which the player's body temperature changes (default: 1.0 (100%))
 	#Range: 0.0 ~ Infinity

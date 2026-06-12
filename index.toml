@@ -77,17 +77,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/entity.toml"
-hash = "183cef8599b192d2758d91b79a882dfaee4ac49bf9f74438251d9eb843b57e37"
+hash = "7a0b23fa1c5765b72c115148d25885b2d5fa183ca2c220fd7ac8f34db540e503"
+hash-format = "sha256"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "2dec66ef14d38b4eee18c8310be2aede090b81450292d54f9fb2d0a2242a71d3"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "a0b980a4a617d52d36ba534088ab43507b62fc26482c351ac4c3c8a5eb4a4683"
+hash = "8375f32f8d97cbb041a59d2c040d3601bc6900eecaf9aafb85d7dadf2b7d56fa"
 hash-format = "sha256"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "c255db88069fa390410f6f668cc41fd873751d8c9f08f179ee60e6a22da19c26"
+hash = "9a19a9fc963ec4fa3a4ef440beeede3babfc9e1564cd6cb657173b39b02aaaf0"
 hash-format = "sha256"
 
 [[files]]
@@ -182,17 +187,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "fd31567a23c2d0a31324b625c2c2cbb9d57c9525be69a6e97f96b7ae94b596e9"
+hash = "685d9cc69cfd5e15fc3d63b6988b89e207b5c8dd43c2bc80eefbf9049a444abc"
 hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "842111fa2bddb1919550ef326008491549db6f5f041c5737de545ff51c906e56"
+hash = "98c12526d367aae56be0c17d216d182aa3c921b7163cae3f5c989d56a2f6cd24"
 hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "c8949b81070bdf3a62d31ac46e613139159b82d400492446e2fd25256401d4b8"
+hash = "9b93648326fc6728bd848517d9a6451522b14a9caa0a6a75b2f869e4fcc80397"
 hash-format = "sha256"
 
 [[files]]
@@ -202,17 +207,52 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "f63cdebba858c61bc79cfbf269ef41a2c86bb6f1f5eead2a2cac24faf8bd5534"
+hash = "de500848f0d48ceab627417e152b3867cb277347aef4aeb4c37368c0cd097991"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
 hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
 hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 hash-format = "sha256"
 
 [[files]]
@@ -387,7 +427,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "b4c80a8f7f9d8511c4f261f6a6c77b39a6387d28b89c5d29314d896a05b91eb0"
+hash = "d6843d39df2a16a7afec0de332aa84b5cf659948982ea7a41a39ee5495b2044f"
 hash-format = "sha256"
 
 [[files]]
@@ -418,6 +458,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
+hash-format = "sha256"
+
+[[files]]
+file = "config/scguns-common.toml"
+hash = "b5af18fb1ac421938d9dff6f3726d9416bf9c63cde348b7d76dbf6d5afd0a9fe"
 hash-format = "sha256"
 
 [[files]]
@@ -593,11 +638,6 @@ hash-format = "sha256"
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "3e3b5ef8277d11a128cc51f2841bce51f1f8f10e9393443d4a5f282d069e2136"
-hash-format = "sha256"
-
-[[files]]
-file = "defaultconfigs/immersivegeology-server.toml"
-hash = "63c874fcb189263dc47614dd2e8f5eeba7c8baa2968b1ba6d0636db72835b242"
 hash-format = "sha256"
 
 [[files]]
@@ -1893,11 +1933,6 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/cataclysm/worldgen/template_pool_disabled/desert_site/start_pool.json"
 hash = "531a8ba084a6c8f3e185f7c33410abc3b2c35e91c2a6c02642a021d1d0bc69b7"
-hash-format = "sha256"
-
-[[files]]
-file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
-hash = "36afc2682560667414e29ebbb38535bc66cfa433b6c75059c52bb41b4aea6ad8"
 hash-format = "sha256"
 
 [[files]]
@@ -4301,43 +4336,43 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/blockstatefixer.js.disabled"
+file = "kubejs/server_scripts/blockstate/blockstatefixer.js.disabled"
 hash = "a1cc3d4984f259401f833ee630ad239c0d384f6d3340da096374042cfc32148b"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/blockstateupdater.js"
+file = "kubejs/server_scripts/blockstate/blockstateupdater.js"
 hash = "2536f676abb00b4f106efb829f1e42a6d801c0a44dde864b02fc664d0276ee44"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/blockstateupdater_old.js.disabled"
+file = "kubejs/server_scripts/blockstate/blockstateupdater_old.js.disabled"
 hash = "83981c0bdd6734d58c505bcbec44fafd0b6029b99c92aa415dd00ef1b7a5216b"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat_blocks.js"
+file = "kubejs/server_scripts/coldsweat/coldsweat_blocks.js"
 hash = "bf3ecd48c079be5ed087207865bfbdd15c481a761f726fe7b48bd97052f62bc4"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat_food.js"
+file = "kubejs/server_scripts/coldsweat/coldsweat_food.js"
 hash = "0e7d1f50c220f23673b542dbd5d4b1bb5ea9d1eff7c2723df2a235c68f124c5f"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat_fuel.js"
+file = "kubejs/server_scripts/coldsweat/coldsweat_fuel.js"
 hash = "08d89dc12ee70e791a338ad5c782047e9e8ed8d604ef1989e4748c218a937a6d"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat_items.js"
+file = "kubejs/server_scripts/coldsweat/coldsweat_items.js"
 hash = "817620d18d0562ea3aa12272a838cba51947bb02072aaa04a9a2ac0a61c044ac"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/coldsweat_world.js"
-hash = "5b103b5b2cda72824bf21fa1e684063066c9bf223804312cf3425aee073f28f8"
+file = "kubejs/server_scripts/coldsweat/coldsweat_world.js"
+hash = "8baafa5e3f72e2473fb46960af69e17b9e87e16d471dbd14ea2fe5d584b1d070"
 hash-format = "sha256"
 
 [[files]]
@@ -4346,23 +4381,73 @@ hash = "406e2a7e7ef215521f2f3c8c01b7b31a1f6ea4b8cf99f9d17d581d1b793bf87d"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/example_recipes.js"
+file = "kubejs/server_scripts/loot/blockloot.js"
+hash = "0812b5a4a259d6fa241482bbafd0a5b27bb4539d1b6a500f39d9180fd370e302"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/car_recipes.js"
+hash = "0d466d26169d9e04eb4f397e95d6cdd3347f10bf02b45cd76108cf5eb112dbbf"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/coldsweat_recipes.js"
+hash = "ab70ca683daf8e670ab1103d36632a1f308bc38a27d449ce947978646351992d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/computer_recipes.js"
+hash = "2f6315ac7aa8f792f8d6a443d5c0a3a829a4ea5aa3fd008ef9d82dcb1b300ff9"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/creat_recipes.js"
+hash = "38132a68b94b49fc7fee3d6544f3ccaba8eb9d2c5669a238fc367ab611d0adf2"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/example_recipes.js"
 hash = "7cc006da5e6185d03be52b8e3b663a81414bbf9df541e07cf3b552929c27703f"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "b32d2f0d96f31f978dd7da7cdb1fc6d9bec44d47bce7561204a95a236abcee26"
+file = "kubejs/server_scripts/recipes/general_recipes.js"
+hash = "429e501630f2b09b6039beb39fb1d0b266ba4d8bb195a613bf0fbf820f1e2b06"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/immersive_recipes.js"
+hash = "ed94fbd6ac4b44e46848a2a866a99d882985f24701ec8bb4b96c1fa52b3fd967"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mediaplayer_recipes.js"
+hash = "07f143870653518ad7534e2abf20027b9b6d36ac2ed0007aebc5fb74af5108e1"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/ore_recipes.js"
+hash = "6202af76e3ba7fb07401b7964874b408be9527851a3301c5a50ef474beeb4ea5"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/pneumatic_recipes.js"
+hash = "ad6fc73bd8bc9c422240d69494152c294851f099f854dffaa9a799ac20f881fd"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tomsstorage_recipes.js"
+hash = "0dc424436c37528543b1ba62411fe1708f53882ac6e3a9a3805393f2e39da1b8"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/starterkit.js"
-hash = "2084b8508dbd10d0710f3467976438d3e491c0f5bef2a8134d289c0e5e3e9d62"
+hash = "727dc93b7d58394f69708c592d19f2b91b5b4b0c6678c26bf9118fde6b1d3ba7"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "108cbc87eecd6eb3330604841aa0e17d48e09de435ee26a6dd52fb93588132f0"
+hash = "3b66f0eecb3134190afa01e15e550e883e0363712717b5d4c33963f83498e2fa"
 hash-format = "sha256"
 
 [[files]]
@@ -4378,6 +4463,11 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/startup_scripts/customitems.js"
 hash = "26b5056a5718b27d3c46d07ffc715c5e3388896161e741d5cb1f95c067b38360"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/startup_scripts/jade/jade.js"
+hash = "e76704c74dfd61308469332db3ea941a9b578178a2042c22ea3e20e9529d3e17"
 hash-format = "sha256"
 
 [[files]]
@@ -4855,12 +4945,6 @@ metafile = true
 file = "mods/atlas-fix.pw.toml.disabled"
 hash = "19d5b649714d1205a229e64d94fd152bcceddf74138a6d641b259611117dbcf9"
 hash-format = "sha256"
-
-[[files]]
-file = "mods/autosaplins.pw.toml"
-hash = "7f23339cfef90863aff2015e24517ade8807c0c44ef12e9a28c281225e39c3b6"
-hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -5934,24 +6018,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "6c6893267694003c8fc8a2c1a89e961d28add27991a26b60abedda1eafb0eb57"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/funky-flora.pw.toml"
 hash = "7250b2abfe700bc02261b2e7cf6f644487cf3aca7e0c3112fc32d10adee2579d"
 hash-format = "sha256"
@@ -6731,10 +6797,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/oceanus.pw.toml"
+file = "mods/oceanus.pw.toml.disabled"
 hash = "459aed9d8d741453ff709b87ef7fcb6898e87bc9c0189c5520066928133a72ac"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/oculus-unofficial.pw.toml"
@@ -6945,6 +7010,12 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "3a759e3b7d39a8b2a2074c15cdcb56ef755570db9e931b88da09fdbb7d1c519d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/saplanting.pw.toml"
+hash = "3fd9d3cae12326ac693bbb1f16ae17fa17e6d0ca1d267334526af8926a940b65"
 hash-format = "sha256"
 metafile = true
 
@@ -7598,12 +7669,6 @@ metafile = true
 [[files]]
 file = "mods/world-preview.pw.toml"
 hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "75f919474c56d48d70e8371067ee9bfaa47d2c06876937099108692e943cd404"
 hash-format = "sha256"
 metafile = true
 

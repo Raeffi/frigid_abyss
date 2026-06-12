@@ -14,12 +14,19 @@ ColdSweatEvents.registries(e => {
         )
     }
 
-    let addBiomeTemperature = (maxTemp, minTemp, biome, units) => {
+    let addBiomeTemperature = (maxTemp, minTemp, biome, units, waterTemp) => {
         if (units == null) units = "mc"
-        let waterTemp = (minTemp + maxTemp) / 2 - 10
-        e["addBiomeTemperature(double,double,java.lang.String,java.lang.String[],double)"](
-            minTemp, maxTemp, units, [biome], waterTemp
-        )
+        if (waterTemp == null){
+            e["addBiomeTemperature(double,double,java.lang.String,java.lang.String[])"](
+                minTemp, maxTemp, units, [biome]
+            )
+        }
+        else
+        {
+            e["addBiomeTemperature(double,double,java.lang.String,java.lang.String[],double)"](
+                minTemp, maxTemp, units, [biome], waterTemp
+            )
+        }
     }
 
     addDimensionTemperature(-60,-60,"genesis:great_unknown","C")
@@ -88,6 +95,7 @@ ColdSweatEvents.registries(e => {
     addBiomeTemperature(82,95,"biomesoplenty:volcanic_plains","F")
     addBiomeTemperature(94,120,"biomesoplenty:volcano","F")
     addBiomeTemperature(78,95,"biomesoplenty:wooded_wasteland","F")
+    addBiomeTemperature(44,62,"biomesoplenty:hot_springs","F")
 
     addBiomeTemperature(-15,50,"sgjourney:cavum_tenebrae_shattered_crust","C")
 
