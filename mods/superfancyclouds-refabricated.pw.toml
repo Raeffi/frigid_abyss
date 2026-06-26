@@ -1,0 +1,13 @@
+name = "SuperFancyClouds: Refabricated"
+filename = "sfcr-1.8.1.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hoop89kN/versions/90jqJFWP/sfcr-1.8.1.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "6aac3fc1bca857d3d9a483d42243deeacc74c464cf2d6a80171f879818dbc43cee22a60dc1ea4f72fc016a6d4e23d55b4d1fae718a221dfe90ace99ded3f2e77"
+
+[update]
+[update.modrinth]
+mod-id = "Hoop89kN"
+version = "90jqJFWP"

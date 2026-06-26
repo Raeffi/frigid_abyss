@@ -17,7 +17,8 @@ PlayerEvents.loggedIn(e => {
             p.give(Item.of("farmersdelight:hot_cocoa", 10));
             p.give(Item.of('patchouli:guide_book', '{"patchouli:book": "patchouli:frigid_abyss_guidebook"}'));
             // p.give(Item.of("immersiveengineering:hammer", {Damage:100}, 1));
-            p.give(Item.of("minecraft:lantern", {Damage:100}, 1));
+            p.give(Item.of("minecraft:lantern", 1));
+            p.give(Item.of("immersivegeology:prospector_kit", 1));
         });
     }
 });

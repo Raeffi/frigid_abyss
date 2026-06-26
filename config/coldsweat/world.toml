@@ -105,7 +105,7 @@
 	"Sleep Check Override Blocks" = []
 	#─────────────────────────────────────────────────────────────────────────
 	# When set to true, players cannot sleep if they are cold or hot enough to die
-	"Check Sleeping Conditions" = true
+	"Check Sleeping Conditions" = false
 	#─────────────────────────────────────────────────────────────────────────
 	# Converts damage dealt by Soul Fire to cold damage (default: true)
 	# Does not affect the block's temperature

@@ -7,7 +7,8 @@
 				"Couldn't find Direction BlockPos",
 				"moved while colliding with unloaded ships!",
 				"controller, but no keyframe handler registered",
-				"java.lang.IllegalStateException: shipObjectWorld is null"
+				"java.lang.IllegalStateException: shipObjectWorld is null",
+				"Suppressed: java.lang.IllegalStateException: Unreferenced key:"
 			]
 	regex = [	"Error rendering overlay",
 				"Detected setBlock in a far chunk",
@@ -16,5 +17,6 @@
 				"Missing textures in model","Couldn't find Direction BlockPos",
 				"moved while colliding with unloaded ships!",
 				"controller, but no keyframe handler registered",
-				"java.lang.IllegalStateException: shipObjectWorld is null"]
+				"java.lang.IllegalStateException: shipObjectWorld is null",
+				"Suppressed: java.lang.IllegalStateException: Unreferenced key:"]
 

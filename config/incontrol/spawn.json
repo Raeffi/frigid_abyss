@@ -1,5 +1,6 @@
 [
     {
+        "dimension": "minecraft:overworld",
         "mob": ["undead_revamp2:bomber",
                 "undead_revamp2:clogger",
                 "undead_revamp2:invisiclogger",
@@ -21,6 +22,7 @@
         "result": "deny"
     },
     {
+        "dimension": "minecraft:overworld",
         "mob": ["undead_revamp2:invisiimmortal",
                 "undead_revamp2:the_bidy",
                 "undead_revamp2:thebidyupside",
@@ -38,6 +40,7 @@
         "result": "deny"
     },
     {
+        "dimension": "minecraft:overworld",
         "mob": ["undead_revamp2:the_moonflower",
                 "undead_revamp2:the_somnolence",
                 "undead_revamp2:thegliter",
@@ -50,6 +53,7 @@
         "result": "deny"
     },
     {
+        "dimension": "minecraft:overworld",
         "mob": ["undead_revamp2:bomber",
                 "undead_revamp2:clogger",
                 "undead_revamp2:invisiclogger",
@@ -112,6 +116,17 @@
                 "undead_revamp2:thehunter",
                 "undead_revamp2:invisiblebidy"],
         "random": 0.9,
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": ["mutantszombies:blister_zombie",
+                "mutantszombies:crawler",
+                "mutantszombies:mutant_brute",
+                "mutantszombies:rotten_mutant",
+                "mutantszombies:spitter",
+                "mutantszombies:split_head_zombie",
+                "mutantszombies:zombie_brute"],
         "result": "deny"
     },
     {

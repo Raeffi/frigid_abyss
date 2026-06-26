@@ -1,0 +1,13 @@
+name = "FeatureJS"
+filename = "featurejs-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70d7dce4b7111cba8d38a4b63b75b7bdbc6c8e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6007071
+project-id = 1161660

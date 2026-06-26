@@ -18,15 +18,15 @@
     "spaghetti_enabled": true
   },
   "continents": {
-    "continents_scale": 0.10,
-    "erosion_scale": 0.35,
-    "flat_terrain_skew": -0.1,
+    "continents_scale": 0.13,
+    "erosion_scale": 0.25,
+    "flat_terrain_skew": 0.1,
     "jungle_pillars": true,
-    "ocean_offset": -0.9,
-    "ridge_scale": 0.3,
+    "ocean_offset": -0.8,
+    "ridge_scale": 0.25,
     "river_lanterns": true,
     "rolling_hills": true,
-    "underground_rivers": true
+    "underground_rivers": false
   },
   "general": {
     "mod_enabled": true,
@@ -38,7 +38,7 @@
     "max_y": 320,
     "min_y": -64,
     "ultrasmooth": false,
-    "vertical_scale": 1.13
+    "vertical_scale": 1.125
   },
   "islands": {
     "enabled": true,
@@ -48,9 +48,9 @@
   },
   "minor_version": 1,
   "oceans": {
-    "deep_ocean_depth": -1.0,
+    "deep_ocean_depth": -0.45,
     "monument_offset": -30,
-    "ocean_depth": -0.30,
+    "ocean_depth": -0.22,
     "remove_frozen_ocean_ice": false
   }
 }
