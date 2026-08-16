@@ -6,7 +6,13 @@
   "Shell settings": {},
   "comment_structure_blacklist": "Supports: full id, namespace.*, *, #namespace:tag",
   "Structure blacklist": [
-    "minecraft.*",
+    "minecraft:mineshaft",
+    "minecraft:end_city",
+    "minecraft:stronghold",
+    "minecraft:shipwreck",
+    "minecraft:nether_fossil",
+    "minecraft:mineshaft_mesa",
+    "minecraft:ancient_city",
     "aquamirae:ice_maze/arch",
     "aquamirae:ice_maze/common",
     "aquamirae:ice_maze/spiral",
@@ -64,11 +70,24 @@
     "kaisyn:ships/village_ocean/pieces/small_ship/small_ship_3",
     "kaisyn:ships/village_ocean/pieces/small_ship/small_ship_4",
     "kaisyn:ships/wreckage_ocean/wreckage_1",
-    "towns_and_towers:village_ocean"
+    "towns_and_towers:village_ocean",
+    "valhelsia_structures:deep_spawner_room",
+    "philipsbiomefeatures.*",
+    "minecraft:ocean_ruin_cold",
+    "minecraft:ocean_ruin_warm",
+    "minecraft:buried_treasure",
+    "minecraft:igloo",
+    "minecraft:shipwreck_beached",
+    "minecraft:ruined_portal_ocean",
+    "minecraft:ruined_portal_swamp",
+    "hopo:underwater/underwater_fossils",
+    "valhelsia_structures:spawner_dungeon",
+    "valhelsia_structures:spawner_room",
+    "genesis:crater"
+    
   ],
   "comment_foundation_blacklist": "Supports: full id, namespace.*, *, #namespace:tag",
   "Foundation blacklist": [
-    "minecraft.*"
   ],
   "comment_auto": "Below list contains real structure template files (.nbt). Do not edit.",
   "Template file list": [

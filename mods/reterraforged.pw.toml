@@ -1,0 +1,7 @@
+name = "reterraforged"
+filename = "reterraforged-0.0.6-forge-1.20.1.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/5c27xbrna4863qth9hnko/reterraforged-0.0.6-forge-1.20.1.jar?rlkey=fyb1588rk5ahh4m4axrk26yjw&st=ftkpspjf&dl=1"
+hash-format = "sha256"
+hash = "cca4f8651b349738726f73eff53689ecc363a1d27096601557cf059fc9a7b681"

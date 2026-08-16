@@ -38,6 +38,10 @@ ServerEvents.tags('fluid', e => {
 })
 
 ServerEvents.tags('worldgen/biome', e => {
+
+    e.add("minecraft:is_beach", "minecraft:stony_shore")
+    e.add("minecraft:is_beach", "biomesoplenty:dune_beach")
+
     e.add("finitewater:has_infinite_water", "minecraft:river")
     e.add("finitewater:has_infinite_water", "minecraft:frozen_river")
 

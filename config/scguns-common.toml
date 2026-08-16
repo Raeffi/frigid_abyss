@@ -232,7 +232,7 @@
 	#Mini-Raid Configuration
 	[common.raids]
 		#If enabled, mini-raids can spawn at night based on player progression.
-		raidsEnabled = true
+		raidsEnabled = false
 		#Chance each night for a raid to spawn near a valid player (0.0 = never, 1.0 = always).
 		#Set to 0.0 to effectively disable raids without turning off the system entirely.
 		#Range: 0.0 ~ 1.0

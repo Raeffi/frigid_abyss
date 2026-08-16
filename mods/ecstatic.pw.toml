@@ -1,0 +1,13 @@
+name = "Ecstatic"
+filename = "ecstatic-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "491e37a696a275cdb33d7362cbeb8c6b60ce02ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8656501
+project-id = 1602940

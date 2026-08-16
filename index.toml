@@ -2,7 +2,7 @@ hash-format = "sha512"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ff392e9b83d8d0b8e60ccb744b765daa53d7c509944807e1f24562300b99fc1e"
+hash = "a838dc3b7224fdf95da28d2eb153a1d257683a91aa5d2e9b20a4ed5a959b8800"
 hash-format = "sha256"
 
 [[files]]
@@ -27,12 +27,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "dc58d46d655b3973bcb8041ed6671b01d266d1581623e6bd01ca972fb224a957"
+hash = "f966847c2dd2c163d9534e8f32bc8bd32e051914a0a98ea22fa3479acc087689"
 hash-format = "sha256"
 
 [[files]]
 file = "config/biomesoplenty/biome_toggles.json"
-hash = "e7ce0705a82e02fe549acceeb00f72ef42ba8dbe4a4a15e86231538c9843cad3"
+hash = "149c57632a9a870097854d8bbf0218cdf90b77e64f74be29991464f953f3aa6a"
 hash-format = "sha256"
 
 [[files]]
@@ -67,7 +67,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "8c69bc4dbb0c333586cb73c9ced1d3fe7960fd2bbbfb7b252ae61dffd6040fb2"
+hash = "2af44a7e9fe797d8e8841643ba94ca2c768a02119a688aa3cdc0c5ec5348a7c8"
 hash-format = "sha256"
 
 [[files]]
@@ -143,6 +143,11 @@ hash-format = "sha256"
 [[files]]
 file = "config/dynamicwaters-common.toml"
 hash = "020af34d3fadf499480a56be672a45fae25b7ab7ad011acbaa521c2faa202fd6"
+hash-format = "sha256"
+
+[[files]]
+file = "config/eclipticseasons-common.toml"
+hash = "ffbed3bb34f0f198fe01a733009c6cf68307b44df7316f5eb3ff16a870081583"
 hash-format = "sha256"
 
 [[files]]
@@ -472,7 +477,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "b5af18fb1ac421938d9dff6f3726d9416bf9c63cde348b7d76dbf6d5afd0a9fe"
+hash = "39d92229fb733c19e35333949b4d6b098ca13206a75fa75fa16f94d95b796fc7"
 hash-format = "sha256"
 
 [[files]]
@@ -517,7 +522,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/structure_generation_improver.json"
-hash = "09faf90f4ee669c33daadd31d5ec66ac9235d4d46ba83b517825a753eaf7aecb"
+hash = "a1dc054dd3a1a5694db93c2cf9b07ac226bbca0ac6f8d6100fc8b595fad119a9"
 hash-format = "sha256"
 
 [[files]]
@@ -1207,7 +1212,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/aquamirae/worldgen/structure/shelter.json"
-hash = "fc9e74debb49207dc1ff3667a8801770d520bb8a01ae0df103ab56857825b5c8"
+hash = "8b4d669b90349648dd0ab9fdddf19c621f5a3775531135adb3a2b32aff95b84e"
 hash-format = "sha256"
 
 [[files]]
@@ -1217,7 +1222,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/aquamirae/worldgen/structure_set/ice_maze.json"
-hash = "471183f82df28c41ae8453353ca58ee25cf413772af434c74b44a6ffacc3a9ba"
+hash = "9ff01a23858f33bf1ec58dc8ae4e0635c17ffd943e3870f3f5e3ecbd986ebc7d"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure_set/outpost.json"
+hash = "932300ea7037dd54813cd41f45ae1e91cf01cd0cd41629bb47844b0d5d7692e3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure_set/shelter.json"
+hash = "e5dc7c4d4c6ebe40e6e2bb7fafe6e7ef57c9ba9a2bac6e19c539e8194038f2cc"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/aquamirae/worldgen/structure_set/ship.json"
+hash = "7dee41552c729f94919e45189d0a65fc0deb88d4f16e5a2a87769d2344500305"
 hash-format = "sha256"
 
 [[files]]
@@ -2067,12 +2087,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/dungeons_enhanced/worldgen/structure/fishing_ship.json"
-hash = "d62a948592b6580215085fc1aaf3ac2087a0f130822b575cbc486cc55285ee7e"
+hash = "65a0901c70a289bce9b7678c54ecb6f90591267aba2a9813c1aeee824bb2425c"
 hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/dungeons_enhanced/worldgen/structure/pirate_ship.json"
-hash = "a2f7dd1cd64dc5e67dfb9c61e42653325105cfd7f81bdc7663fca4d9085e9fac"
+hash = "87780ba06827ae85fb869e52c5f9b0d6f615e3ba17d5035961f3f4d9ada1b4b5"
 hash-format = "sha256"
 
 [[files]]
@@ -3161,11 +3181,6 @@ hash = "145861df8bc373c2993b7620c6e3c965ba65a2ec276a19e83e7bdd33c86019cd"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/lostcities/dimension/lostcity.json"
-hash = "00529334a55e9b9ae68240cd03d9be51bb5cbbb429a70e5d61ded40d890c20db"
-hash-format = "sha256"
-
-[[files]]
 file = "kubejs/data/lostcities/dimension_type/lostcity.json"
 hash = "9d8cc6039e5f26888a503a46fc04dca3ee83cee1bb24047039a96d38a9e74134"
 hash-format = "sha256"
@@ -3311,6 +3326,16 @@ hash = "dab4b2e31912174924f2fb85554b4f8a22527ce889acbde70df692466f767254"
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/biome/frozen_ocean.json"
+hash = "33114696cb753c60dc90b484a9df36b393c5faff344864b3e057a37c989156a3"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/frozen_river.json"
+hash = "b55714f32e460ec5b90c7be0770f69658273b0fd4be87c9cfa496ff6a96cb48c"
+hash-format = "sha256"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/biome/grove.json"
 hash = "bb22a894baaa4445eb29a792adf2a791df78a3b9793a29fd978c878901cdd3b9"
 hash-format = "sha256"
@@ -3343,6 +3368,11 @@ hash-format = "sha256"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/biome/seasonal_forest.json"
 hash = "7934b439f2c85f12759659b6aca2b1b9b4d430ab5197c6869ca61804dd1e9486"
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/snowy_beach.json"
+hash = "94160257d99b21812dd6459d3fa699155ed2020f71156ff23825025587460ed7"
 hash-format = "sha256"
 
 [[files]]
@@ -3561,12 +3591,12 @@ hash = "0e224920285b7c91fa0ac1c2f798345691d08d1362a26a84a55d9ff9649c6614"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/density_function/overworld/factor.json"
+file = "kubejs/data/minecraft/worldgen/density_function_disabled/overworld/factor.json"
 hash = "71b629f49d65e24f43354f734f7e57cd549d67978be0656b02cf96185942993e"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/density_function/overworld/offset.json"
+file = "kubejs/data/minecraft/worldgen/density_function_disabled/overworld/offset.json"
 hash = "f42547408e9cbb5eae10ff7bf5c5b870fbf35af232ae7d3b7a52585a82a19eec"
 hash-format = "sha256"
 
@@ -4477,7 +4507,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "3b66f0eecb3134190afa01e15e550e883e0363712717b5d4c33963f83498e2fa"
+hash = "92b101254af508da80931b2f585702d2799853664f262ac5549ce70fe071b13a"
 hash-format = "sha256"
 
 [[files]]
@@ -4612,10 +4642,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons.pw.toml"
+file = "mods/DistantHorizons.pw.toml.disabled"
 hash = "ec0e5be063949a50b5eb473a98ba78f45c71d05e8526a18e5023cdf6bba54b29"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/EasyAnvils-v8.0.2-1.20.1-Forge.pw.toml"
@@ -5820,6 +5849,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ecstatic.pw.toml"
+hash = "ede98af77957332656a9c7b0c2c93e7c6d517b6841f636881011e637c23b4fff"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/elytraslot-forge-6.3.0_1.20.1.pw.toml"
 hash = "0904c3581b98843e25bcbc9ec856351ad5705115189d60edb76a81dce72c7031"
 hash-format = "sha256"
@@ -7010,6 +7045,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/reterraforged.pw.toml"
+hash = "073ad705d0f7976e5555434d0e74326f81c260ae7d3eac56d9a5e4e93299ca30"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 hash-format = "sha256"
@@ -7211,6 +7252,12 @@ hash = "9efd40a139a9a8db0d39653aae71db9aecc336c733ad0b7e7caee9473e10a70c"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/storagedelight-1.0.2-1.20.1-forge.pw.toml"
 hash = "551986b2da492b5729bbd6857366702f2cf73fa3e5a3f0be680ccff9a63e1389"
 hash-format = "sha256"
@@ -7219,6 +7266,12 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/structure-generation-improver-(sgi-foundations!).pw.toml"
+hash = "e7f896a63e1fa2647b2088fa9271e6f1ef754253c584335016f18c412e5feba8"
 hash-format = "sha256"
 metafile = true
 
@@ -7730,7 +7783,7 @@ metafile = true
 
 [[files]]
 file = "mods/zps.pw.toml"
-hash = "ef40cea227ef213525c03bcaefcfeb38f996860ed1e92881475a6ab1c63cafd4"
+hash = "2156c76a8bf6d33189ba97b2682187bce5ab6e8e7edcdf89a492d275d6260471"
 hash-format = "sha256"
 metafile = true
 
