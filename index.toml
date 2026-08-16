@@ -3776,16 +3776,6 @@ hash = "293ae29829a38e957ad7b48ee4957ae42d0ed3ba5a4f1cd5b5340e69861c06c2"
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/oceanus/worldgen/density_function/vanilla/overworld/continents.json"
-hash = "bdba452f9e387245d247686df3c0a1efa5a0d805314378f19c1c11507b163b51"
-hash-format = "sha256"
-
-[[files]]
-file = "kubejs/data/oceanus/worldgen/density_function/vanilla/overworld_large_biomes/continents.json"
-hash = "b57b19c320d227f2f8907bdfeca3a5c8722bf581f8b2adc117129428e45acddb"
-hash-format = "sha256"
-
-[[files]]
 file = "kubejs/data/restrictedportals/advancements/end.json"
 hash = "2e5504ea3c667ad3e9024d81debdc19e6c772825f892164ca61404f1943e6d24"
 hash-format = "sha256"
@@ -5850,7 +5840,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecstatic.pw.toml"
-hash = "ede98af77957332656a9c7b0c2c93e7c6d517b6841f636881011e637c23b4fff"
+hash = "c6c428d6f9b32397662afd53782f059066bbc344e21bb743b6878d046fc1624f"
 hash-format = "sha256"
 metafile = true
 
@@ -6886,7 +6876,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "54376a2e67fdd97cee71042aba6fd7c870c46611e68c06ce2ab12182c2543036"
+hash = "d8cb63e186e8e83fc2b188fd9705698ac7e7522c0fd5c720616b66796a55b5a8"
 hash-format = "sha256"
 metafile = true
 
@@ -7724,12 +7714,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "4d949b696cb80dea8ffa799fae89b3d20b62503386e8e4067224689f79b7b695"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/world-pre-generator.pw.toml"
-hash = "dc221d04e1c85980af3836c43c5f3620a92c933755fab67cd981835324b74398"
 hash-format = "sha256"
 metafile = true
 
