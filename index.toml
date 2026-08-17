@@ -4632,9 +4632,10 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons.pw.toml.disabled"
+file = "mods/DistantHorizons.pw.toml"
 hash = "ec0e5be063949a50b5eb473a98ba78f45c71d05e8526a18e5023cdf6bba54b29"
 hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/EasyAnvils-v8.0.2-1.20.1-Forge.pw.toml"
