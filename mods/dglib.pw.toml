@@ -1,13 +1,13 @@
 name = "DGLib"
-filename = "dglib-alpha_1.6.jar"
+filename = "dglib-alpha_1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a96351776a501a54f87aac5bf6227868cce7be48"
+hash = "883191ccf139c842399fa8bded9d87df4da00592"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8723668
+file-id = 7724725
 project-id = 1452161

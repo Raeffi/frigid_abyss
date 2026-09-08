@@ -1,6 +1,6 @@
 name = "Structure Voidable"
 filename = "structurevoidable-forge-1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3URi5PhQ/versions/OYhF4bvS/structurevoidable-forge-1.0.2.jar"

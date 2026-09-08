@@ -5155,11 +5155,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/c2mef.pw.toml.disabled"
-hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/caelus-forge-3.1.0_1.20.pw.toml"
 hash = "f016231fd7f7e78f123cdc51d7e51472059159a50e400e818931c2400e02e7df"
 hash-format = "sha256"
@@ -5778,7 +5773,7 @@ metafile = true
 
 [[files]]
 file = "mods/dglib.pw.toml"
-hash = "4dcc8a230c612bd96b590252f3dc2163df359ace579994f183ae04048d60a844"
+hash = "2814e499ba7f657b213f84884795a845988a9ee45db35749d93032df08dd09c8"
 hash-format = "sha256"
 metafile = true
 
@@ -7338,7 +7333,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurevoidable.pw.toml"
-hash = "2eeeb1991c8fc79a09b62f53d26c42897d0bb43b035b47790b0f1d846ad229c5"
+hash = "d66d3458ae68e6f6b3a685211ce5109c3c2f56341f748a2dc1f79da3236e97fc"
 hash-format = "sha256"
 metafile = true
 
@@ -7789,10 +7784,9 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/xaero-map-regions.pw.toml"
+file = "mods/xaero-map-regions.pw.toml.disabled"
 hash = "b2b9deb173df4779f52713a0e1c5aa9da4237ba7cc8abefe372327f2f4aa9c15"
 hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/xaeros-maps-multiplayer-plus.pw.toml"
