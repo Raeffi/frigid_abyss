@@ -1,6 +1,6 @@
 name = "Forgiving Void"
 filename = "forgivingvoid-forge-1.20.1-10.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/LTxlZnFp/forgivingvoid-forge-1.20.1-10.0.3.jar"

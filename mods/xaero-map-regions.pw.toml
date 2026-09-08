@@ -1,0 +1,13 @@
+name = "Xaero Map Regions"
+filename = "xaeroregions-forge-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1PguXp5G/versions/b1BmmD9W/xaeroregions-forge-1.20.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "fe04673ea2fdcdeaa6520d4079e72eadcc13e21228dba5018f02818cc702f8b0120acb18c45b3f1f4cde5a05acc9b316447a688bac89f156b137fa69c277dc1b"
+
+[update]
+[update.modrinth]
+mod-id = "1PguXp5G"
+version = "b1BmmD9W"

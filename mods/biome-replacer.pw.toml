@@ -1,6 +1,6 @@
 name = "Biome Replacer"
 filename = "biomereplacer-3.1-hippo-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IMe3VHy4/biomereplacer-3.1-hippo-forge.jar"

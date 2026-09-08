@@ -1,6 +1,6 @@
 name = "Companion 🐕"
 filename = "Companion-1.20.1-Forge-5.3.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/gOLcgv0z/Companion-1.20.1-Forge-5.3.1.jar"

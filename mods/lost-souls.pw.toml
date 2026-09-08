@@ -1,6 +1,6 @@
 name = "Lost Souls"
 filename = "lostsouls-1.20-4.1.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3Unrx5yh/versions/bKQM8Qaf/lostsouls-1.20-4.1.6.jar"

@@ -11,3 +11,8 @@ hash = "cae9989274f6b84af38f7cbda33dc3e0725e66c608d504b897443714125f2c460550ed85
 [update.modrinth]
 mod-id = "YS3ZignI"
 version = "YtKeRtAg"
+
+[option]
+optional = true
+description = "TPS fixer mod"
+default = true

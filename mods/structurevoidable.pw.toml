@@ -1,0 +1,13 @@
+name = "Structure Voidable"
+filename = "structurevoidable-forge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3URi5PhQ/versions/OYhF4bvS/structurevoidable-forge-1.0.2.jar"
+hash-format = "sha512"
+hash = "c83acca4642b87303577059b4cb164d65b73c700781473fad1190dea6516a49a5071e20ade120b2dd5fa579b56e48f190bcf786933ab6d66221ae3bbf42cb880"
+
+[update]
+[update.modrinth]
+mod-id = "3URi5PhQ"
+version = "OYhF4bvS"

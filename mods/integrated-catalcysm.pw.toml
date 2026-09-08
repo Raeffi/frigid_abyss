@@ -1,6 +1,6 @@
 name = "Integrated Catalcysm"
 filename = "integrated_cataclysm_forge-1.0.5+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ONbfwGTw/versions/zHNPJAHW/integrated_cataclysm_forge-1.0.5%2B1.20.1.jar"

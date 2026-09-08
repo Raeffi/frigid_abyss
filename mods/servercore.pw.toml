@@ -11,3 +11,8 @@ hash = "650f54dcf6d44e26cbc180ca5779857574692f02ff2a55146ed085db1665dde7fb578c75
 [update.modrinth]
 mod-id = "4WWQxlQP"
 version = "rx1c7m6q"
+
+[option]
+optional = true
+description = "server optimization mod"
+default = true

@@ -1,6 +1,6 @@
 name = "Train Network Optimisations"
 filename = "trainnetworkoptimisations-1.0.1+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oeCO1sXl/versions/cCpepZtZ/trainnetworkoptimisations-1.0.1%2B1.20.1-forge.jar"

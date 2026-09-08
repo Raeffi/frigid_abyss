@@ -1,6 +1,6 @@
 name = "Create: Portal Integration"
 filename = "createportalintegration-forge-0.0.1+6.0+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2f4ngcAb/versions/KDuwHprL/createportalintegration-forge-0.0.1%2B6.0%2B1.20.1.jar"

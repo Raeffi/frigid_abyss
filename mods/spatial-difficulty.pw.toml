@@ -1,6 +1,6 @@
 name = "Spatial Difficulty"
 filename = "spatialdifficulty-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rpuJzZ7q/versions/vRlNvrnY/spatialdifficulty-1.0.0.jar"

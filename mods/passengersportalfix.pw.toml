@@ -1,6 +1,6 @@
 name = "Passengers Portal Fix"
 filename = "passengersportalfix-forge-0.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LI0BrUQA/versions/SKDIzGMy/passengersportalfix-forge-0.0.2.jar"

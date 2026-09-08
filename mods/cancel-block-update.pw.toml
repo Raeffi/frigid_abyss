@@ -1,0 +1,19 @@
+name = "Cancel Block Update"
+filename = "CancelBlockUpdate-1.20.1-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nQM9AEMV/versions/4elH0hcx/CancelBlockUpdate-1.20.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "dc33d7125bb71f510e57636d606df16d9e063ad05851155bcb2e9bd21d9e58e60ae0ec268382652bbbeef9dd917e73a851442d4c845e25e630d7cbdcf0062aa0"
+
+[update]
+[update.modrinth]
+mod-id = "nQM9AEMV"
+version = "4elH0hcx"
+
+
+[option]
+optional = true
+description = "for developers to build"
+default = false

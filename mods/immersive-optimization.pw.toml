@@ -11,3 +11,8 @@ hash = "0976d8dfe345c16a7eeae82cbd769eab3fdd3a8af9703c7d0adf8cef1b1f4d5841ab92cd
 [update.modrinth]
 mod-id = "vNZgQmjg"
 version = "BPO2tF0b"
+
+[option]
+optional = true
+description = "optimization mod"
+default = true

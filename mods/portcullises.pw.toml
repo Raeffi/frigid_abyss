@@ -1,0 +1,13 @@
+name = "Portcullises"
+filename = "portcullises-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C8yA8Ioj/versions/syuob8K0/portcullises-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f4a33f2eca862c43577e275da3fbac247c30ce74e2a5dd666cf000b9e445ab1a003c435982e04deee1beaa295c817d2a5eae1b44e4cdaff20b910d1e20c988e8"
+
+[update]
+[update.modrinth]
+mod-id = "C8yA8Ioj"
+version = "syuob8K0"

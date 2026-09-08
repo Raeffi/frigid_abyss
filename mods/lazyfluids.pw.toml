@@ -11,3 +11,8 @@ hash = "711ad8d911d42d8b1bac0d184f6e4239b2a2fed76c44f0d1a94d6c3e726549884e858475
 [update.modrinth]
 mod-id = "G3rX30v6"
 version = "FGUnphFL"
+
+[option]
+optional = true
+description = "fluid optimization mod"
+default = true

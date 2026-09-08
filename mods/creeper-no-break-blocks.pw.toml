@@ -1,6 +1,6 @@
 name = "Creeper no Break Blocks"
 filename = "nocreeperexplosion-1.20.x-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ptis34fZ/versions/CORIhwsW/nocreeperexplosion-1.20.x-1.0.1.jar"

@@ -11,3 +11,8 @@ hash = "c3ff4a09e7f99dd2bd33a8d8d48d82f9c5c82b16"
 [update.modrinth]
 mod-id = "H9LzoDgA"
 version = "tLNxDvhN"
+
+[option]
+optional = true
+description = "server optimization mod"
+default = true

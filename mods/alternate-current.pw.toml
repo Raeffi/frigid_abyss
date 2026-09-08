@@ -11,3 +11,8 @@ hash = "d9ae21a3a389c63466bf22b36d4a78c859f30c901397622f1f1438737901a2c67e4d911c
 [update.modrinth]
 mod-id = "r0v8vy1s"
 version = "kC6SY4Zp"
+
+[option]
+optional = true
+description = "redstone optimization mod"
+default = true

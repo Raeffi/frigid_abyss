@@ -1,6 +1,6 @@
 name = "WITS (What Is This Structure?)"
 filename = "wits-1.1.0+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVo2esap/versions/KdWVlCUM/wits-1.1.0%2B1.20.1-forge.jar"
@@ -11,3 +11,8 @@ hash = "1054ed2244881af7b3dac63ea60eafda7dc142e6058af5ac0448a5288f4cec96e02d5941
 [update.modrinth]
 mod-id = "AVo2esap"
 version = "KdWVlCUM"
+
+[option]
+optional = true
+description = "for developers to see what structure is being generated in the world"
+default = true

@@ -1,0 +1,13 @@
+name = "Night Config Fixes"
+filename = "NightConfigFixes-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HgALhmVM/versions/w9KFDZkY/NightConfigFixes-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "fb643fb9ee00dea24159a70227148ca20d87fda2cd254614b78dcb270b53f645b68a57aa9fc6261219324c8fb3c91ced893133f44dad3b28bb81eb1bbf93b380"
+
+[update]
+[update.modrinth]
+mod-id = "HgALhmVM"
+version = "w9KFDZkY"

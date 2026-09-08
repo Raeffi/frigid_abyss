@@ -1,6 +1,6 @@
 name = "Cerulean"
 filename = "cerulean-forge-1.0.0-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dv57xmf9/versions/znxRjAmZ/cerulean-forge-1.0.0-1.20.1.jar"

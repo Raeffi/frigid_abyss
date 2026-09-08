@@ -1,6 +1,6 @@
 name = "Blue Skies No Nerf"
 filename = "blue_skies_no_nerf-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZL4BKBZt/versions/F8y3aFfg/blue_skies_no_nerf-1.0.0.jar"
