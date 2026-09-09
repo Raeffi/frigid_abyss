@@ -6520,7 +6520,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc2h.pw.toml"
-hash = "5e7803ff31b2fb435ce333550762dbede88d8e5a83e3154e3bd629e82d0c5ab4"
+hash = "09c03ec06aed126456b7e3792c0b63ee79933b74067e11ae26157658eba7ab2e"
 hash-format = "sha256"
 metafile = true
 
@@ -7007,7 +7007,7 @@ metafile = true
 
 [[files]]
 file = "mods/quantified-api.pw.toml"
-hash = "2df8176aa2f37e3ebe78655ea48cd11f257e5037672476e82b6c34484bdf9e91"
+hash = "95cfc350243d275a9161c4287b7d59136ea29664c41806afedef629cd5678db6"
 hash-format = "sha256"
 metafile = true
 
@@ -7441,7 +7441,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "4bbbbbd2b51e936bf0ee08afd25cc5c2b8d4a0811eaac20170527e76f887f3ee"
+hash = "6422bcea2d9ad2dcfa3f292d17416594cfaaac4ebd57045e8642c82f0ca97a4d"
 hash-format = "sha256"
 metafile = true
 
