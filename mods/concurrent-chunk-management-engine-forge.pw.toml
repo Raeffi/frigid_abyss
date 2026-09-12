@@ -1,6 +1,6 @@
 name = "Concurrent Chunk Management Engine - Forge"
 filename = "c2meforge-0.2.0-forge.9.1-all.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,9 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8821786
 project-id = 1610389
+
+[option]
+optional = true
+description = "Dserver performance mod"
+default = true
+
