@@ -5300,7 +5300,7 @@ metafile = true
 
 [[files]]
 file = "mods/collection-of-fixes.pw.toml"
-hash = "6085bf5c49550a1dba3c75c29a85f033057fe2af9afefceb952468ab1d8616ff"
+hash = "03c1facfb5acc28acddbba7dc70bae4a983dad60c0a94e28ad8c87800eb3f673"
 hash-format = "sha256"
 metafile = true
 
