@@ -126,6 +126,11 @@ hash = "581e90b7844815e17aaca7054eb84ba12e3a84400ab7ccbe73a974838c066645"
 hash-format = "sha256"
 
 [[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "4f31b28bafd9604ed32a540ba9dfd210e66ca2d47c3d305c587e63b83c928664"
+hash-format = "sha256"
+
+[[files]]
 file = "config/creatingspace-common.toml"
 hash = "e43a9b9fdf0555c7fa0cfa5da40b1dd25a8fd013e3132f60263edf5eb0de47e5"
 hash-format = "sha256"
