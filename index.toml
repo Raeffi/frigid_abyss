@@ -141,6 +141,16 @@ hash = "e7002a6ab9871d8bb8c7147934d51bc3b17c72498c0b0e3959578373b0bc058e"
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "996462fd24c25d73773f98654dde1ee268a3694c01e6f5dba811eef096a9afe9"
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "cb5651ac96b0c4fe8904780b534ecb6affc7c1a1223171e87c495dc2b169488c"
+hash-format = "sha256"
+
+[[files]]
 file = "config/dynamicwaters-common.toml"
 hash = "020af34d3fadf499480a56be672a45fae25b7ab7ad011acbaa521c2faa202fd6"
 hash-format = "sha256"
@@ -5336,7 +5346,7 @@ metafile = true
 
 [[files]]
 file = "mods/concurrent-chunk-management-engine-forge.pw.toml"
-hash = "233d46f4d50ae5a8fd714ac88a5fb5a76f9dbb6873f4df13fd790cc7554bce54"
+hash = "2b7f62538a73e9307c57b570939425ed5b5ec4770a67911345501fb749d1e2f2"
 hash-format = "sha256"
 metafile = true
 
@@ -5768,6 +5778,12 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "97da81059641c591fc7ca85f19d2f401fdf6726b93a44d9cfc80668c16619e16"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
 hash-format = "sha256"
 metafile = true
 
@@ -6520,7 +6536,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc2h.pw.toml"
-hash = "09c03ec06aed126456b7e3792c0b63ee79933b74067e11ae26157658eba7ab2e"
+hash = "25c4e0fee4d42280da3aca8224a6ec0411058fb1a2a44c106d8cc6ccdee7695d"
 hash-format = "sha256"
 metafile = true
 
@@ -7850,7 +7866,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3f42c94c95e7f30288ccdeaed6f3bd7dbac2102da48013f6742a51a5f4c7bfd3"
+hash = "dfa6acea4b7e78c375fb6fe717ad462b02a295a42ddb330fdd8dad5e318848fb"
 hash-format = "sha256"
 preserve = true
 

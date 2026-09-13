@@ -1,6 +1,6 @@
 name = "LC²H [Lost Cities: Multithreaded]"
 filename = "lc2h-4.1.2-RELEASE.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8785174
 project-id = 1325431
+
+[option]
+optional = true
+description = "server performance mod"
+default = true

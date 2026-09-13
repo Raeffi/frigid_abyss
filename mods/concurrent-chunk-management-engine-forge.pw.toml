@@ -14,6 +14,6 @@ project-id = 1610389
 
 [option]
 optional = true
-description = "Dserver performance mod"
+description = "server performance mod"
 default = true
 
