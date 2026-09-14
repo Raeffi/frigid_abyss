@@ -1,0 +1,13 @@
+name = "Tom's Create Storage"
+filename = "Create+Simple+Storage+2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGCng9FL/versions/xZXjTODa/Create%2BSimple%2BStorage%2B2.1.zip"
+hash-format = "sha512"
+hash = "ccce0d62f9cde695c8529cc80d7ffa1ce414fa735aaf39c9650135a5a58508a8e2657ad60264ac9889189efef53dabeed6839cf7169b5f7ad886829d9da73d6a"
+
+[update]
+[update.modrinth]
+mod-id = "xGCng9FL"
+version = "xZXjTODa"
