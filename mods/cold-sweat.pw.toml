@@ -1,13 +1,13 @@
 name = "Cold Sweat"
-filename = "ColdSweat-2.4.1.jar"
+filename = "ColdSweat-2.4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/tuOTAf8L/ColdSweat-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/RVaTeFux/ColdSweat-2.4.3.jar"
 hash-format = "sha512"
-hash = "743b69e61f4086dae1c02a68161385b20931b58939de48d89dc84b86dc28238220e26cc2bf3f83a02712e50c053e5152c16c807d7ef7dc36fccad42b8594dac0"
+hash = "e7dd98ae5534a0a808ec32bd177131e65491ac537f25be9255d5fa8ceb6a2732f080f427901476f82baa95c59ecc9dfb7b96103f3be8235ff59a0dc658ff3cb6"
 
 [update]
 [update.modrinth]
 mod-id = "uXhSmPjd"
-version = "tuOTAf8L"
+version = "RVaTeFux"

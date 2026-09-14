@@ -5444,7 +5444,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "8952d4fc98c12aa14523e86c0b7d8af19f8dd3a526d5e7f2f7395af30ef375f7"
+hash = "5aceadc391181cdc314a15bed17f15d3895a40b531d96bd2a3f2da7d6f2db921"
 hash-format = "sha256"
 metafile = true
 
