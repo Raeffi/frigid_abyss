@@ -16,7 +16,7 @@
 	#Show a tooltip or message if a calendar item cannot be placed in the current location.
 	CalendarItemHint = false
 	#Adjust daylight duration based on the time of year (longer in Summer, shorter in Winter).
-	DynamicDaylightDuration = true
+	DynamicDaylightDuration = false
 	#List of dimension IDs where seasonal effects should be active.
 	ValidDimensions = ["minecraft:overworld"]
 	#Daylight length in Ticks for each of the 6 Solar Terms in Spring.

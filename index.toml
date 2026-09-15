@@ -162,7 +162,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/eclipticseasons-common.toml"
-hash = "ffbed3bb34f0f198fe01a733009c6cf68307b44df7316f5eb3ff16a870081583"
+hash = "6221f98ae2a4f2b2896088e5f30e3b14480ca3a477bdcf30bf47c56e48ee3f26"
 hash-format = "sha256"
 
 [[files]]
@@ -627,16 +627,6 @@ hash-format = "sha256"
 [[files]]
 file = "config/scorpions-common.toml"
 hash = "88e2b4054a7243403de0a951c4a24eb5e9345bcf408699a227e461af1bf8edbe"
-hash-format = "sha256"
-
-[[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
-hash-format = "sha256"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 hash-format = "sha256"
 
 [[files]]
@@ -7075,6 +7065,12 @@ metafile = true
 [[files]]
 file = "mods/passengersportalfix.pw.toml"
 hash = "8939dd21ebab0cf0b34c317d0d20f9821873ab7f6567e811a0512fbd369f955a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/pause-day-cycle.pw.toml"
+hash = "57412cc89b46f2a21b6178ea49049551b58ab45dc1d96f3541dd6e404cc645a5"
 hash-format = "sha256"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "Pause Day Cycle"
+filename = "pause-day-cycle-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8fDygXCb/versions/KQWm3NrZ/pause-day-cycle-1.1.1.jar"
+hash-format = "sha512"
+hash = "d1f4c6768bdd9811d4b1be8752f3321ffa53c351ce31cb6ec126b27200838a8d6edf8faef69252b36277c3d1238775cf0f591eada7f3e2479cf3f251f7504091"
+
+[update]
+[update.modrinth]
+mod-id = "8fDygXCb"
+version = "KQWm3NrZ"
