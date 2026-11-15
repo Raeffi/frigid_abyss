@@ -1831,66 +1831,6 @@
 	#biomesoplenty:chest_boat mobGriefing
 	#Allowed Values: DEFAULT, TRUE, FALSE
 	"biomesoplenty:chest_boat" = "DEFAULT"
-	#pneumaticcraft:drone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:drone" = "DEFAULT"
-	#pneumaticcraft:logistics_drone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_drone" = "DEFAULT"
-	#pneumaticcraft:harvesting_drone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:harvesting_drone" = "DEFAULT"
-	#pneumaticcraft:guard_drone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:guard_drone" = "DEFAULT"
-	#pneumaticcraft:collector_drone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:collector_drone" = "DEFAULT"
-	#pneumaticcraft:amadrone mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:amadrone" = "DEFAULT"
-	#pneumaticcraft:programmable_controller mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:programmable_controller" = "DEFAULT"
-	#pneumaticcraft:vortex mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:vortex" = "DEFAULT"
-	#pneumaticcraft:micromissile mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:micromissile" = "DEFAULT"
-	#pneumaticcraft:tumbling_block mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:tumbling_block" = "DEFAULT"
-	#pneumaticcraft:ring mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:ring" = "DEFAULT"
-	#pneumaticcraft:crop_support mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:crop_support" = "DEFAULT"
-	#pneumaticcraft:spawner_agitator mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:spawner_agitator" = "DEFAULT"
-	#pneumaticcraft:heat_frame mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:heat_frame" = "DEFAULT"
-	#pneumaticcraft:transfer_gadget mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:transfer_gadget" = "DEFAULT"
-	#pneumaticcraft:logistics_frame_active_provider mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_frame_active_provider" = "DEFAULT"
-	#pneumaticcraft:logistics_frame_passive_provider mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_frame_passive_provider" = "DEFAULT"
-	#pneumaticcraft:logistics_frame_storage mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_frame_storage" = "DEFAULT"
-	#pneumaticcraft:logistics_frame_default_storage mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_frame_default_storage" = "DEFAULT"
-	#pneumaticcraft:logistics_frame_requester mobGriefing
-	#Allowed Values: DEFAULT, TRUE, FALSE
-	"pneumaticcraft:logistics_frame_requester" = "DEFAULT"
 	#immersivepetroleum:speedboat mobGriefing
 	#Allowed Values: DEFAULT, TRUE, FALSE
 	"immersivepetroleum:speedboat" = "DEFAULT"

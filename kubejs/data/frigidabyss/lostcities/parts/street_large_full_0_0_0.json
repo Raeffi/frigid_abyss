@@ -1,0 +1,146 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "c",
+        "block": "immersivepetroleum:asphalt"
+      },
+      {
+        "char": "f",
+        "block": "trafficcraft:road_gully[facing\u003dsouth,open\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "trafficcraft:road_gully[facing\u003dnorth,open\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:structure_void"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbbbbbbbbbbbbbb",
+      "baaaaaaaaaaaaaab",
+      "baaaaaaaaaaaaaab",
+      "baacccaaaaaafaab",
+      "baaaaaaaaaaaaaab",
+      "baaaaaaaaaaaaaab",
+      "baaaaaaaaaaaaaab",
+      "baaaaaaaaaaaaaab",
+      "baaaaccaaaaaaaab",
+      "baaaaccaacaaaaab",
+      "baaaaccaacaaaaab",
+      "baaaaaaaaaaaacab",
+      "baaeaaaaaaaaacab",
+      "baaaaaaaaaaaaaab",
+      "baaaaaaaaaaaaaab",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               d"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               d"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               d"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               d"
+    ],
+    [
+      "d               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               d"
+    ]
+  ]
+}

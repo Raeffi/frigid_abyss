@@ -1,0 +1,13 @@
+name = "Memory Usage Title"
+filename = "memoryusagetitle-forge-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YvaL4yx6/versions/WVEHqjv5/memoryusagetitle-forge-1.0.1.jar"
+hash-format = "sha512"
+hash = "f81d2a17142028544a4ebafef6611de4e343e123d7936fb309bc0eb7e5b4451ee6802440d2d819454e92affb15bdb2296e537a224cffb95e5f2f52734caf853a"
+
+[update]
+[update.modrinth]
+mod-id = "YvaL4yx6"
+version = "WVEHqjv5"

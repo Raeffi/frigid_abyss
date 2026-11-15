@@ -1,0 +1,216 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "d",
+        "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+      },
+      {
+        "char": "H",
+        "block": "trafficcraft:asphalt_pattern_28[facing\u003deast]",
+        "tag": {
+          "z": -478,
+          "x": -217,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "e",
+        "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "trafficcraft:asphalt_pattern_28[facing\u003dwest]",
+        "tag": {
+          "z": -467,
+          "x": -210,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "L",
+        "block": "create:polished_cut_tuff_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "f",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "K",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "trafficcraft:street_lamp[facing\u003dsouth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -480,
+          "x": -209,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 69,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "P",
+        "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -465,
+          "x": -224,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 69,
+          "TrackedData": {}
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbbbbbbbbbbbbbb",
+      "bbddddddddddddbb",
+      "bHHHHHHHHHHHHHHb",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "eeeeeeeeeeeeeeee",
+      "cccccccccccccccc",
+      "cccccccccccccccc",
+      "dddddddddddddddd",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "bttttttttttttttb",
+      "bbeeeeeeeeeeeebb",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "L              L",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fffffffJffJffJfJ",
+      "ffffJffffJffJfff",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "L              L"
+    ],
+    [
+      "K              K",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "K              K"
+    ],
+    [
+      "I              I",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "I              I"
+    ],
+    [
+      "I              I",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "I              I"
+    ],
+    [
+      "O              O",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "P              P"
+    ]
+  ]
+}

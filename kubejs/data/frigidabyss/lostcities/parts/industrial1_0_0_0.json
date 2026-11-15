@@ -1,0 +1,396 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "D",
+        "block": "chipped:weathered_mossy_cobblestone"
+      },
+      {
+        "char": "A",
+        "block": "immersiveengineering:clinker_brick_quoin[facing\u003dwest]"
+      },
+      {
+        "char": "B",
+        "block": "immersiveengineering:clinker_brick_quoin[facing\u003dnorth]"
+      },
+      {
+        "char": "y",
+        "block": "malisisdoorsreborn:dark_garage_door[facing\u003dnorth,open\u003dtrue,powered\u003dfalse,top\u003dfalse]",
+        "tag": {
+          "Progress": "0.0f",
+          "z": -623,
+          "x": 76,
+          "GarageNeighbourSignalInitialised": "1b",
+          "Phase": 0,
+          "id": "malisisdoorsreborn:garage_door",
+          "LastGarageButtonSignal": "0b",
+          "ForgeCaps": {},
+          "GarageButtonSignalInitialised": "0b",
+          "y": 72,
+          "LastGarageNeighbourSignal": "0b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "S",
+        "block": "biomesoplenty:willow_vine[east\u003dtrue,north\u003dfalse,south\u003dfalse,up\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "immersiveengineering:clinker_brick"
+      },
+      {
+        "char": "Ά",
+        "block": "dustrial_decor:cardboard_box[facing\u003dnorth]"
+      },
+      {
+        "char": "͵",
+        "block": "createdeco:andesite_catwalk_stairs[facing\u003dnorth,railing_left\u003dtrue,railing_right\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "immersiveengineering:clinker_brick_quoin[facing\u003dsouth]"
+      },
+      {
+        "char": "R",
+        "block": "immersiveengineering:clinker_brick_quoin[facing\u003deast]"
+      },
+      {
+        "char": "ͻ",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "immersiveengineering:slab_concrete[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "immersiveengineering:stairs_concrete[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:stone_button[face\u003dwall,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:stone_button[face\u003dwall,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "V",
+        "block": "immersiveengineering:clinker_brick_sill"
+      },
+      {
+        "char": "΄",
+        "block": "createdeco:andesite_catwalk_railing[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Έ",
+        "block": "createdeco:andesite_catwalk_railing[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "8",
+        "block": "createdeco:andesite_catwalk_railing[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ͼ",
+        "block": "furnitureexpanded:cardbox[facing\u003deast,sealed\u003dfalse]",
+        "tag": {
+          "z": -617,
+          "x": 68,
+          "ForgeCaps": {},
+          "id": "furnitureexpanded:cardbox",
+          "y": 71,
+          "Items": [],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "Ϳ",
+        "block": "furnitureexpanded:cardbox[facing\u003dnorth,sealed\u003dfalse]",
+        "tag": {
+          "z": -617,
+          "x": 71,
+          "ForgeCaps": {},
+          "id": "furnitureexpanded:cardbox",
+          "y": 71,
+          "Items": [],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "ͳ",
+        "block": "chipped:spruce_crate[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -616,
+          "x": 69,
+          "ForgeCaps": {},
+          "id": "minecraft:barrel",
+          "y": 71,
+          "Items": [],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": ";",
+        "block": "mekanism:cardboard_box[storage\u003dfalse]",
+        "tag": {
+          "z": -617,
+          "x": 74,
+          "ForgeCaps": {},
+          "id": "mekanism:cardboard_box",
+          "y": 71,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "ͺ",
+        "block": "dustrial_decor:cardboard_box[facing\u003dwest]"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {
+              "id": "minecraft:zombie"
+            }
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": -616,
+          "x": 68,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 71,
+          "SpawnRange": "4s",
+          "TrackedData": {},
+          "Delay": "0s"
+        }
+      },
+      {
+        "char": "P",
+        "block": "malisisdoorsreborn:dark_garage_door[facing\u003dsouth,open\u003dtrue,powered\u003dfalse,top\u003dfalse]",
+        "tag": {
+          "Progress": "0.0f",
+          "z": -615,
+          "x": 75,
+          "GarageNeighbourSignalInitialised": "0b",
+          "Phase": 0,
+          "id": "malisisdoorsreborn:garage_door",
+          "LastGarageButtonSignal": "0b",
+          "ForgeCaps": {},
+          "GarageButtonSignalInitialised": "0b",
+          "y": 72,
+          "LastGarageNeighbourSignal": "0b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "ͽ",
+        "block": "immersivegeology:crate_rusty_metal",
+        "tag": {
+          "z": -614,
+          "x": 73,
+          "ForgeCaps": {},
+          "id": "immersivegeology:rusty_metal_crate_entity_type",
+          "y": 71,
+          "Items": [],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "z",
+        "block": "create:industrial_iron_window_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "·",
+        "block": "dustrial_decor:cardboard_box[facing\u003deast]"
+      },
+      {
+        "char": "Ή",
+        "block": "furnitureexpanded:cardbox[facing\u003dwest,sealed\u003dfalse]",
+        "tag": {
+          "z": -616,
+          "x": 77,
+          "ForgeCaps": {},
+          "id": "furnitureexpanded:cardbox",
+          "y": 72,
+          "Items": [],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "7",
+        "block": "malisisdoorsreborn:dark_garage_door[facing\u003dnorth,open\u003dtrue,powered\u003dfalse,top\u003dtrue]",
+        "tag": {
+          "Progress": "0.0f",
+          "z": -623,
+          "x": 74,
+          "GarageNeighbourSignalInitialised": "1b",
+          "Phase": 0,
+          "id": "malisisdoorsreborn:garage_door",
+          "LastGarageButtonSignal": "0b",
+          "ForgeCaps": {},
+          "GarageButtonSignalInitialised": "1b",
+          "y": 73,
+          "LastGarageNeighbourSignal": "0b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "1",
+        "block": "malisisdoorsreborn:dark_garage_door[facing\u003dsouth,open\u003dtrue,powered\u003dfalse,top\u003dtrue]",
+        "tag": {
+          "Progress": "0.0f",
+          "z": -615,
+          "x": 74,
+          "GarageNeighbourSignalInitialised": "1b",
+          "Phase": 0,
+          "id": "malisisdoorsreborn:garage_door",
+          "LastGarageButtonSignal": "0b",
+          "ForgeCaps": {},
+          "GarageButtonSignalInitialised": "1b",
+          "y": 73,
+          "LastGarageNeighbourSignal": "0b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "ͱ",
+        "block": "createdeco:yellow_industrial_iron_lamp[facing\u003ddown,inverted\u003dfalse,lit\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "΅",
+        "block": "createdeco:yellow_industrial_iron_lamp[facing\u003ddown,inverted\u003dtrue,lit\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ʹ",
+        "block": "engineersdecor:iron_ceiling_edge_light[facing\u003dnorth,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aDaaaaaaaaaaaaaa",
+      "aaDaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaDaaaaaaaaaaaaa",
+      "aaDaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaDaaaaaaaaaaaaa",
+      "aaaDaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aDaaDaaaaaDaaaaa",
+      "aaaDaaaaaDaDaaaa"
+    ],
+    [
+      "                ",
+      "   AByyyAByyyAB ",
+      "  Sb          b ",
+      "   b          b ",
+      "  Sb      Ά   b ",
+      "   b͵   aa   ͵b ",
+      "   baaaaaaaaaab ",
+      "   baaaaaaaaaab ",
+      "  Sbaaaaaaaaaab ",
+      "  SQbbbbbbbbbbR ",
+      "   ͻvvvvvvvvvͶ  ",
+      "    vvvvvvvvvͶ  ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        99      ",
+      "   AByyyAByyyAB ",
+      "  Sb    ͰͰ    b ",
+      "   V          V ",
+      "  SV          V ",
+      "  Sb    ΄Έ    b ",
+      "   V 8 8  8 8 V ",
+      "   Vͼ  Ϳͳ ;  ͺV ",
+      "  SbΊͳ       ͺb ",
+      "  SQRPPPQRPPPQR ",
+      "         ͽ      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "   AByyyAByyyAB ",
+      "   b          b ",
+      "   z          z ",
+      "   z          z ",
+      "   b          b ",
+      "   z          z ",
+      "   z          z ",
+      "  Sb·   99   Ήb ",
+      "   QRPPPQRPPPQR ",
+      "        ͰͰ      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "   AB777AB777AB ",
+      "   b          b ",
+      "   z          z ",
+      "   z          z ",
+      "   b          b ",
+      "   z          z ",
+      "   z          z ",
+      "   b          b ",
+      "   QR111QR111QR ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "   AbbbbbbbbbbB ",
+      "   b          b ",
+      "   b          b ",
+      "   b  ͱ    ΅  b ",
+      "   b          b ",
+      "   b  ͱ    ͱ  b ",
+      "   b          b ",
+      "   b          b ",
+      "   QbbbbbbbbbbR ",
+      "      ʹ    ʹ    ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

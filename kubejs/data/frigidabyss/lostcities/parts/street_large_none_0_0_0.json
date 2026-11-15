@@ -1,0 +1,342 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "c",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "D",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "I",
+        "block": "copycats:copycat_fence_gate[facing\u003dsouth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -445,
+          "x": -169,
+          "Item": {
+            "Count": "1b",
+            "id": "immersiveengineering:sheetmetal_steel"
+          },
+          "Material": {
+            "Name": "immersiveengineering:sheetmetal_steel"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 66,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "K",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "f",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "immersiveengineering:transformer_hv[facing\u003dwest,mirrored\u003dfalse,multiblockslave\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -438,
+          "x": -171,
+          "dummy": 0,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformerhv",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "P",
+        "block": "immersiveengineering:transformer[facing\u003dnorth,mirrored\u003dfalse,multiblockslave\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -443,
+          "x": -167,
+          "dummy": 0,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformer",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "O",
+        "block": "immersiveengineering:transformer[facing\u003dsouth,mirrored\u003dfalse,multiblockslave\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -443,
+          "x": -166,
+          "dummy": 0,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformer",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "h",
+        "block": "immersiveengineering:sheetmetal_steel"
+      },
+      {
+        "char": "J",
+        "block": "copycats:copycat_fence_gate[facing\u003dwest,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -441,
+          "x": -164,
+          "Item": {
+            "Count": "1b",
+            "id": "immersiveengineering:sheetmetal_steel"
+          },
+          "Material": {
+            "Name": "immersiveengineering:sheetmetal_steel"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 66,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "M",
+        "block": "copycats:copycat_fence_gate[facing\u003deast,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -440,
+          "x": -173,
+          "Item": {
+            "Count": "1b",
+            "id": "immersiveengineering:sheetmetal_steel"
+          },
+          "Material": {
+            "Name": "immersiveengineering:sheetmetal_steel"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 66,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "N",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "copycats:copycat_fence_gate[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -436,
+          "x": -168,
+          "Item": {
+            "Count": "1b",
+            "id": "immersiveengineering:sheetmetal_steel"
+          },
+          "Material": {
+            "Name": "immersiveengineering:sheetmetal_steel"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 66,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "z",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "r",
+        "block": "immersiveengineering:transformer_hv[facing\u003dwest,mirrored\u003dfalse,multiblockslave\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -438,
+          "x": -171,
+          "dummy": 2,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformerhv",
+          "y": 67,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "H",
+        "block": "immersiveengineering:transformer[facing\u003dnorth,mirrored\u003dfalse,multiblockslave\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -443,
+          "x": -167,
+          "dummy": 1,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformer",
+          "y": 66,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "y",
+        "block": "immersiveengineering:transformer[facing\u003dsouth,mirrored\u003dfalse,multiblockslave\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -443,
+          "x": -166,
+          "dummy": 2,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:transformer",
+          "y": 67,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "v",
+        "block": "immersiveengineering:current_transformer[facing\u003deast,multiblockslave\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -438,
+          "x": -166,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:energymeter_master",
+          "y": 67,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "o",
+        "block": "immersiveengineering:current_transformer[facing\u003deast,multiblockslave\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -438,
+          "x": -166,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:energymeter_dummy",
+          "y": 68,
+          "TrackedData": {}
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aadddddaadddddaa",
+      "aadbbbbbbbbbbdaa",
+      "aadbbbbbbbbbbdaa",
+      "aadbbbgggbbbbdaa",
+      "aadbbbgggggbbdaa",
+      "aaabbggggggbbaaa",
+      "aaabbgggbgbbbaaa",
+      "aadbbbggbgbbbdaa",
+      "aadbbbggbgbbbdaa",
+      "aadbbbbbbbbbbdaa",
+      "aadbbbbbbbbbbdaa",
+      "aadddddaadddddaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "                ",
+      "    c   c   c   ",
+      "  cicc  cci cc  ",
+      "   DeeeIeeeeKi  ",
+      "   f        f   ",
+      "  cf F   PO fi  ",
+      "  cf h      fc  ",
+      "   f        J   ",
+      "   M    h h f   ",
+      "  cf h  h h fi  ",
+      "  if F  h h f   ",
+      "  cf        fcc ",
+      " ccNeeeeCeeezc  ",
+      "  ciicc  icc i  ",
+      "            c   ",
+      "               p"
+    ],
+    [
+      "                ",
+      "                ",
+      "    c   c c     ",
+      "   DeeeIeeeeKc  ",
+      "   f        f   ",
+      "   f r   Hy fc  ",
+      "  cf h      f   ",
+      "   f        J   ",
+      "   M    h h f   ",
+      "   f h  h h fc  ",
+      "   f r  h h f   ",
+      "  cf        fc  ",
+      "   NeeeeCeeez   ",
+      "    c    c c    ",
+      "                ",
+      "               p"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     r   Hy     ",
+      "                ",
+      "                ",
+      "        v v     ",
+      "                ",
+      "     r  v v     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               p"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        o o     ",
+      "                ",
+      "        o o     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               p"
+    ]
+  ]
+}

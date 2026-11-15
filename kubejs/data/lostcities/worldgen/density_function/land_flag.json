@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:add",
+    "argument1": "lostcities:surface_height",
+    "argument2": -56.5
+  },
+  "min": -1.0,
+  "max": 1.0
+}

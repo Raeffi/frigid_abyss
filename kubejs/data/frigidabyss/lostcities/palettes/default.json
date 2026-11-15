@@ -39,6 +39,10 @@
       "block": "minecraft:structure_void"
     },
     {
+      "char": " ",
+      "block": "minecraft:air"
+    },
+    {
       "char": "B",
       "block": "minecraft:bricks",
       "damaged": "minecraft:iron_bars"
@@ -60,7 +64,7 @@
     },
     {
       "char": "_",
-      "block": "immersiveengineering:slab_concrete_tile[type=bottom]"
+      "block": "trafficcraft:asphalt_slope[layers=4,waterlogged=false]"
     },
     {
       "char": "=",

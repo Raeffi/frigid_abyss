@@ -8,34 +8,74 @@
     "street": "S",
     "streetbase": "b",
     "streetvariant": "B",
-    "parts":{
+    "largeparts": {
       "full":[
-        "frigidabyss:street_full"
+        "frigidabyss:street_large_full_0_0_0"
       ],
       "straight":[
-        "frigidabyss:street_straight1",
-        "frigidabyss:street_straight1",
-        "frigidabyss:street_straight1",
-        "frigidabyss:street_straight1",
-        "frigidabyss:street_straight2",
-        "frigidabyss:street_straight3"
+        "frigidabyss:street_large_straight1_0_0_0",
+        "frigidabyss:street_large_straight1_0_0_0",
+        "frigidabyss:street_large_straight1_0_0_0",
+        "frigidabyss:street_large_straight1_0_0_0",
+        "frigidabyss:street_large_straight1_0_0_0",
+        "frigidabyss:street_large_straight2_0_0_0",
+        "frigidabyss:street_large_straight2_0_0_0",
+        "frigidabyss:street_large_straight3_0_0_0"
       ],
       "end":[
-        "frigidabyss:street_end1",
-        "frigidabyss:street_end2",
-        "frigidabyss:street_end2"
+        "frigidabyss:street_large_end1_0_0_0",
+        "frigidabyss:street_large_end2_0_0_0"
       ],
       "bend":[
-        "frigidabyss:street_bend"
+        "frigidabyss:street_large_bend_0_0_0"
       ],
       "t":[
-        "frigidabyss:street_t"
+        "frigidabyss:street_large_t_0_0_0"
       ],
       "none":[
-        "frigidabyss:street_none"
+        "frigidabyss:street_large_none_0_0_0"
       ],
       "all":[
-        "frigidabyss:street_all"
+        "frigidabyss:street_large_all_0_0_0"
+      ],
+      "connector":[
+        "frigidabyss:street_large_connector_0_0_0"
+      ],
+      "stair":[
+        "frigidabyss:street_large_stair_0_0_0"
+      ]
+    },
+    "parts":{
+      "full":[
+        "frigidabyss:street_full_0_0_0"
+      ],
+      "straight":[
+        "frigidabyss:street_straight1_0_0_0",
+        "frigidabyss:street_straight1_0_0_0",
+        "frigidabyss:street_straight1_0_0_0",
+        "frigidabyss:street_straight1_0_0_0",
+        "frigidabyss:street_straight2_0_0_0",
+        "frigidabyss:street_straight3_0_0_0"
+      ],
+      "end":[
+        "frigidabyss:street_end1_0_0_0",
+        "frigidabyss:street_end2_0_0_0",
+        "frigidabyss:street_end2_0_0_0"
+      ],
+      "bend":[
+        "frigidabyss:street_bend_0_0_0"
+      ],
+      "t":[
+        "frigidabyss:street_t_0_0_0"
+      ],
+      "none":[
+        "frigidabyss:street_none_0_0_0"
+      ],
+      "all":[
+        "frigidabyss:street_all_0_0_0"
+      ],
+      "stair":[
+        "frigidabyss:street_stair_0_0_0"
       ]
     }
   },
@@ -47,7 +87,7 @@
     "glass": "+"
   },
   "railblocks": {
-    "railmain": "y"
+    "railmain": "~"
   },
   "sphereblocks": {
     "glass": "Z",
@@ -58,15 +98,15 @@
     "buildings": [
 		{
 			"factor": 1,
-			"value": "frigidabyss:residential_house_1"
+			"value": "frigidabyss:residential1"
 		},
 		{
 			"factor": 1,
-			"value": "frigidabyss:residential_house_1"
+			"value": "frigidabyss:residential1"
 		},
 		{
 			"factor": 1,
-			"value": "frigidabyss:residential_house_1"
+			"value": "frigidabyss:residential1"
 		}
     ],
     "multibuildings": [
@@ -102,7 +142,7 @@
     "parks": [
       {
         "factor": 0.0,
-        "value": "lostcities:park_pool"
+        "value": "frigidabyss:residential_park1_0_0_0"
       }
     ],
     "raildungeons": [

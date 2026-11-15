@@ -1,7 +1,0 @@
-name = "limitmyinventory"
-filename = "limitmyinventory-1.20.2-0.1.jar"
-
-[download]
-url = "https://www.dropbox.com/scl/fi/r019x64hhqffzqa8kysn5/limitmyinventory-1.20.2-0.1.jar?rlkey=c1h7pg77d8ypgyaam38x8jaci&st=edctfxsp&dl=1"
-hash-format = "sha256"
-hash = "519f83a21b003f04301055149b4cb8cc5f4fa24ce434c30db1a435df89a22cd5"

@@ -1,0 +1,384 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "P",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "b",
+        "block": "trafficcraft:concrete_slope[layers\u003d1,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "6",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "d",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "W",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "i",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "immersiveengineering:concrete"
+      },
+      {
+        "char": "U",
+        "block": "createdeco:andesite_catwalk_stairs[facing\u003dwest,railing_left\u003dtrue,railing_right\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "L",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "V",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "k",
+        "block": "createdeco:andesite_support[facing\u003dup,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "copycats:copycat_fence_gate[facing\u003dsouth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -520,
+          "x": -185,
+          "Item": {
+            "Count": "1b",
+            "id": "minecraft:air",
+            "tag": {
+              "CGModifier": "creategoggles:removel_modifier"
+            }
+          },
+          "Material": {
+            "Name": "create:copycat_base"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 71,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "F",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "v",
+        "block": "immersiveengineering:sheetmetal_steel"
+      },
+      {
+        "char": "5",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "Q",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "Y",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "0",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "O",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "T",
+        "block": "railways:white_hinged_locometal_door[facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse,windowed\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "industrialdeco:metal_fence_block_yellow[facing\u003dnorth,has_pole_base\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "z",
+        "block": "engineersdecor:steel_catwalk[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "dustrial_decor:rusty_sheet_metal_door[facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "R",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dlow,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "J",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "N",
+        "block": "immersiveengineering:coil_hv"
+      },
+      {
+        "char": "Z",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "X",
+        "block": "immersiveengineering:wall_slag_brick[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "u",
+        "block": "copycats:copycat_shaft[axis\u003dy,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -515,
+          "x": -190,
+          "Item": {
+            "Count": "1b",
+            "id": "minecraft:air",
+            "tag": {
+              "CGModifier": "creategoggles:removel_modifier"
+            }
+          },
+          "Material": {
+            "Name": "create:copycat_base"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat_shaft",
+          "Speed": "0.0f",
+          "y": 72,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "h",
+        "block": "minecraft:chain[axis\u003dx,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:chain[axis\u003dz,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "3",
+        "block": "railways:white_hinged_locometal_door[facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse,windowed\u003dfalse]"
+      },
+      {
+        "char": "1",
+        "block": "industrialdeco:wall_distribution_box[facing\u003dwest]"
+      },
+      {
+        "char": "2",
+        "block": "engineersdecor:sign_hotwire[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "4",
+        "block": "dustrial_decor:rusty_sheet_metal_door[facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "immersiveengineering:redstone_breaker[active\u003dtrue,facing\u003ddown,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -522,
+          "x": -182,
+          "inverted": "0b",
+          "rotation": 3,
+          "ForgeCaps": {},
+          "id": "immersiveengineering:redstonebreaker",
+          "y": 72,
+          "wires": 0,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "I",
+        "block": "immersiveengineering:connector_hv[facing\u003ddown,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -517,
+          "x": -183,
+          "toNet": {
+            "energy": 0
+          },
+          "toMachine": {
+            "energy": 0
+          },
+          "ForgeCaps": {},
+          "id": "immersiveengineering:hv_conn",
+          "y": 72,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "f",
+        "block": "immersiveengineering:slab_sheetmetal_steel[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "immersiveengineering:connector_hv_relay[facing\u003dup,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -517,
+          "x": -187,
+          "toNet": {
+            "energy": 0
+          },
+          "toMachine": {
+            "energy": 0
+          },
+          "ForgeCaps": {},
+          "id": "immersiveengineering:hv_relay",
+          "y": 73,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "g",
+        "block": "immersiveengineering:slab_sheetmetal_steel[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "createdeco:andesite_support[facing\u003dnorth,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "w               ",
+      "                ",
+      "  Pbb6dddWii    ",
+      "  ebbbbb cccc   ",
+      "  ebbbbbUcyyci  ",
+      "  Lbbbbb c  cii ",
+      "  ebbbbb cyyc i ",
+      "  e  i b cccc   ",
+      "  VddkdEdFbbL   ",
+      "  ebbbbbbbbbe   ",
+      "  ebbbbbbvvbe   ",
+      "  ebbbbbbvvbe   ",
+      "  ebbbbbbbbbe   ",
+      "  5ddkdddQddF   ",
+      "                ",
+      "               w"
+    ],
+    [
+      "                ",
+      "                ",
+      "  Y  0dddOi     ",
+      "  e      cccc   ",
+      "  e      TKKc   ",
+      "  M      czzci  ",
+      "  e      Svvc   ",
+      "  e      cccc   ",
+      "  RddkdEdJ  M   ",
+      "  e         e   ",
+      "  e      Nv e   ",
+      "  e      Nv e   ",
+      "  e         e   ",
+      "  ZddkdddXddJ   ",
+      "                ",
+      "               w"
+    ],
+    [
+      "                ",
+      "                ",
+      "  u  uhhhu      ",
+      "  j      cccc   ",
+      "  j      3 1c   ",
+      "  u     2c  c   ",
+      "  j      4GGci  ",
+      "  j      cccc   ",
+      "  u  khhhu  u   ",
+      "  j         j   ",
+      "  j      I  j   ",
+      "  j      I  j   ",
+      "  j         j   ",
+      "  uhhkhhhuhhu   ",
+      "                ",
+      "               w"
+    ],
+    [
+      "                ",
+      "                ",
+      "        ffffff  ",
+      "        fccccf  ",
+      "        fc  cf  ",
+      "        fc  cf  ",
+      "        fc  cfi ",
+      "        fccccf  ",
+      "     k  ffffff  ",
+      "                ",
+      "     C          ",
+      "     C          ",
+      "                ",
+      "     k          ",
+      "                ",
+      "               w"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "         gggg   ",
+      "         gggg   ",
+      "         ggggi  ",
+      "         gggg   ",
+      "         gggg   ",
+      "     k          ",
+      "     x          ",
+      "     x          ",
+      "     x          ",
+      "     x          ",
+      "     k          ",
+      "                ",
+      "               w"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               w"
+    ]
+  ]
+}

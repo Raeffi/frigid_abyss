@@ -37,12 +37,17 @@ ServerEvents.tick(event => {
   if (event.server.getTickCount() % 20 !== 0) return;
 
   //DISABLE SCRIPT
-  return;
+  //return;
 
   const level = event.server.getLevel(LOST_CITIES_DIM); // or get main level reference
   const players = event.server.getPlayerList().getPlayers();
 
   for (const player of players) {
+
+    if( player.getLevel().dimensionId != LOST_CITIES_DIM )
+    {
+      continue;
+    }
 
     let playerChunkX = Math.floor(player.getBlockX() / 16);
     let playerChunkZ = Math.floor(player.getBlockZ() / 16);

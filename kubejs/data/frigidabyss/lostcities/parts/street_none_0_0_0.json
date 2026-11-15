@@ -1,0 +1,307 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "chipped:brick_bordered_cobblestone"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {
+              "id": "minecraft:zombie"
+            }
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": -446,
+          "x": -94,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 64,
+          "SpawnRange": "4s",
+          "TrackedData": {},
+          "Delay": "0s"
+        }
+      },
+      {
+        "char": "e",
+        "block": "chipped:sanded_cobblestone"
+      },
+      {
+        "char": "a",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "u",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "copycats:copycat_fence_gate[facing\u003dsouth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -443,
+          "x": -90,
+          "Item": {
+            "Count": "1b",
+            "id": "immersiveengineering:sheetmetal_steel"
+          },
+          "Material": {
+            "Name": "immersiveengineering:sheetmetal_steel"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat",
+          "y": 66,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "h",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "x",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "f",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "railways:green_riveted_locometal"
+      },
+      {
+        "char": "l",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "dustrial_decor:chain_link_fence[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "dustrial_decor:chain_link_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "m",
+        "block": "railways:pine_green_locometal_vent"
+      },
+      {
+        "char": "z",
+        "block": "trafficcraft:traffic_light_controller[facing\u003dwest]",
+        "tag": {
+          "z": -440,
+          "powered": "0b",
+          "x": -89,
+          "LinkedTrafficLights": [],
+          "running": "1b",
+          "totalTicks": "0L",
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_light_controller_block_entity",
+          "y": 66,
+          "schedules": [],
+          "TrackedData": {},
+          "ticks": 0
+        }
+      },
+      {
+        "char": "A",
+        "block": "trafficcraft:traffic_light_controller[facing\u003deast]",
+        "tag": {
+          "z": -440,
+          "powered": "0b",
+          "x": -88,
+          "LinkedTrafficLights": [],
+          "running": "1b",
+          "totalTicks": "0L",
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_light_controller_block_entity",
+          "y": 66,
+          "schedules": [],
+          "TrackedData": {},
+          "ticks": 0
+        }
+      },
+      {
+        "char": "w",
+        "block": "trafficcraft:traffic_light_controller[facing\u003dnorth]",
+        "tag": {
+          "z": -439,
+          "powered": "0b",
+          "x": -88,
+          "LinkedTrafficLights": [],
+          "running": "1b",
+          "totalTicks": "0L",
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_light_controller_block_entity",
+          "y": 66,
+          "schedules": [],
+          "TrackedData": {},
+          "ticks": 0
+        }
+      },
+      {
+        "char": "j",
+        "block": "immersiveengineering:slab_sheetmetal_steel[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "drivebywire:controller_hub"
+      },
+      {
+        "char": "q",
+        "block": "trafficcraft:small_street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -439,
+          "x": -90,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 68,
+          "TrackedData": {}
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "dddddddddddddddd",
+      "dccccccbbccccccd",
+      "dcsccccbbccccccd",
+      "dccbbbbbbbbbbccd",
+      "dccbbbbbbbbbbccd",
+      "dccbbeeeeeebbccd",
+      "dccbbeeeeeebbccd",
+      "dbbbbeeeeeebbbbd",
+      "dbbbbeeeeeebbbbd",
+      "dccbbeeeeeebbccd",
+      "dccbbeeeeeebbccd",
+      "dccbbbbbbbbbbccd",
+      "dccbbbbbbbbbbccd",
+      "dccccccbbccccscd",
+      "dccccccbbccccccd",
+      "dddddddddddddddd"
+    ],
+    [
+      "    a           ",
+      "  a a a  aaa ag ",
+      " aagaga  agaaa  ",
+      " ga          a  ",
+      "aa            aa",
+      "  a  uohhhx  ga ",
+      " aa  f    f  a  ",
+      "     f ii f     ",
+      "     f ii f     ",
+      " aa  fliilf  aa ",
+      " ag  yhiiht  gaa",
+      " a           aa ",
+      "  g          g  ",
+      " ga aga   aaaaaa",
+      "  a aa   ag aaa ",
+      "               k"
+    ],
+    [
+      "                ",
+      "  aaaa  aaa aaa ",
+      " aaa  a   aaaaa ",
+      " aa          aa ",
+      " a           aaa",
+      " aa  uohhhx   a ",
+      "  a  f    f   a ",
+      "     f mm f     ",
+      "     f zA f     ",
+      " aa  flwwlf  a  ",
+      " a   yhmmht  aa ",
+      " aa          aa ",
+      "  a          a  ",
+      " aaaaa   aaa aa ",
+      " aaa aa    a a  ",
+      "               k"
+    ],
+    [
+      "                ",
+      "    aa  aa  a   ",
+      "  a   aa  a     ",
+      "              a ",
+      "              a ",
+      "  a             ",
+      " aa           a ",
+      "  a    jj       ",
+      "       Bj       ",
+      " a    ljjl      ",
+      "       jj    a  ",
+      "                ",
+      "  a          aa ",
+      "    a a aa    a ",
+      "      aa   a    ",
+      "               k"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " a              ",
+      " a    q  q      ",
+      "                ",
+      "                ",
+      "                ",
+      "      a         ",
+      "                ",
+      "               k"
+    ],
+    [
+      "k               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               k"
+    ]
+  ]
+}

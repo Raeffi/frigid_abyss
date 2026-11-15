@@ -29,7 +29,7 @@
       },
       {
         "char": "L",
-        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=lower,waterlogged=false]"
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=south,hinge=left,open=false,powered=false,third=lower,waterlogged=false]"
       },
       {
         "char": "E",
@@ -41,7 +41,7 @@
       },
       {
         "char": "O",
-        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=middle,waterlogged=false]"
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=south,hinge=left,open=false,powered=false,third=middle,waterlogged=false]"
       },
       {
         "char": "i",
@@ -61,7 +61,7 @@
       },
       {
         "char": "F",
-        "block": "dramaticdoors:tall_manyideas_spruce_origin_door[facing=south,hinge=left,open=false,powered=false,third=upper,waterlogged=false]"
+        "block": "dramaticdoors:tall_chipped_tile_windowed_spruce_door[facing=south,hinge=left,open=false,powered=false,third=upper,waterlogged=false]"
       },
       {
         "char": "K",

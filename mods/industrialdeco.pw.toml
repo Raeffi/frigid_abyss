@@ -1,0 +1,13 @@
+name = "IndustrialDeco (Street Lamps)"
+filename = "industrialdeco-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yP3WOSCW/versions/reXIcpcM/industrialdeco-1.2.0.jar"
+hash-format = "sha512"
+hash = "237d9c4f957e664c75b03d524c2b815f685525175f6e812f3a698e203ed2d1adab894f18ed6aa8e0e5c8c50e1fd21b2be62897d7b30a0e9991c2c208f9783ac1"
+
+[update]
+[update.modrinth]
+mod-id = "yP3WOSCW"
+version = "reXIcpcM"

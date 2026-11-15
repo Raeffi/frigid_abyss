@@ -12,7 +12,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -70,7 +70,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -85,7 +85,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -98,7 +98,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -112,7 +112,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp",
         A: "minecraft:amethyst_shard"
     })

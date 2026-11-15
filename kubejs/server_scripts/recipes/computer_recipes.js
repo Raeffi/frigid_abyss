@@ -47,7 +47,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -63,7 +63,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/steel",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic_adv",
-        P: "pneumaticcraft:module_expansion_card",
+        P: "minecraft:dirt",//"pneumaticcraft:module_expansion_card",
         L: "minecraft:redstone_lamp"
     })
 
@@ -90,7 +90,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/iron",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:redstone_lamp"
     })
 
@@ -105,7 +105,7 @@ ServerEvents.recipes(e => {
         S: "#forge:plates/steel",
         G: "#forge:glass_panes",
         E: "immersiveengineering:component_electronic_adv",
-        P: "pneumaticcraft:module_expansion_card",
+        P: "minecraft:dirt",//"pneumaticcraft:module_expansion_card",
         L: "minecraft:redstone_lamp"
     })
 
@@ -119,7 +119,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         L: "minecraft:ender_pearl",
         W: "create:redstone_link"
     })
@@ -134,7 +134,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/steel",
         E: "immersiveengineering:component_electronic_adv",
-        P: "pneumaticcraft:module_expansion_card",
+        P: "minecraft:dirt",//"pneumaticcraft:module_expansion_card",
         L: "minecraft:ender_eye",
         W: "create:redstone_link"
     })
@@ -203,7 +203,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         B: "create:belt_connector",
         R: "create:cogwheel"
     })
@@ -219,7 +219,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         B: "create:belt_connector",
         R: "create:cogwheel",
         M: "create_new_age:basic_motor"
@@ -234,7 +234,7 @@ ServerEvents.recipes(e => {
     ], {
         S: "#forge:plates/iron",
         E: "immersiveengineering:component_electronic",
-        P: "pneumaticcraft:printed_circuit_board",
+        P: "minecraft:dirt",//"pneumaticcraft:printed_circuit_board",
         C: "minecraft:cartography_table"
     })
 

@@ -12,7 +12,7 @@
         "char": "Ⓝ",
         "block": "minecraft:command_block[conditional=false,facing=north]",
         "tag": {
-          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door",
           "auto": 1,
           "conditionMet": 1
         }
@@ -21,7 +21,7 @@
         "char": "Ⓔ",
         "block": "minecraft:command_block[conditional=false,facing=east]",
         "tag": {
-          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door",
           "auto": 1,
           "conditionMet": 1
         }
@@ -30,7 +30,7 @@
         "char": "Ⓢ",
         "block": "minecraft:command_block[conditional=false,facing=south]",
         "tag": {
-          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door",
           "auto": 1,
           "conditionMet": 1
         }
@@ -39,7 +39,7 @@
         "char": "Ⓦ",
         "block": "minecraft:command_block[conditional=false,facing=west]",
         "tag": {
-          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_manyideas_spruce_origin_door",
+          "Command": "setdoor chipped:glass_spruce_door chipped:glass_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door dramaticdoors:tall_chipped_tile_windowed_spruce_door",
           "auto": 1,
           "conditionMet": 1
         }

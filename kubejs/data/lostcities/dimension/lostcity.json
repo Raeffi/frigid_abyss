@@ -1,0 +1,54 @@
+{
+  "type": "lostcities:lostcity",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "settings": "lostcities:lostcity",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "minecraft:warm_ocean",
+          "parameters": {
+            "temperature": [-2.0, 2.0], "humidity": [-2.0, 2.0],
+            "continentalness": [-2.0, 0.0], "erosion": [-2.0, 2.0],
+            "weirdness": [-2.0, 2.0], "depth": [-2.0, 2.0], "offset": 0.0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland",
+          "parameters": {
+            "temperature": [0.0, 2.0], "humidity": [-2.0, 0.0],
+            "continentalness": [0.0, 2.0], "erosion": [-2.0, 2.0],
+            "weirdness": [-2.0, 2.0], "depth": [-2.0, 2.0], "offset": 0.0
+          }
+        },
+        {
+          "biome": "biomesoplenty:wasteland_steppe",
+          "parameters": {
+            "temperature": [0.0, 2.0], "humidity": [0.0, 2.0],
+            "continentalness": [0.0, 2.0], "erosion": [-2.0, 2.0],
+            "weirdness": [-2.0, 2.0], "depth": [-2.0, 2.0], "offset": 0.0
+          }
+        },
+        {
+          "biome": "biomesoplenty:old_growth_dead_forest",
+          "parameters": {
+            "temperature": [-2.0, 0.0], "humidity": [0.0, 2.0],
+            "continentalness": [0.0, 2.0], "erosion": [-2.0, 2.0],
+            "weirdness": [-2.0, 2.0], "depth": [-2.0, 2.0], "offset": 0.0
+          }
+        },
+        {
+          "biome": "biomesoplenty:dead_forest",
+          "parameters": {
+            "temperature": [-2.0, 0.0], "humidity": [-2.0, 0.0],
+            "continentalness": [0.0, 2.0], "erosion": [-2.0, 2.0],
+            "weirdness": [-2.0, 2.0], "depth": [-2.0, 2.0], "offset": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "forge:use_server_seed": true
+}

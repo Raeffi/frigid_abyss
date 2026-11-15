@@ -1,0 +1,13 @@
+name = "Disable Elytra Boosting"
+filename = "disable_elytra_boosting-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oO0FrO2x/versions/Mxrcn34T/disable_elytra_boosting-1.0.0.jar"
+hash-format = "sha512"
+hash = "c1b81570ee976a3ea0998bcb34ca3f0f028a8870de4927aba6b6595dfcbd848efd82adf272ff50234a178e73990dfb90465a254ecbcad0ca9d79358acd26b3b4"
+
+[update]
+[update.modrinth]
+mod-id = "oO0FrO2x"
+version = "Mxrcn34T"

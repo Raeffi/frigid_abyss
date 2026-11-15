@@ -1,0 +1,322 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "a",
+        "block": "immersiveengineering:concrete"
+      },
+      {
+        "char": "n",
+        "block": "immersiveengineering:slab_concrete[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "chipped:stacked_sandstone_bricks"
+      },
+      {
+        "char": "e",
+        "block": "chipped:checkered_basalt_tiles"
+      },
+      {
+        "char": "L",
+        "block": "immersiveengineering:stairs_concrete[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "immersiveengineering:stairs_concrete[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "chipped:green_concrete_panel"
+      },
+      {
+        "char": "b",
+        "block": "chipped:smooth_green_concrete"
+      },
+      {
+        "char": "I",
+        "block": "create:andesite_door[facing\u003dnorth,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,visible\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -589,
+          "x": 71,
+          "ForgeCaps": {},
+          "id": "create:sliding_door",
+          "y": 71,
+          "ScrollValue": 0,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "O",
+        "block": "create:andesite_door[facing\u003dnorth,half\u003dlower,hinge\u003dright,open\u003dfalse,powered\u003dfalse,visible\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -589,
+          "x": 72,
+          "ForgeCaps": {},
+          "id": "create:sliding_door",
+          "y": 71,
+          "ScrollValue": 0,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "i",
+        "block": "quark:dark_oak_bookshelf"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {
+              "id": "minecraft:zombie"
+            }
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": -584,
+          "x": 70,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 71,
+          "SpawnRange": "4s",
+          "TrackedData": {},
+          "Delay": "0s"
+        }
+      },
+      {
+        "char": "p",
+        "block": "immersiveengineering:stairs_treated_wood_horizontal[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "zps:script_terminal[connected\u003dfalse,facing\u003dsouth,has_address_pad\u003dfalse,powered\u003dfalse]",
+        "tag": {
+          "WasPowered": "0b",
+          "z": -581,
+          "x": 74,
+          "Loop": "0b",
+          "id": "zps:script_terminal",
+          "ForgeCaps": {},
+          "AllCommands": "",
+          "y": 71,
+          "TrackedData": {},
+          "Terminals": [],
+          "Delay": 4
+        }
+      },
+      {
+        "char": "F",
+        "block": "railways:hinged_locometal_door[facing\u003dnorth,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse,windowed\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "immersiveengineering:metal_ladder_none[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "N",
+        "block": "create:andesite_door[facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,visible\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "create:andesite_door[facing\u003dnorth,half\u003dupper,hinge\u003dright,open\u003dfalse,powered\u003dfalse,visible\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "railways:hinged_locometal_door[facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse,windowed\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "chipped:vertical_stiped_white_stained_glass_pane[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "r",
+        "block": "immersiveengineering:metal_ladder_steel[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "industrialdeco:office_ceiling"
+      },
+      {
+        "char": "w",
+        "block": "zps:catwalk"
+      },
+      {
+        "char": "v",
+        "block": "railways:smokestack_diesel[enabled\u003dtrue,facing\u003ddown,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -583,
+          "x": 72,
+          "ForgeCaps": {},
+          "id": "railways:diesel_smokestack",
+          "y": 74,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "R",
+        "block": "railways:smokestack_diesel[enabled\u003dfalse,facing\u003ddown,powered\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -583,
+          "x": 71,
+          "ForgeCaps": {},
+          "id": "railways:diesel_smokestack",
+          "y": 74,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "H",
+        "block": "industrialdeco:ceiling_office_lamp"
+      },
+      {
+        "char": "M",
+        "block": "bellsandwhistles:headlight[face\u003dceiling,facing\u003dnorth]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cccccccccccccccc",
+      "cccccccccccccccc",
+      "cccccccccccccccc",
+      "ccaaaaaccaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "ccaaaaaaaaaaaacc",
+      "cccccccccccccccc"
+    ],
+    [
+      "     nnnnnn     ",
+      "     naaaan     ",
+      "     naaaan     ",
+      "  jjjjjaajjjjj  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jeeeeeeeeeej  ",
+      "  jjjjjjjjjjjj  ",
+      "   LaaK         "
+    ],
+    [
+      "                ",
+      "                ",
+      "      h  h      ",
+      "  bbbbbIObbbbb  ",
+      "  biiii  iiiib  ",
+      "  bi        ib  ",
+      "  bi        ib  ",
+      "  hi  i  i  ih  ",
+      "  bi  S  i  ib  ",
+      "  bi  i  i  ib  ",
+      "  hi        ih  ",
+      "  bi ppyppyppb  ",
+      "  bi         b  ",
+      "  bi iiiiiiiib  ",
+      "  bbFbhbbhbbbb  ",
+      "     A          "
+    ],
+    [
+      "                ",
+      "                ",
+      "      h  h      ",
+      "  ClllbNJblllz  ",
+      "  k   i  i   k  ",
+      "  k          k  ",
+      "  k          k  ",
+      "  hi  i  i  ih  ",
+      "  k   i  i   k  ",
+      "  k   i  i   k  ",
+      "  hi        ih  ",
+      "  k          k  ",
+      "  k          k  ",
+      "  k  iiiiiii k  ",
+      "  EbQbhbbhbbbD  ",
+      "     A          "
+    ],
+    [
+      "                ",
+      "                ",
+      "      h  h      ",
+      "  Clllbbbblllz  ",
+      "  k   i  i   k  ",
+      "  k          k  ",
+      "  k          k  ",
+      "  hi        ih  ",
+      "  k          k  ",
+      "  k          k  ",
+      "  hi        ih  ",
+      "  k          k  ",
+      "  k          k  ",
+      "  k  iiiiiii k  ",
+      "  EbbbhbbhbbbD  ",
+      "     r          "
+    ],
+    [
+      "                ",
+      "                ",
+      "      hhhh      ",
+      "  bbbbbbbbbbbb  ",
+      "  bffffffffffb  ",
+      "  bffffffffffb  ",
+      "  bffffffffffb  ",
+      "  hfffwffwfffh  ",
+      "  bffffvvffffb  ",
+      "  bffffRvffffb  ",
+      "  hfffwffHfffh  ",
+      "  bffffffffffb  ",
+      "  bffffffffffb  ",
+      "  bffffffffffb  ",
+      "  bbbbhbbhbbbb  ",
+      "    Mr          "
+    ]
+  ]
+}

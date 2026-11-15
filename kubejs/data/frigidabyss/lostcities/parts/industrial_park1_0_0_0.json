@@ -1,0 +1,318 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "c",
+        "block": "immersiveengineering:concrete"
+      },
+      {
+        "char": "a",
+        "block": "immersiveengineering:sheetmetal_aluminum"
+      },
+      {
+        "char": "b",
+        "block": "createdeco:andesite_support[facing\u003dup,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "engineersdecor:iron_ceiling_edge_light[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "engineersdecor:iron_ceiling_edge_light[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "engineersdecor:iron_ceiling_edge_light[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "engineersdecor:iron_ceiling_edge_light[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "chipped:hazard_white_concrete[facing\u003dnorth]"
+      },
+      {
+        "char": "h",
+        "block": "chipped:hazard_white_concrete[facing\u003dwest]"
+      },
+      {
+        "char": "e",
+        "block": "chipped:hazard_white_concrete[facing\u003deast]"
+      },
+      {
+        "char": "f",
+        "block": "chipped:hazard_white_concrete[facing\u003dsouth]"
+      },
+      {
+        "char": "i",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "               d",
+      "      c  c      ",
+      "    c      c    ",
+      "                ",
+      "  c          c  ",
+      "      aaaa      ",
+      " c   aaaaaa   c ",
+      "     aaaaaa     ",
+      "     aaaaaa     ",
+      " c   aaaaaa   c ",
+      "      aaaa      ",
+      "  c          c  ",
+      "                ",
+      "    c      c    ",
+      "      c  c      ",
+      "d               "
+    ],
+    [
+      "               d",
+      "      b  b      ",
+      "    b      b    ",
+      "      aaaa      ",
+      "  b  aaaaaa  b  ",
+      "    aa    aa    ",
+      " b aa      aa b ",
+      "   aa      aa   ",
+      "   aa      aa   ",
+      " b aa      aa b ",
+      "    aa    aa    ",
+      "  b  aaaaaa  b  ",
+      "      aaaa      ",
+      "    b      b    ",
+      "      b  b      ",
+      "                "
+    ],
+    [
+      "               d",
+      "      b  b      ",
+      "    b aaaa b    ",
+      "    aa    aa    ",
+      "  baa      aab  ",
+      "   a        a   ",
+      " ba          ab ",
+      "  a          a  ",
+      "  a          a  ",
+      " ba          ab ",
+      "   a        a   ",
+      "  baa      aab  ",
+      "    aa    aa    ",
+      "    b aaaa b    ",
+      "      b  b      ",
+      "                "
+    ],
+    [
+      "               d",
+      "      b  b      ",
+      "    baaaaaab    ",
+      "   aa      aa   ",
+      "  ba        ab  ",
+      "  a          a  ",
+      " ba          ab ",
+      "  a          a  ",
+      "  a          a  ",
+      " ba          ab ",
+      "  a          a  ",
+      "  ba        ab  ",
+      "   aa      aa   ",
+      "    baaaaaab    ",
+      "      b  b      ",
+      "                "
+    ],
+    [
+      "               d",
+      "      aaaa      ",
+      "    aa    aa    ",
+      "   a        a   ",
+      "  a          a  ",
+      "  a          a  ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      "  a          a  ",
+      "  a          a  ",
+      "   a        a   ",
+      "    aa    aa    ",
+      "      aaaa      ",
+      "                "
+    ],
+    [
+      "      j  j     d",
+      "     aaaaaa     ",
+      "   aa      aa   ",
+      "  a          a  ",
+      "  a          a  ",
+      " a            a ",
+      "ka            am",
+      " a            a ",
+      " a            a ",
+      "ka            am",
+      " a            a ",
+      "  a          a  ",
+      "  a          a  ",
+      "   aa      aa   ",
+      "     aaaaaa     ",
+      "      l  l      "
+    ],
+    [
+      "               d",
+      "     ggghgg     ",
+      "   gg      gg   ",
+      "  h          g  ",
+      "  h          e  ",
+      " h            e ",
+      " h            e ",
+      " f            e ",
+      " h            e ",
+      " f            e ",
+      " f            e ",
+      "  f          e  ",
+      "  f          e  ",
+      "   ff      ee   ",
+      "     ffefee     ",
+      "                "
+    ],
+    [
+      "               d",
+      "     aaaaaa     ",
+      "   aa      aa   ",
+      "  a          a  ",
+      "  a          a  ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      "  a          a  ",
+      "  a          a  ",
+      "   aa      aa   ",
+      "     aaaaaa     ",
+      "                "
+    ],
+    [
+      "               d",
+      "      aaaa      ",
+      "    aa    aa    ",
+      "   a        a   ",
+      "  a          a  ",
+      "  a          a  ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      " a            a ",
+      "  a          a  ",
+      "  a          a  ",
+      "   a        a   ",
+      "    aa    aa    ",
+      "      aaaa      ",
+      "                "
+    ],
+    [
+      "               d",
+      "                ",
+      "     aaaaaa     ",
+      "   aa      aa   ",
+      "   a        a   ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "   a        a   ",
+      "   aa      aa   ",
+      "     aaaaaa     ",
+      "                ",
+      "                "
+    ],
+    [
+      "               d",
+      "                ",
+      "      aaaa      ",
+      "    aa    aa    ",
+      "   aa      aa   ",
+      "   a        a   ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "  a          a  ",
+      "   a        a   ",
+      "   aa      aa   ",
+      "    aa    aa    ",
+      "      aaaa      ",
+      "                ",
+      "                "
+    ],
+    [
+      "               d",
+      "                ",
+      "                ",
+      "      aaaa      ",
+      "     aaaaaa     ",
+      "    aa    aa    ",
+      "   aa      aa   ",
+      "   aa      aa   ",
+      "   aa      aa   ",
+      "   aa      aa   ",
+      "    aa    aa    ",
+      "     aaaaaa     ",
+      "      aaaa      ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "               d",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      aaaa      ",
+      "     aaaaaa     ",
+      "     aaaaaa     ",
+      "     aaaaaa     ",
+      "     aaaaaa     ",
+      "      aaaa      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "               d",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      i  i      ",
+      "                ",
+      "                ",
+      "      i  i      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

@@ -23,23 +23,23 @@ ServerEvents.tags('block', e => {
 
     e.add('frigid_abyss:magmablocks', 'minecraft:magma_block')
     e.add('frigid_abyss:magmablocks', '#chipped:magma_block')
-    e.add('frigid_abyss:magmablocks', 'architects_palette:molten_nether_bricks')
+    // e.add('frigid_abyss:magmablocks', 'architects_palette:molten_nether_bricks')
 
     e.add('frigid_abyss:snow', 'minecraft:snow_block')
     e.add('frigid_abyss:snow', '#chipped:snow_block')
-    e.add('frigid_abyss:snow', 'architects_palette:coarse_snow')
+    // e.add('frigid_abyss:snow', 'architects_palette:coarse_snow')
 
     e.add('frigid_abyss:ice', '#minecraft:ice')
 
     e.add('frigid_abyss:packed_ice', 'minecraft:packed_ice')
     e.add('frigid_abyss:packed_ice', '#chipped:packed_ice')
-    e.add('frigid_abyss:packed_ice', 'architects_palette:chiseled_packed_ice' 				)
-    e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_wall' 		)
-    e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_stairs' 		)
-    e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_vertical_slab')
-    e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_slab' 		)
-    e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice' 				)
-    e.add('frigid_abyss:packed_ice', 'architects_palette:packed_ice_pillar' 				)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:chiseled_packed_ice' 				)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_wall' 		)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_stairs' 		)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_vertical_slab')
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice_slab' 		)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:polished_packed_ice' 				)
+    // e.add('frigid_abyss:packed_ice', 'architects_palette:packed_ice_pillar' 				)
 
     e.add('frigid_abyss:blue_ice', 'minecraft:blue_ice')
     e.add('frigid_abyss:blue_ice', '#chipped:blue_ice')

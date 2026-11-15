@@ -1,0 +1,13 @@
+name = "Loot Table Wand"
+filename = "loot_table_wand-1.20.1-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w7PmtjfQ/versions/RUBuMEVU/loot_table_wand-1.20.1-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "fae2180a4ac6a5070f507f1bc4ab2df56dcfa960fd1087b31146f81a1ec81ba7e26fe46b1bf97a085188891de5f54a6546a2c549aebe283793ddc450dc9cfa0d"
+
+[update]
+[update.modrinth]
+mod-id = "w7PmtjfQ"
+version = "RUBuMEVU"

@@ -1,0 +1,350 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "P",
+        "block": "trafficcraft:asphalt_pattern_27[facing\u003dnorth]",
+        "tag": {
+          "z": -464,
+          "x": -105,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "I",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003dwest]",
+        "tag": {
+          "z": -454,
+          "x": -110,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "S",
+        "block": "trafficcraft:asphalt_pattern_129[facing\u003dsouth]",
+        "tag": {
+          "z": -463,
+          "x": -105,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "B",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003dnorth]",
+        "tag": {
+          "z": -462,
+          "x": -107,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "t",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003dsouth]",
+        "tag": {
+          "z": -454,
+          "x": -111,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "k",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003deast]",
+        "tag": {
+          "z": -456,
+          "x": -110,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "V",
+        "block": "trafficcraft:asphalt_pattern_129[facing\u003dwest]",
+        "tag": {
+          "z": -457,
+          "x": -98,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "L",
+        "block": "trafficcraft:asphalt_pattern_27[facing\u003deast]",
+        "tag": {
+          "z": -457,
+          "x": -97,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "T",
+        "block": "trafficcraft:asphalt_pattern_27[facing\u003dwest]",
+        "tag": {
+          "z": -456,
+          "x": -112,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "R",
+        "block": "trafficcraft:asphalt_pattern_129[facing\u003deast]",
+        "tag": {
+          "z": -456,
+          "x": -111,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "K",
+        "block": "trafficcraft:asphalt_pattern_129[facing\u003dnorth]",
+        "tag": {
+          "z": -450,
+          "x": -104,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "M",
+        "block": "trafficcraft:asphalt_pattern_27[facing\u003dsouth]",
+        "tag": {
+          "z": -449,
+          "x": -104,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "l",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "trafficcraft:traffic_sign[facing\u003dnorth,shape\u003doctagon,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -463,
+          "x": -108,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "5eee9343-4f51-074d-0ca8-fb656a413ac9",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "W",
+        "block": "trafficcraft:traffic_sign[facing\u003deast,shape\u003doctagon,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -460,
+          "x": -98,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "5eee9343-4f51-074d-0ca8-fb656a413ac9",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "Q",
+        "block": "trafficcraft:traffic_sign[facing\u003dwest,shape\u003doctagon,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -453,
+          "x": -111,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "5eee9343-4f51-074d-0ca8-fb656a413ac9",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "N",
+        "block": "trafficcraft:traffic_sign[facing\u003dsouth,shape\u003doctagon,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -450,
+          "x": -101,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "5eee9343-4f51-074d-0ca8-fb656a413ac9",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "U",
+        "block": "minecraft:structure_void"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbJbaaPaaabJbbb",
+      "bbbbbIISaaabbbbb",
+      "bbbbbBBtBBBbbbbb",
+      "Jbbbaaaaaaaabbbb",
+      "bbbaaaaaaaaaabbb",
+      "aaIaaaaaaaaaakBa",
+      "aaIaaaaaaaaaakBa",
+      "aaIaaaaaaaaaaIVL",
+      "TRkaaaaaaaaaakaa",
+      "atIaaaaaaaaaakaa",
+      "atIaaaaaaaaaakaa",
+      "bbbaaaaaaaaaabbb",
+      "JbbbaaaaaaaabbbJ",
+      "bbbbbtttBttbbbbb",
+      "bbbbbaaaKkkbbbbb",
+      "bbbJbaaaMaabJbbb"
+    ],
+    [
+      "                ",
+      "    l           ",
+      "                ",
+      "                ",
+      "              l ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " l              ",
+      "                ",
+      "                ",
+      "           l    ",
+      "                "
+    ],
+    [
+      "                ",
+      "    l           ",
+      "                ",
+      "                ",
+      "              l ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " l              ",
+      "                ",
+      "                ",
+      "           l    ",
+      "                "
+    ],
+    [
+      "                ",
+      "    O           ",
+      "                ",
+      "                ",
+      "              W ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " Q              ",
+      "                ",
+      "                ",
+      "           N    ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               U"
+    ]
+  ]
+}

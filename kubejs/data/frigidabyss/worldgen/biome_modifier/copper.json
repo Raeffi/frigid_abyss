@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:add_features",
+  "biomes": "minecraft:plains",
+  "features": "frigidabyss:copper",
+  "step": "underground_ores"
+}

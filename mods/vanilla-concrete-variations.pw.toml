@@ -1,0 +1,13 @@
+name = "Vanilla concrete Variations"
+filename = "VcV-Vanilla_concrete_Variations-1.0-FORGE-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVBjEIrE/versions/Ql4WMZcQ/VcV-Vanilla_concrete_Variations-1.0-FORGE-1.20.1.jar"
+hash-format = "sha512"
+hash = "3ad3f71d4eab041a470b7aa1ed510167ebebca03757c5e3edfa0531550089abd0556e46470d905fa80a503ab6ab8e93f3fd6c3c78f22d0b46adf5ceda6ef5403"
+
+[update]
+[update.modrinth]
+mod-id = "TVBjEIrE"
+version = "Ql4WMZcQ"

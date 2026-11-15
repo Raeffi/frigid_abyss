@@ -10,10 +10,6 @@
     },
     {
       "random": 46,
-      "block": "pneumaticcraft:wall_lamp_inverted_white[facing=down,lit=true,waterlogged=false]"
-    },
-    {
-      "random": 46,
       "block": "bellsandwhistles:headlight[face=ceiling]"
     },
     {

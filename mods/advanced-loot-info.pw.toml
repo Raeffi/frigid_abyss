@@ -1,0 +1,13 @@
+name = "Advanced Loot Info (ALI)"
+filename = "AdvancedLootInfo-forge-1.20.1-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PEPVViac/versions/HV3K5Aus/AdvancedLootInfo-forge-1.20.1-2.5.0.jar"
+hash-format = "sha512"
+hash = "f48a2ec78ddc43a26a91d09ab40b6a90683d4e734b8cc5731a0b97ce95a800570f44c88b576ccf1c3f69da566c10427652a362d9e07c235ea15e164ac0d1a85d"
+
+[update]
+[update.modrinth]
+mod-id = "PEPVViac"
+version = "HV3K5Aus"

@@ -1,0 +1,397 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "b",
+        "block": "immersiveengineering:slab_treated_wood_horizontal[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "trafficcraft:concrete_slope[layers\u003d1,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:smooth_sandstone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "immersiveposts:postbase[hidden\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -514,
+          "x": -210,
+          "stack": {
+            "Count": "1b",
+            "id": "minecraft:air",
+            "tag": {
+              "CGModifier": "creategoggles:removel_modifier"
+            }
+          },
+          "facing": "north",
+          "ForgeCaps": {},
+          "id": "immersiveposts:postbase",
+          "y": 70,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "I",
+        "block": "immersiveengineering:chute_iron[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "diagonal": "1"
+        }
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:spruce_trapdoor[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "V",
+        "block": "minecraft:spruce_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "industrialdeco:pole_block[facing\u003dsouth]"
+      },
+      {
+        "char": "B",
+        "block": "railways:red_locometal_end_ladder[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "immersiveposts:woodpost[facing\u003dnorth,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003dpost,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "dustrial_decor:sheet_metal_trapdoor[facing\u003dwest,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "dustrial_decor:sheet_metal_trapdoor[facing\u003deast,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:chain[axis\u003dy,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "immersiveposts:woodpost[facing\u003dnorth,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003dpost_top,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "immersiveposts:woodpost[facing\u003deast,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003darm,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "immersiveposts:woodpost[facing\u003dwest,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003darm,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "R",
+        "block": "immersiveposts:woodpost[facing\u003dsouth,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003darm,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "immersiveposts:woodpost[facing\u003dnorth,flipstate\u003dup,parm_east\u003dfalse,parm_north\u003dfalse,parm_south\u003dfalse,parm_west\u003dfalse,type\u003darm,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "immersiveengineering:slab_treated_wood_horizontal[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "T",
+        "block": "immersiveengineering:stairs_treated_wood_horizontal[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "U",
+        "block": "immersiveengineering:stairs_treated_wood_horizontal[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "immersiveengineering:stairs_treated_wood_horizontal[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "immersiveengineering:stairs_treated_wood_horizontal[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "immersiveengineering:treated_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "immersiveengineering:treated_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "L",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "x",
+        "block": "copycats:copycat_shaft[axis\u003dz,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -517,
+          "x": -220,
+          "Item": {
+            "Count": "1b",
+            "id": "minecraft:air",
+            "tag": {
+              "CGModifier": "creategoggles:removel_modifier"
+            }
+          },
+          "Material": {
+            "Name": "create:copycat_base"
+          },
+          "ForgeCaps": {},
+          "id": "copycats:copycat_shaft",
+          "Speed": "0.0f",
+          "y": 74,
+          "EnableCT": "1b",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "Ͱ",
+        "block": "immersiveengineering:treated_fence[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "5",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "0",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "8",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "1",
+        "block": "immersiveengineering:treated_fence[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "9",
+        "block": "immersiveengineering:treated_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "D",
+        "block": "quark:black_shingles_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "quark:black_shingles_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "immersiveengineering:slab_treated_wood_horizontal[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "6",
+        "block": "industrialdeco:curved_pole[facing\u003dsouth]"
+      },
+      {
+        "char": "Z",
+        "block": "quark:black_shingles_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "7",
+        "block": "quark:black_shingles_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "X",
+        "block": "quark:black_shingles_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "quark:black_shingles_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "3",
+        "block": "quark:black_shingles"
+      },
+      {
+        "char": "Y",
+        "block": "quark:black_shingles_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "quark:black_shingles_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "W",
+        "block": "quark:black_shingles_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "4",
+        "block": "quark:black_shingles_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "2",
+        "block": "quark:black_shingles_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "h bbbbbbbb      ",
+      "  bcggcgcb      ",
+      "  bcgggggb ccc  ",
+      "  bgcgccgb ccc  ",
+      "  bbbbbbbb ccc  ",
+      "  r   r    ccc  ",
+      "            I   ",
+      "    Q           ",
+      "    V           ",
+      "                ",
+      "    Q     r   r ",
+      "    V           ",
+      "  r   r  z  B   ",
+      "                ",
+      "          r   r ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  f   f         ",
+      "           K J  ",
+      "    e       I   ",
+      "    e           ",
+      "                ",
+      "    e     f   f ",
+      "    e           ",
+      "  f   f  z  B   ",
+      "                ",
+      "          f   f ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  f   f         ",
+      "                ",
+      "    e      K J  ",
+      "    e       I   ",
+      "                ",
+      "    e     jC Ej ",
+      "    e     R   R ",
+      "  f   f  z  B   ",
+      "          S   S ",
+      "          jC Ej ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  jC Ej         ",
+      "                ",
+      "    e           ",
+      "    e      K J  ",
+      "            I   ",
+      "    e     ATbTA ",
+      "    e     UbbbN ",
+      "  jC Ej  zbbBbN ",
+      "          UbbbN ",
+      "          AOOOA ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   PyL          ",
+      "    x           ",
+      "    x           ",
+      "    x           ",
+      "    x      K J  ",
+      "    x     ͰL P5 ",
+      "    x     0   M ",
+      "   PyL   z    M ",
+      "          8   M ",
+      "          1yyy9 ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          DdddD ",
+      "          diiid ",
+      "         6diiid ",
+      "          diiid ",
+      "          DdddD ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           Z7X  ",
+      "           ͱ3Y  ",
+      "           ͲW4  ",
+      "                ",
+      "               h"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            2   ",
+      "                ",
+      "                ",
+      "               h"
+    ]
+  ]
+}

@@ -47,7 +47,7 @@
 		#Range: 1 ~ 32767
 		transfer_rate = 5
 		#If it starts with '#' it is a tag
-		valid_fuels = ["#car:gas_station", "pneumaticcraft:biodiesel", "pneumaticcraft:diesel", "pneumaticcraft:gasoline", "immersiveengineering:biodiesel", "tfmg:diesel", "tfmg:gasoline"]
+		valid_fuels = ["#car:gas_station", "immersiveengineering:biodiesel", "tfmg:diesel", "tfmg:gasoline"]
 
 	[machines.generator]
 		#Range: 1000 ~ 32767

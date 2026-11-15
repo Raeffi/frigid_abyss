@@ -12,9 +12,70 @@
   },
   "scattered": {
     "areasize": 8,
-    "chance": 0.02,
-    "weightnone": 30,
-    "list": []
+    "chance": 0.1,
+    "weightnone": 20,
+    "list": [
+      {
+        "name": "lostcities:radiotower",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lostcities:oilrig",
+        "weight": 1,
+        "maxheightdiff": 100,
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_deep_ocean"
+          ]
+        }
+      },
+      {
+        "name": "lostcities:cabin",
+        "weight": 10,
+        "maxheightdiff": 2,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lostcities:highway_gas_station",
+        "weight": 12,
+        "nearhighway": true,
+        "maxheightdiff": 12,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lostcities:highway_restaurant",
+        "weight": 9,
+        "nearhighway": true,
+        "maxheightdiff": 12,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      }
+    ]
   },
   "citybiomemultipliers": [
     {
@@ -36,29 +97,31 @@
   ],
   "citystyles": [
     {
-      "factor": 9.0,
+      "factor": 99999.0,
+      "citystyle": "frigidabyss:citystyle_industrial",
       "biomes": {
         "if_any": [
-          "biomesoplenty:rainforest"
+          "biomesoplenty:wasteland",
+          "biomesoplenty:wasteland_steppe"
         ]
-      },
-      "citystyle": "frigidabyss:citystyle_residential"
+      }
     },
     {
-      "factor": 9.0,
+      "factor": 99999.0,
+      "citystyle": "frigidabyss:citystyle_commercial",
       "biomes": {
         "if_any": [
-          "minecraft:desert",
-          "minecraft:badlands"
+          "biomesoplenty:dead_forest",
+          "biomesoplenty:old_growth_dead_forest"
         ]
-      },
-      "citystyle": "frigidabyss:citystyle_industrial"
+      }
     },
     {
-      "factor": 9.0,
-      "biomes": {},
-      "citystyle": "frigidabyss:citystyle_commercial"
+      "factor": 0.0,
+      "citystyle": "frigidabyss:citystyle_residential",
+      "biomes": {}
     }
+
   ],
   "parts":{
     "railways":{

@@ -1,0 +1,362 @@
+{  
+  "meta": [
+    {
+      "integer": 4,
+      "key": "z1"
+    },
+    {
+      "integer": 11,
+      "key": "z2"
+    }
+  ],
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "i",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "immersiveengineering:concrete_brick"
+      },
+      {
+        "char": "n",
+        "block": "immersiveengineering:concrete_brick_cracked"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:polished_andesite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "m",
+        "block": "trafficcraft:asphalt_slope[layers\u003d5,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "trafficcraft:asphalt_slope[layers\u003d3,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "q",
+        "block": "trafficcraft:asphalt_slope[layers\u003d1,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "create:andesite_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "h",
+        "block": "trafficcraft:asphalt_slope[layers\u003d4,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "create:andesite_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "u",
+        "block": "create:polished_cut_tuff_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "s",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:polished_andesite_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "trafficcraft:asphalt_curb_slope[facing\u003dsouth,layers\u003d7,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "trafficcraft:asphalt_slope[layers\u003d7,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "trafficcraft:asphalt_curb_slope[facing\u003dnorth,layers\u003d7,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "create:andesite_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "create:andesite_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "w",
+        "block": "create:andesite_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "trafficcraft:street_lamp[facing\u003dsouth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -446,
+          "x": -139,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 74,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "z",
+        "block": "create:andesite_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -435,
+          "x": -133,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 71,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "x",
+        "block": "create:andesite_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ddddddddddddddde",
+      "bbddddddddddddee",
+      "bbbbbbbbbbbbbbee",
+      "bbbbbbbbbbbbbbee",
+      "bbbbbbbbbbbbbbee",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbff",
+      "bbbbbbbbbbbbbbee",
+      "bbbbbbbbbbbbbbee",
+      "bbbbbbbbbbbbbbee",
+      "bbddddddddddddee",
+      "ddddddddddddddde"
+    ],
+    [
+      "     i          ",
+      "cc iiii i i     ",
+      "cccccccncccccg  ",
+      "aaaaaaaaaaaegg  ",
+      "aaaaaaaaaaaegg  ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaafmkq ",
+      "aaaaaaaaaaaegg  ",
+      "aaaaaaaaaaaegg  ",
+      "cccccccccccncg  ",
+      "cc i ii i i     ",
+      "      i         "
+    ],
+    [
+      "                ",
+      "cc   i          ",
+      "ccnccccccccnl   ",
+      "aaaaaaaaaeg     ",
+      "aaaaaaaaaeg     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaafh     ",
+      "aaaaaaaaaeg     ",
+      "aaaaaaaaaeg     ",
+      "ccccccncccccl   ",
+      "cci i           ",
+      "                "
+    ],
+    [
+      "                ",
+      "cc   i          ",
+      "ccccncccccjul   ",
+      "aaaaaaaeg       ",
+      "aaaaaaaeg       ",
+      "aaaaaaafh       ",
+      "aaaaaaafh       ",
+      "aaaaaaafh       ",
+      "aaaaaaafh       ",
+      "aaaaaaafh       ",
+      "aaaaaaafh       ",
+      "aaaaaaaeg       ",
+      "aaaaaaaeg       ",
+      "cncccccccnjul   ",
+      "cci             ",
+      "                "
+    ],
+    [
+      "                ",
+      "cc              ",
+      "cnccccccjjls    ",
+      "aaaaaeg         ",
+      "aaaaaeg         ",
+      "aaaaafh         ",
+      "aaaaafh         ",
+      "aaaaafh         ",
+      "aaaaafh         ",
+      "aaaaafh         ",
+      "aaaaafh         ",
+      "aaaaaeg         ",
+      "aaaaaeg         ",
+      "ccccccccjjls    ",
+      "cc              ",
+      "                "
+    ],
+    [
+      "                ",
+      "cc              ",
+      "ccccccjjl  o    ",
+      "aaaeg           ",
+      "aaaeg           ",
+      "aaafh           ",
+      "aaafh           ",
+      "aaafh           ",
+      "aaafh           ",
+      "aaafh           ",
+      "aaafh           ",
+      "aaaeg           ",
+      "aaaeg           ",
+      "cccnccjjl  o    ",
+      "cc              ",
+      "                "
+    ],
+    [
+      "ccc             ",
+      "eecc            ",
+      "eeecjul    o   p",
+      "dtg             ",
+      "dtg             ",
+      "Emk             ",
+      "rmk             ",
+      "rmk             ",
+      "rmk             ",
+      "rmk             ",
+      "Fmk             ",
+      "dtg             ",
+      "dtg             ",
+      "eeecjul    o    ",
+      "eecc            ",
+      "ccc             "
+    ],
+    [
+      "AjD             ",
+      "  wD            ",
+      "   wls     C    ",
+      "i               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "i               ",
+      "   zls     y    ",
+      "  zx            ",
+      "Ajx             "
+    ],
+    [
+      "                ",
+      "                ",
+      "p    o          ",
+      "i               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     o          ",
+      "                ",
+      "p               "
+    ],
+    [
+      "                ",
+      "                ",
+      "p    o          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     o          ",
+      "                ",
+      "p               "
+    ],
+    [
+      "                ",
+      "                ",
+      "p    C          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     y          ",
+      "                ",
+      "p               "
+    ]
+  ]
+}

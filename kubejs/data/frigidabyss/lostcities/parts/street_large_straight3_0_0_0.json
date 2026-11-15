@@ -1,0 +1,366 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "f",
+        "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+      },
+      {
+        "char": "e",
+        "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:rooted_dirt"
+      },
+      {
+        "char": "D",
+        "block": "car:asphalt"
+      },
+      {
+        "char": "A",
+        "block": "createbigcannons:cast_iron_cannon_barrel[facing\u003dwest]",
+        "tag": {
+          "z": -454,
+          "x": -200,
+          "Welds": [],
+          "ForgeCaps": {},
+          "id": "createbigcannons:cannon",
+          "y": 64,
+          "TrackedData": {},
+          "Facing": "west",
+          "Connections": [
+            "east"
+          ]
+        }
+      },
+      {
+        "char": "r",
+        "block": "decorative_blocks:rocky_dirt"
+      },
+      {
+        "char": "w",
+        "block": "createbigcannons:cast_iron_autocannon_barrel[assembled\u003dfalse,end\u003dnothing,facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "ContainedStack": {
+            "Count": "1b",
+            "id": "minecraft:air",
+            "tag": {
+              "Gun": {
+                "General": {
+                  "MaxAmmo": 2,
+                  "Rate": 8,
+                  "Spread": "3.0d"
+                },
+                "Modules": {
+                  "Attachments": {
+                    "Barrel": {}
+                  }
+                },
+                "Projectile": {
+                  "Damage": "9.0d"
+                }
+              },
+              "Model": {
+                "Count": 1,
+                "id": "create:brass_hand",
+                "tag": {
+                  "CustomModelData": 1
+                }
+              },
+              "display": {
+                "Name": "{\"text\":\"Caplock Pistol\",\"italic\":false}"
+              }
+            }
+          },
+          "z": -453,
+          "x": -200,
+          "Welds": [],
+          "ForgeCaps": {},
+          "id": "createbigcannons:autocannon",
+          "y": 64,
+          "TrackedData": {},
+          "Facing": "west",
+          "Connections": [
+            "east"
+          ]
+        }
+      },
+      {
+        "char": "q",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "p",
+        "block": "create:polished_cut_tuff_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "d",
+        "block": "biomesoplenty:dead_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "h",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "twigs:pebble[waterlogged\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "trafficcraft:traffic_bollard[waterlogged\u003dfalse]",
+        "tag": {
+          "z": -454,
+          "x": -207,
+          "color": -1,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "C",
+        "block": "engineersdecor:fluid_barrel[facing\u003dup,level\u003d0,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -454,
+          "x": -195,
+          "ForgeCaps": {},
+          "id": "engineersdecor:tet_fluid_barrel",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "E",
+        "block": "chipped:reinforced_oak_crate[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -453,
+          "x": -196,
+          "ForgeCaps": {},
+          "id": "minecraft:barrel",
+          "y": 65,
+          "Items": [
+            {
+              "Count": "1b",
+              "Slot": "0b",
+              "id": "immersiveengineering:shovel_steel",
+              "tag": {
+                "Damage": 0,
+                "Tiered": {
+                  "Tier": "tiered:standard_tools/common"
+                }
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "22b",
+              "id": "immersiveengineering:shovel_steel",
+              "tag": {
+                "Damage": 0,
+                "Tiered": {
+                  "Tier": "tiered:standard_tools/common"
+                }
+              }
+            }
+          ],
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "F",
+        "block": "trafficcraft:paint_bucket[facing\u003deast,paint\u003d1,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -452,
+          "x": -197,
+          "color": 15,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 65,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "o",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "trafficcraft:traffic_sign[facing\u003dwest,shape\u003dtriangle,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -455,
+          "x": -208,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "builtIn_3_25@32x32",
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "z",
+        "block": "trafficcraft:street_lamp[facing\u003dsouth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -463,
+          "x": -201,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 69,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "y",
+        "block": "trafficcraft:street_lamp[facing\u003dnorth,lit\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "turnOffTime": 0,
+          "turnOnTime": 0,
+          "z": -450,
+          "x": -201,
+          "ForgeCaps": {},
+          "id": "trafficcraft:street_lamp_block_entity",
+          "y": 69,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "v",
+        "block": "minecraft:structure_void"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbbbbbbbbbbbbbb",
+      "cccccccccccccccc",
+      "cccccccccccccccc",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "ffffffffffffffff",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "eeeeeeeeeeeeeeee",
+      "aaaaaiaDAA aaaaa",
+      "aaaaaairwwaaaaaa",
+      "aaaaaaraqaiaaaaa",
+      "cccccccccccccccc",
+      "cccccccccccccccc",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "                ",
+      "       p       p",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "ddgddddgdddgdgdg",
+      "dgdddggddgddgddd",
+      "h       j       ",
+      " n  q j    j C n",
+      "   qqi      E   ",
+      " n jir   j F   n",
+      "                ",
+      "       p       p",
+      "                "
+    ],
+    [
+      "                ",
+      "       o       o",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "h               ",
+      "                ",
+      "    r           ",
+      "                ",
+      "                ",
+      "       o       o",
+      "                "
+    ],
+    [
+      "                ",
+      "       h       h",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "B               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       h       h",
+      "                "
+    ],
+    [
+      "                ",
+      "       h       h",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       h       h",
+      "                "
+    ],
+    [
+      "                ",
+      "       z       z",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       y       y",
+      "v              v"
+    ]
+  ]
+}

@@ -1,7 +1,0 @@
-name = "sedna"
-filename = "sedna-2.0.9+f1747ad.jar"
-
-[download]
-url = "https://github.com/fnuecke/sedna/releases/download/2.0.9/sedna-2.0.9+f1747ad.jar"
-hash-format = "sha256"
-hash = "92f450c6c6454094abee33da0e013ffc6b4c57ec75d4d682addf976a4c28b6ce"

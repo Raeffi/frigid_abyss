@@ -1,0 +1,13 @@
+name = "Create: DDCL"
+filename = "ddcl-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LuGFrXWq/versions/qkGq1qwG/ddcl-1.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "a8e49d139d21cb582135fd493ae538ea93918662ec0432c5d26cf66956f3fe4e0d1f1c1d13a9a07d5e51b03f3933b41c98ca255c81d7fe8ba40db5198956d12d"
+
+[update]
+[update.modrinth]
+mod-id = "LuGFrXWq"
+version = "qkGq1qwG"

@@ -6,12 +6,16 @@
     },
     {
       "char": "b",
-      "block": "architects_palette:hazard_wall"
+      "block": "zps:riveted_space_plating_wall"
     }, 
     {
       "char": "c",
-      "block": "architects_palette:redstone_cage_lantern[facing=west,inverted=true,lit=true,waterlogged=false]"
+      "block": "ddcl:red_industrial_iron_dimmable_lamp[facing=down,light_level=10,waterlogged=false]"
     },
+    {
+      "char": "↯",
+      "block": "kubejs:electrical_box[facing=down,power=10,waterlogged=false]"
+    },    
     {
       "char": "d",
       "block": "createdeco:industrial_iron_support[waterlogged=false,facing=up]"
@@ -25,6 +29,15 @@
       "block": "minecraft:command_block[conditional=false,facing=up]",
       "tag": {
         "Command": "function frigidabyss:rails_down1",
+        "auto": 1,
+        "conditionMet": 1
+      }
+    },
+    {
+      "char": "∠",
+      "block": "minecraft:command_block[conditional=false,facing=up]",
+      "tag": {
+        "Command": "/place template frigidabyss:subway_entrance_compact ~ ~-6 ~",
         "auto": 1,
         "conditionMet": 1
       }
@@ -56,7 +69,7 @@
     },
     {
       "char": "l",
-      "block": "architects_palette:redstone_cage_lantern[facing=up,inverted=true,lit=true,waterlogged=false]"
+      "block": "ddcl:red_industrial_iron_dimmable_lamp[facing=down,light_level=10,waterlogged=false]"
     },
     {
       "char": "m",
@@ -80,7 +93,7 @@
       "tag":{
         "Connections": [],
         "AlternateModel": 1,
-        "TrackCasing": "architects_palette:plating_slab"
+        "TrackCasing": "immersivegeology:slab_rusty_metal"
       }
     },
     {
@@ -93,7 +106,7 @@
       "tag":{
         "Connections": [],
         "AlternateModel": 1,
-        "TrackCasing": "architects_palette:plating_slab"
+        "TrackCasing": "immersivegeology:slab_rusty_metal"
       }
     },  
     {
@@ -141,7 +154,7 @@
     },
     {
       "char": "C",
-      "block": "architects_palette:plating_slab[type=bottom,waterlogged=false]"
+      "block": "immersivegeology:slab_rusty_metal[type=bottom,waterlogged=false]"
     },
     {
       "char": "D",

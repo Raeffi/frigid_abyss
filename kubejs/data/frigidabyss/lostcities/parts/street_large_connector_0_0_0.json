@@ -1,0 +1,258 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ë",
+        "block": "minecraft:cave_air"
+      },
+      {
+        "char": "b",
+        "block": "chipped:weathered_stone"
+      },
+      {
+        "char": "a",
+        "block": "trafficcraft:asphalt"
+      },
+      {
+        "char": "K",
+        "block": "trafficcraft:asphalt_curb[facing\u003dsouth,shape\u003dstraight]"
+      },
+      {
+        "char": "D",
+        "block": "trafficcraft:asphalt_pattern_28[facing\u003dsouth]",
+        "tag": {
+          "z": -456,
+          "x": -233,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "v",
+        "block": "trafficcraft:asphalt_pattern_28[facing\u003dnorth]",
+        "tag": {
+          "z": -450,
+          "x": -232,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "L",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003dwest]",
+        "tag": {
+          "z": -454,
+          "x": -238,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "S",
+        "block": "trafficcraft:asphalt_pattern_27[facing\u003dwest]",
+        "tag": {
+          "z": -456,
+          "x": -240,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "Q",
+        "block": "trafficcraft:asphalt_pattern_129[facing\u003deast]",
+        "tag": {
+          "z": -456,
+          "x": -239,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "T",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003deast]",
+        "tag": {
+          "z": -456,
+          "x": -238,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "N",
+        "block": "trafficcraft:asphalt_pattern_108[facing\u003dsouth]",
+        "tag": {
+          "z": -454,
+          "x": -239,
+          "color": 0,
+          "ForgeCaps": {},
+          "id": "trafficcraft:colored_block_entity",
+          "y": 64,
+          "TrackedData": {}
+        }
+      },
+      {
+        "char": "O",
+        "block": "trafficcraft:asphalt_curb[facing\u003dnorth,shape\u003dstraight]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "P",
+        "block": "trafficcraft:traffic_sign_post[axis\u003dy,bottom_extension\u003dfalse,down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "R",
+        "block": "trafficcraft:traffic_sign[facing\u003dwest,shape\u003doctagon,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -453,
+          "x": -239,
+          "ForgeCaps": {},
+          "id": "trafficcraft:traffic_sign_block_entity",
+          "y": 67,
+          "SignTexture": "5eee9343-4f51-074d-0ca8-fb656a413ac9",
+          "TrackedData": {}
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbbaaaaKKa      ",
+      "bbbaaaaDva      ",
+      "bbbaaaaDva      ",
+      "LbbaaaaDva      ",
+      "bbbaaaaDva      ",
+      "aaIaaaaDva      ",
+      "aaIaaaaDva      ",
+      "aaIaaaaDva      ",
+      "SQTaaaaDva      ",
+      "aNIaaaaDva      ",
+      "aNIaaaaDva      ",
+      "bbbaaaaDva      ",
+      "LbbaaaaDva      ",
+      "bbbaaaaDva      ",
+      "bbbaaaaDva      ",
+      "bbbaaaaOOa      "
+    ],
+    [
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëPëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      "
+    ],
+    [
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëPëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      "
+    ],
+    [
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëRëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      "
+    ],
+    [
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      "
+    ],
+    [
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      ",
+      "ëëëëëëëëëë      "
+    ]
+  ]
+}

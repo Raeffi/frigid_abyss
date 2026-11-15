@@ -1,0 +1,13 @@
+name = "lc-helper"
+filename = "lc_helper-1.2.jar"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/i2hrtky6a3899n0qjkwxz/lc_helper-1.2.jar?rlkey=sd1l02q1cd0lj5dfzaaje0ehz&st=mse730zp&dl=1"
+hash-format = "sha256"
+hash = "87aec89913faa6ecbb52f3b5fecd912a9681d121856488f3098dbe18965052d2"
+
+[option]
+optional = true
+description = "lost cities building helper mod"
+default = true
